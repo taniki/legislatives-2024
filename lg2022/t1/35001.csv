@@ -1,0 +1,15 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,GAUMONT,Martin,M.,DIV,Divers,355,"   0,73","   0,38",non,03501,03501,35001
+2,SIEGWARD,Laurent,M.,REC,Reconquête !,1184,"   2,42","   1,27",non,03501,03501,35001
+3,BAJJOUJ,Khalid,M.,DIV,Divers,143,"   0,29","   0,15",non,03501,03501,35001
+4,LE MOING,Yannick,M.,ECO,Ecologistes,2470,"   5,05","   2,64",non,03501,03501,35001
+5,GIRARD,Sébastien,M.,REG,Régionaliste,274,"   0,56","   0,29",non,03501,03501,35001
+6,SAOUD,Hind,Mme,ENS,Ensemble ! (Majorité présidentielle),15992,"  32,67","  17,11",Bal.,03501,03501,35001
+7,BOURIEL,Gwenola,Mme,ECO,Ecologistes,506,"   1,03","   0,54",non,03501,03501,35001
+8,BARGUIL,Jean-Bruno,M.,DVC,Divers centre,1902,"   3,89","   2,03",non,03501,03501,35001
+9,ROULEAU,Gautier,M.,DSV,Droite souverainiste,463,"   0,95","   0,50",non,03501,03501,35001
+10,DESPREZ,Nadine,Mme,RN,Rassemblement National,4679,"   9,56","   5,01",non,03501,03501,35001
+11,PRIET,Laurent,M.,DXG,Divers extrême gauche,231,"   0,47","   0,25",non,03501,03501,35001
+12,HAMON,Valérie,Mme,DXG,Divers extrême gauche,497,"   1,02","   0,53",non,03501,03501,35001
+13,MONNIER,Jean-François,M.,REG,Régionaliste,1032,"   2,11","   1,10",non,03501,03501,35001
+14,MATHIEU,Frédéric,M.,NUP,Nouvelle union populaire écologique et sociale,19220,"  39,27","  20,56",Bal.,03501,03501,35001

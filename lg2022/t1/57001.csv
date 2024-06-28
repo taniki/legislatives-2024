@@ -1,0 +1,12 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,BOUHENNA,Abderrahemane,M.,DVG,Divers gauche,701,"   1,90","   0,75",non,05701,05701,57001
+2,KUNTZ,Malou,Mme,LR,Les Républicains,4022,"  10,87","   4,32",non,05701,05701,57001
+3,KADRI,Camal,M.,ECO,Ecologistes,909,"   2,46","   0,98",non,05701,05701,57001
+4,FRICHETEAU,Jessy,Mme,DVG,Divers gauche,54,"   0,15","   0,06",non,05701,05701,57001
+5,LEICK,Esther,Mme,NUP,Nouvelle union populaire écologique et sociale,8714,"  23,56","   9,37",non,05701,05701,57001
+6,LALOUX,Grégoire,M.,RN,Rassemblement National,9385,"  25,37","  10,09",Bal.,05701,05701,57001
+7,ROUSSE,Christèle,Mme,DSV,Droite souverainiste,562,"   1,52","   0,60",non,05701,05701,57001
+8,BELHADDAD,Belkhir,M.,ENS,Ensemble ! (Majorité présidentielle),9023,"  24,40","   9,70",Bal.,05701,05701,57001
+9,GEORGET,Didier,M.,DXG,Divers extrême gauche,457,"   1,24","   0,49",non,05701,05701,57001
+10,HADADI,Yoan,M.,DVG,Divers gauche,1580,"   4,27","   1,70",non,05701,05701,57001
+11,KONARSKI,Rebecca,Mme,REC,Reconquête !,1580,"   4,27","   1,70",non,05701,05701,57001

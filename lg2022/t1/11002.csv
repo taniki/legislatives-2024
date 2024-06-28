@@ -1,0 +1,15 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,ROCHER,Edouard,M.,RDG,Parti radical de gauche,3303,"   7,52","   3,57",non,01102,01102,11002
+2,FALCON,Frédéric,M.,RN,Rassemblement National,12365,"  28,13","  13,35",Bal.,01102,01102,11002
+3,VASSEUR,Baptiste,M.,DVG,Divers gauche,452,"   1,03","   0,49",non,01102,01102,11002
+4,MONTERO-VALLE,Valérie,Mme,ECO,Ecologistes,846,"   1,92","   0,91",non,01102,01102,11002
+5,LENFANT,Gérard,M.,DIV,Divers,927,"   2,11","   1,00",non,01102,01102,11002
+6,THOMAS,Francis,M.,DSV,Droite souverainiste,424,"   0,96","   0,46",non,01102,01102,11002
+7,CALGARO,Christian,M.,DVC,Divers centre,87,"   0,20","   0,09",non,01102,01102,11002
+8,THIVENT,Viviane,Mme,NUP,Nouvelle union populaire écologique et sociale,9204,"  20,94","   9,94",non,01102,01102,11002
+9,CAMBON,Cyril,M.,ECO,Ecologistes,352,"   0,80","   0,38",non,01102,01102,11002
+10,VIGIER,Annette,Mme,DXG,Divers extrême gauche,281,"   0,64","   0,30",non,01102,01102,11002
+11,DARAUD,Jean-François,M.,REC,Reconquête !,2015,"   4,58","   2,18",non,01102,01102,11002
+12,PEREA,Alain,M.,ENS,Ensemble ! (Majorité présidentielle),9666,"  21,99","  10,44",Bal.,01102,01102,11002
+13,ESTRADE,Quentin,M.,LR,Les Républicains,3706,"   8,43","   4,00",non,01102,01102,11002
+14,MIRABILE,Fabien,M.,ECO,Ecologistes,324,"   0,74","   0,35",non,01102,01102,11002

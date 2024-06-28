@@ -1,0 +1,12 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,LAWO,Valérie,Mme,ECO,Ecologistes,892,"   1,64","   0,85",non,06908,06908,69008
+2,BRAUD,Pascale,Mme,DVG,Divers gauche,1141,"   2,09","   1,09",non,06908,06908,69008
+3,DE PENFENTENYO DE KERVÉRÉGUIN,Marie,Mme,REC,Reconquête !,3031,"   5,56","   2,88",non,06908,06908,69008
+4,TEYSSIER,Tristan,M.,DXG,Divers extrême gauche,322,"   0,59","   0,31",non,06908,06908,69008
+5,PELERINS,Noëlle,Mme,ECO,Ecologistes,466,"   0,86","   0,44",non,06908,06908,69008
+6,GAUDE,Joël,M.,ECO,Ecologistes,988,"   1,81","   0,94",non,06908,06908,69008
+7,DUBOIS,Antoine,M.,RN,Rassemblement National,8713,"  16,00","   8,29",non,06908,06908,69008
+8,SERRE,Nathalie,Mme,LR,Les Républicains,11965,"  21,97","  11,39",Bal.,06908,06908,69008
+9,BULIN,Cécile,Mme,NUP,Nouvelle union populaire écologique et sociale,10483,"  19,25","   9,98",non,06908,06908,69008
+10,DESPRAS,Dominique,M.,ENS,Ensemble ! (Majorité présidentielle),15714,"  28,85","  14,95",Bal.,06908,06908,69008
+11,NOVE JOSSERAND,Mathieu,M.,DSV,Droite souverainiste,752,"   1,38","   0,72",non,06908,06908,69008

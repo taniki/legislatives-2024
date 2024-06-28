@@ -1,0 +1,15 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,BOURCIER,Maëva,Mme,ENS,Ensemble ! (Majorité présidentielle),7889,"  19,41","  10,68",Bal.,03202,03202,32002
+2,CENDRÉ,Alice,Mme,RN,Rassemblement National,6976,"  17,16","   9,45",non,03202,03202,32002
+3,SOCCIO,Christopher,M.,DIV,Divers,232,"   0,57","   0,31",non,03202,03202,32002
+4,MARTIN,Michèle,Mme,DXG,Divers extrême gauche,160,"   0,39","   0,22",non,03202,03202,32002
+5,GEIGER,Frank,M.,DIV,Divers,353,"   0,87","   0,48",non,03202,03202,32002
+6,FOURCADE DUTIN,Frédéric,M.,REG,Régionaliste,131,"   0,32","   0,18",non,03202,03202,32002
+7,AGIER,Sylvie,Mme,DSV,Droite souverainiste,588,"   1,45","   0,80",non,03202,03202,32002
+8,MONTEIL,Eric,M.,REC,Reconquête !,1830,"   4,50","   2,48",non,03202,03202,32002
+9,GABAS,Michel,M.,LR,Les Républicains,4874,"  11,99","   6,60",non,03202,03202,32002
+10,GOUDENNE,Angélique,Mme,DXG,Divers extrême gauche,257,"   0,63","   0,35",non,03202,03202,32002
+11,HUSEINBASIC,Merima,Mme,ECO,Ecologistes,419,"   1,03","   0,57",non,03202,03202,32002
+12,DUBOS,Françoise,Mme,NUP,Nouvelle union populaire écologique et sociale,7124,"  17,53","   9,65",non,03202,03202,32002
+13,TOUATI,Samira,Mme,DVG,Divers gauche,0,"   0,00","   0,00",non,03202,03202,32002
+14,TAUPIAC,David,M.,DVG,Divers gauche,9816,"  24,15","  13,29",Bal.,03202,03202,32002

@@ -1,0 +1,12 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,BIZET,Jérémy,M.,ECO,Ecologistes,2310,"   4,63","   2,67",non,07802,07802,78002
+2,BRAULT,Gaëtan,M.,RN,Rassemblement National,4215,"   8,45","   4,87",non,07802,07802,78002
+3,JULLIÉ,Céline,Mme,REC,Reconquête !,4078,"   8,18","   4,71",non,07802,07802,78002
+4,FERRÉ,Clara,Mme,ECO,Ecologistes,868,"   1,74","   1,00",non,07802,07802,78002
+5,CASIMIR-PERRIER,Pascal,M.,DVC,Divers centre,1268,"   2,54","   1,47",non,07802,07802,78002
+6,JANISSET,Hélène,Mme,DXG,Divers extrême gauche,282,"   0,57","   0,33",non,07802,07802,78002
+7,THÉVENOT,Pascal,M.,LR,Les Républicains,7262,"  14,57","   8,40",non,07802,07802,78002
+8,WAWSZCZYK,Isabelle,Mme,DSV,Droite souverainiste,656,"   1,32","   0,76",non,07802,07802,78002
+9,CARRIVE-BEDOUANI,Maïté,Mme,NUP,Nouvelle union populaire écologique et sociale,11296,"  22,66","  13,06",Bal.,07802,07802,78002
+10,BOROCCO,Matthieu,M.,DIV,Divers,229,"   0,46","   0,26",non,07802,07802,78002
+11,BARROT,Jean-Noël,M.,ENS,Ensemble ! (Majorité présidentielle),17391,"  34,88","  20,11",Bal.,07802,07802,78002

@@ -1,0 +1,15 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,LEUCART,Anne-Catherine,Mme,DVC,Divers centre,1662,"   4,93","   2,19",non,05703,05703,57003
+2,ZIMMERMANN,Marie-Jo,Mme,DVC,Divers centre,4540,"  13,47","   5,98",non,05703,05703,57003
+3,BECHT,Marie Jeanne,Mme,DXG,Divers extrême gauche,114,"   0,34","   0,15",non,05703,05703,57003
+4,BEMER,Christian,M.,REC,Reconquête !,1375,"   4,08","   1,81",non,05703,05703,57003
+5,LEDUC,Charlotte,Mme,NUP,Nouvelle union populaire écologique et sociale,8178,"  24,27","  10,78",Bal.,05703,05703,57003
+6,GULINO,Eric,M.,DVG,Divers gauche,1745,"   5,18","   2,30",non,05703,05703,57003
+7,JURION,Roxane,Mme,ECO,Ecologistes,563,"   1,67","   0,74",non,05703,05703,57003
+8,COLIN-OESTERLÉ,Nathalie,Mme,DVD,Divers droite,3550,"  10,53","   4,68",non,05703,05703,57003
+9,LIOGER,Richard,M.,ENS,Ensemble ! (Majorité présidentielle),5012,"  14,87","   6,61",non,05703,05703,57003
+10,CARRARA,Bernard,M.,DIV,Divers,92,"   0,27","   0,12",non,05703,05703,57003
+11,WAGNER,Marlène,Mme,DSV,Droite souverainiste,397,"   1,18","   0,52",non,05703,05703,57003
+12,HODARA,Etienne,M.,DXG,Divers extrême gauche,211,"   0,63","   0,28",non,05703,05703,57003
+13,DIAFERIA,Gaël,M.,DXG,Divers extrême gauche,68,"   0,20","   0,09",non,05703,05703,57003
+14,GROLET,Françoise,Mme,RN,Rassemblement National,6192,"  18,37","   8,16",Bal.,05703,05703,57003

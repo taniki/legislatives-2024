@@ -1,0 +1,15 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,RIBEIRO,Salvador,M.,DIV,Divers,24,"   0,22","   0,03",non,09902,09902,ZZ002
+2,SAUSSAY,Vanessa,Mme,DIV,Divers,94,"   0,85","   0,12",non,09902,09902,ZZ002
+3,COLLARD,Jeoffrey,M.,DIV,Divers,227,"   2,05","   0,30",non,09902,09902,ZZ002
+4,DUPONT,Bertrand,M.,LR,Les Républicains,1359,"  12,25","   1,80",non,09902,09902,ZZ002
+5,VANIER,Pierre,M.,DIV,Divers,84,"   0,76","   0,11",non,09902,09902,ZZ002
+6,MARIANNE PEPIN,Thérèse,Mme,RDG,Parti radical de gauche,25,"   0,23","   0,03",non,09902,09902,ZZ002
+7,RODRIGUEZ,Christian,M.,NUP,Nouvelle union populaire écologique et sociale,3129,"  28,20","   4,14",Bal.,09902,09902,ZZ002
+8,CAROIT,Eléonore,Mme,ENS,Ensemble ! (Majorité présidentielle),3836,"  34,57","   5,07",Bal.,09902,09902,ZZ002
+9,LAURENCE,Tim,M.,ECO,Ecologistes,675,"   6,08","   0,89",non,09902,09902,ZZ002
+10,BIURRUN,Martin,M.,DVC,Divers centre,524,"   4,72","   0,69",non,09902,09902,ZZ002
+11,LEFEBVRE,Léa,Mme,RN,Rassemblement National,240,"   2,16","   0,32",non,09902,09902,ZZ002
+12,TRIGALLEAU,Michel,M.,DIV,Divers,37,"   0,33","   0,05",non,09902,09902,ZZ002
+13,PIAT-GUIBERT,Isabelle,Mme,DVG,Divers gauche,141,"   1,27","   0,19",non,09902,09902,ZZ002
+14,THORAILLER,Yves,M.,REC,Reconquête !,700,"   6,31","   0,93",non,09902,09902,ZZ002

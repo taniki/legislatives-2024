@@ -1,0 +1,14 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,VIGNE,Aurélie,Mme,DVG,Divers gauche,839,"   2,86","   0,87",non,97403,97403,ZD003
+2,BOURGOGNE,Rémy,M.,DVG,Divers gauche,987,"   3,37","   1,03",non,97403,97403,ZD003
+3,DIJOUX,Raphaël,M.,ECO,Ecologistes,411,"   1,40","   0,43",non,97403,97403,ZD003
+4,VALY,Bachil,M.,ENS,Ensemble ! (Majorité présidentielle),2831,"   9,67","   2,94",non,97403,97403,ZD003
+5,MOUKINE,Sandrine,Mme,DSV,Droite souverainiste,348,"   1,19","   0,36",non,97403,97403,ZD003
+6,HOAREAU,Didier,M.,RN,Rassemblement National,3990,"  13,62","   4,15",non,97403,97403,ZD003
+7,BASSIRE,Nathalie,Mme,DVD,Divers droite,4904,"  16,74","   5,10",Bal.,97403,97403,ZD003
+8,FONTAINE,Antoine,M.,DVG,Divers gauche,1232,"   4,21","   1,28",non,97403,97403,ZD003
+9,THEBAULT,Yves,M.,DXG,Divers extrême gauche,306,"   1,04","   0,32",non,97403,97403,ZD003
+10,TÉCHER,Didier,M.,DVC,Divers centre,450,"   1,54","   0,47",non,97403,97403,ZD003
+11,CHAUSSALET,Alexis,M.,DVG,Divers gauche,4853,"  16,57","   5,04",non,97403,97403,ZD003
+12,THIEN-AH-KOON,Patrice,M.,DVD,Divers droite,6351,"  21,68","   6,60",Bal.,97403,97403,ZD003
+13,VLODY,Jean Jacques,M.,DVG,Divers gauche,1787,"   6,10","   1,86",non,97403,97403,ZD003

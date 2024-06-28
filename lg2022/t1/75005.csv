@@ -1,0 +1,12 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,MEDDAH,Assia,Mme,RDG,Parti radical de gauche,1443,"   3,21","   1,82",non,07505,07505,75005
+2,ABEL,Arnaud,M.,DVC,Divers centre,777,"   1,73","   0,98",non,07505,07505,75005
+3,GILLE,Annaëlle,Mme,UDI,Union des Démocrates et des Indépendants,1262,"   2,81","   1,59",non,07505,07505,75005
+4,VOGT,Marguerite,Mme,RN,Rassemblement National,1277,"   2,84","   1,61",non,07505,07505,75005
+5,MAURIN,Pierre,M.,DVD,Divers droite,2147,"   4,78","   2,71",non,07505,07505,75005
+6,GAUTIER,Yann,M.,REC,Reconquête !,1519,"   3,38","   1,91",non,07505,07505,75005
+7,FAJGELES,Elise,Mme,ENS,Ensemble ! (Majorité présidentielle),13358,"  29,75","  16,83",Bal.,07505,07505,75005
+8,DABAT,Monique,Mme,DXG,Divers extrême gauche,255,"   0,57","   0,32",non,07505,07505,75005
+9,BALLON,Jean,M.,ECO,Ecologistes,541,"   1,21","   0,68",non,07505,07505,75005
+10,BAYOU,Julien,M.,NUP,Nouvelle union populaire écologique et sociale,21942,"  48,88","  27,65",Bal.,07505,07505,75005
+11,JOUVEAU,Marie-Jeanne,Mme,DIV,Divers,373,"   0,83","   0,47",non,07505,07505,75005

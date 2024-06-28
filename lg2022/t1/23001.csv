@@ -1,0 +1,12 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,MIRAN,Françoise,Mme,ECO,Ecologistes,1061,"   2,23","   1,17",non,02301,02301,23001
+2,JOSSET,Hélène,Mme,DSV,Droite souverainiste,223,"   0,47","   0,24",non,02301,02301,23001
+3,AUCLAIR,Jean,M.,DVD,Divers droite,8383,"  17,62","   9,21",non,02301,02301,23001
+4,DUMON,Catherine,Mme,DXG,Divers extrême gauche,630,"   1,32","   0,69",non,02301,02301,23001
+5,KENNEDY,Roubiali,Mme,DVG,Divers gauche,79,"   0,17","   0,09",non,02301,02301,23001
+6,COUTURIER,Catherine,Mme,NUP,Nouvelle union populaire écologique et sociale,12545,"  26,37","  13,78",Bal.,02301,02301,23001
+7,MOREAU,Jean-Baptiste,M.,ENS,Ensemble ! (Majorité présidentielle),12368,"  25,99","  13,59",Bal.,02301,02301,23001
+8,DEFEMME,Catherine,Mme,DVD,Divers droite,2429,"   5,10","   2,67",non,02301,02301,23001
+9,BILDE,Sylvie,Mme,RN,Rassemblement National,8118,"  17,06","   8,92",non,02301,02301,23001
+10,GIROIX,Grégory,M.,REC,Reconquête !,1115,"   2,34","   1,22",non,02301,02301,23001
+11,DURENGUE,Elisabeth,Mme,DSV,Droite souverainiste,630,"   1,32","   0,69",non,02301,02301,23001

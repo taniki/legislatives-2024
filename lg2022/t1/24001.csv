@@ -1,0 +1,13 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,KHELFAOUI,Lise,Mme,DXG,Divers extrême gauche,330,"   0,82","   0,42",non,02401,02401,24001
+2,JEAN,Emmanuelle,Mme,ECO,Ecologistes,580,"   1,43","   0,74",non,02401,02401,24001
+3,AMBROISE,Williams,M.,RN,Rassemblement National,8209,"  20,29","  10,54",non,02401,02401,24001
+4,MELO,Pierre,M.,DIV,Divers,0,"   0,00","   0,00",non,02401,02401,24001
+5,CHRÉTIEN,Cécile,Mme,ECO,Ecologistes,782,"   1,93","   1,00",non,02401,02401,24001
+6,VADILLO,Floran,M.,DVG,Divers gauche,4360,"  10,78","   5,60",non,02401,02401,24001
+7,CHASSAING,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),8692,"  21,48","  11,16",Bal.,02401,02401,24001
+8,MARTIN,Pascale,Mme,NUP,Nouvelle union populaire écologique et sociale,9845,"  24,33","  12,64",Bal.,02401,02401,24001
+9,LEGLU,Isabelle,Mme,DVD,Divers droite,400,"   0,99","   0,51",non,02401,02401,24001
+10,LÉGER,Pascale,Mme,REC,Reconquête !,1572,"   3,89","   2,02",non,02401,02401,24001
+11,REBOUL,Patrice,M.,RDG,Parti radical de gauche,775,"   1,92","   1,00",non,02401,02401,24001
+12,MARTY,Elisabeth,Mme,LR,Les Républicains,4915,"  12,15","   6,31",non,02401,02401,24001

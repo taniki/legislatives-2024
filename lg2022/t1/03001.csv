@@ -1,0 +1,10 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,SENNEPIN,Marion,Mme,ECO,Ecologistes,779,"   1,75","   0,87",non,00301,00301,03001
+2,CIBERT,Marie,Mme,RN,Rassemblement National,8615,"  19,40","   9,64",non,00301,00301,03001
+3,BARBARIN,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),8634,"  19,44","   9,66",Bal.,00301,00301,03001
+4,MALLOT,Jean,M.,DVG,Divers gauche,3463,"   7,80","   3,88",non,00301,00301,03001
+5,COLLOT,Jean-Marc,M.,DXG,Divers extrême gauche,610,"   1,37","   0,68",non,00301,00301,03001
+6,DE NICOLAY,Pierre,M.,REC,Reconquête !,2326,"   5,24","   2,60",non,00301,00301,03001
+7,MALAVAUD,Fabien,M.,DVD,Divers droite,936,"   2,11","   1,05",non,00301,00301,03001
+8,LITAUDON,Roger,M.,LR,Les Républicains,5476,"  12,33","   6,13",non,00301,00301,03001
+9,MONNET,Yannick,M.,NUP,Nouvelle union populaire écologique et sociale,13578,"  30,57","  15,20",Bal.,00301,00301,03001

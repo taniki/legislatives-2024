@@ -1,0 +1,10 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+1,CHASSIER,Michel,M.,RN,Rassemblement National,9073,"  22,34","  10,96",non,04101,04101,41001
+2,POMI,Fabienne,Mme,ECO,Ecologistes,569,"   1,40","   0,69",non,04101,04101,41001
+3,MESNAGER,Hervé,M.,RDG,Parti radical de gauche,1299,"   3,20","   1,57",non,04101,04101,41001
+4,LOMBARD,Alain,M.,DXG,Divers extrême gauche,490,"   1,21","   0,59",non,04101,04101,41001
+5,BENAKCHA,Malik,M.,LR,Les Républicains,3015,"   7,42","   3,64",non,04101,04101,41001
+6,BELKADI,Reda,M.,NUP,Nouvelle union populaire écologique et sociale,9873,"  24,31","  11,93",Bal.,04101,04101,41001
+7,MARTIN,Frank,M.,REC,Reconquête !,1828,"   4,50","   2,21",non,04101,04101,41001
+8,FESNEAU,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),12986,"  31,97","  15,69",Bal.,04101,04101,41001
+9,VIEIRA,Gildas,M.,DIV,Divers,1488,"   3,66","   1,80",non,04101,04101,41001
