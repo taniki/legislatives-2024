@@ -781,7 +781,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 1,PUERTAS,Julien,M.,EXG,Extrême gauche,9202,92002
 2,PASQUINI,Francesca,Mme,UG,Union de la gauche,9202,92002
 3,LAKRAFI,Ahmed,M.,DVC,Divers centre,9202,92002
-4,PHAN,Sébastien,M.,ENS,Ensemble ! (Majorité présidentielle),9202,92002
+4,PHAN,Sébastien,M.,DVC,Divers centre,9202,92002
 5,PETTITT,Julia,Mme,REC,Reconquête !,9202,92002
 6,DUROULLE,Louis,M.,DVC,Divers centre,9202,92002
 7,GALLIMARD,Anne-Caroline,Mme,UXD,Union de l'extrême droite,9202,92002
@@ -893,7 +893,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 1,DIABY,Djénéba,Mme,DVC,Divers centre,9303,93003
 2,PORTES,Thomas,M.,UG,Union de la gauche,9303,93003
 3,GAUCHERAND,Maëlle,Mme,EXG,Extrême gauche,9303,93003
-4,ALLEMON,Eric,M.,DVC,Divers centre,9303,93003
+4,ALLEMON,Eric,M.,DVD,Divers droite,9303,93003
 5,ANATO,Patrice,M.,DVC,Divers centre,9303,93003
 6,NICOLLE,Gaspard,M.,EXG,Extrême gauche,9303,93003
 7,BUTTEY,Maxence,M.,DVD,Divers droite,9303,93003
@@ -913,14 +913,14 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 11,FAROUK,Amirdine,M.,DIV,Divers,9304,93004
 1,FEGER,Rodolphe,M.,EXG,Extrême gauche,9305,93005
 2,KOZELKO,Eric,M.,RN,Rassemblement National,9305,93005
-3,LAGARDE,Aude,Mme,DVC,Divers centre,9305,93005
+3,LAGARDE,Aude,Mme,UDI,Union des Démocrates et Indépendants,9305,93005
 4,GARRIDO,Raquel,Mme,DVG,Divers gauche,9305,93005
 5,DIOUARA,Aly,M.,UG,Union de la gauche,9305,93005
 6,BALLOUHEY,Hélène,Mme,EXG,Extrême gauche,9305,93005
 7,BOUTIGNON,Tatiana,Mme,DIV,Divers,9305,93005
 9,PIERRE,Markeins,M.,DVG,Divers gauche,9305,93005
 1,SALHAOUI,Nacéra,Mme,RN,Rassemblement National,9306,93006
-2,SACK,Nathalie,Mme,DVC,Divers centre,9306,93006
+2,SACK,Nathalie,Mme,UDI,Union des Démocrates et Indépendants,9306,93006
 3,LACHAUD,Bastien,M.,UG,Union de la gauche,9306,93006
 4,ARTHAUD,Nathalie,Mme,EXG,Extrême gauche,9306,93006
 1,DUTERTE,Yannick,M.,EXG,Extrême gauche,9307,93007
@@ -1192,7 +1192,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 1,GONZALEZ,Eloïse,Mme,UG,Union de la gauche,3601,36001
 2,GELINAUD,Véronique,Mme,EXG,Extrême gauche,3601,36001
 3,TRUSCH,Marie-Odile,Mme,REC,Reconquête !,3601,36001
-4,JOLIVET,François,M.,ENS,Ensemble ! (Majorité présidentielle),3601,36001
+4,JOLIVET,François,M.,HOR,Horizons,3601,36001
 5,WUNSCH,Mylène,Mme,RN,Rassemblement National,3601,36001
 1,SCHWARZ,Pierre,M.,DIV,Divers,3602,36002
 2,SAPIN,Clément,M.,UG,Union de la gauche,3602,36002
@@ -1233,7 +1233,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 1,DASSONNEVILLE,François,M.,DIV,Divers,4101,41001
 2,TRAN,Jean-Marc,M.,DIV,Divers,4101,41001
 3,FESNEAU,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),4101,41001
-4,BELKADI,Reda,M.,UG,Union de la gauche,4101,41001
+4,BELKADI,Reda,M.,DVG,Divers gauche,4101,41001
 5,BARDET,Marine,Mme,RN,Rassemblement National,4101,41001
 6,VIEIRA,Gildas,M.,DVC,Divers centre,4101,41001
 7,LOMBARD,Alain,M.,EXG,Extrême gauche,4101,41001
@@ -1266,7 +1266,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 7,BABIN,Elodie,Mme,RN,Rassemblement National,4502,45002
 8,DUVILLARD,Marie-Odile,Mme,REC,Reconquête !,4502,45002
 9,AACHBOUN,Ahmed,M.,DVG,Divers gauche,4502,45002
-1,DE PÉLICHY,Constance,Mme,DVC,Divers centre,4503,45003
+1,DE PÉLICHY,Constance,Mme,DVD,Divers droite,4503,45003
 2,NAULIN,Michel,M.,EXG,Extrême gauche,4503,45003
 3,PARIS,Mathilde,Mme,RN,Rassemblement National,4503,45003
 4,MAURICE,Thomas,M.,REC,Reconquête !,4503,45003
@@ -1958,7 +1958,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 5,LOYEZ,Gilles,M.,UG,Union de la gauche,0802,08002
 6,CORDIER,Pierre,M.,DVD,Divers droite,0802,08002
 1,AUGIER,Laure,Mme,EXG,Extrême gauche,0803,08003
-2,WARSMANN,Jean-Luc,M.,DVC,Divers centre,0803,08003
+2,WARSMANN,Jean-Luc,M.,DVD,Divers droite,0803,08003
 3,ROGER,Isabelle,Mme,RN,Rassemblement National,0803,08003
 4,PERRIN,Sophie,Mme,UG,Union de la gauche,0803,08003
 1,GUITTON,Jordan,M.,RN,Rassemblement National,1001,10001
@@ -2268,7 +2268,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 6,VALENCE,David,M.,ENS,Ensemble ! (Majorité présidentielle),8802,88002
 7,THIEBAUT,Emmanuel,M.,DVC,Divers centre,8802,88002
 1,BAILLY,Stéphanie,Mme,EXG,Extrême gauche,8803,88003
-2,NAEGELEN,Christophe,M.,DVC,Divers centre,8803,88003
+2,NAEGELEN,Christophe,M.,DVD,Divers droite,8803,88003
 3,BACHELART,Etienne,M.,UG,Union de la gauche,8803,88003
 4,FRESSE,Pauline,Mme,RN,Rassemblement National,8803,88003
 1,GAULTIER,Jean-Jacques,M.,LR,Les Républicains,8804,88004
@@ -2781,7 +2781,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 2,BOUDIÉ,Florent,M.,ENS,Ensemble ! (Majorité présidentielle),3310,33010
 3,BOURGOIS,Pascal,M.,UG,Union de la gauche,3310,33010
 4,CHADOURNE,Sandrine,Mme,RN,Rassemblement National,3310,33010
-1,FONSECA,Célia,Mme,UG,Union de la gauche,3311,33011
+1,FONSECA,Cécilia,Mme,UG,Union de la gauche,3311,33011
 2,DIAZ,Edwige,Mme,RN,Rassemblement National,3311,33011
 3,AHMIMOU,Zina,Mme,EXG,Extrême gauche,3311,33011
 4,HAMMERER,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),3311,33011
@@ -2868,7 +2868,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 2,DUFAU,Peio,M.,UG,Union de la gauche,6406,64006
 3,LASTÉCOUÈRES,Victor,M.,UXD,Union de l'extrême droite,6406,64006
 4,LAMARQUE,Michel,M.,DIV,Divers,6406,64006
-5,BERTHELOT,Corinne,Mme,ECO,Ecologistes,6406,64006
+5,BERTHELOT,Corinne,Mme,DIV,Divers,6406,64006
 6,PERNET,Eva,Mme,DVC,Divers centre,6406,64006
 7,UHART,Jacqueline,Mme,EXG,Extrême gauche,6406,64006
 8,TELLECHEA,Jean,M.,REG,Régionaliste,6406,64006
@@ -3169,7 +3169,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 6,PAGET,Daniel,M.,DIV,Divers,4602,46002
 1,GOUSSEAU,Luc-Etienne,M.,RN,Rassemblement National,4801,48001
 2,ZIDOUN,Dja,M.,DVG,Divers gauche,4801,48001
-3,MOREL A L'HUISSIER,Pierre,M.,DVC,Divers centre,4801,48001
+3,MOREL A L'HUISSIER,Pierre,M.,DVD,Divers droite,4801,48001
 4,GUIRAL,Michel,M.,DIV,Divers,4801,48001
 5,PANTEL,Sophie,Mme,UG,Union de la gauche,4801,48001
 6,SOUCHON,Annie,Mme,EXG,Extrême gauche,4801,48001
@@ -3254,7 +3254,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 6,MENDES,Michael,M.,DSV,Droite souverainiste,0101,01001
 7,GUILLERMIN,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle),0101,01001
 1,KOTARAC,Andréa,M.,RN,Rassemblement National,0102,01002
-2,DAUBIÉ,Romain,M.,DVC,Divers centre,0102,01002
+2,DAUBIÉ,Romain,M.,ENS,Ensemble ! (Majorité présidentielle),0102,01002
 3,EYRAUD,Olivier,M.,EXD,Extrême droite,0102,01002
 4,GOUTAGNY,Vincent,M.,EXG,Extrême gauche,0102,01002
 5,MEYER,Maxime,M.,UG,Union de la gauche,0102,01002
@@ -3528,7 +3528,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 8,BRIDAY,Delphine,Mme,EXG,Extrême gauche,6902,69002
 9,JOUTEUX,Michaël,M.,EXG,Extrême gauche,6902,69002
 10,ETENNE,Vanessa,Mme,REC,Reconquête !,6902,69002
-11,MAHMOUD-VINTAM,Karim,M.,REG,Régionaliste,6902,69002
+11,MAHMOUD-VINTAM,Karim,M.,DIV,Divers,6902,69002
 1,CHINAL,Marc,M.,DIV,Divers,6903,69003
 2,LAFOND,Éric,M.,ECO,Ecologistes,6903,69003
 3,GARIN,Marie-Charlotte,Mme,UG,Union de la gauche,6903,69003
@@ -3541,7 +3541,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 10,MORIN,Clotilde,Mme,RN,Rassemblement National,6903,69003
 1,RUNEL,Sandrine,Mme,UG,Union de la gauche,6904,69004
 2,JEGO,Tristan,M.,EXG,Extrême gauche,6904,69004
-3,QUEVY,Julien,M.,DIV,Divers,6904,69004
+3,QUEVY,Julien,M.,ECO,Ecologistes,6904,69004
 4,CHAUMONT,Yannick,M.,RN,Rassemblement National,6904,69004
 5,LAURENT,Coralie,Mme,EXG,Extrême gauche,6904,69004
 6,VEL,Juliette,Mme,DIV,Divers,6904,69004
@@ -3554,7 +3554,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 4,BITOUM,Sasha,Mme,RN,Rassemblement National,6905,69005
 5,MATTEUCCI,Fabrice,M.,UG,Union de la gauche,6905,69005
 6,RIVIERE,Hélène,Mme,EXG,Extrême gauche,6905,69005
-1,BASILIEN,Joseph,M.,DIV,Divers,6906,69006
+1,BASILIEN,Joseph,M.,ECO,Ecologistes,6906,69006
 2,AMARD,Gabriel,M.,UG,Union de la gauche,6906,69006
 3,BRET,Jean-Paul,M.,DVG,Divers gauche,6906,69006
 4,BOUHAMI,Nadia,Mme,EXG,Extrême gauche,6906,69006
@@ -3641,7 +3641,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodCir
 1,THABUIS,Florian,M.,LR,Les Républicains,7401,74001
 2,MOLIN,Claudine,Mme,REC,Reconquête !,7401,74001
 3,MATTEI,Jacques,M.,EXG,Extrême gauche,7401,74001
-4,ROIT-LEVÊQUE,Guilaume,M.,RN,Rassemblement National,7401,74001
+4,ROIT-LEVÊQUE,Guillaume,M.,RN,Rassemblement National,7401,74001
 5,ESPIC,Stéphane,M.,DIV,Divers,7401,74001
 6,RIOTTON,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),7401,74001
 7,DUVAL,Anne-Valérie,Mme,UG,Union de la gauche,7401,74001
