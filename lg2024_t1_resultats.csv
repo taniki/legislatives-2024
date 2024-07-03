@@ -642,11 +642,11 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,ARMÈDE,Ken,M.,EXG,Extrême gauche,120,"0,23","0,16",NON,7806,78,11,6ème circonscription,1,11,78,78006
 4,SAUGER,Mélinda,Mme,UG,Union de la gauche,14247,"27,02","18,48",QUALIF T2,7806,78,11,6ème circonscription,1,11,78,78006
 5,PERRAUDIN,Cécile,Mme,EXG,Extrême gauche,222,"0,42","0,29",NON,7806,78,11,6ème circonscription,1,11,78,78006
-6,LELANDAIS,Sophie,Mme,RN,Rassemblement National,10780,"20,45","13,98",QUALIF T2,7806,78,11,6ème circonscription,1,11,78,78006
+6,LELANDAIS,Sophie,Mme,RN,Rassemblement National,10781,"20,45","13,98",QUALIF T2,7806,78,11,6ème circonscription,1,11,78,78006
 7,PHILIPOT,Marc,M.,DIV,Divers,71,"0,13","0,09",NON,7806,78,11,6ème circonscription,1,11,78,78006
-8,POUZYREFF,Natalia,Mme,ENS,Ensemble ! (Majorité présidentielle),20212,"38,34","26,22",QUALIF T2,7806,78,11,6ème circonscription,1,11,78,78006
+8,POUZYREFF,Natalia,Mme,ENS,Ensemble ! (Majorité présidentielle),20212,"38,33","26,22",QUALIF T2,7806,78,11,6ème circonscription,1,11,78,78006
 9,SUZÉ,Jean-Luc,M.,ECO,Ecologistes,1668,"3,16","2,16",NON,7806,78,11,6ème circonscription,1,11,78,78006
-10,SILD,Anne-Elisabeth,Mme,REC,Reconquête !,759,"1,44","0,98",NON,7806,78,11,6ème circonscription,1,11,78,78006
+10,SILD,Anne-Elisabeth,Mme,REC,Reconquête !,760,"1,44","0,99",NON,7806,78,11,6ème circonscription,1,11,78,78006
 11,HERNOT,Patrice,M.,DVD,Divers droite,84,"0,16","0,11",NON,7806,78,11,6ème circonscription,1,11,78,78006
 12,TORREZ,Stéphane,M.,LR,Les Républicains,4028,"7,64","5,22",NON,7806,78,11,6ème circonscription,1,11,78,78006
 1,KAYA,Ali,M.,EXG,Extrême gauche,498,"0,92","0,61",NON,7807,78,11,7ème circonscription,1,11,78,78007
@@ -665,17 +665,17 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 7,LUCAS,Benjamin,M.,UG,Union de la gauche,20416,"44,92","27,10",QUALIF T2,7808,78,11,8ème circonscription,1,11,78,78008
 8,GONNOT,Thierry,M.,EXG,Extrême gauche,526,"1,16","0,70",NON,7808,78,11,8ème circonscription,1,11,78,78008
 9,BOVAERE,Hugues,M.,REC,Reconquête !,8,"0,02","0,01",NON,7808,78,11,8ème circonscription,1,11,78,78008
-1,MORIN,Laurent,M.,RN,Rassemblement National,21549,"34,48","22,89",QUALIF T2,7809,78,11,9ème circonscription,1,11,78,78009
+1,MORIN,Laurent,M.,RN,Rassemblement National,21551,"34,49","22,90",QUALIF T2,7809,78,11,9ème circonscription,1,11,78,78009
 2,ZEROUALI,Rachid,M.,ECO,Ecologistes,1780,"2,85","1,89",NON,7809,78,11,9ème circonscription,1,11,78,78009
 3,DJEARAMANE,Sendil-Sébastien,M.,DIV,Divers,336,"0,54","0,36",NON,7809,78,11,9ème circonscription,1,11,78,78009
-4,MILLIENNE,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),13339,"21,35","14,17",QUALIF T2,7809,78,11,9ème circonscription,1,11,78,78009
+4,MILLIENNE,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),13340,"21,35","14,17",QUALIF T2,7809,78,11,9ème circonscription,1,11,78,78009
 5,LE HOT,Christophe,M.,REC,Reconquête !,802,"1,28","0,85",NON,7809,78,11,9ème circonscription,1,11,78,78009
 6,RIOU,Hervé,M.,DVD,Divers droite,5563,"8,90","5,91",NON,7809,78,11,9ème circonscription,1,11,78,78009
 7,GOMMARD,Philippe,M.,EXG,Extrême gauche,601,"0,96","0,64",NON,7809,78,11,9ème circonscription,1,11,78,78009
 8,DIOP,Dieynaba,Mme,UG,Union de la gauche,18520,"29,64","19,68",QUALIF T2,7809,78,11,9ème circonscription,1,11,78,78009
 1,BARBOTIN,Gaël,M.,LR,Les Républicains,5797,"8,71","6,27",NON,7810,78,11,10ème circonscription,1,11,78,78010
 2,BERGÉ,Aurore,Mme,ENS,Ensemble ! (Majorité présidentielle),22367,"33,59","24,19",QUALIF T2,7810,78,11,10ème circonscription,1,11,78,78010
-3,FOURNIER-CAMPION,Ethel,Mme,ECO,Ecologistes,1140,"1,71","1,23",NON,7810,78,11,10ème circonscription,1,11,78,78010
+3,FOURNIER-CAMPION,Ethel,Mme,ECO,Ecologistes,1141,"1,71","1,23",NON,7810,78,11,10ème circonscription,1,11,78,78010
 4,GOUSSEAU,Olivier,M.,REC,Reconquête !,894,"1,34","0,97",NON,7810,78,11,10ème circonscription,1,11,78,78010
 5,GAUTRELET,Julien,M.,RDG,Parti radical de gauche,2260,"3,39","2,44",NON,7810,78,11,10ème circonscription,1,11,78,78010
 6,BRIOLAIS,Cédric,M.,UG,Union de la gauche,14918,"22,40","16,13",QUALIF T2,7810,78,11,10ème circonscription,1,11,78,78010
@@ -693,7 +693,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,MERCIER,Jean-Pierre,M.,EXG,Extrême gauche,537,"1,06","0,74",NON,7812,78,11,12ème circonscription,1,11,78,78012
 4,MASSIAUX,Christophe,M.,UG,Union de la gauche,15333,"30,32","21,20",QUALIF T2,7812,78,11,12ème circonscription,1,11,78,78012
 5,JAY,Bruno,M.,REC,Reconquête !,743,"1,47","1,03",NON,7812,78,11,12ème circonscription,1,11,78,78012
-6,METTELET,Jean-Louis,M.,RN,Rassemblement National,12583,"24,88","17,39",QUALIF T2,7812,78,11,12ème circonscription,1,11,78,78012
+6,METTELET,Jean-Louis,M.,RN,Rassemblement National,12585,"24,88","17,40",QUALIF T2,7812,78,11,12ème circonscription,1,11,78,78012
 7,OLIVE,Karl,M.,ENS,Ensemble ! (Majorité présidentielle),20610,"40,75","28,49",QUALIF T2,7812,78,11,12ème circonscription,1,11,78,78012
 1,BERENGER,Hélène,Mme,REC,Reconquête !,539,"1,30","0,77",NON,9101,91,11,1ère circonscription,1,11,91,91001
 2,CAMONIN,Jean,M.,EXG,Extrême gauche,565,"1,36","0,81",NON,9101,91,11,1ère circonscription,1,11,91,91001
@@ -1216,18 +1216,18 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 2,ALFANDARI,Henri,M.,ENS,Ensemble ! (Majorité présidentielle),22174,"32,87","22,31",QUALIF T2,3703,37,24,3ème circonscription,1,24,37,37003
 3,FRANÇOIS,Emmanuel,M.,DIV,Divers,3248,"4,82","3,27",NON,3703,37,24,3ème circonscription,1,24,37,37003
 4,BOURIN,Xavier,M.,REC,Reconquête !,1003,"1,49","1,01",NON,3703,37,24,3ème circonscription,1,24,37,37003
-5,ROBIN,Jules,M.,UXD,Union de l'extrême droite,21725,"32,21","21,85",QUALIF T2,3703,37,24,3ème circonscription,1,24,37,37003
+5,ROBIN,Jules,M.,UXD,Union de l'extrême droite,21724,"32,21","21,85",QUALIF T2,3703,37,24,3ème circonscription,1,24,37,37003
 6,BRIMOU,Amin,M.,DIV,Divers,1004,"1,49","1,01",NON,3703,37,24,3ème circonscription,1,24,37,37003
 7,BARBIER,Sandra,Mme,UG,Union de la gauche,17240,"25,56","17,34",QUALIF T2,3703,37,24,3ème circonscription,1,24,37,37003
 1,COLBOC,Fabienne,Mme,ENS,Ensemble ! (Majorité présidentielle),17092,"27,65","18,43",QUALIF T2,3704,37,24,4ème circonscription,1,24,37,37004
 2,GARDEAU,Kévin,M.,EXG,Extrême gauche,731,"1,18","0,79",NON,3704,37,24,4ème circonscription,1,24,37,37004
 3,LAGRÉE,Sophie,Mme,LR,Les Républicains,5287,"8,55","5,70",NON,3704,37,24,4ème circonscription,1,24,37,37004
-4,BAUMEL,Laurent,M.,UG,Union de la gauche,18375,"29,73","19,81",QUALIF T2,3704,37,24,4ème circonscription,1,24,37,37004
-5,BELLANGER,Jean-François,M.,RN,Rassemblement National,20329,"32,89","21,92",QUALIF T2,3704,37,24,4ème circonscription,1,24,37,37004
+4,BAUMEL,Laurent,M.,UG,Union de la gauche,18374,"29,73","19,81",QUALIF T2,3704,37,24,4ème circonscription,1,24,37,37004
+5,BELLANGER,Jean-François,M.,RN,Rassemblement National,20328,"32,89","21,92",QUALIF T2,3704,37,24,4ème circonscription,1,24,37,37004
 1,BILLON,David,M.,REC,Reconquête !,809,"1,35","0,92",NON,3705,37,24,5ème circonscription,1,24,37,37005
 2,BALES,Constance,Mme,LR,Les Républicains,6805,"11,36","7,76",NON,3705,37,24,5ème circonscription,1,24,37,37005
 3,DELARUE,Christine,Mme,EXG,Extrême gauche,700,"1,17","0,80",NON,3705,37,24,5ème circonscription,1,24,37,37005
-4,DUCAMP,François,M.,RN,Rassemblement National,21119,"35,25","24,09",QUALIF T2,3705,37,24,5ème circonscription,1,24,37,37005
+4,DUCAMP,François,M.,RN,Rassemblement National,21118,"35,25","24,09",QUALIF T2,3705,37,24,5ème circonscription,1,24,37,37005
 5,COCCIA,Marina,Mme,UG,Union de la gauche,14457,"24,13","16,49",QUALIF T2,3705,37,24,5ème circonscription,1,24,37,37005
 6,THILLAYE,Sabine,Mme,ENS,Ensemble ! (Majorité présidentielle),16025,"26,75","18,28",QUALIF T2,3705,37,24,5ème circonscription,1,24,37,37005
 1,DASSONNEVILLE,François,M.,DIV,Divers,138,"0,25","0,17",NON,4101,41,24,1ère circonscription,1,24,41,41001
@@ -1273,7 +1273,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 5,VERDE,Clément,M.,UG,Union de la gauche,9089,"19,36","12,90",QUALIF T2,4503,45,24,3ème circonscription,1,24,45,45003
 1,HARLÉ,Mélusine,Mme,ENS,Ensemble ! (Majorité présidentielle),7029,"15,02","9,49",NON,4504,45,24,4ème circonscription,1,24,45,45004
 2,CLERGUE,Dominique,Mme,EXG,Extrême gauche,551,"1,18","0,74",NON,4504,45,24,4ème circonscription,1,24,45,45004
-3,NOTTIN,Bruno,M.,UG,Union de la gauche,9889,"21,14","13,34",QUALIF T2,4504,45,24,4ème circonscription,1,24,45,45004
+3,NOTTIN,Bruno,M.,UG,Union de la gauche,9889,"21,14","13,35",QUALIF T2,4504,45,24,4ème circonscription,1,24,45,45004
 4,LOUBERT,Georges,M.,REC,Reconquête !,535,"1,14","0,72",NON,4504,45,24,4ème circonscription,1,24,45,45004
 5,LÉVY,Ariel,M.,LR,Les Républicains,5537,"11,83","7,47",NON,4504,45,24,4ème circonscription,1,24,45,45004
 6,ROCHE,Françoise,Mme,DIV,Divers,13,"0,03","0,02",NON,4504,45,24,4ème circonscription,1,24,45,45004
@@ -1371,7 +1371,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 5,LEMOINE,Geneviève,Mme,EXG,Extrême gauche,809,"1,75","1,10",NON,5801,58,27,1ère circonscription,1,27,58,58001
 6,GALLOIS,Charles-Henri,M.,RN,Rassemblement National,18870,"40,81","25,55",QUALIF T2,5801,58,27,1ère circonscription,1,27,58,58001
 1,GUYOT,Justine,Mme,DVG,Divers gauche,9,"0,02","0,01",NON,5802,58,27,2ème circonscription,1,27,58,58002
-2,PAUL,Christian,M.,UG,Union de la gauche,13788,"26,32","17,50",QUALIF T2,5802,58,27,2ème circonscription,1,27,58,58002
+2,PAUL,Christian,M.,UG,Union de la gauche,13788,"26,32","17,51",QUALIF T2,5802,58,27,2ème circonscription,1,27,58,58002
 3,VINCENT,Marc Alexandre,M.,LR,Les Républicains,2757,"5,26","3,50",NON,5802,58,27,2ème circonscription,1,27,58,58002
 4,MUNOZ,Aurore,Mme,DSV,Droite souverainiste,801,"1,53","1,02",NON,5802,58,27,2ème circonscription,1,27,58,58002
 5,DUPUIS,Dominique,M.,EXG,Extrême gauche,839,"1,60","1,07",NON,5802,58,27,2ème circonscription,1,27,58,58002
@@ -1380,14 +1380,14 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,GHILES,Philippe,M.,REC,Reconquête !,701,"1,16","0,79",NON,7001,70,27,1ère circonscription,1,27,70,70001
 2,POYARD,Sébastien,M.,UG,Union de la gauche,10362,"17,17","11,73",NON,7001,70,27,1ère circonscription,1,27,70,70001
 3,CHRETIEN,Alain,M.,ENS,Ensemble ! (Majorité présidentielle),18093,"29,99","20,48",QUALIF T2,7001,70,27,1ère circonscription,1,27,70,70001
-4,VILLEDIEU,Antoine,M.,RN,Rassemblement National,29457,"48,82","33,34",QUALIF T2,7001,70,27,1ère circonscription,1,27,70,70001
+4,VILLEDIEU,Antoine,M.,RN,Rassemblement National,29458,"48,82","33,34",QUALIF T2,7001,70,27,1ère circonscription,1,27,70,70001
 5,ZELFA,Mohamed-Salah,M.,DIV,Divers,906,"1,50","1,03",NON,7001,70,27,1ère circonscription,1,27,70,70001
 6,FISCHER,Cédric,M.,EXG,Extrême gauche,816,"1,35","0,92",NON,7001,70,27,1ère circonscription,1,27,70,70001
 1,BARASSI-ZAMOCHNIKOFF,Fabrice,M.,ENS,Ensemble ! (Majorité présidentielle),8354,"13,81","9,35",NON,7002,70,27,2ème circonscription,1,27,70,70002
 2,HOULLEY,Eric,M.,UG,Union de la gauche,13632,"22,53","15,25",NON,7002,70,27,2ème circonscription,1,27,70,70002
 3,APRO,Isabelle,Mme,EXG,Extrême gauche,1018,"1,68","1,14",NON,7002,70,27,2ème circonscription,1,27,70,70002
 4,DEVILLERS,Christophe,M.,REC,Reconquête !,579,"0,96","0,65",NON,7002,70,27,2ème circonscription,1,27,70,70002
-5,SALMON,Emeric,M.,RN,Rassemblement National,30316,"50,11","33,92",OUI,7002,70,27,2ème circonscription,1,27,70,70002
+5,SALMON,Emeric,M.,RN,Rassemblement National,30315,"50,11","33,92",OUI,7002,70,27,2ème circonscription,1,27,70,70002
 6,LABORIE,Loic,M.,LR,Les Républicains,6600,"10,91","7,38",NON,7002,70,27,2ème circonscription,1,27,70,70002
 1,BELVILLE,Jean-Philippe,M.,LR,Les Républicains,2368,"4,66","3,15",NON,7101,71,27,1ère circonscription,1,27,71,71001
 2,DIRX,Benjamin,M.,ENS,Ensemble ! (Majorité présidentielle),15546,"30,60","20,66",QUALIF T2,7101,71,27,1ère circonscription,1,27,71,71001
@@ -1410,7 +1410,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,BELLEST,Véronique,Mme,DSV,Droite souverainiste,728,"1,33","0,88",NON,7104,71,27,4ème circonscription,1,27,71,71004
 2,COURATIER,Claude,M.,EXG,Extrême gauche,1115,"2,04","1,35",NON,7104,71,27,4ème circonscription,1,27,71,71004
 3,UNTERMAIER,Cécile,Mme,UG,Union de la gauche,16403,"29,96","19,85",QUALIF T2,7104,71,27,4ème circonscription,1,27,71,71004
-4,MICHOUX,Eric,M.,UXD,Union de l'extrême droite,24275,"44,34","29,38",QUALIF T2,7104,71,27,4ème circonscription,1,27,71,71004
+4,MICHOUX,Eric,M.,UXD,Union de l'extrême droite,24276,"44,34","29,38",QUALIF T2,7104,71,27,4ème circonscription,1,27,71,71004
 5,VADOT,Anthony,M.,LR,Les Républicains,12222,"22,33","14,79",QUALIF T2,7104,71,27,4ème circonscription,1,27,71,71004
 1,DUFRAIGNE,Pascal,M.,EXG,Extrême gauche,885,"1,57","1,03",NON,7105,71,27,5ème circonscription,1,27,71,71005
 2,SANVERT,Arnaud,M.,RN,Rassemblement National,19807,"35,12","23,05",QUALIF T2,7105,71,27,5ème circonscription,1,27,71,71005
@@ -1493,7 +1493,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,THALMANN,Jacques,M.,REC,Reconquête !,866,"1,56","0,99",NON,2701,27,28,1ère circonscription,1,28,27,27001
 2,DUCAMP,Anne,Mme,EXG,Extrême gauche,1009,"1,82","1,15",NON,2701,27,28,1ère circonscription,1,28,27,27001
 3,LE BONTÉ,Christine,Mme,UG,Union de la gauche,11991,"21,58","13,72",QUALIF T2,2701,27,28,1ère circonscription,1,28,27,27001
-4,LOIR,Christine,Mme,RN,Rassemblement National,25852,"46,53","29,58",QUALIF T2,2701,27,28,1ère circonscription,1,28,27,27001
+4,LOIR,Christine,Mme,RN,Rassemblement National,25853,"46,54","29,58",QUALIF T2,2701,27,28,1ère circonscription,1,28,27,27001
 5,CANIN,Julien,M.,ENS,Ensemble ! (Majorité présidentielle),15837,"28,51","18,12",QUALIF T2,2701,27,28,1ère circonscription,1,28,27,27001
 1,GODARD,Laure Anne,Mme,DVC,Divers centre,242,"0,46","0,31",NON,2702,27,28,2ème circonscription,1,28,27,27002
 2,VEYRI,Timour,M.,UG,Union de la gauche,11184,"21,25","14,14",QUALIF T2,2702,27,28,2ème circonscription,1,28,27,27002
@@ -1518,7 +1518,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,BEAUJOUAN,Ludovic,M.,DIV,Divers,517,"0,88","0,58",NON,2705,27,28,5ème circonscription,1,28,27,27005
 2,JOURDAIN,Pierre-Yves,M.,UG,Union de la gauche,12506,"21,28","13,92",QUALIF T2,2705,27,28,5ème circonscription,1,28,27,27005
 3,BLITMAN,Delphine,Mme,EXG,Extrême gauche,671,"1,14","0,75",NON,2705,27,28,5ème circonscription,1,28,27,27005
-4,HOUSSIN,Timothée,M.,RN,Rassemblement National,26600,"45,26","29,62",QUALIF T2,2705,27,28,5ème circonscription,1,28,27,27005
+4,HOUSSIN,Timothée,M.,RN,Rassemblement National,26601,"45,26","29,62",QUALIF T2,2705,27,28,5ème circonscription,1,28,27,27005
 5,MAZURE,Christian,M.,DVD,Divers droite,911,"1,55","1,01",NON,2705,27,28,5ème circonscription,1,28,27,27005
 6,PRÉVOTEAU DU CLARY,Colin,M.,DVD,Divers droite,2,"0,00","0,00",NON,2705,27,28,5ème circonscription,1,28,27,27005
 7,DUCHÉ,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),14332,"24,39","15,96",QUALIF T2,2705,27,28,5ème circonscription,1,28,27,27005
@@ -1610,7 +1610,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 2,MOISAN,Éric,M.,EXG,Extrême gauche,861,"1,20","0,79",NON,7606,76,28,6ème circonscription,1,28,76,76006
 3,ACCARD,Stéphane,M.,LR,Les Républicains,12916,"17,99","11,82",NON,7606,76,28,6ème circonscription,1,28,76,76006
 4,CLELAND,Olivier,M.,REC,Reconquête !,1009,"1,41","0,92",NON,7606,76,28,6ème circonscription,1,28,76,76006
-5,MARTIN,Patrice,M.,RN,Rassemblement National,32233,"44,90","29,50",QUALIF T2,7606,76,28,6ème circonscription,1,28,76,76006
+5,MARTIN,Patrice,M.,RN,Rassemblement National,32235,"44,91","29,50",QUALIF T2,7606,76,28,6ème circonscription,1,28,76,76006
 1,FIRMIN LE BODO,Agnès,Mme,HOR,Horizons,19734,"34,83","23,07",QUALIF T2,7607,76,28,7ème circonscription,1,28,76,76007
 2,MARTIN PÉRÉON,Florence,Mme,UG,Union de la gauche,16211,"28,62","18,95",QUALIF T2,7607,76,28,7ème circonscription,1,28,76,76007
 3,DUCOEURJOLY,Isabelle,Mme,REC,Reconquête !,553,"0,98","0,65",NON,7607,76,28,7ème circonscription,1,28,76,76007
@@ -1621,24 +1621,24 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 8,OMONT,Catherine,Mme,DVG,Divers gauche,1292,"2,28","1,51",NON,7607,76,28,7ème circonscription,1,28,76,76007
 1,NAOUS,Benoit,M.,LR,Les Républicains,1245,"3,29","1,93",NON,7608,76,28,8ème circonscription,1,28,76,76008
 2,CAUCHOIS,Magali,Mme,EXG,Extrême gauche,504,"1,33","0,78",NON,7608,76,28,8ème circonscription,1,28,76,76008
-3,DEBONS,Régis,M.,HOR,Horizons,8039,"21,24","12,47",NON,7608,76,28,8ème circonscription,1,28,76,76008
+3,DEBONS,Régis,M.,HOR,Horizons,8040,"21,24","12,47",NON,7608,76,28,8ème circonscription,1,28,76,76008
 4,LE COZ,Isabelle,Mme,RN,Rassemblement National,11855,"31,32","18,39",QUALIF T2,7608,76,28,8ème circonscription,1,28,76,76008
-5,LECOQ,Jean-Paul,M.,UG,Union de la gauche,16205,"42,82","25,13",QUALIF T2,7608,76,28,8ème circonscription,1,28,76,76008
-1,POTIER,Douglas,M.,RN,Rassemblement National,28525,"44,58","29,89",QUALIF T2,7609,76,28,9ème circonscription,1,28,76,76009
+5,LECOQ,Jean-Paul,M.,UG,Union de la gauche,16205,"42,81","25,13",QUALIF T2,7608,76,28,8ème circonscription,1,28,76,76008
+1,POTIER,Douglas,M.,RN,Rassemblement National,28528,"44,58","29,89",QUALIF T2,7609,76,28,9ème circonscription,1,28,76,76009
 2,DE CASTET,Aude,Mme,DVC,Divers centre,392,"0,61","0,41",NON,7609,76,28,9ème circonscription,1,28,76,76009
 3,PINATO,René,M.,EXG,Extrême gauche,1122,"1,75","1,18",NON,7609,76,28,9ème circonscription,1,28,76,76009
-4,POUSSIER-WINSBACK,Marie-Agnès,Mme,HOR,Horizons,20527,"32,08","21,51",QUALIF T2,7609,76,28,9ème circonscription,1,28,76,76009
+4,POUSSIER-WINSBACK,Marie-Agnès,Mme,HOR,Horizons,20528,"32,08","21,51",QUALIF T2,7609,76,28,9ème circonscription,1,28,76,76009
 5,MOREL,Solène,Mme,DVG,Divers gauche,1,"0,00","0,00",NON,7609,76,28,9ème circonscription,1,28,76,76009
 6,BUCOURT,Patrick,M.,DSV,Droite souverainiste,967,"1,51","1,01",NON,7609,76,28,9ème circonscription,1,28,76,76009
-7,ROUXEL,Christiane,Mme,UG,Union de la gauche,11844,"18,51","12,41",NON,7609,76,28,9ème circonscription,1,28,76,76009
+7,ROUXEL,Christiane,Mme,UG,Union de la gauche,11845,"18,51","12,41",NON,7609,76,28,9ème circonscription,1,28,76,76009
 8,ROS,Christophe,M.,REC,Reconquête !,615,"0,96","0,64",NON,7609,76,28,9ème circonscription,1,28,76,76009
 1,DUMAS,Nicolas,M.,REC,Reconquête !,901,"1,19","0,81",NON,7610,76,28,10ème circonscription,1,28,76,76010
 2,LECUYER,Rémy,M.,DSV,Droite souverainiste,890,"1,17","0,80",NON,7610,76,28,10ème circonscription,1,28,76,76010
 3,BARRÉ,Handy,M.,UG,Union de la gauche,13254,"17,44","11,95",NON,7610,76,28,10ème circonscription,1,28,76,76010
-4,LE BOURGEOIS,Robert,M.,RN,Rassemblement National,34425,"45,29","31,05",QUALIF T2,7610,76,28,10ème circonscription,1,28,76,76010
+4,LE BOURGEOIS,Robert,M.,RN,Rassemblement National,34431,"45,29","31,05",QUALIF T2,7610,76,28,10ème circonscription,1,28,76,76010
 5,BATUT,Xavier,M.,HOR,Horizons,19420,"25,55","17,51",QUALIF T2,7610,76,28,10ème circonscription,1,28,76,76010
 6,RIVIÈRE,Alain,M.,EXG,Extrême gauche,1033,"1,36","0,93",NON,7610,76,28,10ème circonscription,1,28,76,76010
-7,ROUSSEAU,Jean Nicolas,M.,DVD,Divers droite,6088,"8,01","5,49",NON,7610,76,28,10ème circonscription,1,28,76,76010
+7,ROUSSEAU,Jean Nicolas,M.,DVD,Divers droite,6089,"8,01","5,49",NON,7610,76,28,10ème circonscription,1,28,76,76010
 1,CULIOLI,Charles,M.,UG,Union de la gauche,8654,"19,03","12,01",NON,0201,02,32,1ère circonscription,1,32,02,02001
 2,TRÉGUIER,Philippe,M.,REC,Reconquête !,644,"1,42","0,89",NON,0201,02,32,1ère circonscription,1,32,02,02001
 3,BOUFFLET,Matthieu Léon,M.,DIV,Divers,316,"0,69","0,44",NON,0201,02,32,1ère circonscription,1,32,02,02001
@@ -2411,10 +2411,10 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,HUBERT,Thomas,M.,EXG,Extrême gauche,776,"1,50","0,93",NON,7202,72,52,2ème circonscription,1,52,72,72002
 4,CHEURET,Clément,M.,DIV,Divers,91,"0,18","0,11",NON,7202,72,52,2ème circonscription,1,52,72,72002
 5,KARAMANLI,Marietta,Mme,UG,Union de la gauche,20700,"39,95","24,71",QUALIF T2,7202,72,52,2ème circonscription,1,52,72,72002
-1,JACK,Mathilde,Mme,UG,Union de la gauche,10319,"18,57","12,02",NON,7203,72,52,3ème circonscription,1,52,72,72003
+1,JACK,Mathilde,Mme,UG,Union de la gauche,10320,"18,57","12,02",NON,7203,72,52,3ème circonscription,1,52,72,72003
 2,MARTINEAU,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),16209,"29,17","18,87",QUALIF T2,7203,72,52,3ème circonscription,1,52,72,72003
 3,TROCHON,Éric,M.,DSV,Droite souverainiste,558,"1,00","0,65",NON,7203,72,52,3ème circonscription,1,52,72,72003
-4,LEMOIGNE,Romain,M.,RN,Rassemblement National,23638,"42,55","27,53",QUALIF T2,7203,72,52,3ème circonscription,1,52,72,72003
+4,LEMOIGNE,Romain,M.,RN,Rassemblement National,23637,"42,54","27,52",QUALIF T2,7203,72,52,3ème circonscription,1,52,72,72003
 5,BRUTOUT,Maryse,Mme,EXG,Extrême gauche,885,"1,59","1,03",NON,7203,72,52,3ème circonscription,1,52,72,72003
 6,GRUAU,Vincent,M.,LR,Les Républicains,2819,"5,07","3,28",NON,7203,72,52,3ème circonscription,1,52,72,72003
 7,DE MALHERBE,Raymond,M.,REC,Reconquête !,1131,"2,04","1,32",NON,7203,72,52,3ème circonscription,1,52,72,72003
@@ -2677,7 +2677,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,MONGELOUS,Aymeric,M.,RN,Rassemblement National,36296,"43,83","30,17",QUALIF T2,1705,17,75,5ème circonscription,1,75,17,17005
 2,PLASSARD,Christophe,M.,HOR,Horizons,27124,"32,75","22,55",QUALIF T2,1705,17,75,5ème circonscription,1,75,17,17005
 3,BRACHET,Anne,Mme,UG,Union de la gauche,18344,"22,15","15,25",QUALIF T2,1705,17,75,5ème circonscription,1,75,17,17005
-4,CASSETTE,Danièle,Mme,EXG,Extrême gauche,1050,"1,27","0,87",NON,1705,17,75,5ème circonscription,1,75,17,17005
+4,CASSETTE,Danièle,Mme,EXG,Extrême gauche,1051,"1,27","0,87",NON,1705,17,75,5ème circonscription,1,75,17,17005
 1,COINAUD,Marie-Thérèse,Mme,EXG,Extrême gauche,1303,"1,98","1,42",NON,1901,19,75,1ère circonscription,1,75,19,19001
 2,DUBOIS,Francis,M.,LR,Les Républicains,18816,"28,64","20,51",QUALIF T2,1901,19,75,1ère circonscription,1,75,19,19001
 3,OGUINENA,Gilles,M.,REC,Reconquête !,563,"0,86","0,61",NON,1901,19,75,1ère circonscription,1,75,19,19001
@@ -2786,9 +2786,9 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,AHMIMOU,Zina,Mme,EXG,Extrême gauche,1359,"2,10","1,36",NON,3311,33,75,11ème circonscription,1,75,33,33011
 4,HAMMERER,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),14619,"22,54","14,62",NON,3311,33,75,11ème circonscription,1,75,33,33011
 1,LAVIN,Richard,M.,EXG,Extrême gauche,1021,"1,63","1,15",NON,3312,33,75,12ème circonscription,1,75,33,33012
-2,LAVERGNE,Pascal,M.,ENS,Ensemble ! (Majorité présidentielle),17270,"27,62","19,40",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
-3,FELD,Mathilde,Mme,UG,Union de la gauche,18042,"28,85","20,27",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
-4,BERTHONNEAU,Rémy,M.,RN,Rassemblement National,24016,"38,41","26,98",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
+2,LAVERGNE,Pascal,M.,ENS,Ensemble ! (Majorité présidentielle),17270,"27,62","19,38",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
+3,FELD,Mathilde,Mme,UG,Union de la gauche,18042,"28,85","20,25",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
+4,BERTHONNEAU,Rémy,M.,RN,Rassemblement National,24016,"38,41","26,95",QUALIF T2,3312,33,75,12ème circonscription,1,75,33,33012
 5,LANDETE,Gabriel,M.,DVD,Divers droite,2180,"3,49","2,45",NON,3312,33,75,12ème circonscription,1,75,33,33012
 1,JARREAU,Dominique,M.,DVC,Divers centre,720,"0,95","0,66",NON,4001,40,75,1ère circonscription,1,75,40,40001
 2,LAFARGUE,Marie-Laure,Mme,UG,Union de la gauche,20466,"27,08","18,66",QUALIF T2,4001,40,75,1ère circonscription,1,75,40,40001
@@ -2843,9 +2843,9 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 7,CESCAU,Patrici,M.,REG,Régionaliste,1079,"1,78","1,27",NON,6402,64,75,2ème circonscription,1,75,64,64002
 1,BRIOLAIS,Kévin,M.,ECO,Ecologistes,1154,"1,95","1,37",NON,6403,64,75,3ème circonscription,1,75,64,64003
 2,CRESSON,Nicolas,M.,RN,Rassemblement National,18670,"31,55","22,24",QUALIF T2,6403,64,75,3ème circonscription,1,75,64,64003
-3,LOSSON,Joëlle,Mme,UG,Union de la gauche,10254,"17,33","12,22",NON,6403,64,75,3ème circonscription,1,75,64,64003
+3,LOSSON,Joëlle,Mme,UG,Union de la gauche,10255,"17,33","12,22",NON,6403,64,75,3ème circonscription,1,75,64,64003
 4,MARDELLE,Gilles,M.,LR,Les Républicains,5998,"10,14","7,15",NON,6403,64,75,3ème circonscription,1,75,64,64003
-5,HABIB,David,M.,DVG,Divers gauche,22270,"37,63","26,53",QUALIF T2,6403,64,75,3ème circonscription,1,75,64,64003
+5,HABIB,David,M.,DVG,Divers gauche,22271,"37,63","26,54",QUALIF T2,6403,64,75,3ème circonscription,1,75,64,64003
 6,MISSIER,Antoine,M.,EXG,Extrême gauche,358,"0,60","0,43",NON,6403,64,75,3ème circonscription,1,75,64,64003
 7,ARMAND MÈGE,Audric,M.,REG,Régionaliste,475,"0,80","0,57",NON,6403,64,75,3ème circonscription,1,75,64,64003
 1,RIBEIRO,Carlos,M.,EXG,Extrême gauche,476,"0,82","0,59",NON,6404,64,75,4ème circonscription,1,75,64,64004
@@ -2862,24 +2862,24 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 6,BARDANOUVE,Philippe,M.,EXG,Extrême gauche,477,"0,68","0,47",NON,6405,64,75,5ème circonscription,1,75,64,64005
 7,SUSBIELLE,Hélène,Mme,REG,Régionaliste,154,"0,22","0,15",NON,6405,64,75,5ème circonscription,1,75,64,64005
 8,CASTREC,Valérie,Mme,LR,Les Républicains,4198,"5,99","4,15",NON,6405,64,75,5ème circonscription,1,75,64,64005
-9,ROSSO,Serge,M.,RN,Rassemblement National,19307,"27,54","19,09",QUALIF T2,6405,64,75,5ème circonscription,1,75,64,64005
+9,ROSSO,Serge,M.,RN,Rassemblement National,19308,"27,54","19,09",QUALIF T2,6405,64,75,5ème circonscription,1,75,64,64005
 10,LABADIE,Jean Claude,M.,DIV,Divers,1010,"1,44","1,00",NON,6405,64,75,5ème circonscription,1,75,64,64005
-1,BRISSON,Emmanuelle,Mme,LR,Les Républicains,8546,"11,62","8,02",NON,6406,64,75,6ème circonscription,1,75,64,64006
-2,DUFAU,Peio,M.,UG,Union de la gauche,21649,"29,43","20,31",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
-3,LASTÉCOUÈRES,Victor,M.,UXD,Union de l'extrême droite,18609,"25,29","17,45",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
+1,BRISSON,Emmanuelle,Mme,LR,Les Républicains,8546,"11,61","8,02",NON,6406,64,75,6ème circonscription,1,75,64,64006
+2,DUFAU,Peio,M.,UG,Union de la gauche,21650,"29,42","20,31",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
+3,LASTÉCOUÈRES,Victor,M.,UXD,Union de l'extrême droite,18610,"25,29","17,46",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
 4,LAMARQUE,Michel,M.,DIV,Divers,1,"0,00","0,00",NON,6406,64,75,6ème circonscription,1,75,64,64006
 5,BERTHELOT,Corinne,Mme,DIV,Divers,161,"0,22","0,15",NON,6406,64,75,6ème circonscription,1,75,64,64006
 6,PERNET,Eva,Mme,DVC,Divers centre,248,"0,34","0,23",NON,6406,64,75,6ème circonscription,1,75,64,64006
 7,UHART,Jacqueline,Mme,EXG,Extrême gauche,844,"1,15","0,79",NON,6406,64,75,6ème circonscription,1,75,64,64006
-8,TELLECHEA,Jean,M.,REG,Régionaliste,3712,"5,05","3,48",NON,6406,64,75,6ème circonscription,1,75,64,64006
-9,DEVÈZE,Christian,M.,ENS,Ensemble ! (Majorité présidentielle),19803,"26,92","18,57",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
-1,LANZI,Nathalie,Mme,UG,Union de la gauche,20591,"32,80","22,44",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
+8,TELLECHEA,Jean,M.,REG,Régionaliste,3712,"5,04","3,48",NON,6406,64,75,6ème circonscription,1,75,64,64006
+9,DEVÈZE,Christian,M.,ENS,Ensemble ! (Majorité présidentielle),19806,"26,92","18,58",QUALIF T2,6406,64,75,6ème circonscription,1,75,64,64006
+1,LANZI,Nathalie,Mme,UG,Union de la gauche,20571,"32,79","22,42",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
 2,GAILLARD,Marc René,M.,DVG,Divers gauche,0,"0,00","0,00",NON,7901,79,75,1ère circonscription,1,75,79,79001
-3,JULIARD,Virginie,Mme,REC,Reconquête !,775,"1,23","0,84",NON,7901,79,75,1ère circonscription,1,75,79,79001
+3,JULIARD,Virginie,Mme,REC,Reconquête !,773,"1,23","0,84",NON,7901,79,75,1ère circonscription,1,75,79,79001
 4,VAUZELLE,Danielle,Mme,EXG,Extrême gauche,698,"1,11","0,76",NON,7901,79,75,1ère circonscription,1,75,79,79001
-5,CHAMPEAU,Dorothée,Mme,RN,Rassemblement National,15461,"24,63","16,85",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
-6,MARCHIVE,Bastien,M.,DVC,Divers centre,25256,"40,23","27,53",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
-1,BATHO,Delphine,Mme,ECO,Ecologistes,25436,"38,57","25,94",QUALIF T2,7902,79,75,2ème circonscription,1,75,79,79002
+5,CHAMPEAU,Dorothée,Mme,RN,Rassemblement National,15447,"24,62","16,84",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
+6,MARCHIVE,Bastien,M.,DVC,Divers centre,25247,"40,24","27,52",QUALIF T2,7901,79,75,1ère circonscription,1,75,79,79001
+1,BATHO,Delphine,Mme,ECO,Ecologistes,25435,"38,57","25,94",QUALIF T2,7902,79,75,2ème circonscription,1,75,79,79002
 2,BAUDREZ,Emilie,Mme,LR,Les Républicains,6107,"9,26","6,23",NON,7902,79,75,2ème circonscription,1,75,79,79002
 3,BOURDON,Guy,M.,REC,Reconquête !,760,"1,15","0,78",NON,7902,79,75,2ème circonscription,1,75,79,79002
 4,GARAULT,Mélody,Mme,RN,Rassemblement National,22500,"34,12","22,95",QUALIF T2,7902,79,75,2ème circonscription,1,75,79,79002
@@ -2961,8 +2961,8 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 6,SOREL-LESTIN,Sylvie,Mme,ENS,Ensemble ! (Majorité présidentielle),8155,"13,04","9,08",NON,1103,11,76,3ème circonscription,1,76,11,11003
 7,MARTEEL,Nathalie,Mme,REC,Reconquête !,681,"1,09","0,76",NON,1103,11,76,3ème circonscription,1,76,11,11003
 8,LECLERC,Jean-François,M.,LR,Les Républicains,2096,"3,35","2,33",NON,1103,11,76,3ème circonscription,1,76,11,11003
-1,THEBAULT,Léon,M.,UG,Union de la gauche,12701,"22,74","16,21",QUALIF T2,1201,12,76,1ère circonscription,1,76,12,12001
-2,MAZARS,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),24349,"43,59","31,08",QUALIF T2,1201,12,76,1ère circonscription,1,76,12,12001
+1,THEBAULT,Léon,M.,UG,Union de la gauche,12702,"22,74","16,21",QUALIF T2,1201,12,76,1ère circonscription,1,76,12,12001
+2,MAZARS,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),24349,"43,58","31,08",QUALIF T2,1201,12,76,1ère circonscription,1,76,12,12001
 3,DA CRUZ,Antoine,M.,DVD,Divers droite,811,"1,45","1,04",NON,1201,12,76,1ère circonscription,1,76,12,12001
 4,SAINT-AVIT,Arlette,Mme,EXG,Extrême gauche,418,"0,75","0,53",NON,1201,12,76,1ère circonscription,1,76,12,12001
 5,CHARTIER,Jean-Philippe,M.,RN,Rassemblement National,17586,"31,48","22,45",QUALIF T2,1201,12,76,1ère circonscription,1,76,12,12001
@@ -2971,11 +2971,11 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,ARMET,Jean-Philippe,M.,DSV,Droite souverainiste,1141,"2,37","1,67",NON,1202,12,76,2ème circonscription,1,76,12,12002
 4,EL HEDRI,Lucile,Mme,EXG,Extrême gauche,595,"1,24","0,87",NON,1202,12,76,2ème circonscription,1,76,12,12002
 5,DEGUARA,Samuel,M.,ENS,Ensemble ! (Majorité présidentielle),14690,"30,55","21,53",QUALIF T2,1202,12,76,2ème circonscription,1,76,12,12002
-1,BOUIGUE,Richard,M.,UG,Union de la gauche,14660,"28,81","20,29",QUALIF T2,1203,12,76,3ème circonscription,1,76,12,12003
+1,BOUIGUE,Richard,M.,UG,Union de la gauche,14660,"28,81","20,28",QUALIF T2,1203,12,76,3ème circonscription,1,76,12,12003
 2,ROUSSET,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),16514,"32,45","22,85",QUALIF T2,1203,12,76,3ème circonscription,1,76,12,12003
 3,COMBES,Bernard,M.,EXG,Extrême gauche,607,"1,19","0,84",NON,1203,12,76,3ème circonscription,1,76,12,12003
 4,NOEL,Thierry,M.,ECO,Ecologistes,1066,"2,09","1,48",NON,1203,12,76,3ème circonscription,1,76,12,12003
-5,FEVRE,Pierre-Antoine,M.,UXD,Union de l'extrême droite,18043,"35,45","24,97",QUALIF T2,1203,12,76,3ème circonscription,1,76,12,12003
+5,FEVRE,Pierre-Antoine,M.,UXD,Union de l'extrême droite,18044,"35,46","24,97",QUALIF T2,1203,12,76,3ème circonscription,1,76,12,12003
 1,BOURGHOL,Loumy,Mme,LR,Les Républicains,3076,"5,43","3,40",NON,3001,30,76,1ère circonscription,1,76,30,30001
 2,ROUVERAND,Valérie,Mme,ENS,Ensemble ! (Majorité présidentielle),11394,"20,10","12,61",QUALIF T2,3001,30,76,1ère circonscription,1,76,30,30001
 3,LECLERC,Isabelle,Mme,EXG,Extrême gauche,587,"1,04","0,65",NON,3001,30,76,1ère circonscription,1,76,30,30001
@@ -3334,7 +3334,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 6,GALLAIS,Dorothée,Mme,RN,Rassemblement National,13361,"30,29","21,44",QUALIF T2,1501,15,84,1ère circonscription,1,84,15,15001
 1,CHEIKHI,Mona,Mme,EXG,Extrême gauche,298,"0,83","0,57",NON,1502,15,84,2ème circonscription,1,84,15,15002
 2,PÉBAY,Zoé,Mme,UG,Union de la gauche,4919,"13,62","9,40",NON,1502,15,84,2ème circonscription,1,84,15,15002
-3,LACROIX,Gilles,M.,RN,Rassemblement National,11921,"33,01","22,79",QUALIF T2,1502,15,84,2ème circonscription,1,84,15,15002
+3,LACROIX,Gilles,M.,RN,Rassemblement National,11923,"33,02","22,79",QUALIF T2,1502,15,84,2ème circonscription,1,84,15,15002
 4,VEYSSET-RAPAPORT,Pascal,M.,REC,Reconquête !,220,"0,61","0,42",NON,1502,15,84,2ème circonscription,1,84,15,15002
 5,TILMANT-TATISCHEFF,Vladimir,M.,ENS,Ensemble ! (Majorité présidentielle),3019,"8,36","5,77",NON,1502,15,84,2ème circonscription,1,84,15,15002
 6,TOTY,Louis,M.,DVD,Divers droite,3348,"9,27","6,40",NON,1502,15,84,2ème circonscription,1,84,15,15002
@@ -3347,7 +3347,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 6,CHRISTOPHLE,Paul,M.,UG,Union de la gauche,16835,"32,41","21,68",QUALIF T2,2601,26,84,1ère circonscription,1,84,26,26001
 1,MICHEL,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),12158,"18,94","12,52",QUALIF T2,2602,26,84,2ème circonscription,1,84,26,26002
 2,OUMEDDOUR,Karim,M.,DVD,Divers droite,1795,"2,80","1,85",NON,2602,26,84,2ème circonscription,1,84,26,26002
-3,POLLET,Lisette,Mme,RN,Rassemblement National,27497,"42,84","28,31",QUALIF T2,2602,26,84,2ème circonscription,1,84,26,26002
+3,POLLET,Lisette,Mme,RN,Rassemblement National,27507,"42,85","28,32",QUALIF T2,2602,26,84,2ème circonscription,1,84,26,26002
 4,CHKERI,Karim,M.,UG,Union de la gauche,14642,"22,81","15,08",QUALIF T2,2602,26,84,2ème circonscription,1,84,26,26002
 5,GAILLARD,Jean-Marc,M.,REC,Reconquête !,710,"1,11","0,73",NON,2602,26,84,2ème circonscription,1,84,26,26002
 6,RAT,Guy,M.,EXG,Extrême gauche,704,"1,10","0,72",NON,2602,26,84,2ème circonscription,1,84,26,26002
@@ -3363,8 +3363,8 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,BERNARD,Monique,Mme,EXG,Extrême gauche,634,"0,91","0,63",NON,2604,26,84,4ème circonscription,1,84,26,26004
 4,ANTHOINE,Emmanuelle,Mme,LR,Les Républicains,16635,"23,98","16,52",QUALIF T2,2604,26,84,4ème circonscription,1,84,26,26004
 5,GAFA,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),5762,"8,31","5,72",NON,2604,26,84,4ème circonscription,1,84,26,26004
-6,MONNIER,Thibaut,M.,RN,Rassemblement National,26621,"38,38","26,44",QUALIF T2,2604,26,84,4ème circonscription,1,84,26,26004
-7,REYBERT,Evelyne,Mme,REC,Reconquête !,697,"1,00","0,69",NON,2604,26,84,4ème circonscription,1,84,26,26004
+6,MONNIER,Thibaut,M.,RN,Rassemblement National,26621,"38,37","26,44",QUALIF T2,2604,26,84,4ème circonscription,1,84,26,26004
+7,REYBERT,Evelyne,Mme,REC,Reconquête !,702,"1,01","0,70",NON,2604,26,84,4ème circonscription,1,84,26,26004
 1,BÉRANGER,Nathalie,Mme,LR,Les Républicains,4379,"6,98","5,22",NON,3801,38,84,1ère circonscription,1,84,38,38001
 2,ADAM,Rémi,M.,EXG,Extrême gauche,541,"0,86","0,64",NON,3801,38,84,1ère circonscription,1,84,38,38001
 3,LACROIX,Alexandre,M.,UXD,Union de l'extrême droite,11504,"18,34","13,71",QUALIF T2,3801,38,84,1ère circonscription,1,84,38,38001
@@ -3469,9 +3469,9 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 6,PETIOT,Yves,M.,EXG,Extrême gauche,720,"0,92","0,64",NON,4206,42,84,6ème circonscription,1,84,42,42006
 7,OLIVE,Marie-Paule,Mme,UG,Union de la gauche,13472,"17,25","12,04",NON,4206,42,84,6ème circonscription,1,84,42,42006
 8,GUY-MERCIER,Yvan,M.,REC,Reconquête !,470,"0,60","0,42",NON,4206,42,84,6ème circonscription,1,84,42,42006
-1,DRACOS,Electre,Mme,EXG,Extrême gauche,667,"0,91","0,65",NON,4301,43,84,1ère circonscription,1,84,43,43001
+1,DRACOS,Electre,Mme,EXG,Extrême gauche,668,"0,91","0,65",NON,4301,43,84,1ère circonscription,1,84,43,43001
 2,GACON,Celline,Mme,UG,Union de la gauche,13694,"18,66","13,33",QUALIF T2,4301,43,84,1ère circonscription,1,84,43,43001
-3,HEUZEY,Alexandre,M.,RN,Rassemblement National,25091,"34,19","24,43",QUALIF T2,4301,43,84,1ère circonscription,1,84,43,43001
+3,HEUZEY,Alexandre,M.,RN,Rassemblement National,25091,"34,18","24,43",QUALIF T2,4301,43,84,1ère circonscription,1,84,43,43001
 4,GALLIEN,Cécile Marcelle,Mme,ENS,Ensemble ! (Majorité présidentielle),6932,"9,44","6,75",NON,4301,43,84,1ère circonscription,1,84,43,43001
 5,WAUQUIEZ,Laurent,M.,LR,Les Républicains,27013,"36,80","26,30",QUALIF T2,4301,43,84,1ère circonscription,1,84,43,43001
 1,VIGIER,Jean-Pierre,M.,LR,Les Républicains,21573,"38,69","27,17",QUALIF T2,4302,43,84,2ème circonscription,1,84,43,43002
@@ -3491,11 +3491,11 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 5,PIRÈS BEAUNE,Christine,Mme,UG,Union de la gauche,23175,"36,20","25,67",QUALIF T2,6302,63,84,2ème circonscription,1,84,63,63002
 6,GODU,Marion,Mme,REC,Reconquête !,640,"1,00","0,71",NON,6302,63,84,2ème circonscription,1,84,63,63002
 1,MARCHIS,Marie-Anne,Mme,LR,Les Républicains,8863,"13,73","9,83",NON,6303,63,84,3ème circonscription,1,84,63,63003
-2,VICHNIEVSKY,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),16798,"26,03","18,62",QUALIF T2,6303,63,84,3ème circonscription,1,84,63,63003
+2,VICHNIEVSKY,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),16800,"26,03","18,63",QUALIF T2,6303,63,84,3ème circonscription,1,84,63,63003
 3,FINOTTO,Patrick,M.,REC,Reconquête !,573,"0,89","0,64",NON,6303,63,84,3ème circonscription,1,84,63,63003
 4,SAVRE,Marie,Mme,EXG,Extrême gauche,759,"1,18","0,84",NON,6303,63,84,3ème circonscription,1,84,63,63003
 5,DUPIC,Louis,M.,DVD,Divers droite,277,"0,43","0,31",NON,6303,63,84,3ème circonscription,1,84,63,63003
-6,PERS,Nadine,Mme,RN,Rassemblement National,16732,"25,93","18,55",QUALIF T2,6303,63,84,3ème circonscription,1,84,63,63003
+6,PERS,Nadine,Mme,RN,Rassemblement National,16735,"25,93","18,55",QUALIF T2,6303,63,84,3ème circonscription,1,84,63,63003
 7,ONDET,René,M.,DVG,Divers gauche,64,"0,10","0,07",NON,6303,63,84,3ème circonscription,1,84,63,63003
 8,BONNET,Nicolas,M.,UG,Union de la gauche,20470,"31,72","22,70",QUALIF T2,6303,63,84,3ème circonscription,1,84,63,63003
 1,LINGEMANN,Delphine,Mme,ENS,Ensemble ! (Majorité présidentielle),19299,"27,38","18,92",QUALIF T2,6304,63,84,4ème circonscription,1,84,63,63004
@@ -3521,9 +3521,9 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 1,TOUIHRI,Nizar,M.,DIV,Divers,63,"0,11","0,08",NON,6902,69,84,2ème circonscription,1,84,69,69002
 2,GUILLOTEAU,Maryll,Mme,LR,Les Républicains,4456,"7,74","5,97",NON,6902,69,84,2ème circonscription,1,84,69,69002
 3,COULAN,Pascal,M.,DIV,Divers,148,"0,26","0,20",NON,6902,69,84,2ème circonscription,1,84,69,69002
-4,TERRENES,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),14455,"25,12","19,38",QUALIF T2,6902,69,84,2ème circonscription,1,84,69,69002
+4,TERRENES,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),14455,"25,12","19,37",QUALIF T2,6902,69,84,2ème circonscription,1,84,69,69002
 5,BRUNO,Anthony,M.,EXG,Extrême gauche,0,"0,00","0,00",NON,6902,69,84,2ème circonscription,1,84,69,69002
-6,TAVERNIER,Boris,M.,UG,Union de la gauche,28567,"49,65","38,30",QUALIF T2,6902,69,84,2ème circonscription,1,84,69,69002
+6,TAVERNIER,Boris,M.,UG,Union de la gauche,28567,"49,65","38,29",QUALIF T2,6902,69,84,2ème circonscription,1,84,69,69002
 7,BISLEAU,Anaëlle,Mme,RN,Rassemblement National,8228,"14,30","11,03",NON,6902,69,84,2ème circonscription,1,84,69,69002
 8,BRIDAY,Delphine,Mme,EXG,Extrême gauche,297,"0,52","0,40",NON,6902,69,84,2ème circonscription,1,84,69,69002
 9,JOUTEUX,Michaël,M.,EXG,Extrême gauche,133,"0,23","0,18",NON,6902,69,84,2ème circonscription,1,84,69,69002
@@ -3548,12 +3548,12 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 7,BILLARD,Romain,M.,LR,Les Républicains,6267,"10,37","7,94",NON,6904,69,84,4ème circonscription,1,84,69,69004
 8,BRUGNERA,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),18744,"31,03","23,76",QUALIF T2,6904,69,84,4ème circonscription,1,84,69,69004
 9,TORRENT,Armande,Mme,REC,Reconquête !,655,"1,08","0,83",NON,6904,69,84,4ème circonscription,1,84,69,69004
-1,BAZIN,Mathieu,M.,REC,Reconquête !,990,"1,47","1,09",NON,6905,69,84,5ème circonscription,1,84,69,69005
-2,BROCARD,Blandine,Mme,ENS,Ensemble ! (Majorité présidentielle),21701,"32,23","23,95",QUALIF T2,6905,69,84,5ème circonscription,1,84,69,69005
+1,BAZIN,Mathieu,M.,REC,Reconquête !,1009,"1,50","1,11",NON,6905,69,84,5ème circonscription,1,84,69,69005
+2,BROCARD,Blandine,Mme,ENS,Ensemble ! (Majorité présidentielle),21552,"32,01","23,79",QUALIF T2,6905,69,84,5ème circonscription,1,84,69,69005
 3,JOINT,Bastien,M.,LR,Les Républicains,9431,"14,01","10,41",NON,6905,69,84,5ème circonscription,1,84,69,69005
-4,BITOUM,Sasha,Mme,RN,Rassemblement National,16941,"25,16","18,70",QUALIF T2,6905,69,84,5ème circonscription,1,84,69,69005
+4,BITOUM,Sasha,Mme,RN,Rassemblement National,17090,"25,38","18,86",QUALIF T2,6905,69,84,5ème circonscription,1,84,69,69005
 5,MATTEUCCI,Fabrice,M.,UG,Union de la gauche,17831,"26,48","19,68",QUALIF T2,6905,69,84,5ème circonscription,1,84,69,69005
-6,RIVIERE,Hélène,Mme,EXG,Extrême gauche,432,"0,64","0,48",NON,6905,69,84,5ème circonscription,1,84,69,69005
+6,RIVIERE,Hélène,Mme,EXG,Extrême gauche,413,"0,61","0,46",NON,6905,69,84,5ème circonscription,1,84,69,69005
 1,BASILIEN,Joseph,M.,ECO,Ecologistes,723,"1,23","0,79",NON,6906,69,84,6ème circonscription,1,84,69,69006
 2,AMARD,Gabriel,M.,UG,Union de la gauche,27294,"46,29","29,66",QUALIF T2,6906,69,84,6ème circonscription,1,84,69,69006
 3,BRET,Jean-Paul,M.,DVG,Divers gauche,11755,"19,94","12,78",QUALIF T2,6906,69,84,6ème circonscription,1,84,69,69006
@@ -3690,7 +3690,7 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 3,CYVOCT,Henri,M.,EXG,Extrême gauche,438,"0,98","0,66",NON,0402,04,93,2ème circonscription,1,93,04,04002
 4,WALTER,Léo,M.,UG,Union de la gauche,14774,"32,99","22,16",QUALIF T2,0402,04,93,2ème circonscription,1,93,04,04002
 5,BLANC,Dominique,Mme,ENS,Ensemble ! (Majorité présidentielle),10162,"22,69","15,24",QUALIF T2,0402,04,93,2ème circonscription,1,93,04,04002
-6,CADENEL,Myriam,Mme,REC,Reconquête !,584,"1,30","0,88",NON,0402,04,93,2ème circonscription,1,93,04,04002
+6,CADENEL,Myriam,Mme,REC,Reconquête !,585,"1,31","0,88",NON,0402,04,93,2ème circonscription,1,93,04,04002
 1,SAINTE-MARIE,Jérôme,M.,RN,Rassemblement National,15772,"38,24","26,27",QUALIF T2,0501,05,93,1ère circonscription,1,93,05,05001
 2,BOYER,Pascale,Mme,ENS,Ensemble ! (Majorité présidentielle),9312,"22,58","15,51",QUALIF T2,0501,05,93,1ère circonscription,1,93,05,05001
 3,ALLEMAND,Marie-José,Mme,UG,Union de la gauche,12568,"30,47","20,93",QUALIF T2,0501,05,93,1ère circonscription,1,93,05,05001
@@ -3978,12 +3978,12 @@ NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,NbVoix,Rapport
 5,LEFEVRE,Martin,M.,LR,Les Républicains,3512,"6,22","4,13",NON,8405,84,93,5ème circonscription,1,93,84,84005
 1,QUILICHINI,Didier,M.,EXG,Extrême gauche,133,"0,40","0,25",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
 2,LUCIANI,Lisandru,M.,REG,Régionaliste,1202,"3,61","2,29",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
-3,LEROY,Marc-Antoine,M.,COM,Parti communiste français,3126,"9,40","5,96",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
-4,LUCIANI,Jean-François,M.,REG,Régionaliste,1077,"3,24","2,05",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
+3,LEROY,Marc-Antoine,M.,COM,Parti communiste français,3125,"9,40","5,95",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
+4,LUCIANI,Jean-François,M.,REG,Régionaliste,1078,"3,24","2,05",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
 5,COLONNA,Romain,M.,REG,Régionaliste,5601,"16,84","10,67",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
 6,DOMINICI,Emmanuelle,Mme,REG,Régionaliste,1533,"4,61","2,92",NON,2A01,2A,94,1ère circonscription,1,94,2A,2A001
 7,MARCANGELI,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),10210,"30,70","19,45",QUALIF T2,2A01,2A,94,1ère circonscription,1,94,2A,2A001
-8,QUARENA,Ariane,Mme,RN,Rassemblement National,10376,"31,20","19,77",QUALIF T2,2A01,2A,94,1ère circonscription,1,94,2A,2A001
+8,QUARENA,Ariane,Mme,RN,Rassemblement National,10377,"31,20","19,77",QUALIF T2,2A01,2A,94,1ère circonscription,1,94,2A,2A001
 1,COLOMBANI,Paul-André,M.,REG,Régionaliste,10266,"26,45","16,43",QUALIF T2,2A02,2A,94,2ème circonscription,1,94,2A,2A002
 2,LUCCIONI,Jean-Baptiste,M.,SOC,Parti socialiste,4780,"12,32","7,65",NON,2A02,2A,94,2ème circonscription,1,94,2A,2A002
 3,CHIOCCA,Michel,M.,REG,Régionaliste,1055,"2,72","1,69",NON,2A02,2A,94,2ème circonscription,1,94,2A,2A002

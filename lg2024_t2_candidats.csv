@@ -1,0 +1,1095 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNuaCand,LibNuaCand,CodCirc,CodDept,CodeReg,CodCirc2
+1,LENORMAND,Stéphane,M.,DVD,Divers droite,97501,975,00,ZS001
+2,BEAUMONT,Frédéric,M.,SOC,Parti socialiste,97501,975,00,ZS001
+1,SANQUER,Nicole,Mme,DVD,Divers droite,98702,987,00,ZP002
+5,CHAILLOUX,Steve,M.,UG,Union de la gauche,98702,987,00,ZP002
+3,REID ABERLOT,Mereana,Mme,UG,Union de la gauche,98703,987,00,ZP003
+4,HAITI EPOUSE FLOSSE,Pascale,Mme,DVD,Divers droite,98703,987,00,ZP003
+2,METZDORF,Nicolas,M.,DVD,Divers droite,98801,988,00,ZN001
+4,NAISSELINE,Omayra Lisa Meun,Mme,REG,Régionaliste,98801,988,00,ZN001
+2,TJIBAOU,Emmanuel,M.,REG,Régionaliste,98802,988,00,ZN002
+6,PONGA,Alcide,M.,DVD,Divers droite,98802,988,00,ZN002
+1,QUESTEL,Alexandra,Mme,DVD,Divers droite,ZX01,ZX,00,ZX001
+8,GUMBS,Frantz,M.,DVC,Divers centre,ZX01,ZX,00,ZX001
+1,LESCURE,Roland,M.,ENS,Ensemble ! (Majorité présidentielle),ZZ01,ZZ,00,ZZ001
+8,LARAICHI,Oussama,M.,UG,Union de la gauche,ZZ01,ZZ,00,ZZ001
+6,CAROIT,Eléonore,Mme,ENS,Ensemble ! (Majorité présidentielle),ZZ02,ZZ,00,ZZ002
+7,CORONADO,Sergio,M.,UG,Union de la gauche,ZZ02,ZZ,00,ZZ002
+1,MINVIELLE,Charlotte,Mme,UG,Union de la gauche,ZZ03,ZZ,00,ZZ003
+5,CAURE,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle),ZZ03,ZZ,00,ZZ003
+2,GONDARD,Cécilia,Mme,UG,Union de la gauche,ZZ04,ZZ,00,ZZ004
+9,ANGLADE,Pieyre-Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),ZZ04,ZZ,00,ZZ004
+2,DA SILVA,Maxime,M.,UG,Union de la gauche,ZZ05,ZZ,00,ZZ005
+8,VOJETTA,Stéphane,M.,DVC,Divers centre,ZZ05,ZZ,00,ZZ005
+3,FERRACCI,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),ZZ06,ZZ,00,ZZ006
+4,DELIMI,Halima,Mme,UG,Union de la gauche,ZZ06,ZZ,00,ZZ006
+1,PETIT,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),ZZ07,ZZ,00,ZZ007
+5,RHARMAOUI-CLAQUIN,Asma,Mme,UG,Union de la gauche,ZZ07,ZZ,00,ZZ007
+5,HABIB,Meyer,M.,LR,Les Républicains,ZZ08,ZZ,00,ZZ008
+6,YADAN,Caroline,Mme,ENS,Ensemble ! (Majorité présidentielle),ZZ08,ZZ,00,ZZ008
+8,DJOUADI,Samira,Mme,ENS,Ensemble ! (Majorité présidentielle),ZZ09,ZZ,00,ZZ009
+9,BEN CHEÏKH,Karim,M.,UG,Union de la gauche,ZZ09,ZZ,00,ZZ009
+3,LAKRAFI,Amélia,Mme,ENS,Ensemble ! (Majorité présidentielle),ZZ10,ZZ,00,ZZ010
+6,DI MEO,Elsa,Mme,UG,Union de la gauche,ZZ10,ZZ,00,ZZ010
+2,PAJOT,Franck,M.,UG,Union de la gauche,ZZ11,ZZ,00,ZZ011
+13,GENETET,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),ZZ11,ZZ,00,ZZ011
+4,SERVA,Olivier,M.,DVG,Divers gauche,97101,971,01,ZA001
+7,LERUS,Chantal,Mme,DVG,Divers gauche,97101,971,01,ZA001
+6,BAPTISTE,Christian,M.,DVG,Divers gauche,97102,971,01,ZA002
+14,PETIT,Laurent,M.,RN,Rassemblement National,97102,971,01,ZA002
+2,MATHIASIN,Max,M.,DVG,Divers gauche,97103,971,01,ZA003
+10,TOLASSY,Rody,M.,RN,Rassemblement National,97103,971,01,ZA003
+1,CALIFER,Elie,M.,SOC,Parti socialiste,97104,971,01,ZA004
+6,LINON,Jennifer,Mme,DVC,Divers centre,97104,971,01,ZA004
+2,EDMOND-MARIETTE,Philippe,M.,REG,Régionaliste,97201,972,02,ZB001
+8,WILLIAM,Jiovanny,M.,REG,Régionaliste,97201,972,02,ZB001
+4,NADEAU,Marcellin,M.,REG,Régionaliste,97202,972,02,ZB002
+5,MONPLAISIR,Yan,M.,DVD,Divers droite,97202,972,02,ZB002
+2,BELLAY,Beatrice,Mme,SOC,Parti socialiste,97203,972,02,ZB003
+3,HAJJAR,Johnny,M.,DVG,Divers gauche,97203,972,02,ZB003
+4,NILOR,Jean-Philippe,M.,REG,Régionaliste,97204,972,02,ZB004
+7,ROY-LARENTRY,Grégory Michel,M.,RN,Rassemblement National,97204,972,02,ZB004
+1,CASTOR,Jean-Victor,M.,REG,Régionaliste,97301,973,03,ZC001
+3,CHONG SIT,Boris,M.,DVD,Divers droite,97301,973,03,ZC001
+5,RIMANE,Davy,M.,REG,Régionaliste,97302,973,03,ZC002
+1,NAILLET,Philippe,M.,UG,Union de la gauche,97401,974,04,ZD001
+3,MOREL,Jean Jacques,M.,RN,Rassemblement National,97401,974,04,ZD001
+1,BEGUE,Christelle,Mme,RN,Rassemblement National,97402,974,04,ZD002
+5,LEBON,Karine,Mme,UG,Union de la gauche,97402,974,04,ZD002
+1,RIVIERE,Joseph,M.,RN,Rassemblement National,97403,974,04,ZD003
+3,CHAUSSALET,Alexis,M.,DVG,Divers gauche,97403,974,04,ZD003
+2,KBIDI,Emeline,Mme,DVG,Divers gauche,97404,974,04,ZD004
+6,RIVIERE,Jonathan,M.,RN,Rassemblement National,97404,974,04,ZD004
+5,RATENON,Jean-Hugues,M.,DVG,Divers gauche,97405,974,04,ZD005
+9,DORO,Joan,M.,RN,Rassemblement National,97405,974,04,ZD005
+3,MAILLOT,Frédéric,M.,DVG,Divers gauche,97406,974,04,ZD006
+7,LEGROS,Valérie,Mme,RN,Rassemblement National,97406,974,04,ZD006
+9,GAILLARD,Perceval,M.,UG,Union de la gauche,97407,974,04,ZD007
+10,POUDROUX,Jean-Luc,M.,RN,Rassemblement National,97407,974,04,ZD007
+5,KAMARDINE,Mansour,M.,LR,Les Républicains,97602,976,06,ZM002
+8,BAMANA,Anchya,Mme,RN,Rassemblement National,97602,976,06,ZM002
+1,KEMPF,Raphaël,M.,UG,Union de la gauche,7501,75,11,75001
+6,MAILLARD,Sylvain,M.,ENS,Ensemble ! (Majorité présidentielle),7501,75,11,75001
+7,LAUSSUCQ,Jean,M.,ENS,Ensemble ! (Majorité présidentielle),7502,75,11,75002
+12,ROSSET,Marine,Mme,UG,Union de la gauche,7502,75,11,75002
+1,GUERINI,Stanislas,M.,ENS,Ensemble ! (Majorité présidentielle),7503,75,11,75003
+2,BALAGE EL MARIKY,Léa,Mme,UG,Union de la gauche,7503,75,11,75003
+1,PANOSYAN-BOUVET,Astrid,Mme,ENS,Ensemble ! (Majorité présidentielle),7504,75,11,75004
+10,BOULARD,Geoffroy,M.,DVD,Divers droite,7504,75,11,75004
+4,HERVIEU,Céline,Mme,UG,Union de la gauche,7511,75,11,75011
+7,GATEL,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),7511,75,11,75011
+2,GREGOIRE,Olivia,Mme,ENS,Ensemble ! (Majorité présidentielle),7512,75,11,75012
+4,MALAISÉ,Celine,Mme,UG,Union de la gauche,7512,75,11,75012
+6,AMIEL,David,M.,ENS,Ensemble ! (Majorité présidentielle),7513,75,11,75013
+10,NIAKATÉ,Aminata,Mme,UG,Union de la gauche,7513,75,11,75013
+2,HADDAD,Benjamin,M.,ENS,Ensemble ! (Majorité présidentielle),7514,75,11,75014
+5,PIQUET,Louis,M.,UXD,Union de l'extrême droite,7514,75,11,75014
+9,SIMONNET,Danielle,Mme,DVG,Divers gauche,7515,75,11,75015
+11,VERZELETTI,Céline,Mme,UG,Union de la gauche,7515,75,11,75015
+3,SAINT-MARTIN,Arnaud,M.,UG,Union de la gauche,7701,77,11,77001
+6,LUQUET,Aude,Mme,ENS,Ensemble ! (Majorité présidentielle),7701,77,11,77001
+8,MICHEL,Théo,M.,UXD,Union de l'extrême droite,7701,77,11,77001
+3,DIMITROVA,Ivanka,Mme,RN,Rassemblement National,7702,77,11,77002
+7,VALLETOUX,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),7702,77,11,77002
+1,BRUN,Davy,M.,RN,Rassemblement National,7703,77,11,77003
+4,THIERIOT,Jean-Louis,M.,LR,Les Républicains,7703,77,11,77003
+4,PERIGAULT,Isabelle,Mme,LR,Les Républicains,7704,77,11,77004
+5,LIMONGI,Julien,M.,RN,Rassemblement National,7704,77,11,77004
+3,FONTANA,Philippe,M.,UXD,Union de l'extrême droite,7705,77,11,77005
+5,RIESTER,Franck,M.,ENS,Ensemble ! (Majorité présidentielle),7705,77,11,77005
+3,BENTOUNSI,Amal,Mme,UG,Union de la gauche,7706,77,11,77006
+4,ROULLAUD,Béatrice,Mme,RN,Rassemblement National,7706,77,11,77006
+4,SOUDAIS,Ersilia,Mme,UG,Union de la gauche,7707,77,11,77007
+8,LAFFITE,Agnès,Mme,RN,Rassemblement National,7707,77,11,77007
+1,BONNET,Arnaud,M.,UG,Union de la gauche,7708,77,11,77008
+2,GHOMI,Hadrien,M.,ENS,Ensemble ! (Majorité présidentielle),7708,77,11,77008
+6,MOURGERES,Manon,Mme,RN,Rassemblement National,7708,77,11,77008
+3,THIÉBAULT-MARTINEZ,Céline,Mme,UG,Union de la gauche,7709,77,11,77009
+4,VANACKER,Morgann,M.,RN,Rassemblement National,7709,77,11,77009
+1,LAISNEY,Maxime,M.,UG,Union de la gauche,7710,77,11,77010
+5,BRACH,Pryscillia,Mme,RN,Rassemblement National,7710,77,11,77010
+1,RODWELL,Charles,M.,ENS,Ensemble ! (Majorité présidentielle),7801,78,11,78001
+6,RAMAGE,Sébastien,M.,UG,Union de la gauche,7801,78,11,78001
+7,JACQMIN,Anne,Mme,RN,Rassemblement National,7801,78,11,78001
+2,BARROT,Jean-Noël,M.,ENS,Ensemble ! (Majorité présidentielle),7802,78,11,78002
+6,BRAULT,Gaetan,M.,RN,Rassemblement National,7802,78,11,78002
+1,PIRON,Béatrice,Mme,ENS,Ensemble ! (Majorité présidentielle),7803,78,11,78003
+7,SALVINO,Valentin,M.,UXD,Union de l'extrême droite,7803,78,11,78003
+1,LEBEC,Marie,Mme,ENS,Ensemble ! (Majorité présidentielle),7804,78,11,78004
+2,MOURTOUX,Jean-François,M.,UXD,Union de l'extrême droite,7804,78,11,78004
+6,BOURDON,Céline,Mme,UG,Union de la gauche,7804,78,11,78004
+2,BENYETTOU,Yassine,M.,UG,Union de la gauche,7805,78,11,78005
+4,MYARD,Jacques,M.,DVD,Divers droite,7805,78,11,78005
+7,BRAUN-PIVET,Yaël,Mme,ENS,Ensemble ! (Majorité présidentielle),7805,78,11,78005
+4,SAUGER,Mélinda,Mme,UG,Union de la gauche,7806,78,11,78006
+6,LELANDAIS,Sophie,Mme,RN,Rassemblement National,7806,78,11,78006
+8,POUZYREFF,Natalia,Mme,ENS,Ensemble ! (Majorité présidentielle),7806,78,11,78006
+2,DE ROZIERES,Babette,Mme,UXD,Union de l'extrême droite,7807,78,11,78007
+4,HAI,Nadia,Mme,ENS,Ensemble ! (Majorité présidentielle),7807,78,11,78007
+7,ROUSSEAU,Aurélien,M.,UG,Union de la gauche,7807,78,11,78007
+2,NAUTH,Cyril,M.,RN,Rassemblement National,7808,78,11,78008
+7,LUCAS,Benjamin,M.,UG,Union de la gauche,7808,78,11,78008
+1,MORIN,Laurent,M.,RN,Rassemblement National,7809,78,11,78009
+8,DIOP,Dieynaba,Mme,UG,Union de la gauche,7809,78,11,78009
+2,BERGÉ,Aurore,Mme,ENS,Ensemble ! (Majorité présidentielle),7810,78,11,78010
+6,BRIOLAIS,Cédric,M.,UG,Union de la gauche,7810,78,11,78010
+7,DU CHALARD,Thomas,M.,RN,Rassemblement National,7810,78,11,78010
+2,MARTINET,William,M.,UG,Union de la gauche,7811,78,11,78011
+6,MAZAURY,Laurent,M.,UDI,Union des Démocrates et Indépendants,7811,78,11,78011
+4,MASSIAUX,Christophe,M.,UG,Union de la gauche,7812,78,11,78012
+6,METTELET,Jean-Louis,M.,RN,Rassemblement National,7812,78,11,78012
+7,OLIVE,Karl,M.,ENS,Ensemble ! (Majorité présidentielle),7812,78,11,78012
+3,BEAUDET,Stéphane,M.,DIV,Divers,9101,91,11,91001
+4,AMRANI,Farida,Mme,UG,Union de la gauche,9101,91,11,91001
+7,VEGA,Thiebauld,M.,RN,Rassemblement National,9101,91,11,91001
+1,HILLAIRE,Mathieu,M.,UG,Union de la gauche,9102,91,11,91002
+6,DA CONCEICAO CARVALHO,Nathalie,Mme,RN,Rassemblement National,9102,91,11,91002
+5,MILOSEVIC,Stefan,M.,RN,Rassemblement National,9103,91,11,91003
+7,GUSTAVE,Steevy,M.,UG,Union de la gauche,9103,91,11,91003
+3,RIXAIN,Marie-Pierre,Mme,ENS,Ensemble ! (Majorité présidentielle),9104,91,11,91004
+6,CARBRIAND,Jérôme,M.,UXD,Union de l'extrême droite,9104,91,11,91004
+2,LARROUTUROU,Pierre,M.,UG,Union de la gauche,9105,91,11,91005
+8,MIDY,Paul,M.,ENS,Ensemble ! (Majorité présidentielle),9105,91,11,91005
+1,GUEDJ,Jérôme,M.,UG,Union de la gauche,9106,91,11,91006
+6,GOUPY,Natacha,Mme,RN,Rassemblement National,9106,91,11,91006
+3,GUIBERT,Audrey,Mme,RN,Rassemblement National,9107,91,11,91007
+5,REDA,Robin,M.,ENS,Ensemble ! (Majorité présidentielle),9107,91,11,91007
+6,LEJEUNE,Claire,Mme,UG,Union de la gauche,9107,91,11,91007
+2,DUROVRAY,François,M.,DVD,Divers droite,9108,91,11,91008
+4,DUPONT-AIGNAN,Nicolas,M.,DSV,Droite souverainiste,9108,91,11,91008
+5,CERNON,Bérenger,M.,UG,Union de la gauche,9108,91,11,91008
+2,MERRIEN,Paul-Henri,M.,RN,Rassemblement National,9109,91,11,91009
+5,OZENNE,Julie,Mme,UG,Union de la gauche,9109,91,11,91009
+2,LÉAUMENT,Antoine,M.,UG,Union de la gauche,9110,91,11,91010
+10,AMAND,Michael,M.,RN,Rassemblement National,9110,91,11,91010
+2,PASQUINI,Francesca,Mme,UG,Union de la gauche,9202,92,11,92002
+8,LAM,Thomas,M.,LR,Les Républicains,9202,92,11,92002
+3,SEBAIHI,Sabrina,Mme,UG,Union de la gauche,9204,92,11,92004
+9,DE CRECY,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),9204,92,11,92004
+1,PITTI,Raphaël,M.,UG,Union de la gauche,9205,92,11,92005
+4,CALVEZ,Céline,Mme,ENS,Ensemble ! (Majorité présidentielle),9205,92,11,92005
+1,DIDIER,Geoffroy,M.,LR,Les Républicains,9206,92,11,92006
+2,LE GRIP,Constance,Mme,ENS,Ensemble ! (Majorité présidentielle),9206,92,11,92006
+7,MUSCIANISI,Sihame,Mme,UG,Union de la gauche,9206,92,11,92006
+2,THEVENOT,Prisca,Mme,ENS,Ensemble ! (Majorité présidentielle),9208,92,11,92008
+5,NICOLAS-CHAVANCE,Salomé,Mme,UG,Union de la gauche,9208,92,11,92008
+4,SÉJOURNÉ,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),9209,92,11,92009
+6,RAPILLY-FERNIOT,Pauline,Mme,UG,Union de la gauche,9209,92,11,92009
+7,ATTAL,Gabriel,M.,ENS,Ensemble ! (Majorité présidentielle),9210,92,11,92010
+8,SOUBELET,Cécile,Mme,UG,Union de la gauche,9210,92,11,92010
+6,BERGER,Jean-Didier,M.,LR,Les Républicains,9212,92,11,92012
+7,ADJROUD,Lounes,M.,UG,Union de la gauche,9212,92,11,92012
+2,GAILLARD,Brice,M.,UG,Union de la gauche,9213,92,11,92013
+4,BREGEON,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),9213,92,11,92013
+2,PORTES,Thomas,M.,UG,Union de la gauche,9303,93,11,93003
+10,CRETIN-GIELLY,Denis,M.,RN,Rassemblement National,9303,93,11,93003
+2,BOUROUAHA,Soumya,Mme,UG,Union de la gauche,9304,93,11,93004
+3,AWAD,Mohamed,M.,FI,La France insoumise,9304,93,11,93004
+3,LAGARDE,Aude,Mme,UDI,Union des Démocrates et Indépendants,9305,93,11,93005
+5,DIOUARA,Aly,M.,UG,Union de la gauche,9305,93,11,93005
+2,CORBIÈRE,Alexis,M.,DVG,Divers gauche,9307,93,11,93007
+10,ALI-BENALI,Sabrina,Mme,UG,Union de la gauche,9307,93,11,93007
+6,JOLIVET,Sébastien,M.,RN,Rassemblement National,9308,93,11,93008
+8,KELOUA HACHI,Fatiha,Mme,UG,Union de la gauche,9308,93,11,93008
+4,LEGAVRE,Jérôme,M.,UG,Union de la gauche,9312,93,11,93012
+5,PERIER,Jean-François,M.,RN,Rassemblement National,9312,93,11,93012
+2,LOUFFOK,Lyes,M.,UG,Union de la gauche,9401,94,11,94001
+3,BERRIOS,Sylvain,M.,DVD,Divers droite,9401,94,11,94001
+7,SABOURIN,Anne-Gaëlle,Mme,RN,Rassemblement National,9401,94,11,94001
+5,BARBOTIN,Arnaud,M.,UXD,Union de l'extrême droite,9403,94,11,94003
+7,SIGNOR,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),9403,94,11,94003
+8,BOYARD,Louis,M.,UG,Union de la gauche,9403,94,11,94003
+3,PHILIPPET,Alain,M.,RN,Rassemblement National,9404,94,11,94004
+5,AMARA,Adel,M.,UG,Union de la gauche,9404,94,11,94004
+10,PETIT,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),9404,94,11,94004
+2,LEGER,Julien,M.,UG,Union de la gauche,9405,94,11,94005
+5,HUGUENIN-RICHARD,Isabelle,Mme,RN,Rassemblement National,9405,94,11,94005
+6,LEFEVRE,Mathieu,M.,ENS,Ensemble ! (Majorité présidentielle),9405,94,11,94005
+1,BOUHADA,May,Mme,UG,Union de la gauche,9406,94,11,94006
+5,GOUFFIER VALENTE,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle),9406,94,11,94006
+2,KEKE,Rachel,Mme,UG,Union de la gauche,9407,94,11,94007
+6,JEANBRUN,Vincent,M.,LR,Les Républicains,9407,94,11,94007
+1,MARTINS PEREIRA,Joao,M.,UG,Union de la gauche,9408,94,11,94008
+2,HERBILLON,Michel,M.,LR,Les Républicains,9408,94,11,94008
+2,JULES-ARTHUR,Maximillien,M.,UG,Union de la gauche,9501,95,11,95001
+6,SICARD,Anne,Mme,RN,Rassemblement National,9501,95,11,95001
+8,CHANDLER,Émilie,Mme,ENS,Ensemble ! (Majorité présidentielle),9501,95,11,95001
+2,REMY,Nadejda,Mme,RN,Rassemblement National,9502,95,11,95002
+6,HADIZADEH,Ayda,Mme,UG,Union de la gauche,9502,95,11,95002
+2,LELAIDIER,Kimberley,Mme,RN,Rassemblement National,9503,95,11,95003
+4,MAUREL,Emmanuel,M.,UG,Union de la gauche,9503,95,11,95003
+2,LACOUTURE,Karine,Mme,UG,Union de la gauche,9504,95,11,95004
+6,MOUTCHOU,Naïma,Mme,ENS,Ensemble ! (Majorité présidentielle),9504,95,11,95004
+1,FOLEST,Estelle,Mme,ENS,Ensemble ! (Majorité présidentielle),9506,95,11,95006
+4,CATHALA,Gabrielle,Mme,UG,Union de la gauche,9506,95,11,95006
+9,BRUNA,Annika,Mme,RN,Rassemblement National,9506,95,11,95006
+4,ESKENAZI,Romain,M.,UG,Union de la gauche,9507,95,11,95007
+10,QUENTIN,David,M.,RN,Rassemblement National,9507,95,11,95007
+7,MARION,Agnès,Mme,RN,Rassemblement National,9509,95,11,95009
+9,LE GALL,Arnaud,M.,UG,Union de la gauche,9509,95,11,95009
+4,TACHÉ,Aurélien,M.,UG,Union de la gauche,9510,95,11,95010
+6,MACÉ,Lisbeth,Mme,RN,Rassemblement National,9510,95,11,95010
+1,CORMIER-BOULIGEON,François,M.,ENS,Ensemble ! (Majorité présidentielle),1801,18,24,18001
+4,IANNUZZI,Ugo,M.,RN,Rassemblement National,1801,18,24,18001
+3,DUENAS,Bastian,M.,RN,Rassemblement National,1802,18,24,18002
+6,SANSU,Nicolas,M.,UG,Union de la gauche,1802,18,24,18002
+1,GENTILLET,Pierre,M.,RN,Rassemblement National,1803,18,24,18003
+6,KERVRAN,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),1803,18,24,18003
+1,KASBARIAN,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle),2801,28,24,28001
+3,MINOT,Emma,Mme,RN,Rassemblement National,2801,28,24,28001
+3,MARLEIX,Olivier,M.,LR,Les Républicains,2802,28,24,28002
+4,DUBOIS,Olivier,M.,RN,Rassemblement National,2802,28,24,28002
+1,BAY,Christophe,M.,RN,Rassemblement National,2803,28,24,28003
+3,HUWART,Harold,M.,DVC,Divers centre,2803,28,24,28003
+1,VIGIER,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),2804,28,24,28004
+4,PECOUT,Roger,M.,UXD,Union de l'extrême droite,2804,28,24,28004
+4,JOLIVET,François,M.,HOR,Horizons,3601,36,24,36001
+5,WUNSCH,Mylène,Mme,RN,Rassemblement National,3601,36,24,36001
+4,FORISSIER,Nicolas,M.,LR,Les Républicains,3602,36,24,36002
+5,SIFFERT,Marc,M.,UXD,Union de l'extrême droite,3602,36,24,36002
+4,PIERRE,Benoist,M.,ENS,Ensemble ! (Majorité présidentielle),3701,37,24,37001
+6,FOURNIER,Charles,M.,UG,Union de la gauche,3701,37,24,37001
+1,LABARONNE,Daniel,M.,ENS,Ensemble ! (Majorité présidentielle),3702,37,24,37002
+3,FOUGERON,Corine,Mme,RN,Rassemblement National,3702,37,24,37002
+2,ALFANDARI,Henri,M.,ENS,Ensemble ! (Majorité présidentielle),3703,37,24,37003
+5,ROBIN,Jules,M.,UXD,Union de l'extrême droite,3703,37,24,37003
+4,BAUMEL,Laurent,M.,UG,Union de la gauche,3704,37,24,37004
+5,BELLANGER,Jean-François,M.,RN,Rassemblement National,3704,37,24,37004
+4,DUCAMP,François,M.,RN,Rassemblement National,3705,37,24,37005
+6,THILLAYE,Sabine,Mme,ENS,Ensemble ! (Majorité présidentielle),3705,37,24,37005
+3,FESNEAU,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),4101,41,24,41001
+5,BARDET,Marine,Mme,RN,Rassemblement National,4101,41,24,41001
+4,AUCANTE,Nils,M.,DVD,Divers droite,4102,41,24,41002
+7,CHUDEAU,Roger,M.,RN,Rassemblement National,4102,41,24,41002
+1,MARION,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),4103,41,24,41003
+3,DE OLIVEIRA,Virginia,Mme,RN,Rassemblement National,4103,41,24,41003
+1,RABAULT,Tiffanie,Mme,RN,Rassemblement National,4501,45,24,45001
+6,RIST,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle),4501,45,24,45001
+5,DUPLESSY,Emmanuel,M.,UG,Union de la gauche,4502,45,24,45002
+7,BABIN,Elodie,Mme,RN,Rassemblement National,4502,45,24,45002
+1,DE PÉLICHY,Constance,Mme,DVD,Divers droite,4503,45,24,45003
+3,PARIS,Mathilde,Mme,RN,Rassemblement National,4503,45,24,45003
+3,NOTTIN,Bruno,M.,UG,Union de la gauche,4504,45,24,45004
+7,MÉNAGÉ,Thomas,M.,RN,Rassemblement National,4504,45,24,45004
+1,LACAPELLE,Jean-Lin,M.,RN,Rassemblement National,4505,45,24,45005
+5,BROSSE,Anthony,M.,ENS,Ensemble ! (Majorité présidentielle),4505,45,24,45005
+1,RAMOS,Richard,M.,ENS,Ensemble ! (Majorité présidentielle),4506,45,24,45006
+2,ZELLER,Anthony,M.,RN,Rassemblement National,4506,45,24,45006
+1,GODARD,Océane,Mme,UG,Union de la gauche,2101,21,27,21001
+4,MARTIN,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),2101,21,27,21001
+5,HUMBLOT-CORNILLE,Cyline,Mme,RN,Rassemblement National,2101,21,27,21001
+1,GUYENOT,Tatiana,Mme,RN,Rassemblement National,2102,21,27,21002
+2,HERVIEU,Catherine,Mme,UG,Union de la gauche,2102,21,27,21002
+4,PRIBETICH,Pierre,M.,UG,Union de la gauche,2103,21,27,21003
+5,COUDERT,Thierry,M.,UXD,Union de l'extrême droite,2103,21,27,21003
+1,BRIGAND,Hubert,M.,LR,Les Républicains,2104,21,27,21004
+2,DUMONT,Sophie,Mme,RN,Rassemblement National,2104,21,27,21004
+1,PARIS,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),2105,21,27,21005
+6,LIORET,René,M.,RN,Rassemblement National,2105,21,27,21005
+3,LUTZ,Thomas,M.,RN,Rassemblement National,2501,25,27,25001
+6,VÉZIÈS,Séverine,Mme,UG,Union de la gauche,2501,25,27,25001
+7,CROIZIER,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),2501,25,27,25001
+1,VOYNET,Dominique,Mme,UG,Union de la gauche,2502,25,27,25002
+3,FUSIS,Eric,M.,RN,Rassemblement National,2502,25,27,25002
+1,BLOCH,Matthieu,M.,UXD,Union de l'extrême droite,2503,25,27,25003
+4,PACQUOT,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),2503,25,27,25003
+2,GRANGIER,Géraldine,Mme,RN,Rassemblement National,2504,25,27,25004
+3,DUVERNOIS,Magali,Mme,UG,Union de la gauche,2504,25,27,25004
+3,GENEVARD,Annie,Mme,LR,Les Républicains,2505,25,27,25005
+6,JEANDENAND,Floriane,Mme,RN,Rassemblement National,2505,25,27,25005
+1,GRABY,Valérie,Mme,RN,Rassemblement National,3901,39,27,39001
+4,BRULEBOIS,Danielle,Mme,ENS,Ensemble ! (Majorité présidentielle),3901,39,27,39001
+5,MOSCA,Thierry,M.,RN,Rassemblement National,3902,39,27,39002
+6,DALLOZ,Marie-Christine,Mme,LR,Les Républicains,3902,39,27,39002
+3,GRUET,Justine,Mme,LR,Les Républicains,3903,39,27,39003
+4,VUILLEMIN-PLANCON,Aurore,Mme,RN,Rassemblement National,3903,39,27,39003
+2,GOULET,Perrine,Mme,ENS,Ensemble ! (Majorité présidentielle),5801,58,27,58001
+6,GALLOIS,Charles-Henri,M.,RN,Rassemblement National,5801,58,27,58001
+2,PAUL,Christian,M.,UG,Union de la gauche,5802,58,27,58002
+6,GUIBERT,Julien,M.,RN,Rassemblement National,5802,58,27,58002
+3,CHRETIEN,Alain,M.,ENS,Ensemble ! (Majorité présidentielle),7001,70,27,70001
+4,VILLEDIEU,Antoine,M.,RN,Rassemblement National,7001,70,27,70001
+2,DIRX,Benjamin,M.,ENS,Ensemble ! (Majorité présidentielle),7101,71,27,71001
+4,DREVET,Rachel,Mme,RN,Rassemblement National,7101,71,27,71001
+2,DAMIEN,Olivier,M.,RN,Rassemblement National,7102,71,27,71002
+5,CORNELOUP,Josiane,Mme,LR,Les Républicains,7102,71,27,71002
+1,REBEYROTTE,Rémy,M.,ENS,Ensemble ! (Majorité présidentielle),7103,71,27,71003
+7,DUTREMBLE,Aurélien,M.,RN,Rassemblement National,7103,71,27,71003
+3,UNTERMAIER,Cécile,Mme,UG,Union de la gauche,7104,71,27,71004
+4,MICHOUX,Eric,M.,UXD,Union de l'extrême droite,7104,71,27,71004
+2,SANVERT,Arnaud,M.,RN,Rassemblement National,7105,71,27,71005
+3,PLATRET,Gilles,M.,DVD,Divers droite,7105,71,27,71005
+4,KOURICHE,Fatima,Mme,UG,Union de la gauche,7105,71,27,71005
+5,LOURY,Florence,Mme,UG,Union de la gauche,8901,89,27,89001
+6,GRENON,Daniel,M.,RN,Rassemblement National,8901,89,27,89001
+1,ROY,Sophie-Laurence,Mme,UXD,Union de l'extrême droite,8902,89,27,89002
+5,VILLIERS,André,M.,ENS,Ensemble ! (Majorité présidentielle),8902,89,27,89002
+2,MANCK,Carine,Mme,RN,Rassemblement National,9001,90,27,90001
+3,BOUCARD,Ian,M.,LR,Les Républicains,9001,90,27,90001
+2,CHAUCHE,Florian,M.,UG,Union de la gauche,9002,90,27,90002
+6,BIGOT,Guillaume,M.,RN,Rassemblement National,9002,90,27,90002
+1,FOURREAU,Emma,Mme,UG,Union de la gauche,1401,14,28,14001
+4,BRUNEAU,Joël,M.,DVD,Divers droite,1401,14,28,14001
+3,DELAPORTE,Arthur,M.,UG,Union de la gauche,1402,14,28,14002
+4,LIBAN,Josseline,Mme,RN,Rassemblement National,1402,14,28,14002
+4,PATRIER-LEITUS,Jérémie,M.,ENS,Ensemble ! (Majorité présidentielle),1403,14,28,14003
+7,FAUVAGE,Edouard,M.,RN,Rassemblement National,1403,14,28,14003
+5,HENRY,Chantal,Mme,RN,Rassemblement National,1404,14,28,14004
+7,BLANCHET,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),1404,14,28,14004
+3,BOUYX,Bertrand,M.,ENS,Ensemble ! (Majorité présidentielle),1405,14,28,14005
+7,CHAPRON,Philippe,M.,RN,Rassemblement National,1405,14,28,14005
+1,CALBRIX,Nicolas,M.,RN,Rassemblement National,1406,14,28,14006
+6,BORNE,Elisabeth,Mme,ENS,Ensemble ! (Majorité présidentielle),1406,14,28,14006
+4,LOIR,Christine,Mme,RN,Rassemblement National,2701,27,28,27001
+5,CANIN,Julien,M.,ENS,Ensemble ! (Majorité présidentielle),2701,27,28,27001
+2,VEYRI,Timour,M.,UG,Union de la gauche,2702,27,28,27002
+3,LEVAVASSEUR,Katiana,Mme,RN,Rassemblement National,2702,27,28,27002
+2,MAUVIEUX,Kévin,M.,RN,Rassemblement National,2703,27,28,27003
+5,TAMARELLE VERHAEGHE,Marie,Mme,ENS,Ensemble ! (Majorité présidentielle),2703,27,28,27003
+2,BRUN,Philippe,M.,UG,Union de la gauche,2704,27,28,27004
+4,PAUPER,Patrice,M.,RN,Rassemblement National,2704,27,28,27004
+4,HOUSSIN,Timothée,M.,RN,Rassemblement National,2705,27,28,27005
+7,DUCHÉ,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),2705,27,28,27005
+4,GOSSELIN,Philippe,M.,DVD,Divers droite,5001,50,28,50001
+5,SIMON,Franck,M.,RN,Rassemblement National,5001,50,28,50001
+2,SORRE,Bertrand,M.,ENS,Ensemble ! (Majorité présidentielle),5002,50,28,50002
+5,KURDZIEL,Marie-Françoise,Mme,RN,Rassemblement National,5002,50,28,50002
+2,GIRY,Pierre,M.,UXD,Union de l'extrême droite,5003,50,28,50003
+7,TRAVERT,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),5003,50,28,50003
+3,CONQUER,Nicolas,M.,UXD,Union de l'extrême droite,5004,50,28,50004
+6,PIC,Anna,Mme,UG,Union de la gauche,5004,50,28,50004
+5,JOURDAN,Chantal,Mme,UG,Union de la gauche,6101,61,28,61001
+7,BELZIDSKY,Nadine,Mme,RN,Rassemblement National,6101,61,28,61001
+3,LOUWAGIE,Véronique,Mme,DVD,Divers droite,6102,61,28,61002
+6,VIENNE,Gérard,M.,RN,Rassemblement National,6102,61,28,61002
+3,PETCHENINA,Ludmila,Mme,RN,Rassemblement National,6103,61,28,61003
+4,NURY,Jérôme,M.,DVD,Divers droite,6103,61,28,61003
+6,HEROUIN-LÉAUTEY,Florence,Mme,UG,Union de la gauche,7601,76,28,76001
+7,HOUDAN,Grégoire,M.,RN,Rassemblement National,7601,76,28,76001
+8,ADAM,Damien,M.,ENS,Ensemble ! (Majorité présidentielle),7601,76,28,76001
+5,VIDAL,Annie,Mme,ENS,Ensemble ! (Majorité présidentielle),7602,76,28,76002
+7,LANCELOT,Vanessa,Mme,RN,Rassemblement National,7602,76,28,76002
+3,DANIEL,Pauline,Mme,RN,Rassemblement National,7603,76,28,76003
+5,BÉNARD,Edouard,M.,UG,Union de la gauche,7603,76,28,76003
+1,PENNELLE,Guillaume,M.,RN,Rassemblement National,7604,76,28,76004
+3,DUFOUR,Alma,Mme,UG,Union de la gauche,7604,76,28,76004
+1,LESEUL,Gérard,M.,UG,Union de la gauche,7605,76,28,76005
+2,MONTIER,Jean-Cyril,M.,RN,Rassemblement National,7605,76,28,76005
+1,JUMEL,Sébastien,M.,UG,Union de la gauche,7606,76,28,76006
+5,MARTIN,Patrice,M.,RN,Rassemblement National,7606,76,28,76006
+1,FIRMIN LE BODO,Agnès,Mme,HOR,Horizons,7607,76,28,76007
+6,THOMAS,Anaïs,Mme,RN,Rassemblement National,7607,76,28,76007
+4,LE COZ,Isabelle,Mme,RN,Rassemblement National,7608,76,28,76008
+5,LECOQ,Jean-Paul,M.,UG,Union de la gauche,7608,76,28,76008
+1,POTIER,Douglas,M.,RN,Rassemblement National,7609,76,28,76009
+4,POUSSIER-WINSBACK,Marie-Agnès,Mme,HOR,Horizons,7609,76,28,76009
+4,LE BOURGEOIS,Robert,M.,RN,Rassemblement National,7610,76,28,76010
+5,BATUT,Xavier,M.,HOR,Horizons,7610,76,28,76010
+1,DIVE,Julien,M.,LR,Les Républicains,0202,02,32,02002
+5,TORRE,Philippe,M.,RN,Rassemblement National,0202,02,32,02002
+4,LECLERCQ,Carole,Mme,RN,Rassemblement National,5901,59,32,59001
+14,LE COQ,Aurélien,M.,UG,Union de la gauche,5901,59,32,59001
+1,BERNALICIS,Ugo,M.,UG,Union de la gauche,5902,59,32,59002
+5,GUÉRARD,Philippe,M.,RN,Rassemblement National,5902,59,32,59002
+6,SALANON,Violette,Mme,ENS,Ensemble ! (Majorité présidentielle),5902,59,32,59002
+3,LISO,Brigitte,Mme,ENS,Ensemble ! (Majorité présidentielle),5904,59,32,59004
+6,MORAND,Anne,Mme,RN,Rassemblement National,5904,59,32,59004
+7,BRUN,Charlotte,Mme,UG,Union de la gauche,5904,59,32,59004
+3,CATTEAU,Victor,M.,RN,Rassemblement National,5905,59,32,59005
+5,HUYGHE,Sébastien,M.,DVD,Divers droite,5905,59,32,59005
+3,PARMENTIER-LECOCQ,Charlotte,Mme,ENS,Ensemble ! (Majorité présidentielle),5906,59,32,59006
+4,QUATREBOEUFS,Marie Hélène,Mme,UXD,Union de l'extrême droite,5906,59,32,59006
+1,GERARD,Félicie,Mme,HOR,Horizons,5907,59,32,59007
+2,SAYAH,Céline,Mme,RN,Rassemblement National,5907,59,32,59007
+5,CHOUIA,Karima,Mme,UG,Union de la gauche,5907,59,32,59007
+1,LEYS,Ethan,M.,RN,Rassemblement National,5908,59,32,59008
+2,GUIRAUD,David,M.,UG,Union de la gauche,5908,59,32,59008
+2,LANDRU,Christine,Mme,RN,Rassemblement National,5909,59,32,59009
+3,SPILLEBOUT,Violette,Mme,ENS,Ensemble ! (Majorité présidentielle),5909,59,32,59009
+7,VIDAL-SAGNIER,Odile,Mme,UG,Union de la gauche,5909,59,32,59009
+1,VERBRUGGHE,Bastien,M.,RN,Rassemblement National,5910,59,32,59010
+5,DARMANIN,Gérald,M.,ENS,Ensemble ! (Majorité présidentielle),5910,59,32,59010
+3,MOULIN,Maxime,M.,RN,Rassemblement National,5911,59,32,59011
+4,VICOT,Roger,M.,UG,Union de la gauche,5911,59,32,59011
+1,GOKEL,Julien,M.,DIV,Divers,5913,59,32,59013
+3,ACCART,Maxence,M.,RN,Rassemblement National,5913,59,32,59013
+3,GARDES,Jean-Baptiste,M.,UXD,Union de l'extrême droite,5914,59,32,59014
+5,CHRISTOPHE,Paul,M.,DVD,Divers droite,5914,59,32,59014
+1,BERTELOOT,Pierrick,M.,RN,Rassemblement National,5915,59,32,59015
+3,BATAILLE,Jean-Pierre,M.,DVD,Divers droite,5915,59,32,59015
+1,TESSON,Thierry,M.,RN,Rassemblement National,5917,59,32,59017
+3,CHÉREAU,Frédéric,M.,UG,Union de la gauche,5917,59,32,59017
+4,BARA,Laurence,Mme,RN,Rassemblement National,5921,59,32,59021
+6,LÉTARD,Valérie,Mme,UDI,Union des Démocrates et Indépendants,5921,59,32,59021
+4,HABERT-DASSAULT,Victor,M.,LR,Les Républicains,6001,60,32,60001
+7,MARAIS-BEUIL,Claire,Mme,RN,Rassemblement National,6001,60,32,60001
+1,SABATOU,Alexandre,M.,RN,Rassemblement National,6003,60,32,60003
+2,KA,Amadou,M.,UG,Union de la gauche,6003,60,32,60003
+2,WOERTH,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),6004,60,32,60004
+7,GRIMPRET,Mathieu,M.,RN,Rassemblement National,6004,60,32,60004
+3,BRASSENS,Bertrand,M.,UG,Union de la gauche,6005,60,32,60005
+6,VOS,Frédéric Pierre,M.,RN,Rassemblement National,6005,60,32,60005
+1,GUINIOT,Michel,M.,RN,Rassemblement National,6006,60,32,60006
+5,LECA,Daniel,M.,UDI,Union des Démocrates et Indépendants,6006,60,32,60006
+2,MAGNIER,David,M.,RN,Rassemblement National,6007,60,32,60007
+6,MINOT,Maxime,M.,LR,Les Républicains,6007,60,32,60007
+7,PEN,Loïc,M.,UG,Union de la gauche,6007,60,32,60007
+3,PANNIER-RUNACHER,Agnès,Mme,ENS,Ensemble ! (Majorité présidentielle),6202,62,32,62002
+4,HEUSÈLE,Alban,M.,RN,Rassemblement National,6202,62,32,62002
+1,DOLLE,Benoît,M.,RN,Rassemblement National,6204,62,32,62004
+8,FAIT,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),6204,62,32,62004
+2,GOLLIOT,Antoine,M.,RN,Rassemblement National,6205,62,32,62005
+5,BARBARIN,Olivier,M.,UG,Union de la gauche,6205,62,32,62005
+1,DUMONT,Pierre-Henri,M.,LR,Les Républicains,6207,62,32,62007
+3,DE FLEURIAN,Marc,M.,RN,Rassemblement National,6207,62,32,62007
+1,EVRARD,Auguste,M.,RN,Rassemblement National,6208,62,32,62008
+3,PETIT,Bertrand,M.,UG,Union de la gauche,6208,62,32,62008
+1,COISNE,Hadrien,M.,ENS,Ensemble ! (Majorité présidentielle),6209,62,32,62009
+4,PARMENTIER,Caroline,Mme,RN,Rassemblement National,6209,62,32,62009
+2,RIBEIRO BILLET,Nathalie,Mme,RN,Rassemblement National,8001,80,32,80001
+5,RUFFIN,François,M.,UG,Union de la gauche,8001,80,32,80001
+3,TOUMI,Damien,M.,RN,Rassemblement National,8002,80,32,80002
+6,DE JENLIS,Hubert,M.,ENS,Ensemble ! (Majorité présidentielle),8002,80,32,80002
+7,HAMDANE,Zahia,Mme,UG,Union de la gauche,8002,80,32,80002
+4,MAQUET,Emmanuel,M.,LR,Les Républicains,8003,80,32,80003
+7,RENAULT,Matthias,M.,RN,Rassemblement National,8003,80,32,80003
+2,GEST,Anthony,M.,ENS,Ensemble ! (Majorité présidentielle),8004,80,32,80004
+5,TANGUY,Jean-Philippe,M.,RN,Rassemblement National,8004,80,32,80004
+3,TERMET,Flavien,M.,RN,Rassemblement National,0801,08,44,08001
+8,VUIBERT,Lionel,M.,ENS,Ensemble ! (Majorité présidentielle),0801,08,44,08001
+3,MESTER,Pauline,Mme,RN,Rassemblement National,0802,08,44,08002
+6,CORDIER,Pierre,M.,DVD,Divers droite,0802,08,44,08002
+2,WARSMANN,Jean-Luc,M.,DVD,Divers droite,0803,08,44,08003
+3,ROGER,Isabelle,Mme,RN,Rassemblement National,0803,08,44,08003
+3,BAZIN-MALGRAS,Valérie,Mme,LR,Les Républicains,1002,10,44,10002
+5,FERRAND,Albéric,M.,RN,Rassemblement National,1002,10,44,10002
+1,GIRARDIN,Olivier,M.,UG,Union de la gauche,1003,10,44,10003
+3,RANC,Angélique,Mme,RN,Rassemblement National,1003,10,44,10003
+1,ALBERTINI,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),5101,51,44,51001
+2,MEXIS,Adrien,M.,UXD,Union de l'extrême droite,5101,51,44,51001
+5,FRIGOUT,Anne-Sophie,Mme,RN,Rassemblement National,5102,51,44,51002
+7,MILLER,Laure,Mme,ENS,Ensemble ! (Majorité présidentielle),5102,51,44,51002
+5,MICHELET,Maxime,M.,UXD,Union de l'extrême droite,5103,51,44,51003
+6,GIRARDIN,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),5103,51,44,51003
+5,MAGNIER,Lise,Mme,ENS,Ensemble ! (Majorité présidentielle),5104,51,44,51004
+6,BISIAUX,Achille,M.,RN,Rassemblement National,5104,51,44,51004
+2,BESSON,Thierry,M.,RN,Rassemblement National,5105,51,44,51005
+4,DE COURSON,Charles,M.,DVC,Divers centre,5105,51,44,51005
+4,BENTZ,Christophe,M.,RN,Rassemblement National,5201,52,44,52001
+5,ABBA,Bérangère,Mme,ENS,Ensemble ! (Majorité présidentielle),5201,52,44,52001
+1,MERCIER,Estelle,Mme,UG,Union de la gauche,5401,54,44,54001
+4,MELET,Patricia,Mme,RN,Rassemblement National,5401,54,44,54001
+1,MAILLOT,Geneviève,Mme,RN,Rassemblement National,5402,54,44,54002
+3,LACRESSE,Emmanuel,M.,ENS,Ensemble ! (Majorité présidentielle),5402,54,44,54002
+5,HABLOT,Stéphane,M.,UG,Union de la gauche,5402,54,44,54002
+2,WEBER,Frédéric,M.,RN,Rassemblement National,5403,54,44,54003
+4,ETIENNE,Martine,Mme,UG,Union de la gauche,5403,54,44,54003
+4,BILDE,Dominique,Mme,RN,Rassemblement National,5404,54,44,54004
+5,BAZIN,Thibault,M.,LR,Les Républicains,5404,54,44,54004
+1,PECHER,Louis-Joseph,M.,EXD,Extrême droite,5405,54,44,54005
+2,POTIER,Dominique,M.,UG,Union de la gauche,5405,54,44,54005
+5,BOULOGNE,Anthony,M.,RN,Rassemblement National,5406,54,44,54006
+7,FIAT,Caroline,Mme,UG,Union de la gauche,5406,54,44,54006
+2,PANCHER,Bertrand,M.,DVD,Divers droite,5501,55,44,55001
+6,AMBLARD,Maxime,M.,RN,Rassemblement National,5501,55,44,55001
+2,BELHADDAD,Belkhir,M.,ENS,Ensemble ! (Majorité présidentielle),5701,57,44,57001
+3,LALOUX,Grégoire,M.,RN,Rassemblement National,5701,57,44,57001
+1,VOINCON,Marie-Claude,Mme,RN,Rassemblement National,5702,57,44,57002
+3,MENDES,Ludovic,M.,ENS,Ensemble ! (Majorité présidentielle),5702,57,44,57002
+1,CHOMARD,Victor,M.,RN,Rassemblement National,5703,57,44,57003
+4,COLIN-OESTERLÉ,Nathalie,Mme,UDI,Union des Démocrates et Indépendants,5703,57,44,57003
+6,DI FILIPPO,Fabien,M.,LR,Les Républicains,5704,57,44,57004
+7,SIMON,Océane,Mme,RN,Rassemblement National,5704,57,44,57004
+4,JENFT,Pascal,M.,RN,Rassemblement National,5705,57,44,57005
+6,SEITLINGER,Vincent,M.,LR,Les Républicains,5705,57,44,57005
+3,JACOBELLI,Laurent,M.,RN,Rassemblement National,5708,57,44,57008
+4,LEGER,Céline,Mme,UG,Union de la gauche,5708,57,44,57008
+1,PHILIPPO,Baptiste,M.,RN,Rassemblement National,5709,57,44,57009
+4,RAUCH,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),5709,57,44,57009
+11,LOOS,Etienne,M.,ENS,Ensemble ! (Majorité présidentielle),6701,67,44,67001
+15,REGOL,Sandra,Mme,UG,Union de la gauche,6701,67,44,67001
+1,JORON,Virginie,Mme,RN,Rassemblement National,6702,67,44,67002
+3,FERNANDES,Emmanuel,M.,UG,Union de la gauche,6702,67,44,67002
+10,BREITMAN,Rebecca,Mme,ENS,Ensemble ! (Majorité présidentielle),6702,67,44,67002
+6,STUDER,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),6703,67,44,67003
+8,SOTHER,Thierry,M.,UG,Union de la gauche,6703,67,44,67003
+9,DÔ,Stéphanie,Mme,RN,Rassemblement National,6703,67,44,67003
+2,DAUBENBERGER,Delphine,Mme,RN,Rassemblement National,6704,67,44,67004
+7,BUFFET,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle),6704,67,44,67004
+2,SITZENSTUHL,Charles,M.,ENS,Ensemble ! (Majorité présidentielle),6705,67,44,67005
+5,ESTEVE,Thomas,M.,RN,Rassemblement National,6705,67,44,67005
+1,MOREL,Louise,Mme,ENS,Ensemble ! (Majorité présidentielle),6706,67,44,67006
+7,COUSSEDIERE,Vincent,M.,RN,Rassemblement National,6706,67,44,67006
+1,HETZEL,Patrick,M.,LR,Les Républicains,6707,67,44,67007
+6,KIEFFER,Denis,M.,RN,Rassemblement National,6707,67,44,67007
+3,BERNHARDT,Théo,M.,RN,Rassemblement National,6708,67,44,67008
+4,KOCHERT,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle),6708,67,44,67008
+2,THIEBAUT,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle),6709,67,44,67009
+4,WOLFF,Marc,M.,RN,Rassemblement National,6709,67,44,67009
+6,KLINKERT,Brigitte,Mme,ENS,Ensemble ! (Majorité présidentielle),6801,68,44,68001
+7,GNAEDIG,Laurent,M.,RN,Rassemblement National,6801,68,44,68001
+2,OTT,Hubert,M.,ENS,Ensemble ! (Majorité présidentielle),6802,68,44,68002
+5,AUBERT,Nathalie,Mme,RN,Rassemblement National,6802,68,44,68002
+8,ZIMMERMANN,Christian,M.,RN,Rassemblement National,6803,68,44,68003
+9,LEMAIRE,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),6803,68,44,68003
+6,SCHELLENBERGER,Raphaël,M.,LR,Les Républicains,6804,68,44,68004
+7,WILHELM,Marion,Mme,RN,Rassemblement National,6804,68,44,68004
+4,PINTO,Pierre,M.,RN,Rassemblement National,6805,68,44,68005
+6,BECHT,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),6805,68,44,68005
+1,FUCHS,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),6806,68,44,68006
+6,RITZ,Christelle,Mme,RN,Rassemblement National,6806,68,44,68006
+2,FRANÇOIS,Pierre,M.,RN,Rassemblement National,8801,88,44,88001
+3,VIRY,Stéphane,M.,DVD,Divers droite,8801,88,44,88001
+1,DUSSAUSAYE,Gaëtan,M.,RN,Rassemblement National,8802,88,44,88002
+6,VALENCE,David,M.,ENS,Ensemble ! (Majorité présidentielle),8802,88,44,88002
+2,NAEGELEN,Christophe,M.,DVD,Divers droite,8803,88,44,88003
+4,FRESSE,Pauline,Mme,RN,Rassemblement National,8803,88,44,88003
+1,GAULTIER,Jean-Jacques,M.,LR,Les Républicains,8804,88,44,88004
+6,HUMBERT,Sébastien,M.,RN,Rassemblement National,8804,88,44,88004
+2,PECQUEUR,Bryan,M.,RN,Rassemblement National,4401,44,52,44001
+3,BELHAMITI,Mounir,M.,ENS,Ensemble ! (Majorité présidentielle),4401,44,52,44001
+5,BENBRAHIM,Karim,M.,UG,Union de la gauche,4401,44,52,44001
+4,AMIOT,Ségolène,Mme,UG,Union de la gauche,4403,44,52,44003
+5,ARC,Laurie,Mme,RN,Rassemblement National,4403,44,52,44003
+6,ANNEREAU,Matthieu,M.,ENS,Ensemble ! (Majorité présidentielle),4403,44,52,44003
+5,AMADOU,Aude,Mme,ENS,Ensemble ! (Majorité présidentielle),4404,44,52,44004
+6,PINEAU,Gaëlle,Mme,RN,Rassemblement National,4404,44,52,44004
+7,LAERNOES,Julie,Mme,UG,Union de la gauche,4404,44,52,44004
+1,ROUSSEL,Fabrice,M.,UG,Union de la gauche,4405,44,52,44005
+3,EL HAÏRY,Sarah,Mme,ENS,Ensemble ! (Majorité présidentielle),4405,44,52,44005
+4,COMBY,Bruno,M.,UXD,Union de l'extrême droite,4405,44,52,44005
+2,PICHON,Julio,M.,RN,Rassemblement National,4406,44,52,44006
+3,HUNAULT,Alain,M.,DVD,Divers droite,4406,44,52,44006
+5,RAUX,Jean-Claude,M.,UG,Union de la gauche,4406,44,52,44006
+3,JOSSO,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle),4407,44,52,44007
+6,HUNAULT,Michel,M.,UXD,Union de l'extrême droite,4407,44,52,44007
+4,BOUCHET,Gauthier,M.,RN,Rassemblement National,4408,44,52,44008
+6,TAVEL,Matthias,M.,UG,Union de la gauche,4408,44,52,44008
+3,BRARD,Jean-Michel,M.,DVD,Divers droite,4409,44,52,44009
+7,MALDINEY,Bastian,M.,RN,Rassemblement National,4409,44,52,44009
+1,COTREL,Stéphanie,Mme,RN,Rassemblement National,4410,44,52,44010
+2,VIANCIN,Maxime,M.,UG,Union de la gauche,4410,44,52,44010
+4,ERRANTE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),4410,44,52,44010
+1,GERNIGON,François,M.,ENS,Ensemble ! (Majorité présidentielle),4901,49,52,49001
+4,RICHARD,Elsa,Mme,UG,Union de la gauche,4901,49,52,49001
+6,LOUVIGNE,Hugo,M.,RN,Rassemblement National,4901,49,52,49001
+4,METAYER,Léo,M.,UG,Union de la gauche,4902,49,52,49002
+5,DUPONT,Stella,Mme,ENS,Ensemble ! (Majorité présidentielle),4902,49,52,49002
+6,BRISSEAU,Thomas,M.,RN,Rassemblement National,4902,49,52,49002
+2,BLIN,Anne-Laure,Mme,LR,Les Républicains,4903,49,52,49003
+5,BOURGEAULT,Edouard,M.,RN,Rassemblement National,4903,49,52,49003
+5,SAINT-PAUL,Laëtitia,Mme,ENS,Ensemble ! (Majorité présidentielle),4904,49,52,49004
+7,LAHONDÈS,Aurore,Mme,RN,Rassemblement National,4904,49,52,49004
+1,BOURDOULEIX,Gilles,M.,UXD,Union de l'extrême droite,4905,49,52,49005
+3,MASSEGLIA,Denis,M.,ENS,Ensemble ! (Majorité présidentielle),4905,49,52,49005
+6,MOREAU,France,Mme,UG,Union de la gauche,4905,49,52,49005
+3,PAVAGEAU,Tim,M.,RN,Rassemblement National,4906,49,52,49006
+5,DUBRE CHIRAT,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle),4906,49,52,49006
+2,LASCAUD,Clémence,Mme,RN,Rassemblement National,4907,49,52,49007
+5,BOLO,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),4907,49,52,49007
+7,JOUANNEAU,Guillaume,M.,UG,Union de la gauche,4907,49,52,49007
+1,GAROT,Guillaume,M.,UG,Union de la gauche,5301,53,52,53001
+2,VEYRE DE SORAS,Paule,Mme,RN,Rassemblement National,5301,53,52,53001
+3,CADENAS,Jean-Michel,M.,RN,Rassemblement National,5302,53,52,53002
+6,BANNIER,Géraldine,Mme,ENS,Ensemble ! (Majorité présidentielle),5302,53,52,53002
+1,BELL,Annie,Mme,RN,Rassemblement National,5303,53,52,53003
+3,FAVENNEC,Yannick,M.,HOR,Horizons,5303,53,52,53003
+1,DELPECH,Julie,Mme,ENS,Ensemble ! (Majorité présidentielle),7201,72,52,72001
+5,DE COSSÉ BRISSAC,Céline,Mme,RN,Rassemblement National,7201,72,52,72001
+1,FEVRE,François,M.,UXD,Union de l'extrême droite,7202,72,52,72002
+5,KARAMANLI,Marietta,Mme,UG,Union de la gauche,7202,72,52,72002
+2,MARTINEAU,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),7203,72,52,72003
+4,LEMOIGNE,Romain,M.,RN,Rassemblement National,7203,72,52,72003
+6,LEBOUCHER,Elise,Mme,UG,Union de la gauche,7204,72,52,72004
+7,LE PEN,Marie-Caroline,Mme,RN,Rassemblement National,7204,72,52,72004
+2,GRELIER,Jean-Carles,M.,ENS,Ensemble ! (Majorité présidentielle),7205,72,52,72005
+5,VAUGARNY,Pierre,M.,RN,Rassemblement National,7205,72,52,72005
+4,LATOMBE,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),8501,85,52,85001
+6,PAULIN,Simon-Pierre,M.,UXD,Union de l'extrême droite,8501,85,52,85001
+3,EBRAN,Marie-Christine,Mme,RN,Rassemblement National,8502,85,52,85002
+4,BELLAMY,Béatrice,Mme,ENS,Ensemble ! (Majorité présidentielle),8502,85,52,85002
+3,DUBIN,Pascal,M.,UXD,Union de l'extrême droite,8503,85,52,85003
+6,BUCHOU,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),8503,85,52,85003
+2,MARIEL-GODARD,Julie,Mme,UG,Union de la gauche,8504,85,52,85004
+3,PROUX,Jacques,M.,RN,Rassemblement National,8504,85,52,85004
+4,BESSE,Véronique,Mme,DVD,Divers droite,8504,85,52,85004
+5,NAGNONHOU,Ilias,M.,ENS,Ensemble ! (Majorité présidentielle),8504,85,52,85004
+2,BUFFETAUT,Stéphane,M.,RN,Rassemblement National,8505,85,52,85005
+4,HENRIET,Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),8505,85,52,85005
+1,COSSON,Mickaël,M.,ENS,Ensemble ! (Majorité présidentielle),2201,22,53,22001
+2,GORGIARD,Marion,Mme,UG,Union de la gauche,2201,22,53,22001
+4,BILLAUD,Françoise,Mme,RN,Rassemblement National,2201,22,53,22001
+4,KIEFFER,Antoine,M.,RN,Rassemblement National,2202,22,53,22002
+5,BERVILLE,Hervé,M.,ENS,Ensemble ! (Majorité présidentielle),2202,22,53,22002
+1,LE FUR,Corentin,M.,LR,Les Républicains,2203,22,53,22003
+8,DE MELLON,Odile,Mme,RN,Rassemblement National,2203,22,53,22003
+1,LUDE,Noël,M.,RN,Rassemblement National,2204,22,53,22004
+5,LEPVRAUD,Murielle,Mme,UG,Union de la gauche,2204,22,53,22004
+1,LE BOULANGER,Jean-Yves,M.,RN,Rassemblement National,2205,22,53,22005
+3,BOTHOREL,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),2205,22,53,22005
+4,LEMAITRE,Marielle,Mme,UG,Union de la gauche,2205,22,53,22005
+1,LE MEUR,Annaïg,Mme,ENS,Ensemble ! (Majorité présidentielle),2901,29,53,29001
+2,LEBERT,Grégory,M.,UG,Union de la gauche,2901,29,53,29001
+4,HÉNAFF,Christel,Mme,RN,Rassemblement National,2901,29,53,29001
+4,LARSONNEUR,Jean-Charles,M.,DVC,Divers centre,2902,29,53,29002
+7,CADALEN,Pierre-Yves,M.,UG,Union de la gauche,2902,29,53,29002
+8,KERVELLA,Denis,M.,RN,Rassemblement National,2902,29,53,29002
+2,LE GAC,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),2903,29,53,29003
+3,DONVAL,Martine,Mme,RN,Rassemblement National,2903,29,53,29003
+1,BIHOUEE,Tony,M.,RN,Rassemblement National,2904,29,53,29004
+4,VULPIANI,Sylvaine,Mme,UG,Union de la gauche,2904,29,53,29004
+5,LE FEUR,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle),2904,29,53,29004
+3,THOMAÏDIS,Renée,Mme,RN,Rassemblement National,2905,29,53,29005
+4,MELCHIOR,Graziella,Mme,ENS,Ensemble ! (Majorité présidentielle),2905,29,53,29005
+1,LE FUR,Patrick,M.,RN,Rassemblement National,2906,29,53,29006
+6,THOMIN,Mélanie,Mme,UG,Union de la gauche,2906,29,53,29006
+1,TANGUY,Liliana,Mme,ENS,Ensemble ! (Majorité présidentielle),2907,29,53,29007
+2,ALANOU,Annick,Mme,RN,Rassemblement National,2907,29,53,29007
+7,HARVINDER,Jugdeep,Mme,UG,Union de la gauche,2907,29,53,29007
+4,BALANANT,Erwan,M.,ENS,Ensemble ! (Majorité présidentielle),2908,29,53,29008
+5,PEREZ,Christian,M.,RN,Rassemblement National,2908,29,53,29008
+1,MESMEUR,Marie,Mme,UG,Union de la gauche,3501,35,53,35001
+5,BOUCHER,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),3501,35,53,35001
+7,REY DU BOISSIEU,Jeanne,Mme,RN,Rassemblement National,3501,35,53,35001
+3,MAILLART-MÉHAIGNERIE,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),3502,35,53,35002
+4,VANHAECKE,Bérénice,Mme,RN,Rassemblement National,3502,35,53,35002
+5,LAHAIS,Tristan,M.,UG,Union de la gauche,3502,35,53,35002
+1,D'ORSANNE,Virginie,Mme,RN,Rassemblement National,3503,35,53,35003
+2,FAILLÉ,Charlotte,Mme,ENS,Ensemble ! (Majorité présidentielle),3503,35,53,35003
+4,ROUAUX,Claudia,Mme,UG,Union de la gauche,3503,35,53,35003
+3,FRANÇOIS,Jacques,M.,RN,Rassemblement National,3504,35,53,35004
+4,HIGNET,Mathilde,Mme,UG,Union de la gauche,3504,35,53,35004
+3,GILOIS,Françoise,Mme,RN,Rassemblement National,3505,35,53,35005
+4,LE NABOUR,Christine,Mme,ENS,Ensemble ! (Majorité présidentielle),3505,35,53,35005
+3,MARION,Tangi,M.,RN,Rassemblement National,3506,35,53,35006
+5,BENOIT,Thierry,M.,ENS,Ensemble ! (Majorité présidentielle),3506,35,53,35006
+1,LEMOINE,Dylan,M.,RN,Rassemblement National,3507,35,53,35007
+2,BOURGEAUX,Jean-Luc,M.,DVD,Divers droite,3507,35,53,35007
+3,MARTIN,Joseph,M.,RN,Rassemblement National,5601,56,53,56001
+7,LE HÉNANFF,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),5601,56,53,56001
+3,DE KERSAUSON,Florent,M.,RN,Rassemblement National,5602,56,53,56002
+4,PAHUN,Jimmy,M.,ENS,Ensemble ! (Majorité présidentielle),5602,56,53,56002
+5,LE PEIH,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle),5603,56,53,56003
+6,OLIVIERO,Antoine,M.,RN,Rassemblement National,5603,56,53,56003
+4,MOLAC,Paul,M.,REG,Régionaliste,5604,56,53,56004
+5,LE CUILLIER,Katel,Mme,RN,Rassemblement National,5604,56,53,56004
+1,MÉTAYER,Lysiane,Mme,ENS,Ensemble ! (Majorité présidentielle),5605,56,53,56005
+2,GIRARD,Damien,M.,UG,Union de la gauche,5605,56,53,56005
+4,LE GOFF,Aurélie,Mme,RN,Rassemblement National,5605,56,53,56005
+1,JACQUES,Jean-Michel,M.,ENS,Ensemble ! (Majorité présidentielle),5606,56,53,56006
+5,GUIHOT-VIEIRA,Nathalie,Mme,RN,Rassemblement National,5606,56,53,56006
+1,MESNIER,Thomas,M.,HOR,Horizons,1601,16,75,16001
+4,PILATO,René,M.,UG,Union de la gauche,1601,16,75,16001
+5,LATUS,Marion,Mme,RN,Rassemblement National,1601,16,75,16001
+1,MARTIN,Barthélemy,M.,UXD,Union de l'extrême droite,1602,16,75,16002
+7,MARSAUD,Sandra,Mme,ENS,Ensemble ! (Majorité présidentielle),1602,16,75,16002
+1,LEBRAUD,Virginie,Mme,UG,Union de la gauche,1603,16,75,16003
+4,COLOMBIER,Caroline,Mme,RN,Rassemblement National,1603,16,75,16003
+2,CHAUVEAU,Emma,Mme,RN,Rassemblement National,1701,17,75,17001
+8,FALORNI,Olivier,M.,DVG,Divers gauche,1701,17,75,17001
+2,BERTHOLOM,Karen,Mme,RN,Rassemblement National,1702,17,75,17002
+3,BITEAU,Benoît,M.,UG,Union de la gauche,1702,17,75,17002
+3,MORIN,Stéphane,M.,RN,Rassemblement National,1703,17,75,17003
+5,BARUSSEAU,Fabrice,M.,UG,Union de la gauche,1703,17,75,17003
+1,GERARD,Raphaël,M.,ENS,Ensemble ! (Majorité présidentielle),1704,17,75,17004
+2,MARKOWSKY,Pascal,M.,RN,Rassemblement National,1704,17,75,17004
+1,MONGELOUS,Aymeric,M.,RN,Rassemblement National,1705,17,75,17005
+2,PLASSARD,Christophe,M.,HOR,Horizons,1705,17,75,17005
+2,DUBOIS,Francis,M.,LR,Les Républicains,1901,19,75,19001
+4,HOLLANDE,François,M.,UG,Union de la gauche,1901,19,75,19001
+5,POUGET,Maïtey,Mme,RN,Rassemblement National,1901,19,75,19001
+1,ELOPHE,Valéry,M.,RN,Rassemblement National,1902,19,75,19002
+3,MEUNIER,Frédérique,Mme,LR,Les Républicains,1902,19,75,19002
+3,SIMONET,Valérie,Mme,DVD,Divers droite,2301,23,75,23001
+5,LENOIR,Bartolomé,M.,UXD,Union de l'extrême droite,2301,23,75,23001
+6,COUTURIER,Catherine,Mme,UG,Union de la gauche,2301,23,75,23001
+1,MARTIN,Pascale,Mme,UG,Union de la gauche,2401,24,75,24001
+4,LECHON,Nadine,Mme,RN,Rassemblement National,2401,24,75,24001
+4,CATHUS,Christophe,M.,UG,Union de la gauche,2402,24,75,24002
+5,MULLER,Serge,M.,RN,Rassemblement National,2402,24,75,24002
+2,DRUILLOLE,Christelle,Mme,UG,Union de la gauche,2403,24,75,24003
+3,JOUBERT,Florence,Mme,RN,Rassemblement National,2403,24,75,24003
+3,PEYTAVIE,Sébastien,M.,UG,Union de la gauche,2404,24,75,24004
+7,MARCHAUDON,Dominique-Louise,Mme,RN,Rassemblement National,2404,24,75,24004
+1,CAZENAVE,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),3301,33,75,33001
+4,PALUTEAU,Bruno,M.,RN,Rassemblement National,3301,33,75,33001
+5,PAPIN,Céline,Mme,UG,Union de la gauche,3301,33,75,33001
+4,THIERRY,Nicolas,M.,UG,Union de la gauche,3302,33,75,33002
+6,JURAMY,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),3302,33,75,33002
+3,ARY,Ariane,Mme,ENS,Ensemble ! (Majorité présidentielle),3303,33,75,33003
+5,BASTERES,Maryvonne,Mme,RN,Rassemblement National,3303,33,75,33003
+9,PRUD'HOMME,Loïc,M.,UG,Union de la gauche,3303,33,75,33003
+3,DAVID,Alain,M.,UG,Union de la gauche,3304,33,75,33004
+4,RECHAGNEUX,Julie,Mme,RN,Rassemblement National,3304,33,75,33004
+1,DE FOURNAS,Grégoire,M.,RN,Rassemblement National,3305,33,75,33005
+5,GOT,Pascale,Mme,UG,Union de la gauche,3305,33,75,33005
+2,BOURLIEUX,Jimmy,M.,RN,Rassemblement National,3306,33,75,33006
+5,POULLIAT,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),3306,33,75,33006
+7,RECALDE,Marie,Mme,UG,Union de la gauche,3306,33,75,33006
+1,NAVEYS--DUMAS,Clémence,Mme,RN,Rassemblement National,3307,33,75,33007
+3,SAINT-PASTEUR,Sébastien,M.,UG,Union de la gauche,3307,33,75,33007
+4,COUILLARD,Bérangère,Mme,ENS,Ensemble ! (Majorité présidentielle),3307,33,75,33007
+5,LAMARA,Laurent,M.,RN,Rassemblement National,3308,33,75,33008
+6,PANONACLE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),3308,33,75,33008
+1,METTE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),3309,33,75,33009
+5,MARQUES,François-Xavier,M.,RN,Rassemblement National,3309,33,75,33009
+2,BOUDIÉ,Florent,M.,ENS,Ensemble ! (Majorité présidentielle),3310,33,75,33010
+4,CHADOURNE,Sandrine,Mme,RN,Rassemblement National,3310,33,75,33010
+3,FELD,Mathilde,Mme,UG,Union de la gauche,3312,33,75,33012
+4,BERTHONNEAU,Rémy,M.,RN,Rassemblement National,3312,33,75,33012
+3,FOSSEY,Véronique,Mme,RN,Rassemblement National,4001,40,75,40001
+4,DARRIEUSSECQ,Geneviève,Mme,ENS,Ensemble ! (Majorité présidentielle),4001,40,75,40001
+1,BIESBROUCK,Ludovic,M.,RN,Rassemblement National,4002,40,75,40002
+5,CAUSSE,Lionel,M.,ENS,Ensemble ! (Majorité présidentielle),4002,40,75,40002
+2,FRANCESCHINI,Sylvie,Mme,RN,Rassemblement National,4003,40,75,40003
+3,VALLAUD,Boris,M.,UG,Union de la gauche,4003,40,75,40003
+4,DELBOSQ,Sébastien,M.,RN,Rassemblement National,4701,47,75,47001
+5,LAUZZANA,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),4701,47,75,47001
+1,COURREGELONGUE,Christophe,M.,UG,Union de la gauche,4702,47,75,47002
+3,LAPORTE,Hélène,Mme,RN,Rassemblement National,4702,47,75,47002
+1,COUSIN,Annick,Mme,RN,Rassemblement National,4703,47,75,47003
+2,LEPERS,Guillaume,M.,DVD,Divers droite,4703,47,75,47003
+3,POUEYTO,Josy,Mme,ENS,Ensemble ! (Majorité présidentielle),6401,64,75,64001
+7,VERRIERE,François,M.,RN,Rassemblement National,6401,64,75,64001
+5,MATTEÏ,Jean-Paul,M.,ENS,Ensemble ! (Majorité présidentielle),6402,64,75,64002
+6,BECKER,Monique,Mme,RN,Rassemblement National,6402,64,75,64002
+2,CRESSON,Nicolas,M.,RN,Rassemblement National,6403,64,75,64003
+5,HABIB,David,M.,DVG,Divers gauche,6403,64,75,64003
+2,ECHANIZ,Iñaki,M.,UG,Union de la gauche,6404,64,75,64004
+3,LASSALLE,Jean,M.,DVD,Divers droite,6404,64,75,64004
+4,LOPEZ,Sylviane,Mme,RN,Rassemblement National,6404,64,75,64004
+5,CAPDEVIELLE,Colette,Mme,UG,Union de la gauche,6405,64,75,64005
+9,ROSSO,Serge,M.,RN,Rassemblement National,6405,64,75,64005
+2,DUFAU,Peio,M.,UG,Union de la gauche,6406,64,75,64006
+3,LASTÉCOUÈRES,Victor,M.,UXD,Union de l'extrême droite,6406,64,75,64006
+9,DEVÈZE,Christian,M.,ENS,Ensemble ! (Majorité présidentielle),6406,64,75,64006
+1,LANZI,Nathalie,Mme,UG,Union de la gauche,7901,79,75,79001
+5,CHAMPEAU,Dorothée,Mme,RN,Rassemblement National,7901,79,75,79001
+6,MARCHIVE,Bastien,M.,DVC,Divers centre,7901,79,75,79001
+1,BATHO,Delphine,Mme,ECO,Ecologistes,7902,79,75,79002
+4,GARAULT,Mélody,Mme,RN,Rassemblement National,7902,79,75,79002
+3,FIÉVET,Jean-Marie,M.,ENS,Ensemble ! (Majorité présidentielle),7903,79,75,79003
+4,ROBIN,Philippe,M.,UXD,Union de l'extrême droite,7903,79,75,79003
+1,DARLES,Emmanuelle,Mme,RN,Rassemblement National,8601,86,75,86001
+3,SAINT-PÉ,Séverine,Mme,HOR,Horizons,8601,86,75,86001
+5,BELLUCO,Lisa,Mme,UG,Union de la gauche,8601,86,75,86001
+1,CHEVALLIER,Estelle,Mme,RN,Rassemblement National,8602,86,75,86002
+4,SOUMAILLE,Valérie,Mme,UG,Union de la gauche,8602,86,75,86002
+6,HOULIÉ,Sacha,M.,ENS,Ensemble ! (Majorité présidentielle),8602,86,75,86002
+1,LECAMP,Pascal,M.,ENS,Ensemble ! (Majorité présidentielle),8603,86,75,86003
+4,SOULAT,Eric,M.,RN,Rassemblement National,8603,86,75,86003
+5,TURQUOIS,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),8604,86,75,86004
+6,JACQUEMIN,Hager,Mme,RN,Rassemblement National,8604,86,75,86004
+2,MAUDET,Damien,M.,UG,Union de la gauche,8701,87,75,87001
+3,NEGRIER,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),8701,87,75,87001
+4,DOS SANTOS DE OLIVEIRA,Camille,Mme,RN,Rassemblement National,8701,87,75,87001
+1,DELAUTRETTE,Stéphane,M.,UG,Union de la gauche,8702,87,75,87002
+3,MINGUET,Sabrina,Mme,RN,Rassemblement National,8702,87,75,87002
+1,FREYCHET,Albin,M.,RN,Rassemblement National,8703,87,75,87003
+3,TOULZA,Gilles,M.,DVC,Divers centre,8703,87,75,87003
+4,MEUNIER,Manon,Mme,UG,Union de la gauche,8703,87,75,87003
+4,ALOZY,Michèle,Mme,RN,Rassemblement National,0902,09,76,09002
+5,PANIFOUS,Laurent,M.,UG,Union de la gauche,0902,09,76,09002
+8,BARTHÈS,Christophe,M.,RN,Rassemblement National,1101,11,76,11001
+9,POUTOU,Philippe,M.,UG,Union de la gauche,1101,11,76,11001
+5,FALCON,Frédéric,M.,RN,Rassemblement National,1102,11,76,11002
+8,THIVENT,Viviane,Mme,UG,Union de la gauche,1102,11,76,11002
+3,ANDRIEU,Philippe,M.,UG,Union de la gauche,1103,11,76,11003
+5,RANCOULE,Julien,M.,RN,Rassemblement National,1103,11,76,11003
+2,MAZARS,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),1201,12,76,12001
+5,CHARTIER,Jean-Philippe,M.,RN,Rassemblement National,1201,12,76,12001
+1,PAROLIN,Marie-Christine,Mme,RN,Rassemblement National,1202,12,76,12002
+2,ALEXANDRE,Laurent,M.,UG,Union de la gauche,1202,12,76,12002
+2,ROUSSET,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),1203,12,76,12003
+5,FEVRE,Pierre-Antoine,M.,UXD,Union de l'extrême droite,1203,12,76,12003
+4,MENARD,Charles,M.,UG,Union de la gauche,3001,30,76,30001
+5,GILLET,Yoann,M.,RN,Rassemblement National,3001,30,76,30001
+5,BORDES,Pascale,Mme,RN,Rassemblement National,3003,30,76,30003
+7,OROMI,Sabine,Mme,UG,Union de la gauche,3003,30,76,30003
+2,BORD,Arnaud,M.,UG,Union de la gauche,3004,30,76,30004
+5,MEURIN,Pierre,M.,RN,Rassemblement National,3004,30,76,30004
+3,ALLEGRET-PILOT,Alexandre,M.,UXD,Union de l'extrême droite,3005,30,76,30005
+4,SALA,Michel,M.,UG,Union de la gauche,3005,30,76,30005
+5,CADÈNE,Nicolas,M.,UG,Union de la gauche,3006,30,76,30006
+6,JOSSERAND,Sylvie,Mme,RN,Rassemblement National,3006,30,76,30006
+2,CLOUET,Hadrien,M.,UG,Union de la gauche,3101,31,76,31001
+3,HOBET,Elodie,Mme,ENS,Ensemble ! (Majorité présidentielle),3101,31,76,31001
+4,CHAMBELIN,Lola,Mme,RN,Rassemblement National,3101,31,76,31001
+2,STAMBACH-TERRENOIR,Anne,Mme,UG,Union de la gauche,3102,31,76,31002
+3,KHALIFA,Frank,M.,RN,Rassemblement National,3102,31,76,31002
+7,LAGLEIZE,Jean-Luc,M.,ENS,Ensemble ! (Majorité présidentielle),3102,31,76,31002
+1,ALARCON,Stéphanie,Mme,RN,Rassemblement National,3103,31,76,31003
+6,VIGNON,Corinne,Mme,ENS,Ensemble ! (Majorité présidentielle),3103,31,76,31003
+10,ROBY,Agathe,Mme,UG,Union de la gauche,3103,31,76,31003
+3,PORTARRIEU,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),3105,31,76,31005
+5,LEONARDELLI,Julien,M.,RN,Rassemblement National,3105,31,76,31005
+4,SIMION,Arnaud,M.,UG,Union de la gauche,3106,31,76,31006
+5,DEMANGE-FIERLEJ,Nadine,Mme,RN,Rassemblement National,3106,31,76,31006
+3,BEX,Christophe,M.,UG,Union de la gauche,3107,31,76,31007
+4,INARD,Gaëtan,M.,UXD,Union de l'extrême droite,3107,31,76,31007
+2,DELCHARD,Loïc,M.,RN,Rassemblement National,3108,31,76,31008
+5,AVIRAGNET,Joël,M.,UG,Union de la gauche,3108,31,76,31008
+3,DELRIEU,Florian,M.,ENS,Ensemble ! (Majorité présidentielle),3109,31,76,31009
+4,ARRIGHI,Christine,Mme,UG,Union de la gauche,3109,31,76,31009
+5,BEOUT,Caroline,Mme,RN,Rassemblement National,3109,31,76,31009
+2,FALGAS-COLOMINA,Caroline,Mme,RN,Rassemblement National,3110,31,76,31010
+8,OBERTI,Jacques,M.,UG,Union de la gauche,3110,31,76,31010
+1,CAZENEUVE,Jean-René,M.,ENS,Ensemble ! (Majorité présidentielle),3201,32,76,32001
+6,YELMA,Jean-Luc,M.,RN,Rassemblement National,3201,32,76,32001
+1,CENDRÉ,Alice,Mme,RN,Rassemblement National,3202,32,76,32002
+3,TAUPIAC,David,M.,DVG,Divers gauche,3202,32,76,32002
+1,OLIVA,Josyan,M.,UXD,Union de l'extrême droite,3401,34,76,34001
+3,ROUMEGAS,Jean-Louis,M.,UG,Union de la gauche,3401,34,76,34001
+2,DOMBRE-COSTE,Fanny,Mme,UG,Union de la gauche,3403,34,76,34003
+6,TROISE,Lauriane,Mme,RN,Rassemblement National,3403,34,76,34003
+1,BOUQUIN,Manon,Mme,RN,Rassemblement National,3404,34,76,34004
+5,ROME,Sébastien,M.,UG,Union de la gauche,3404,34,76,34004
+5,GALZY,Stéphanie,Mme,RN,Rassemblement National,3405,34,76,34005
+6,MANENC,Aurélien,M.,UG,Union de la gauche,3405,34,76,34005
+3,MÉNARD,Emmanuelle,Mme,DVD,Divers droite,3406,34,76,34006
+4,GABARRON,Julien,M.,RN,Rassemblement National,3406,34,76,34006
+5,CROZIER,Magali,Mme,UG,Union de la gauche,3406,34,76,34006
+2,CARRIERE,Sylvain,M.,UG,Union de la gauche,3408,34,76,34008
+4,DELAPIERRE,Cédric,M.,RN,Rassemblement National,3408,34,76,34008
+7,BELAOUNI,Nadia,Mme,UG,Union de la gauche,3409,34,76,34009
+9,ALLONCLE,Charles,M.,UXD,Union de l'extrême droite,3409,34,76,34009
+2,PRADIÉ,Aurélien,M.,LR,Les Républicains,4601,46,76,46001
+4,BOUGEARD,Elsa,Mme,UG,Union de la gauche,4601,46,76,46001
+5,MIHAYLOVA,Slavka,Mme,RN,Rassemblement National,4601,46,76,46001
+1,TIEGNA,Huguette,Mme,ENS,Ensemble ! (Majorité présidentielle),4602,46,76,46002
+2,PROENÇA,Christophe,M.,UG,Union de la gauche,4602,46,76,46002
+5,BLANCHET,Gérard Raymond,M.,RN,Rassemblement National,4602,46,76,46002
+1,GOUSSEAU,Luc-Etienne,M.,RN,Rassemblement National,4801,48,76,48001
+3,MOREL A L'HUISSIER,Pierre,M.,DVD,Divers droite,4801,48,76,48001
+5,PANTEL,Sophie,Mme,UG,Union de la gauche,4801,48,76,48001
+1,SORIN,Marie-Christine,Mme,RN,Rassemblement National,6501,65,76,65001
+4,FERRER,Sylvie,Mme,UG,Union de la gauche,6501,65,76,65001
+5,FÉGNÉ,Denis,M.,UG,Union de la gauche,6502,65,76,65002
+7,MONTEIL,Olivier,M.,RN,Rassemblement National,6502,65,76,65002
+1,BLANC,Sophie,Mme,RN,Rassemblement National,6601,66,76,66001
+2,DASPE,Francis,M.,UG,Union de la gauche,6601,66,76,66001
+5,DOGOR-SUCH,Sandrine,Mme,RN,Rassemblement National,6603,66,76,66003
+6,CULLELL,Nathalie,Mme,UG,Union de la gauche,6603,66,76,66003
+2,MARTINEZ,Michèle,Mme,RN,Rassemblement National,6604,66,76,66004
+6,BARAILLÉ,Julien,M.,UG,Union de la gauche,6604,66,76,66004
+4,CABROLIER,Frédéric,M.,RN,Rassemblement National,8101,81,76,81001
+5,BONNECARRERE,Philippe,M.,DVC,Divers centre,8101,81,76,81001
+3,ERODI,Karen,Mme,UG,Union de la gauche,8102,81,76,81002
+6,BACOU,Julien,M.,RN,Rassemblement National,8102,81,76,81002
+4,TERLIER,Jean,M.,ENS,Ensemble ! (Majorité présidentielle),8103,81,76,81003
+5,CARAYON,Guilhem,M.,UXD,Union de l'extrême droite,8103,81,76,81003
+1,BAREGES,Brigitte,Mme,UXD,Union de l'extrême droite,8201,82,76,82001
+3,RABAULT,Valérie,Mme,UG,Union de la gauche,8201,82,76,82001
+1,CHRETIEN,Claudie,Mme,UG,Union de la gauche,8202,82,76,82002
+4,HAMELET,Marine,Mme,RN,Rassemblement National,8202,82,76,82002
+2,MAÎTRE,Christophe,M.,RN,Rassemblement National,0101,01,84,01001
+3,BRETON,Xavier,M.,LR,Les Républicains,0101,01,84,01001
+1,KOTARAC,Andréa,M.,RN,Rassemblement National,0102,01,84,01002
+2,DAUBIÉ,Romain,M.,ENS,Ensemble ! (Majorité présidentielle),0102,01,84,01002
+1,GIVERNET,Olga,Mme,ENS,Ensemble ! (Majorité présidentielle),0103,01,84,01003
+6,DUBARRY,Karine,Mme,RN,Rassemblement National,0103,01,84,01003
+5,COQUELET,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),0104,01,84,01004
+6,BUISSON,Jérôme,M.,RN,Rassemblement National,0104,01,84,01004
+4,PISANI,Florence,Mme,UG,Union de la gauche,0105,01,84,01005
+8,CHAVENT,Marc,M.,UXD,Union de l'extrême droite,0105,01,84,01005
+2,MONNET,Yannick,M.,UG,Union de la gauche,0301,03,84,03001
+7,THÈS,Anne-Marie,Mme,RN,Rassemblement National,0301,03,84,03001
+1,BOVET,Jorys,M.,RN,Rassemblement National,0302,03,84,03002
+2,LEFEBVRE,Romain,M.,LR,Les Républicains,0302,03,84,03002
+3,HERITIER,Louise,Mme,UG,Union de la gauche,0302,03,84,03002
+1,RAY,Nicolas,M.,LR,Les Républicains,0303,03,84,03003
+2,QUENEY,Rémy,M.,RN,Rassemblement National,0303,03,84,03003
+2,PORQUET,Céline,Mme,RN,Rassemblement National,0701,07,84,07001
+6,SAULIGNAC,Hervé,M.,UG,Union de la gauche,0701,07,84,07001
+4,VICTORY,Michèle,Mme,UG,Union de la gauche,0702,07,84,07002
+5,TREBUCHET,Vincent,M.,UXD,Union de l'extrême droite,0702,07,84,07002
+4,PALLOT,Florence,Mme,UG,Union de la gauche,0703,07,84,07003
+5,BRUN,Fabrice,M.,DVD,Divers droite,0703,07,84,07003
+8,GRANGIER,Cyrille,M.,RN,Rassemblement National,0703,07,84,07003
+1,DESCOEUR,Vincent,M.,DVD,Divers droite,1501,15,84,15001
+6,GALLAIS,Dorothée,Mme,RN,Rassemblement National,1501,15,84,15001
+3,LACROIX,Gilles,M.,RN,Rassemblement National,1502,15,84,15002
+7,BONY,Jean Yves,M.,DVD,Divers droite,1502,15,84,15002
+1,VALLON,Jean-Paul,M.,RN,Rassemblement National,2601,26,84,26001
+6,CHRISTOPHLE,Paul,M.,UG,Union de la gauche,2601,26,84,26001
+3,POLLET,Lisette,Mme,RN,Rassemblement National,2602,26,84,26002
+4,CHKERI,Karim,M.,UG,Union de la gauche,2602,26,84,26002
+2,POCHON,Marie,Mme,UG,Union de la gauche,2603,26,84,26003
+6,AUTRAND,Adhémar,M.,UXD,Union de l'extrême droite,2603,26,84,26003
+2,PAGANI,Isabelle,Mme,UG,Union de la gauche,2604,26,84,26004
+4,ANTHOINE,Emmanuelle,Mme,LR,Les Républicains,2604,26,84,26004
+6,MONNIER,Thibaut,M.,RN,Rassemblement National,2604,26,84,26004
+3,LACROIX,Alexandre,M.,UXD,Union de l'extrême droite,3801,38,84,38001
+4,PREVOST,Hugo,M.,UG,Union de la gauche,3801,38,84,38001
+5,VÉRAN,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),3801,38,84,38001
+1,CHATELAIN,Cyrielle,Mme,UG,Union de la gauche,3802,38,84,38002
+5,ROBERT,Edouard,M.,RN,Rassemblement National,3802,38,84,38002
+3,MARTIN,Élisa,Mme,UG,Union de la gauche,3803,38,84,38003
+7,DUPRÉ,Christel,Mme,RN,Rassemblement National,3803,38,84,38003
+2,MALANDRINO,Anne-Marie,Mme,UXD,Union de l'extrême droite,3804,38,84,38004
+6,BATTISTEL,Marie-Noëlle,Mme,UG,Union de la gauche,3804,38,84,38004
+1,IORDANOFF,Jérémie,M.,UG,Union de la gauche,3805,38,84,38005
+7,SCHREIBER,Frédérique,Mme,RN,Rassemblement National,3805,38,84,38005
+2,JOLLY,Alexis,M.,RN,Rassemblement National,3806,38,84,38006
+6,DI SPIGNO,Yaqine,Mme,UG,Union de la gauche,3806,38,84,38006
+1,AUGUSTE,Benoît,M.,RN,Rassemblement National,3807,38,84,38007
+5,NEUDER,Yannick,M.,LR,Les Républicains,3807,38,84,38007
+3,MICHEL,Cécile,Mme,UG,Union de la gauche,3808,38,84,38008
+4,MANSOURI,Hanane,Mme,UXD,Union de l'extrême droite,3808,38,84,38008
+1,BENE,Cécile,Mme,RN,Rassemblement National,3809,38,84,38009
+8,NOSBÉ,Sandrine,Mme,UG,Union de la gauche,3809,38,84,38009
+1,RICHOL,Joëlle,Mme,UG,Union de la gauche,3810,38,84,38010
+5,PEREZ,Thierry,M.,RN,Rassemblement National,3810,38,84,38010
+4,SIMON,Marie,Mme,RN,Rassemblement National,4201,42,84,42001
+6,COURBON,Pierrick,M.,UG,Union de la gauche,4201,42,84,42001
+1,BREUIL,Hervé,M.,RN,Rassemblement National,4202,42,84,42002
+4,LE JAOUEN,Eric,M.,UDI,Union des Démocrates et Indépendants,4202,42,84,42002
+6,TAURINYA,Andrée,Mme,UG,Union de la gauche,4202,42,84,42002
+1,MANDON,Emmanuel,M.,ENS,Ensemble ! (Majorité présidentielle),4203,42,84,42003
+2,LA MARCA,Angelina,Mme,RN,Rassemblement National,4203,42,84,42003
+1,BONNET,Sylvie,Mme,LR,Les Républicains,4204,42,84,42004
+3,RAMBAUD,Gerbert,M.,RN,Rassemblement National,4204,42,84,42004
+3,GRANGER,Sandrine,Mme,RN,Rassemblement National,4205,42,84,42005
+4,STEVENSON,Ismaël,M.,UG,Union de la gauche,4205,42,84,42005
+5,VERMOREL-MARQUES,Antoine,M.,LR,Les Républicains,4205,42,84,42005
+2,TAITE,Jean-Pierre,M.,LR,Les Républicains,4206,42,84,42006
+5,GRANGER,Grégoire,M.,RN,Rassemblement National,4206,42,84,42006
+3,HEUZEY,Alexandre,M.,RN,Rassemblement National,4301,43,84,43001
+5,WAUQUIEZ,Laurent,M.,LR,Les Républicains,4301,43,84,43001
+1,VIGIER,Jean-Pierre,M.,LR,Les Républicains,4302,43,84,43002
+5,FOURETS,Suzanne Maryse Denise,Mme,RN,Rassemblement National,4302,43,84,43002
+3,PRONONCE,Hervé,M.,ENS,Ensemble ! (Majorité présidentielle),6301,63,84,63001
+4,MAXIMI,Marianne,Mme,UG,Union de la gauche,6301,63,84,63001
+5,CLEMENT,Louis,M.,RN,Rassemblement National,6301,63,84,63001
+1,DUPRÉ,Isabelle,Mme,RN,Rassemblement National,6302,63,84,63002
+5,PIRÈS BEAUNE,Christine,Mme,UG,Union de la gauche,6302,63,84,63002
+2,VICHNIEVSKY,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),6303,63,84,63003
+6,PERS,Nadine,Mme,RN,Rassemblement National,6303,63,84,63003
+8,BONNET,Nicolas,M.,UG,Union de la gauche,6303,63,84,63003
+1,LINGEMANN,Delphine,Mme,ENS,Ensemble ! (Majorité présidentielle),6304,63,84,63004
+4,CHALUS,Benjamin,M.,RN,Rassemblement National,6304,63,84,63004
+4,CHASSAIGNE,André,M.,UG,Union de la gauche,6305,63,84,63005
+5,CARLETTO,Brigitte,Mme,RN,Rassemblement National,6305,63,84,63005
+1,BELOUASSA-CHERIFI,Anaïs,Mme,UG,Union de la gauche,6901,69,84,69001
+2,RUDIGOZ,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),6901,69,84,69001
+4,MOUTON,Laurent,M.,RN,Rassemblement National,6901,69,84,69001
+4,TERRENES,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),6902,69,84,69002
+6,TAVERNIER,Boris,M.,UG,Union de la gauche,6902,69,84,69002
+1,RUNEL,Sandrine,Mme,UG,Union de la gauche,6904,69,84,69004
+4,CHAUMONT,Yannick,M.,RN,Rassemblement National,6904,69,84,69004
+8,BRUGNERA,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),6904,69,84,69004
+2,BROCARD,Blandine,Mme,ENS,Ensemble ! (Majorité présidentielle),6905,69,84,69005
+4,BITOUM,Sasha,Mme,RN,Rassemblement National,6905,69,84,69005
+5,MATTEUCCI,Fabrice,M.,UG,Union de la gauche,6905,69,84,69005
+2,AMARD,Gabriel,M.,UG,Union de la gauche,6906,69,84,69006
+3,BRET,Jean-Paul,M.,DVG,Divers gauche,6906,69,84,69006
+2,LAHMAR,Abdelkader,M.,UG,Union de la gauche,6907,69,84,69007
+3,VINCENDET,Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),6907,69,84,69007
+4,PIGNAL,Cédric,M.,RN,Rassemblement National,6907,69,84,69007
+1,GERY,Jonathan,M.,RN,Rassemblement National,6908,69,84,69008
+2,REYMBAUT,Anne,Mme,UG,Union de la gauche,6908,69,84,69008
+5,SERRE,Nathalie,Mme,LR,Les Républicains,6908,69,84,69008
+6,DESPRAS,Dominique,M.,ENS,Ensemble ! (Majorité présidentielle),6908,69,84,69008
+4,LOUIS,Patrick,M.,UXD,Union de l'extrême droite,6909,69,84,69009
+5,PORTIER,Alexandre,M.,LR,Les Républicains,6909,69,84,69009
+2,PATOUT,Cecile,Mme,RN,Rassemblement National,6910,69,84,69010
+3,GASSILLOUD,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),6910,69,84,69010
+3,HUMBERT DUPALAIS,Alexandre,M.,UXD,Union de l'extrême droite,6911,69,84,69011
+6,FUGIT,Jean-Luc,M.,ENS,Ensemble ! (Majorité présidentielle),6911,69,84,69011
+1,LUISIER,Clémence,Mme,RN,Rassemblement National,6912,69,84,69012
+3,GAILLOT DURAND,Lucie,Mme,UG,Union de la gauche,6912,69,84,69012
+4,ISAAC-SIBILLE,Cyrille,M.,ENS,Ensemble ! (Majorité présidentielle),6912,69,84,69012
+2,JONCOUR,Tiffany,Mme,RN,Rassemblement National,6913,69,84,69013
+5,PRANDT,Victor,M.,UG,Union de la gauche,6913,69,84,69013
+1,BOUMERTIT,Idir,M.,UG,Union de la gauche,6914,69,84,69014
+3,MERMET,Cédric,M.,RN,Rassemblement National,6914,69,84,69014
+5,DEGOIS,Typhanie,Mme,UXD,Union de l'extrême droite,7301,73,84,73001
+6,FERRARI,Marina,Mme,ENS,Ensemble ! (Majorité présidentielle),7301,73,84,73001
+1,ROLLAND,Vincent,M.,LR,Les Républicains,7302,73,84,73002
+2,RACT-BRANCAZ,Pauline,Mme,RN,Rassemblement National,7302,73,84,73002
+2,DAUCHY,Marie,Mme,RN,Rassemblement National,7303,73,84,73003
+3,BONNIVARD,Emilie,Mme,LR,Les Républicains,7303,73,84,73003
+2,COULOMME,Jean-François,M.,UG,Union de la gauche,7304,73,84,73004
+3,BERNARD,Brice,M.,RN,Rassemblement National,7304,73,84,73004
+4,ROIT-LEVÊQUE,Guillaume,M.,RN,Rassemblement National,7401,74,84,74001
+6,RIOTTON,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),7401,74,84,74001
+2,BOUVARD,Anis,M.,RN,Rassemblement National,7402,74,84,74002
+6,ARMAND,Antoine,M.,ENS,Ensemble ! (Majorité présidentielle),7402,74,84,74002
+1,VALENTIN,Antoine,M.,UXD,Union de l'extrême droite,7403,74,84,74003
+5,PETEX,Christelle,Mme,DVD,Divers droite,7403,74,84,74003
+4,LUHO,Magalie,Mme,RN,Rassemblement National,7404,74,84,74004
+7,DUBY-MULLER,Virginie,Mme,LR,Les Républicains,7404,74,84,74004
+1,VIOLLAND,Anne-Cécile,Mme,ENS,Ensemble ! (Majorité présidentielle),7405,74,84,74005
+3,TAÏEB,Quentin,M.,UXD,Union de l'extrême droite,7405,74,84,74005
+1,ROSEREN,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),7406,74,84,74006
+5,PRATS,Charles,M.,UXD,Union de l'extrême droite,7406,74,84,74006
+5,GIRARD,Christian,M.,RN,Rassemblement National,0401,04,93,04001
+6,BLANC,Felix,M.,UG,Union de la gauche,0401,04,93,04001
+2,VAGINAY,Sophie,Mme,UXD,Union de l'extrême droite,0402,04,93,04002
+4,WALTER,Léo,M.,UG,Union de la gauche,0402,04,93,04002
+1,SAINTE-MARIE,Jérôme,M.,RN,Rassemblement National,0501,05,93,05001
+3,ALLEMAND,Marie-José,Mme,UG,Union de la gauche,0501,05,93,05001
+3,ROSSI,Valérie,Mme,UG,Union de la gauche,0502,05,93,05002
+5,ALBRAND,Louis,M.,RN,Rassemblement National,0502,05,93,05002
+1,SALERNO,Olivier,M.,UG,Union de la gauche,0601,06,93,06001
+4,MONETTI,Graig,M.,ENS,Ensemble ! (Majorité présidentielle),0601,06,93,06001
+7,CIOTTI,Eric,M.,UXD,Union de l'extrême droite,0601,06,93,06001
+1,TONNERRE,Leïla,Mme,UG,Union de la gauche,0602,06,93,06002
+7,TIVOLI,Lionel,M.,RN,Rassemblement National,0602,06,93,06002
+3,QUIGNARD,Laure,Mme,UG,Union de la gauche,0603,06,93,06003
+4,CHAIX,Bernard,M.,UXD,Union de l'extrême droite,0603,06,93,06003
+1,FERRAND,Thierry,M.,RN,Rassemblement National,0607,06,93,06007
+6,PAUGET,Eric,M.,LR,Les Républicains,0607,06,93,06007
+1,LANDERER,Dorette,Mme,RN,Rassemblement National,0608,06,93,06008
+2,MARTIN,Alexandra,Mme,LR,Les Républicains,0608,06,93,06008
+1,GALBERT,Franck,M.,RN,Rassemblement National,0609,06,93,06009
+3,TABAROT,Michèle,Mme,LR,Les Républicains,0609,06,93,06009
+1,LÉCORCHÉ,Pascaline,Mme,UG,Union de la gauche,1301,13,93,13001
+2,GRISETI,Monique,Mme,RN,Rassemblement National,1301,13,93,13001
+2,LHARDIT,Laurent,M.,UG,Union de la gauche,1302,13,93,13002
+4,RIOULT,Olivier,M.,RN,Rassemblement National,1302,13,93,13002
+1,KESSACI,Amine,M.,UG,Union de la gauche,1303,13,93,13003
+7,LELOUIS,Gisèle,Mme,RN,Rassemblement National,1303,13,93,13003
+7,LIQUORI,Franck,M.,RN,Rassemblement National,1305,13,93,13005
+10,DAVI,Hendrik,M.,DVG,Divers gauche,1305,13,93,13005
+2,FAYSSAT,Olivier,M.,UXD,Union de l'extrême droite,1306,13,93,13006
+10,JUSTE,Christine,Mme,UG,Union de la gauche,1306,13,93,13006
+1,TONUSSI,Romain,M.,RN,Rassemblement National,1308,13,93,13008
+4,ZULESI,Jean-Marc,M.,ENS,Ensemble ! (Majorité présidentielle),1308,13,93,13008
+2,OUGOURLOU-OGLOU,Bernard,M.,UG,Union de la gauche,1309,13,93,13009
+5,MÉLIN,Joëlle,Mme,RN,Rassemblement National,1309,13,93,13009
+2,GONZALEZ,José,M.,RN,Rassemblement National,1310,13,93,13010
+3,BOURCET-GINER,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),1310,13,93,13010
+4,PENA,Marc,M.,UG,Union de la gauche,1311,13,93,13011
+5,FABRE-AUBRESPY,Hervé,M.,RN,Rassemblement National,1311,13,93,13011
+1,FOUQUART,Emmanuel,M.,RN,Rassemblement National,1313,13,93,13013
+4,DHARRÉVILLE,Pierre,M.,UG,Union de la gauche,1313,13,93,13013
+1,VERNY,Gérault,M.,UXD,Union de l'extrême droite,1314,13,93,13014
+2,CIOT,Jean-David,M.,UG,Union de la gauche,1314,13,93,13014
+3,PETEL,Anne-Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),1314,13,93,13014
+2,BAUBRY,Romain,M.,RN,Rassemblement National,1315,13,93,13015
+4,AÏDAROUS,Wassila,Mme,UG,Union de la gauche,1315,13,93,13015
+3,KOUKAS,Nicolas,M.,UG,Union de la gauche,1316,13,93,13016
+5,TACHE DE LA PAGERIE,Emmanuel,M.,RN,Rassemblement National,1316,13,93,13016
+1,SOULÉ,Sébastien,M.,RN,Rassemblement National,8301,83,93,83001
+3,CHENEVARD,Yannick,M.,ENS,Ensemble ! (Majorité présidentielle),8301,83,93,83001
+2,RAMBAUD,Stéphane,M.,RN,Rassemblement National,8303,83,93,83003
+9,MONFORT,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),8303,83,93,83003
+5,BOCCALETTI,Frédéric,M.,RN,Rassemblement National,8307,83,93,83007
+10,MUSCHOTTI,Cécile,Mme,ENS,Ensemble ! (Majorité présidentielle),8307,83,93,83007
+2,JAOUEN,Catherine,Mme,RN,Rassemblement National,8401,84,93,84001
+8,ARNAULT,Raphaël,M.,UG,Union de la gauche,8401,84,93,84001
+6,AUZANOT,Bénédicte,Mme,RN,Rassemblement National,8402,84,93,84002
+7,BLANES,Patrick,M.,UG,Union de la gauche,8402,84,93,84002
+3,LORHO,Marie-France,Mme,RN,Rassemblement National,8404,84,93,84004
+8,GALVEZ,Monia,Mme,UG,Union de la gauche,8404,84,93,84004
+1,RIMBERT,Catherine,Mme,RN,Rassemblement National,8405,84,93,84005
+2,CELCE,Céline,Mme,UG,Union de la gauche,8405,84,93,84005
+7,MARCANGELI,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),2A01,2A,94,2A001
+8,QUARENA,Ariane,Mme,RN,Rassemblement National,2A01,2A,94,2A001
+1,COLOMBANI,Paul-André,M.,REG,Régionaliste,2A02,2A,94,2A002
+5,FILONI,François,M.,RN,Rassemblement National,2A02,2A,94,2A002
+2,CASTELLANI,Michel,M.,REG,Régionaliste,2B01,2B,94,2B001
+8,MARCHAL,Jean-Michel,M.,RN,Rassemblement National,2B01,2B,94,2B001
+2,ACQUAVIVA,Jean-Félix,M.,REG,Régionaliste,2B02,2B,94,2B002
+3,CECCOLI,François-Xavier,M.,DVD,Divers droite,2B02,2B,94,2B002
