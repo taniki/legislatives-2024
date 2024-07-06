@@ -1,0 +1,1149 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,CodCirc1,CodCirc2
+3,BRETON,Xavier,M.,LR,Les Républicains,24408,"  63,22","  28,32",oui,00101,00101,01001
+8,GUÉRAUD,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,14203,"  36,78","  16,48",non,00101,00101,01001
+1,LAPRAY,Lumir,Mme,NUP,Nouvelle union populaire écologique et sociale,17824,"  41,66","  17,83",non,00102,00102,01002
+2,DAUBIÉ,Romain,M.,ENS,Ensemble ! (Majorité présidentielle),24960,"  58,34","  24,97",oui,00102,00102,01002
+3,GIVERNET,Olga,Mme,ENS,Ensemble ! (Majorité présidentielle),18398,"  58,72","  22,38",oui,00103,00103,01003
+6,JOLIE,Christian,M.,NUP,Nouvelle union populaire écologique et sociale,12932,"  41,28","  15,73",non,00103,00103,01003
+4,BUISSON,Jérôme,M.,RN,Rassemblement National,22601,"  62,27","  23,81",oui,00104,00104,01004
+7,LERDA,Philippe,M.,NUP,Nouvelle union populaire écologique et sociale,13696,"  37,73","  14,43",non,00104,00104,01004
+4,ABAD,Damien,M.,DVD,Divers droite,17687,"  57,86","  22,83",oui,00105,00105,01005
+5,PISANI,Florence,Mme,NUP,Nouvelle union populaire écologique et sociale,12882,"  42,14","  16,63",non,00105,00105,01005
+1,BONO-VANDORME,Aude,Mme,ENS,Ensemble ! (Majorité présidentielle),14217,"  45,47","  19,61",non,00201,00201,02001
+7,DRAGON,Nicolas,M.,RN,Rassemblement National,17049,"  54,53","  23,52",oui,00201,00201,02001
+2,DIVE,Julien,M.,LR,Les Républicains,17463,"  58,17","  23,86",oui,00202,00202,02002
+4,PUISSANT,Lola,Mme,RN,Rassemblement National,12558,"  41,83","  17,16",non,00202,00202,02002
+3,HANSEN-CATTA,Paul-Henry,M.,RN,Rassemblement National,12809,"  45,07","  19,20",non,00203,00203,02003
+6,BRICOUT,Jean-Louis,M.,NUP,Nouvelle union populaire écologique et sociale,15612,"  54,93","  23,40",oui,00203,00203,02003
+1,BEAURAIN,José,M.,RN,Rassemblement National,17587,"  57,15","  22,32",oui,00204,00204,02004
+6,DELATTE,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),13187,"  42,85","  16,74",non,00204,00204,02004
+4,DESSIGNY,Jocelyn,M.,RN,Rassemblement National,20589,"  62,41","  24,76",oui,00205,00205,02005
+7,FRERE,Stéphane,M.,NUP,Nouvelle union populaire écologique et sociale,12403,"  37,59","  14,92",non,00205,00205,02005
+3,BARBARIN,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),17496,"  44,49","  19,58",non,00301,00301,03001
+9,MONNET,Yannick,M.,NUP,Nouvelle union populaire écologique et sociale,21832,"  55,51","  24,43",oui,00301,00301,03001
+9,BOVET,Jorys,M.,RN,Rassemblement National,16116,"  50,22","  19,90",oui,00302,00302,03002
+13,HERITIER,Louise,Mme,NUP,Nouvelle union populaire écologique et sociale,15976,"  49,78","  19,73",non,00302,00302,03002
+3,RAY,Nicolas,M.,LR,Les Républicains,19296,"  60,98","  24,06",oui,00303,00303,03003
+6,PEYROL,Bénédicte,Mme,ENS,Ensemble ! (Majorité présidentielle),12347,"  39,02","  15,40",non,00303,00303,03003
+10,BAGARRY,Delphine,Mme,NUP,Nouvelle union populaire écologique et sociale,14102,"  48,81","  22,75",non,00401,00401,04001
+11,GIRARD,Christian,M.,RN,Rassemblement National,14791,"  51,19","  23,87",oui,00401,00401,04001
+11,CASTANER,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),15137,"  48,52","  22,71",non,00402,00402,04002
+12,WALTER,Léo,M.,NUP,Nouvelle union populaire écologique et sociale,16063,"  51,48","  24,10",oui,00402,00402,04002
+2,PHILIPPO,Michel,M.,NUP,Nouvelle union populaire écologique et sociale,13569,"  49,64","  22,75",non,00501,00501,05001
+3,BOYER,Pascale,Mme,ENS,Ensemble ! (Majorité présidentielle),13767,"  50,36","  23,08",oui,00501,00501,05001
+1,GIRAUD,Joel,M.,ENS,Ensemble ! (Majorité présidentielle),15056,"  56,58","  27,74",oui,00502,00502,05002
+9,MOUNAL,Capucine,Mme,NUP,Nouvelle union populaire écologique et sociale,11552,"  43,42","  21,28",non,00502,00502,05002
+2,CIOTTI,Eric,M.,LR,Les Républicains,17737,"  56,33","  21,55",oui,00601,00601,06001
+8,MONETTI,Graig,M.,ENS,Ensemble ! (Majorité présidentielle),13751,"  43,67","  16,71",non,00601,00601,06001
+9,TIVOLI,Lionel,M.,RN,Rassemblement National,18557,"  51,65","  20,81",oui,00602,00602,06002
+11,DOMBREVAL,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),17369,"  48,35","  19,48",non,00602,00602,06002
+5,GIUSTI,Enzo,M.,NUP,Nouvelle union populaire écologique et sociale,14111,"  42,56","  15,37",non,00603,00603,06003
+7,PRADAL,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),19043,"  57,44","  20,74",oui,00603,00603,06003
+3,VALETTA-ARDISSON,Alexandra,Mme,ENS,Ensemble ! (Majorité présidentielle),15185,"  43,80","  17,80",non,00604,00604,06004
+9,MASSON,Alexandra,Mme,RN,Rassemblement National,19487,"  56,20","  22,85",oui,00604,00604,06004
+4,BRENIER-OHANESSIAN,Marine,Mme,ENS,Ensemble ! (Majorité présidentielle),14623,"  42,46","  16,04",non,00605,00605,06005
+6,D'INTORNI,Christelle,Mme,LR,Les Républicains,19814,"  57,54","  21,73",oui,00605,00605,06005
+6,MION,Jean-Bernard,M.,ENS,Ensemble ! (Majorité présidentielle),16642,"  48,65","  20,76",non,00606,00606,06006
+8,MASSON,Bryan,M.,RN,Rassemblement National,17564,"  51,35","  21,91",oui,00606,00606,06006
+3,PAUGET,Eric,M.,LR,Les Républicains,22496,"  58,84","  23,06",oui,00607,00607,06007
+6,MELE,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),15738,"  41,16","  16,13",non,00607,00607,06007
+2,DESENS,Jean-Valéry,M.,ENS,Ensemble ! (Majorité présidentielle),9557,"  30,73","  11,34",non,00608,00608,06008
+10,MARTIN,Alexandra,Mme,LR,Les Républicains,21547,"  69,27","  25,56",oui,00608,00608,06008
+2,TABAROT,Michèle,Mme,LR,Les Républicains,19998,"  63,20","  24,55",oui,00609,00609,06009
+11,GALBERT,Franck,M.,RN,Rassemblement National,11646,"  36,80","  14,30",non,00609,00609,06009
+4,SAULIGNAC,Hervé,M.,DVG,Divers gauche,21540,"  60,04","  27,16",oui,00701,00701,07001
+8,PORQUET,Céline,Mme,RN,Rassemblement National,14339,"  39,96","  18,08",non,00701,00701,07001
+7,GOULOUZELLE,Christophe,M.,NUP,Nouvelle union populaire écologique et sociale,17955,"  41,14","  18,59",non,00702,00702,07002
+9,DUSSOPT,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),25684,"  58,86","  26,59",oui,00702,00702,07002
+2,PALLOT,Florence,Mme,NUP,Nouvelle union populaire écologique et sociale,18704,"  42,90","  23,14",non,00703,00703,07003
+4,BRUN,Fabrice,M.,LR,Les Républicains,24890,"  57,10","  30,79",oui,00703,00703,07003
+1,RICHARD,Laurent,M.,RN,Rassemblement National,14664,"  49,66","  20,66",non,00801,00801,08001
+4,VUIBERT,Lionel,M.,ENS,Ensemble ! (Majorité présidentielle),14862,"  50,34","  20,94",oui,00801,00801,08001
+8,PHILIPPO,Baptiste,M.,RN,Rassemblement National,7049,"  30,61","  11,60",non,00802,00802,08002
+9,CORDIER,Pierre,M.,LR,Les Républicains,15977,"  69,39","  26,30",oui,00802,00802,08002
+4,WARSMANN,Jean-Luc,M.,DVD,Divers droite,15575,"  67,75","  28,18",oui,00803,00803,08003
+8,LEMOINE,David,M.,RN,Rassemblement National,7415,"  32,25","  13,42",non,00803,00803,08003
+2,TAURINE,Bénédicte,Mme,NUP,Nouvelle union populaire écologique et sociale,14746,"  55,31","  25,66",oui,00901,00901,09001
+7,TRIBOUT,Anne-Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),11917,"  44,69","  20,74",non,00901,00901,09001
+5,PANIFOUS,Laurent,M.,DVG,Divers gauche,16225,"  56,71","  26,16",oui,00902,00902,09002
+7,LARIVE,Michel,M.,NUP,Nouvelle union populaire écologique et sociale,12383,"  43,29","  19,96",non,00902,00902,09002
+2,BESSON-MOREAU,Grégory,M.,ENS,Ensemble ! (Majorité présidentielle),13770,"  46,11","  21,33",non,01001,01001,10001
+3,GUITTON,Jordan,M.,RN,Rassemblement National,16093,"  53,89","  24,93",oui,01001,01001,10001
+4,HENRY,Evelyne,Mme,RN,Rassemblement National,13426,"  40,49","  17,84",non,01002,01002,10002
+9,BAZIN-MALGRAS,Valérie,Mme,LR,Les Républicains,19731,"  59,51","  26,21",oui,01002,01002,10002
+6,BEURY,Loëtitia,Mme,ENS,Ensemble ! (Majorité présidentielle),13024,"  48,35","  19,57",non,01003,01003,10003
+10,RANC,Angélique,Mme,RN,Rassemblement National,13913,"  51,65","  20,90",oui,01003,01003,10003
+6,BARTHÈS,Christophe,M.,RN,Rassemblement National,23914,"  53,56","  24,29",oui,01101,01101,11001
+9,COURRIÈRE CALMON,Sophie,Mme,NUP,Nouvelle union populaire écologique et sociale,20734,"  46,44","  21,06",non,01101,01101,11001
+2,FALCON,Frédéric,M.,RN,Rassemblement National,20719,"  52,53","  22,36",oui,01102,01102,11002
+12,PEREA,Alain,M.,ENS,Ensemble ! (Majorité présidentielle),18724,"  47,47","  20,21",non,01102,01102,11002
+3,RANCOULE,Julien,M.,RN,Rassemblement National,22725,"  53,32","  25,31",oui,01103,01103,11003
+8,ADDA--NETTER,Johanna,Mme,NUP,Nouvelle union populaire écologique et sociale,19894,"  46,68","  22,15",non,01103,01103,11003
+3,MAZARS,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),23138,"  63,83","  29,61",oui,01201,01201,12001
+8,THEBAULT,Léon,M.,NUP,Nouvelle union populaire écologique et sociale,13113,"  36,17","  16,78",non,01201,01201,12001
+1,DEGUARA,Samuel,M.,ENS,Ensemble ! (Majorité présidentielle),16675,"  49,00","  24,11",non,01202,01202,12002
+2,ALEXANDRE,Laurent,M.,NUP,Nouvelle union populaire écologique et sociale,17354,"  51,00","  25,09",oui,01202,01202,12002
+2,ROUSSET,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),18834,"  53,70","  25,97",oui,01203,01203,12003
+4,RHIN,Michel,M.,NUP,Nouvelle union populaire écologique et sociale,16241,"  46,30","  22,40",non,01203,01203,12003
+11,GRISETI,Monique,Mme,RN,Rassemblement National,14980,"  49,21","  18,39",non,01301,01301,13001
+12,AGRESTI ROUBACHE,Sabrina,Mme,ENS,Ensemble ! (Majorité présidentielle),15459,"  50,79","  18,98",oui,01301,01301,13001
+5,PITOLLAT,Claire,Mme,ENS,Ensemble ! (Majorité présidentielle),22005,"  61,64","  26,32",oui,01302,01302,13002
+11,RUPNIK,Alexandre,M.,NUP,Nouvelle union populaire écologique et sociale,13697,"  38,36","  16,38",non,01302,01302,13002
+1,LELOUIS,Gisèle,Mme,RN,Rassemblement National,14300,"  54,96","  18,82",oui,01303,01303,13003
+3,BENSAADA,Mohamed,M.,NUP,Nouvelle union populaire écologique et sociale,11718,"  45,04","  15,42",non,01303,01303,13003
+7,BOMPARD,Manuel,M.,NUP,Nouvelle union populaire écologique et sociale,17118,"  73,92","  26,36",oui,01304,01304,13004
+14,AKODAD,Najat,Mme,ENS,Ensemble ! (Majorité présidentielle),6040,"  26,08","   9,30",non,01304,01304,13004
+9,RACON-BOUZON,Cathy,Mme,ENS,Ensemble ! (Majorité présidentielle),13240,"  43,36","  17,99",non,01305,01305,13005
+14,DAVI,Hendrik,M.,NUP,Nouvelle union populaire écologique et sociale,17295,"  56,64","  23,50",oui,01305,01305,13005
+2,BEZ,Éléonore,Mme,RN,Rassemblement National,12110,"  42,11","  15,42",non,01306,01306,13006
+12,ROYER-PERREAUT,Lionel,M.,ENS,Ensemble ! (Majorité présidentielle),16646,"  57,89","  21,20",oui,01306,01306,13006
+1,SELLOUM,Arezki,M.,RN,Rassemblement National,6531,"  35,32","   9,73",non,01307,01307,13007
+7,DELOGU,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,11960,"  64,68","  17,82",oui,01307,01307,13007
+8,ZULESI,Jean-Marc,M.,ENS,Ensemble ! (Majorité présidentielle),22823,"  53,17","  22,19",oui,01308,01308,13008
+9,TONUSSI,Romain,M.,RN,Rassemblement National,20104,"  46,83","  19,55",non,01308,01308,13008
+6,TROTTMANN,Lucas,M.,NUP,Nouvelle union populaire écologique et sociale,16756,"  41,36","  16,60",non,01309,01309,13009
+15,MÉLIN,Joëlle,Mme,RN,Rassemblement National,23757,"  58,64","  23,53",oui,01309,01309,13009
+1,MESURE,Marina,Mme,NUP,Nouvelle union populaire écologique et sociale,18598,"  40,38","  17,05",non,01310,01310,13010
+7,GONZALEZ,José,M.,RN,Rassemblement National,27463,"  59,62","  25,17",oui,01310,01310,13010
+8,FABRE-AUBRESPY,Hervé,M.,RN,Rassemblement National,16850,"  44,81","  18,26",non,01311,01311,13011
+9,LAQHILA,Mohamed,M.,ENS,Ensemble ! (Majorité présidentielle),20753,"  55,19","  22,49",oui,01311,01311,13011
+6,ALLISIO,Franck,M.,RN,Rassemblement National,19175,"  51,37","  20,25",oui,01312,01312,13012
+9,DIARD,Eric,M.,LR,Les Républicains,18154,"  48,63","  19,17",non,01312,01312,13012
+2,DHARRÉVILLE,Pierre,M.,NUP,Nouvelle union populaire écologique et sociale,20105,"  52,01","  21,30",oui,01313,01313,13013
+5,FOUQUART,Emmanuel,M.,RN,Rassemblement National,18548,"  47,99","  19,65",non,01313,01313,13013
+6,LE CACHEUX,Hélène,Mme,NUP,Nouvelle union populaire écologique et sociale,18404,"  43,15","  18,53",non,01314,01314,13014
+10,PETEL,Anne-Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),24245,"  56,85","  24,41",oui,01314,01314,13014
+6,ANZALONE,Marie-Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),21975,"  46,15","  20,11",non,01315,01315,13015
+11,BAUBRY,Romain,M.,RN,Rassemblement National,25640,"  53,85","  23,46",oui,01315,01315,13015
+1,TACHE DE LA PAGERIE,Emmanuel,M.,RN,Rassemblement National,20820,"  54,94","  22,69",oui,01316,01316,13016
+4,CAILLAULT,Christophe,M.,NUP,Nouvelle union populaire écologique et sociale,17077,"  45,06","  18,61",non,01316,01316,13016
+8,LE VIGOUREUX,Fabrice,M.,ENS,Ensemble ! (Majorité présidentielle),18496,"  50,27","  25,41",oui,01401,01401,14001
+10,FOURREAU,Emma,Mme,NUP,Nouvelle union populaire écologique et sociale,18296,"  49,73","  25,13",non,01401,01401,14001
+7,DUMONT PRIEUX,Sylvie,Mme,ENS,Ensemble ! (Majorité présidentielle),12716,"  40,14","  18,53",non,01402,01402,14002
+10,DELAPORTE,Arthur,M.,NUP,Nouvelle union populaire écologique et sociale,18963,"  59,86","  27,63",oui,01402,01402,14002
+3,PATRIER-LEITUS,Jérémie,M.,ENS,Ensemble ! (Majorité présidentielle),18546,"  53,50","  23,25",oui,01403,01403,14003
+6,VILMET,Martine,Mme,RN,Rassemblement National,16120,"  46,50","  20,21",non,01403,01403,14003
+1,BLANCHET,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),28922,"  61,08","  27,63",oui,01404,01404,14004
+4,MOURARET,Pierre,M.,NUP,Nouvelle union populaire écologique et sociale,18427,"  38,92","  17,61",non,01404,01404,14004
+1,HAREL,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,19291,"  44,32","  20,85",non,01405,01405,14005
+2,BOUYX,Bertrand,M.,ENS,Ensemble ! (Majorité présidentielle),24237,"  55,68","  26,19",oui,01405,01405,14005
+2,BORNE,Elisabeth,Mme,ENS,Ensemble ! (Majorité présidentielle),23437,"  52,47","  24,30",oui,01406,01406,14006
+7,GAUCHARD,Noé,M.,NUP,Nouvelle union populaire écologique et sociale,21233,"  47,53","  22,01",non,01406,01406,14006
+1,DESCOEUR,Vincent,M.,LR,Les Républicains,18165,"  69,02","  28,78",oui,01501,01501,15001
+3,TEYSSEDOU,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),8152,"  30,98","  12,92",non,01501,01501,15001
+1,BONY,Jean-Yves,M.,LR,Les Républicains,15443,"  70,65","  29,22",oui,01502,01502,15002
+2,GUIBERT,Martine,Mme,ENS,Ensemble ! (Majorité présidentielle),6416,"  29,35","  12,14",non,01502,01502,15002
+4,MESNIER,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),18854,"  50,03","  22,51",oui,01601,01601,16001
+6,PILATO,René,M.,NUP,Nouvelle union populaire écologique et sociale,18830,"  49,97","  22,48",non,01601,01601,16001
+2,MARSAUD,Sandra,Mme,ENS,Ensemble ! (Majorité présidentielle),19965,"  55,16","  23,85",oui,01602,01602,16002
+9,RAPPASSE,Marceau,M.,RN,Rassemblement National,16228,"  44,84","  19,39",non,01602,01602,16002
+2,MOCOEUR,Sylvie,Mme,ENS,Ensemble ! (Majorité présidentielle),19787,"  49,76","  21,77",non,01603,01603,16003
+10,COLOMBIER,Caroline,Mme,RN,Rassemblement National,19980,"  50,24","  21,98",oui,01603,01603,16003
+2,FALORNI,Olivier,M.,DVG,Divers gauche,34576,"  66,11","  31,30",oui,01701,01701,17001
+7,SOUBESTE,Jean-Marc,M.,NUP,Nouvelle union populaire écologique et sociale,17721,"  33,89","  16,04",non,01701,01701,17001
+9,RAYMOND,Nordine,M.,NUP,Nouvelle union populaire écologique et sociale,24107,"  48,24","  21,49",non,01702,01702,17002
+11,BABAULT,Anne-Laure,Mme,ENS,Ensemble ! (Majorité présidentielle),25863,"  51,76","  23,05",oui,01702,01702,17002
+2,ARDOUIN,Jean-Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),18295,"  51,18","  21,73",oui,01703,01703,17003
+4,COLLARD,Nathalie,Mme,RN,Rassemblement National,17452,"  48,82","  20,73",non,01703,01703,17003
+3,GERARD,Raphaël,M.,ENS,Ensemble ! (Majorité présidentielle),21447,"  50,90","  22,72",oui,01704,01704,17004
+5,MARKOWSKY,Pascal,M.,RN,Rassemblement National,20685,"  49,10","  21,91",non,01704,01704,17004
+9,PLASSARD,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),28233,"  51,74","  23,58",oui,01705,01705,17005
+10,WERBROUCK,Séverine,Mme,RN,Rassemblement National,26336,"  48,26","  21,99",non,01705,01705,17005
+2,CHARPENTIER,Alex,M.,NUP,Nouvelle union populaire écologique et sociale,12840,"  42,86","  18,04",non,01801,01801,18001
+6,CORMIER BOULIGEON,François,M.,ENS,Ensemble ! (Majorité présidentielle),17117,"  57,14","  24,05",oui,01801,01801,18001
+1,POLY,Christine,Mme,RN,Rassemblement National,12113,"  45,63","  17,59",non,01802,01802,18002
+9,SANSU,Nicolas,M.,NUP,Nouvelle union populaire écologique et sociale,14433,"  54,37","  20,96",oui,01802,01802,18002
+1,DE LA TOCNAYE,Thibaut,M.,RN,Rassemblement National,16767,"  45,07","  19,84",non,01803,01803,18003
+8,KERVRAN,Loïc,M.,ENS,Ensemble ! (Majorité présidentielle),20435,"  54,93","  24,18",oui,01803,01803,18003
+6,DEVEAUD,Sandrine,Mme,NUP,Nouvelle union populaire écologique et sociale,22173,"  46,20","  23,99",non,01901,01901,19001
+7,DUBOIS,Francis,M.,LR,Les Républicains,25825,"  53,80","  27,94",oui,01901,01901,19001
+5,MEUNIER,Frédérique,Mme,LR,Les Républicains,25881,"  58,40","  27,78",oui,01902,01902,19002
+9,HERZHAFT,Chloé,Mme,NUP,Nouvelle union populaire écologique et sociale,18433,"  41,60","  19,79",non,01902,01902,19002
+1,MARTIN,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),19473,"  58,03","  27,67",oui,02101,02101,21001
+2,PEILLON,Antoine,M.,NUP,Nouvelle union populaire écologique et sociale,14085,"  41,97","  20,02",non,02101,02101,21001
+4,BORDAT,Benoît,M.,ENS,Ensemble ! (Majorité présidentielle),15714,"  51,69","  21,98",oui,02102,02102,21002
+5,HERVIEU,Catherine,Mme,NUP,Nouvelle union populaire écologique et sociale,14684,"  48,31","  20,54",non,02102,02102,21002
+4,MARC,Patricia,Mme,NUP,Nouvelle union populaire écologique et sociale,14834,"  49,89","  20,44",non,02103,02103,21003
+13,KHATTABI,Fadila,Mme,ENS,Ensemble ! (Majorité présidentielle),14900,"  50,11","  20,53",oui,02103,02103,21003
+1,PONELLE,Jean-Marc,M.,RN,Rassemblement National,12459,"  39,19","  18,21",non,02104,02104,21004
+7,BRIGAND,Hubert,M.,LR,Les Républicains,19332,"  60,81","  28,26",oui,02104,02104,21004
+1,LIORET,René,M.,RN,Rassemblement National,16897,"  45,76","  19,72",non,02105,02105,21005
+8,PARIS,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),20031,"  54,24","  23,38",oui,02105,02105,21005
+3,COSSON,Mickaël,M.,ENS,Ensemble ! (Majorité présidentielle),24043,"  52,39","  26,16",oui,02201,02201,22001
+9,GORGIARD,Marion,Mme,NUP,Nouvelle union populaire écologique et sociale,21845,"  47,61","  23,77",non,02201,02201,22001
+1,BERVILLE,Hervé,M.,ENS,Ensemble ! (Majorité présidentielle),29411,"  55,83","  28,44",oui,02202,02202,22002
+12,RICARD,Bruno,M.,NUP,Nouvelle union populaire écologique et sociale,23264,"  44,17","  22,49",non,02202,02202,22002
+6,RAVARD,Antoine,M.,NUP,Nouvelle union populaire écologique et sociale,16254,"  35,13","  18,27",non,02203,02203,22003
+7,LE FUR,Marc,M.,LR,Les Républicains,30012,"  64,87","  33,73",oui,02203,02203,22003
+2,LEPVRAUD,Murielle,Mme,NUP,Nouvelle union populaire écologique et sociale,21700,"  53,39","  26,76",oui,02204,02204,22004
+12,KERLOGOT,Yannick,M.,ENS,Ensemble ! (Majorité présidentielle),18947,"  46,61","  23,36",non,02204,02204,22004
+8,TROADEC,Marie-Amélie,Mme,NUP,Nouvelle union populaire écologique et sociale,26697,"  47,51","  24,78",non,02205,02205,22005
+14,BOTHOREL,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),29496,"  52,49","  27,38",oui,02205,02205,22005
+6,COUTURIER,Catherine,Mme,NUP,Nouvelle union populaire écologique et sociale,21752,"  51,44","  23,89",oui,02301,02301,23001
+7,MOREAU,Jean-Baptiste,M.,ENS,Ensemble ! (Majorité présidentielle),20532,"  48,56","  22,55",non,02301,02301,23001
+7,CHASSAING,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),17053,"  48,15","  21,91",non,02401,02401,24001
+8,MARTIN,Pascale,Mme,NUP,Nouvelle union populaire écologique et sociale,18366,"  51,85","  23,60",oui,02401,02401,24001
+2,DELPON,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),18561,"  49,56","  22,02",non,02402,02402,24002
+3,MULLER,Serge,M.,RN,Rassemblement National,18891,"  50,44","  22,41",oui,02402,02402,24002
+3,GIRARDEAU,Cyril,M.,NUP,Nouvelle union populaire écologique et sociale,13335,"  34,10","  19,79",non,02403,02403,24003
+7,JOUBERT,Florence,Mme,RN,Rassemblement National,11491,"  29,38","  17,06",non,02403,02403,24003
+10,CUBERTAFON,Jean-Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),14284,"  36,52","  21,20",oui,02403,02403,24003
+2,PEYTAVIE,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,24233,"  55,48","  26,99",oui,02404,02404,24004
+6,DUBOIS,Jacqueline,Mme,DVC,Divers centre,19445,"  44,52","  21,66",non,02404,02404,24004
+6,CROIZIER,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),17465,"  51,88","  22,92",oui,02501,02501,25001
+8,VEZIES,Séverine,Mme,NUP,Nouvelle union populaire écologique et sociale,16198,"  48,12","  21,25",non,02501,02501,25001
+2,RAVACLEY,Stéphane,M.,NUP,Nouvelle union populaire écologique et sociale,17594,"  47,75","  22,22",non,02502,02502,25002
+3,ALAUZET,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),19255,"  52,25","  24,32",oui,02502,02502,25002
+3,PACQUOT,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),13754,"  50,83","  21,32",oui,02503,02503,25003
+9,FRITSCH,Nathalie,Mme,RN,Rassemblement National,13303,"  49,17","  20,62",non,02503,02503,25003
+1,BARBIER,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),12842,"  49,02","  19,59",non,02504,02504,25004
+3,GRANGIER,Géraldine,Mme,RN,Rassemblement National,13357,"  50,98","  20,38",oui,02504,02504,25004
+1,GENEVARD,Annie,Mme,LR,Les Républicains,22681,"  72,06","  26,77",oui,02505,02505,25005
+4,ALPY,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),8796,"  27,94","  10,38",non,02505,02505,25005
+1,CLAPOT,Mireille,Mme,ENS,Ensemble ! (Majorité présidentielle),17769,"  54,42","  22,79",oui,02601,02601,26001
+3,CHKERI,Karim,M.,NUP,Nouvelle union populaire écologique et sociale,14884,"  45,58","  19,09",non,02601,02601,26001
+1,POLLET,Lisette,Mme,RN,Rassemblement National,21566,"  57,12","  22,48",oui,02602,02602,26002
+6,REYNAUD,Gilles,M.,NUP,Nouvelle union populaire écologique et sociale,16189,"  42,88","  16,88",non,02602,02602,26002
+1,DE LAVERGNE,Célia,Mme,ENS,Ensemble ! (Majorité présidentielle),27119,"  47,78","  24,45",non,02603,02603,26003
+9,POCHON,Marie,Mme,NUP,Nouvelle union populaire écologique et sociale,29636,"  52,22","  26,72",oui,02603,02603,26003
+4,ANTHOINE,Emmanuelle,Mme,LR,Les Républicains,27077,"  57,90","  27,30",oui,02604,02604,26004
+9,JOUVET,Pierre,M.,NUP,Nouvelle union populaire écologique et sociale,19686,"  42,10","  19,84",non,02604,02604,26004
+2,LOIR,Christine,Mme,RN,Rassemblement National,18629,"  50,77","  21,46",oui,02701,02701,27001
+10,GIPSON,Séverine,Mme,ENS,Ensemble ! (Majorité présidentielle),18062,"  49,23","  20,81",non,02701,02701,27001
+1,LEVAVASSEUR,Katiana,Mme,RN,Rassemblement National,17990,"  51,10","  22,76",oui,02702,02702,27002
+5,GOUTTEFARDE,Fabien,M.,ENS,Ensemble ! (Majorité présidentielle),17214,"  48,90","  21,77",non,02702,02702,27002
+1,TAMARELLE-VERHAEGHE,Marie,Mme,ENS,Ensemble ! (Majorité présidentielle),17989,"  45,95","  20,98",non,02703,02703,27003
+9,MAUVIEUX,Kévin,M.,RN,Rassemblement National,21161,"  54,05","  24,68",oui,02703,02703,27003
+7,BRUN,Philippe,M.,NUP,Nouvelle union populaire écologique et sociale,19825,"  50,45","  21,41",oui,02704,02704,27004
+10,SAULIÈRE,Chrystelle,Mme,RN,Rassemblement National,19475,"  49,55","  21,03",non,02704,02704,27004
+5,HOUSSIN,Timothée,M.,RN,Rassemblement National,19654,"  50,63","  21,94",oui,02705,02705,27005
+10,OUZILLEAU,François,M.,ENS,Ensemble ! (Majorité présidentielle),19164,"  49,37","  21,39",non,02705,02705,27005
+5,KASBARIAN,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle),22530,"  58,10","  24,70",oui,02801,02801,28001
+7,GUILLEMAIN,Quentin,M.,NUP,Nouvelle union populaire écologique et sociale,16251,"  41,90","  17,81",non,02801,02801,28001
+1,MARLEIX,Olivier,M.,LR,Les Républicains,17957,"  62,33","  23,93",oui,02802,02802,28002
+12,NIKOLIC,Aleksandar,M.,RN,Rassemblement National,10854,"  37,67","  14,46",non,02802,02802,28002
+5,LAMIRAULT,Luc,M.,ENS,Ensemble ! (Majorité présidentielle),16055,"  53,96","  22,50",oui,02803,02803,28003
+6,FLAUNET,Régine,Mme,RN,Rassemblement National,13701,"  46,04","  19,20",non,02803,02803,28003
+3,VIGIER,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),17671,"  60,16","  26,28",oui,02804,02804,28004
+4,DE OLIVEIRA,Virginia,Mme,RN,Rassemblement National,11702,"  39,84","  17,40",non,02804,02804,28004
+5,LE MEUR,Annaïg,Mme,ENS,Ensemble ! (Majorité présidentielle),25447,"  53,89","  27,56",oui,02901,02901,29001
+9,LEBERT,Grégory,M.,NUP,Nouvelle union populaire écologique et sociale,21772,"  46,11","  23,58",non,02901,02901,29001
+4,LARSONNEUR,Jean-Charles,M.,DVC,Divers centre,18127,"  50,16","  22,92",oui,02902,02902,29002
+11,CADALEN,Pierre-Yves,M.,NUP,Nouvelle union populaire écologique et sociale,18009,"  49,84","  22,77",non,02902,02902,29002
+1,SMOLARZ,Pierre,M.,NUP,Nouvelle union populaire écologique et sociale,18298,"  42,10","  19,64",non,02903,02903,29003
+5,LE GAC,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),25169,"  57,90","  27,02",oui,02903,02903,29003
+2,VULPIANI,Sylvaine,Mme,NUP,Nouvelle union populaire écologique et sociale,19169,"  45,60","  22,81",non,02904,02904,29004
+9,LE FEUR,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle),22872,"  54,40","  27,22",oui,02904,02904,29004
+4,SARRABEZOLLES,Nathalie,Mme,NUP,Nouvelle union populaire écologique et sociale,21287,"  45,42","  21,75",non,02905,02905,29005
+8,MELCHIOR,Graziella,Mme,ENS,Ensemble ! (Majorité présidentielle),25585,"  54,58","  26,14",oui,02905,02905,29005
+4,THOMIN,Mélanie,Mme,NUP,Nouvelle union populaire écologique et sociale,23948,"  50,86","  26,24",oui,02906,02906,29006
+6,FERRAND,Richard,M.,ENS,Ensemble ! (Majorité présidentielle),23140,"  49,14","  25,36",non,02906,02906,29006
+1,TANGUY,Liliana,Mme,ENS,Ensemble ! (Majorité présidentielle),22266,"  52,25","  26,73",oui,02907,02907,29007
+3,BOUIN,Yolande,Mme,NUP,Nouvelle union populaire écologique et sociale,20348,"  47,75","  24,42",non,02907,02907,29007
+4,LE FLAO,Youenn,M.,NUP,Nouvelle union populaire écologique et sociale,21135,"  47,57","  23,20",non,02908,02908,29008
+5,BALANANT,Erwan,M.,ENS,Ensemble ! (Majorité présidentielle),23292,"  52,43","  25,57",oui,02908,02908,29008
+7,MARCANGELI,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),12013,"  51,76","  22,99",oui,02A01,02A01,2A001
+9,COLONNA,Romain,M.,REG,Régionaliste,11195,"  48,24","  21,42",non,02A01,02A01,2A001
+4,COLOMBANI,Paul-André,M.,REG,Régionaliste,14746,"  57,60","  23,85",oui,02A02,02A02,2A002
+10,BOZZI,Valérie,Mme,DVD,Divers droite,10853,"  42,40","  17,55",non,02A02,02A02,2A002
+1,MORGANTI,Julien,M.,DVC,Divers centre,8032,"  36,88","  13,06",non,02B01,02B01,2B001
+5,CASTELLANI,Michel,M.,REG,Régionaliste,13747,"  63,12","  22,35",oui,02B01,02B01,2B001
+1,ACQUAVIVA,Jean-Félix,M.,REG,Régionaliste,16777,"  50,23","  24,70",oui,02B02,02B02,2B002
+2,CECCOLI,François-Xavier,M.,DVD,Divers droite,16621,"  49,77","  24,47",non,02B02,02B02,2B002
+1,DUMAS,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle),16209,"  47,99","  18,14",non,03001,03001,30001
+2,GILLET,Yoann,M.,RN,Rassemblement National,17564,"  52,01","  19,65",oui,03001,03001,30001
+2,LACHAUD,Yvan,M.,ENS,Ensemble ! (Majorité présidentielle),17337,"  43,47","  18,24",non,03002,03002,30002
+7,MEIZONNET,Nicolas,M.,RN,Rassemblement National,22547,"  56,53","  23,72",oui,03002,03002,30002
+5,BORDES,Pascale,Mme,RN,Rassemblement National,21619,"  51,32","  22,63",oui,03003,03003,30003
+8,CELLIER,Anthony,M.,ENS,Ensemble ! (Majorité présidentielle),20506,"  48,68","  21,47",non,03003,03003,30003
+1,MEURIN,Pierre,M.,RN,Rassemblement National,22155,"  54,16","  23,48",oui,03004,03004,30004
+7,BORD,Arnaud,M.,NUP,Nouvelle union populaire écologique et sociale,18749,"  45,84","  19,87",non,03004,03004,30004
+4,SALA,Michel,M.,NUP,Nouvelle union populaire écologique et sociale,23001,"  53,00","  23,35",oui,03005,03005,30005
+6,LAUNAY,Jean-Marie,M.,RN,Rassemblement National,20394,"  47,00","  20,71",non,03005,03005,30005
+4,CADÈNE,Nicolas,M.,NUP,Nouvelle union populaire écologique et sociale,15514,"  47,83","  18,35",non,03006,03006,30006
+11,BERTA,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),16921,"  52,17","  20,01",oui,03006,03006,30006
+1,BAUDIS,Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),18749,"  45,88","  22,33",non,03101,03101,31001
+9,CLOUET,Hadrien,M.,NUP,Nouvelle union populaire écologique et sociale,22113,"  54,12","  26,34",oui,03101,03101,31001
+5,LAGLEIZE,Jean-Luc,M.,ENS,Ensemble ! (Majorité présidentielle),23946,"  47,10","  22,73",non,03102,03102,31002
+13,STAMBACH-TERRENOIR,Anne,Mme,NUP,Nouvelle union populaire écologique et sociale,26895,"  52,90","  25,53",oui,03102,03102,31002
+3,ROBY,Agathe,Mme,NUP,Nouvelle union populaire écologique et sociale,18905,"  44,29","  23,42",non,03103,03103,31003
+4,VIGNON,Corinne,Mme,ENS,Ensemble ! (Majorité présidentielle),23780,"  55,71","  29,46",oui,03103,03103,31003
+8,PIQUEMAL,François,M.,NUP,Nouvelle union populaire écologique et sociale,19467,"  59,26","  28,38",oui,03104,03104,31004
+13,CONSTANS,Marie-Claire,Mme,ENS,Ensemble ! (Majorité présidentielle),13381,"  40,74","  19,51",non,03104,03104,31004
+5,ESPAGNOLLE,Sylvie,Mme,NUP,Nouvelle union populaire écologique et sociale,22201,"  48,11","  20,76",non,03105,03105,31005
+8,PORTARRIEU,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),23948,"  51,89","  22,39",oui,03105,03105,31005
+3,JOUVE,Fabien,M.,NUP,Nouvelle union populaire écologique et sociale,27566,"  50,00","  23,85",non,03106,03106,31006
+7,IBORRA,Monique,Mme,ENS,Ensemble ! (Majorité présidentielle),27570,"  50,00","  23,85",oui,03106,03106,31006
+2,TOUTUT-PICARD,Elisabeth,Mme,ENS,Ensemble ! (Majorité présidentielle),22559,"  48,83","  21,18",non,03107,03107,31007
+4,BEX,Christophe,M.,NUP,Nouvelle union populaire écologique et sociale,23644,"  51,17","  22,20",oui,03107,03107,31007
+1,AVIRAGNET,Joël,M.,DVG,Divers gauche,24191,"  60,39","  28,08",oui,03108,03108,31008
+5,DELCHARD,Loic,M.,RN,Rassemblement National,15867,"  39,61","  18,42",non,03108,03108,31008
+4,ARRIGHI,Christine,Mme,NUP,Nouvelle union populaire écologique et sociale,21748,"  58,55","  26,96",oui,03109,03109,31009
+5,MÖRCH,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle),15399,"  41,45","  19,09",non,03109,03109,31009
+1,ASSIER,Alice,Mme,NUP,Nouvelle union populaire écologique et sociale,26907,"  49,80","  26,01",non,03110,03110,31010
+13,FAURE,Dominique,Mme,ENS,Ensemble ! (Majorité présidentielle),27118,"  50,20","  26,22",oui,03110,03110,31010
+5,LEVIEUX,Pascal,M.,NUP,Nouvelle union populaire écologique et sociale,17025,"  47,49","  23,07",non,03201,03201,32001
+7,CAZENEUVE,Jean-René,M.,ENS,Ensemble ! (Majorité présidentielle),18822,"  52,51","  25,50",oui,03201,03201,32001
+1,BOURCIER,Maëva,Mme,ENS,Ensemble ! (Majorité présidentielle),13052,"  37,02","  17,67",non,03202,03202,32002
+14,TAUPIAC,David,M.,DVG,Divers gauche,22203,"  62,98","  30,07",oui,03202,03202,32002
+5,CAZENAVE,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),28292,"  59,11","  27,17",oui,03301,03301,33001
+14,CESTARI,Catherine,Mme,NUP,Nouvelle union populaire écologique et sociale,19569,"  40,89","  18,79",non,03301,03301,33001
+4,FABRE,Catherine,Mme,ENS,Ensemble ! (Majorité présidentielle),16997,"  46,66","  23,51",non,03302,03302,33002
+9,THIERRY,Nicolas,M.,NUP,Nouvelle union populaire écologique et sociale,19433,"  53,34","  26,88",oui,03302,03302,33002
+5,PRUD'HOMME,Loïc,M.,NUP,Nouvelle union populaire écologique et sociale,24066,"  59,27","  26,89",oui,03303,03303,33003
+7,ROBERT,Fabien,M.,ENS,Ensemble ! (Majorité présidentielle),16541,"  40,73","  18,48",non,03303,03303,33003
+5,DAVID,Alain,M.,NUP,Nouvelle union populaire écologique et sociale,22876,"  59,73","  23,23",oui,03304,03304,33004
+6,KARACA,Melissa,Mme,ENS,Ensemble ! (Majorité présidentielle),15426,"  40,27","  15,67",non,03304,03304,33004
+3,MANEIRO,Olivier,M.,NUP,Nouvelle union populaire écologique et sociale,23026,"  46,72","  19,03",non,03305,03305,33005
+9,DE FOURNAS,Grégoire,M.,RN,Rassemblement National,26263,"  53,28","  21,71",oui,03305,03305,33005
+4,FERGEAU-RENAUX,Vanessa,Mme,NUP,Nouvelle union populaire écologique et sociale,24969,"  48,15","  23,11",non,03306,03306,33006
+13,POULLIAT,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),26893,"  51,85","  24,89",oui,03306,03306,33006
+3,FERRAN,Jean-Renaud,M.,NUP,Nouvelle union populaire écologique et sociale,18809,"  47,29","  23,58",non,03307,03307,33007
+7,COUILLARD,Bérangère,Mme,ENS,Ensemble ! (Majorité présidentielle),20964,"  52,71","  26,28",oui,03307,03307,33007
+5,PANONACLE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),31442,"  60,00","  26,24",oui,03308,03308,33008
+12,LAMARA,Laurent,M.,RN,Rassemblement National,20965,"  40,00","  17,50",non,03308,03308,33008
+1,ANDRÉ,Sacha,M.,NUP,Nouvelle union populaire écologique et sociale,22506,"  49,51","  22,02",non,03309,03309,33009
+4,METTE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),22950,"  50,49","  22,46",oui,03309,03309,33009
+1,CHADOURNE,Sandrine,Mme,RN,Rassemblement National,17185,"  46,74","  20,63",non,03310,03310,33010
+2,BOUDIÉ,Florent,M.,ENS,Ensemble ! (Majorité présidentielle),19581,"  53,26","  23,51",oui,03310,03310,33010
+9,DIAZ,Edwige,Mme,RN,Rassemblement National,25092,"  58,70","  25,41",oui,03311,03311,33011
+12,HAMMERER,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),17653,"  41,30","  17,88",non,03311,03311,33011
+3,LAVERGNE,Pascal,M.,ENS,Ensemble ! (Majorité présidentielle),20365,"  50,23","  23,11",oui,03312,03312,33012
+9,FELD,Mathilde,Mme,NUP,Nouvelle union populaire écologique et sociale,20181,"  49,77","  22,90",non,03312,03312,33012
+9,COLET,Julien,M.,NUP,Nouvelle union populaire écologique et sociale,17463,"  47,45","  19,38",non,03401,03401,34001
+11,MIRALLES,Patricia,Mme,ENS,Ensemble ! (Majorité présidentielle),19338,"  52,55","  21,46",oui,03401,03401,34001
+2,OZIOL,Nathalie,Mme,NUP,Nouvelle union populaire écologique et sociale,17008,"  63,33","  25,99",oui,03402,03402,34002
+14,YAGUE,Annie,Mme,ENS,Ensemble ! (Majorité présidentielle),9847,"  36,67","  15,05",non,03402,03402,34002
+4,MIGNACCA,Julia,Mme,NUP,Nouvelle union populaire écologique et sociale,20229,"  46,90","  21,91",non,03403,03403,34003
+6,CRISTOL,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),22907,"  53,10","  24,82",oui,03403,03403,34003
+10,ROME,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,26291,"  50,65","  22,06",oui,03404,03404,34004
+15,BOUQUIN,Manon,Mme,RN,Rassemblement National,25617,"  49,35","  21,49",non,03404,03404,34004
+2,POLARD,Pierre,M.,NUP,Nouvelle union populaire écologique et sociale,19990,"  45,76","  20,20",non,03405,03405,34005
+11,GALZY,Stéphanie,Mme,RN,Rassemblement National,23695,"  54,24","  23,94",oui,03405,03405,34005
+6,CROZIER-DANIEL,Magali,Mme,NUP,Nouvelle union populaire écologique et sociale,11341,"  30,17","  12,08",non,03406,03406,34006
+13,MÉNARD,Emmanuelle,Mme,DVD,Divers droite,26255,"  69,83","  27,96",oui,03406,03406,34006
+2,LOPEZ LIGUORI,Aurélien,M.,RN,Rassemblement National,27378,"  59,19","  25,14",oui,03407,03407,34007
+6,BLASCO,Gabriel,M.,NUP,Nouvelle union populaire écologique et sociale,18873,"  40,81","  17,33",non,03407,03407,34007
+5,DELAPIERRE,Cédric,M.,RN,Rassemblement National,19025,"  49,41","  20,16",non,03408,03408,34008
+7,CARRIERE,Sylvain,M.,NUP,Nouvelle union populaire écologique et sociale,19483,"  50,59","  20,65",oui,03408,03408,34008
+4,VIGNAL,Patrick,M.,ENS,Ensemble ! (Majorité présidentielle),19520,"  54,37","  21,83",oui,03409,03409,34009
+10,BELAOUNI,Nadia,Mme,NUP,Nouvelle union populaire écologique et sociale,16384,"  45,63","  18,32",non,03409,03409,34009
+6,SAOUD,Hind,Mme,ENS,Ensemble ! (Majorité présidentielle),22691,"  47,38","  24,27",non,03501,03501,35001
+14,MATHIEU,Frédéric,M.,NUP,Nouvelle union populaire écologique et sociale,25205,"  52,62","  26,96",oui,03501,03501,35001
+2,MAILLART-MÉHAIGNERIE,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),28165,"  51,82","  28,66",oui,03502,03502,35002
+9,LAHAIS,Tristan,M.,NUP,Nouvelle union populaire écologique et sociale,26190,"  48,18","  26,65",non,03502,03502,35002
+9,MARTINS,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),22375,"  48,47","  24,36",non,03503,03503,35003
+10,ROUAUX,Claudia,Mme,NUP,Nouvelle union populaire écologique et sociale,23784,"  51,53","  25,89",oui,03503,03503,35003
+1,HIGNET,Mathilde,Mme,NUP,Nouvelle union populaire écologique et sociale,22856,"  50,36","  23,85",oui,03504,03504,35004
+7,PATAULT,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),22528,"  49,64","  23,51",non,03504,03504,35004
+1,RENAULT,Gilles,M.,NUP,Nouvelle union populaire écologique et sociale,20921,"  41,34","  19,07",non,03505,03505,35005
+6,LE NABOUR-CLOAREC,Christine,Mme,ENS,Ensemble ! (Majorité présidentielle),29688,"  58,66","  27,05",oui,03505,03505,35005
+1,MOCQUARD,Hélène,Mme,NUP,Nouvelle union populaire écologique et sociale,16413,"  38,31","  18,18",non,03506,03506,35006
+3,BENOIT,Thierry,M.,ENS,Ensemble ! (Majorité présidentielle),26431,"  61,69","  29,27",oui,03506,03506,35006
+3,BOURGEAUX,Jean-Luc,M.,LR,Les Républicains,23705,"  52,23","  22,55",oui,03507,03507,35007
+9,LE GAGNE,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),21681,"  47,77","  20,62",non,03507,03507,35007
+2,BOULOUX,Mickaël,M.,NUP,Nouvelle union populaire écologique et sociale,28262,"  57,97","  31,06",oui,03508,03508,35008
+13,BACHELIER,Florian,M.,ENS,Ensemble ! (Majorité présidentielle),20490,"  42,03","  22,52",non,03508,03508,35008
+3,GONZALEZ,Éloïse,Mme,NUP,Nouvelle union populaire écologique et sociale,14258,"  43,98","  18,33",non,03601,03601,36001
+5,JOLIVET,François,M.,ENS,Ensemble ! (Majorité présidentielle),18158,"  56,02","  23,35",oui,03601,03601,36001
+7,THIRION,Fabien,M.,RN,Rassemblement National,16174,"  41,81","  18,30",non,03602,03602,36002
+9,FORISSIER,Nicolas,M.,LR,Les Républicains,22507,"  58,19","  25,47",oui,03602,03602,36002
+3,CHALUMEAU,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),15171,"  46,50","  21,32",non,03701,03701,37001
+7,FOURNIER,Charles,M.,NUP,Nouvelle union populaire écologique et sociale,17457,"  53,50","  24,53",oui,03701,03701,37001
+1,LABARONNE,Daniel,M.,ENS,Ensemble ! (Majorité présidentielle),22663,"  54,71","  24,57",oui,03702,03702,37002
+2,GOBERT,Christelle,Mme,NUP,Nouvelle union populaire écologique et sociale,18758,"  45,29","  20,33",non,03702,03702,37002
+7,SIRVEN,Roxane,Mme,NUP,Nouvelle union populaire écologique et sociale,19327,"  42,84","  19,44",non,03703,03703,37003
+8,ALFANDARI,Henri,M.,ENS,Ensemble ! (Majorité présidentielle),25792,"  57,16","  25,95",oui,03703,03703,37003
+3,BAUMEL,Laurent,M.,NUP,Nouvelle union populaire écologique et sociale,20752,"  49,48","  22,48",non,03704,03704,37004
+9,COLBOC,Fabienne,Mme,ENS,Ensemble ! (Majorité présidentielle),21185,"  50,52","  22,95",oui,03704,03704,37004
+6,THILLAYE,Sabine,Mme,ENS,Ensemble ! (Majorité présidentielle),22055,"  59,06","  25,32",oui,03705,03705,37005
+9,LOUISIN,Ambre,Mme,RN,Rassemblement National,15286,"  40,94","  17,55",non,03705,03705,37005
+2,VÉRAN,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),25512,"  55,53","  29,76",oui,03801,03801,38001
+9,ROBIN,Salomé,Mme,NUP,Nouvelle union populaire écologique et sociale,20427,"  44,47","  23,83",non,03801,03801,38001
+1,CHATELAIN,Cyrielle,Mme,NUP,Nouvelle union populaire écologique et sociale,16992,"  52,13","  21,62",oui,03802,03802,38002
+9,COLAS-ROY,Jean-Charles,M.,ENS,Ensemble ! (Majorité présidentielle),15604,"  47,87","  19,85",non,03802,03802,38002
+2,MARTIN,Élisa,Mme,NUP,Nouvelle union populaire écologique et sociale,15326,"  57,48","  25,37",oui,03803,03803,38003
+8,CHALAS,Emilie,Mme,ENS,Ensemble ! (Majorité présidentielle),11338,"  42,52","  18,77",non,03803,03803,38003
+1,LACROIX,Fanny,Mme,ENS,Ensemble ! (Majorité présidentielle),17350,"  41,94","  18,88",non,03804,03804,38004
+4,BATTISTEL,Marie-Noëlle,Mme,NUP,Nouvelle union populaire écologique et sociale,24016,"  58,06","  26,13",oui,03804,03804,38004
+4,IORDANOFF,Jérémie,M.,NUP,Nouvelle union populaire écologique et sociale,25010,"  50,43","  23,58",oui,03805,03805,38005
+11,JAY,Florence,Mme,ENS,Ensemble ! (Majorité présidentielle),24580,"  49,57","  23,18",non,03805,03805,38005
+4,JOLLY,Alexis,M.,RN,Rassemblement National,18667,"  50,92","  20,94",oui,03806,03806,38006
+5,MOTIN,Cendra,Mme,ENS,Ensemble ! (Majorité présidentielle),17994,"  49,08","  20,18",non,03806,03806,38006
+1,NEUDER,Yannick,M.,LR,Les Républicains,23678,"  59,59","  24,63",oui,03807,03807,38007
+7,MOULIN-COMTE,Alexandre,M.,RN,Rassemblement National,16055,"  40,41","  16,70",non,03807,03807,38007
+2,AUGUSTE,Benoit,M.,RN,Rassemblement National,15782,"  46,37","  19,13",non,03808,03808,38008
+8,ABADIE,Caroline,Mme,ENS,Ensemble ! (Majorité présidentielle),18251,"  53,63","  22,12",oui,03808,03808,38008
+2,JACQUIER-LAFORGE,Elodie,Mme,ENS,Ensemble ! (Majorité présidentielle),24427,"  53,80","  24,27",oui,03809,03809,38009
+4,NOSBÉ,Sandrine,Mme,NUP,Nouvelle union populaire écologique et sociale,20973,"  46,20","  20,84",non,03809,03809,38009
+8,MEYNIER-MILLEFERT,Marjolaine,Mme,ENS,Ensemble ! (Majorité présidentielle),20282,"  52,51","  20,52",oui,03810,03810,38010
+11,GERMAIN,Nathalie,Mme,RN,Rassemblement National,18345,"  47,49","  18,56",non,03810,03810,38010
+2,BRULEBOIS,Danielle,Mme,ENS,Ensemble ! (Majorité présidentielle),16833,"  56,22","  25,88",oui,03901,03901,39001
+3,BRONDEL,Anthony,M.,NUP,Nouvelle union populaire écologique et sociale,13108,"  43,78","  20,16",non,03901,03901,39001
+1,DALLOZ,Marie-Christine,Mme,LR,Les Républicains,15380,"  62,10","  27,56",oui,03902,03902,39002
+4,TERNANT,Evelyne,Mme,NUP,Nouvelle union populaire écologique et sociale,9386,"  37,90","  16,82",non,03902,03902,39002
+2,PRAT,Hervé,M.,NUP,Nouvelle union populaire écologique et sociale,13784,"  41,54","  19,58",non,03903,03903,39003
+6,GRUET,Justine,Mme,LR,Les Républicains,19397,"  58,46","  27,56",oui,03903,03903,39003
+5,DARRIEUSSECQ,Geneviève,Mme,ENS,Ensemble ! (Majorité présidentielle),27123,"  55,81","  24,99",oui,04001,04001,40001
+7,DE BARBEYRAC,Guy,M.,NUP,Nouvelle union populaire écologique et sociale,21472,"  44,19","  19,79",non,04001,04001,40001
+2,CAUSSE,Lionel,M.,ENS,Ensemble ! (Majorité présidentielle),30305,"  51,94","  24,63",oui,04002,04002,40002
+6,LESPADE,Jean-Marc,M.,NUP,Nouvelle union populaire écologique et sociale,28043,"  48,06","  22,79",non,04002,04002,40002
+1,VALLAUD,Boris,M.,NUP,Nouvelle union populaire écologique et sociale,28998,"  59,93","  29,15",oui,04003,04003,40003
+3,BROQUÈRES,Jean-Francois,M.,ENS,Ensemble ! (Majorité présidentielle),19389,"  40,07","  19,49",non,04003,04003,40003
+6,BELKADI,Reda,M.,NUP,Nouvelle union populaire écologique et sociale,15606,"  43,53","  18,85",non,04101,04101,41001
+8,FESNEAU,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),20249,"  56,47","  24,46",oui,04101,04101,41001
+8,CHAPLAULT,Emmanuelle,Mme,ENS,Ensemble ! (Majorité présidentielle),17347,"  48,93","  21,58",non,04102,04102,41002
+9,CHUDEAU,Roger,M.,RN,Rassemblement National,18107,"  51,07","  22,52",oui,04102,04102,41002
+4,MARION,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),21161,"  55,22","  25,83",oui,04103,04103,41003
+9,BARDET,Marine,Mme,RN,Rassemblement National,17163,"  44,78","  20,95",non,04103,04103,41003
+1,BATAILLON,Quentin,M.,ENS,Ensemble ! (Majorité présidentielle),13231,"  52,10","  20,48",oui,04201,04201,42001
+7,COPIN,Laetitia,Mme,NUP,Nouvelle union populaire écologique et sociale,12166,"  47,90","  18,83",non,04201,04201,42001
+8,MIS,Jean-Michel,M.,ENS,Ensemble ! (Majorité présidentielle),10225,"  49,37","  20,07",non,04202,04202,42002
+10,TAURINYA,Andrée,Mme,NUP,Nouvelle union populaire écologique et sociale,10488,"  50,63","  20,59",oui,04202,04202,42002
+3,BONY,Vincent,M.,NUP,Nouvelle union populaire écologique et sociale,14006,"  42,68","  16,77",non,04203,04203,42003
+9,MANDON,Emmanuel,M.,ENS,Ensemble ! (Majorité présidentielle),18807,"  57,32","  22,52",oui,04203,04203,42003
+5,CINIERI,Dino,M.,LR,Les Républicains,27847,"  61,61","  26,78",oui,04204,04204,42004
+7,PAEMELAERE,Bernard,M.,NUP,Nouvelle union populaire écologique et sociale,17352,"  38,39","  16,69",non,04204,04204,42004
+1,SARLES,Nathalie,Mme,ENS,Ensemble ! (Majorité présidentielle),15245,"  38,28","  14,90",non,04205,04205,42005
+5,VERMOREL-MARQUES,Antoine,M.,LR,Les Républicains,24575,"  61,72","  24,02",oui,04205,04205,42005
+3,BOROWCZYK,Julien,M.,ENS,Ensemble ! (Majorité présidentielle),19891,"  44,26","  17,89",non,04206,04206,42006
+5,TAITE,Jean-Pierre,M.,LR,Les Républicains,25050,"  55,74","  22,53",oui,04206,04206,42006
+3,VALENTIN,Isabelle,Mme,LR,Les Républicains,32478,"  70,22","  31,97",oui,04301,04301,43001
+8,GACON,Celline,Mme,NUP,Nouvelle union populaire écologique et sociale,13773,"  29,78","  13,56",non,04301,04301,43001
+6,SIGAUX,Azelma,Mme,NUP,Nouvelle union populaire écologique et sociale,11862,"  31,65","  14,93",non,04302,04302,43002
+7,VIGIER,Jean-Pierre,M.,LR,Les Républicains,25621,"  68,35","  32,24",oui,04302,04302,43002
+4,BENBRAHIM,Karim,M.,NUP,Nouvelle union populaire écologique et sociale,18739,"  47,92","  24,30",non,04401,04401,44001
+5,BELHAMITI,Mounir,M.,ENS,Ensemble ! (Majorité présidentielle),20367,"  52,08","  26,41",oui,04401,04401,44001
+3,OPPELT,Valérie,Mme,ENS,Ensemble ! (Majorité présidentielle),21271,"  44,20","  23,27",non,04402,04402,44002
+4,KERBRAT,Andy,M.,NUP,Nouvelle union populaire écologique et sociale,26851,"  55,80","  29,37",oui,04402,04402,44002
+5,AMIOT,Ségolène,Mme,NUP,Nouvelle union populaire écologique et sociale,24837,"  55,70","  25,67",oui,04403,04403,44003
+9,BRUNET,Anne-France,Mme,ENS,Ensemble ! (Majorité présidentielle),19752,"  44,30","  20,41",non,04403,04403,44003
+6,LAERNOES,Julie,Mme,NUP,Nouvelle union populaire écologique et sociale,26411,"  58,03","  28,31",oui,04404,04404,44004
+12,AMADOU,Aude,Mme,ENS,Ensemble ! (Majorité présidentielle),19105,"  41,97","  20,48",non,04404,04404,44004
+1,LALANDE,Sabine,Mme,NUP,Nouvelle union populaire écologique et sociale,28348,"  45,59","  22,51",non,04405,04405,44005
+5,EL HAIRY,Sarah,Mme,ENS,Ensemble ! (Majorité présidentielle),33834,"  54,41","  26,87",oui,04405,04405,44005
+2,ESNAULT,Jordan,M.,ENS,Ensemble ! (Majorité présidentielle),23939,"  47,11","  20,74",non,04406,04406,44006
+11,RAUX,Jean-Claude,M.,NUP,Nouvelle union populaire écologique et sociale,26874,"  52,89","  23,29",oui,04406,04406,44006
+11,JOSSO,Sandrine,Mme,ENS,Ensemble ! (Majorité présidentielle),31074,"  57,06","  26,49",oui,04407,04407,44007
+12,MAHÉ,Veronique,Mme,NUP,Nouvelle union populaire écologique et sociale,23381,"  42,94","  19,93",non,04407,04407,44007
+8,TAVEL,Matthias,M.,NUP,Nouvelle union populaire écologique et sociale,21596,"  54,45","  23,95",oui,04408,04408,44008
+10,DUFEU,Audrey,Mme,ENS,Ensemble ! (Majorité présidentielle),18063,"  45,55","  20,03",non,04408,04408,44008
+3,HAURY,Yannick,M.,ENS,Ensemble ! (Majorité présidentielle),31625,"  53,12","  24,34",oui,04409,04409,44009
+8,MACON,Hélène,Mme,NUP,Nouvelle union populaire écologique et sociale,27908,"  46,88","  21,48",non,04409,04409,44009
+6,CAILLETEAU,Bruno,M.,NUP,Nouvelle union populaire écologique et sociale,25274,"  43,48","  20,42",non,04410,04410,44010
+8,ERRANTE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),32852,"  56,52","  26,54",oui,04410,04410,44010
+2,RIST,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle),20163,"  57,21","  25,99",oui,04501,04501,45001
+8,KOUNOWSKI,Ghislaine,Mme,NUP,Nouvelle union populaire écologique et sociale,15080,"  42,79","  19,43",non,04501,04501,45001
+8,DUPLESSY,Emmanuel,M.,NUP,Nouvelle union populaire écologique et sociale,16280,"  44,22","  18,65",non,04502,04502,45002
+9,JANVIER,Caroline,Mme,ENS,Ensemble ! (Majorité présidentielle),20535,"  55,78","  23,52",oui,04502,04502,45002
+4,BARBIER,Carine,Mme,ENS,Ensemble ! (Majorité présidentielle),15416,"  47,78","  21,75",non,04503,04503,45003
+8,PARIS,Mathilde,Mme,RN,Rassemblement National,16846,"  52,22","  23,77",oui,04503,04503,45003
+5,NOTTIN,Bruno,M.,NUP,Nouvelle union populaire écologique et sociale,11037,"  36,64","  14,75",non,04504,04504,45004
+6,MÉNAGÉ,Thomas,M.,RN,Rassemblement National,19087,"  63,36","  25,50",oui,04504,04504,45004
+3,MANENT,Valentin,M.,RN,Rassemblement National,15736,"  49,98","  21,36",non,04505,04505,45005
+6,BROSSE,Anthony,M.,ENS,Ensemble ! (Majorité présidentielle),15747,"  50,02","  21,37",oui,04505,04505,45005
+5,RAMOS,Richard,M.,ENS,Ensemble ! (Majorité présidentielle),18865,"  57,27","  25,09",oui,04506,04506,45006
+7,HICTER,Olivier,M.,NUP,Nouvelle union populaire écologique et sociale,14073,"  42,73","  18,72",non,04506,04506,45006
+4,BOUGEARD,Elsa,Mme,NUP,Nouvelle union populaire écologique et sociale,14016,"  35,37","  19,24",non,04601,04601,46001
+10,PRADIÉ,Aurélien,M.,LR,Les Républicains,25616,"  64,63","  35,16",oui,04601,04601,46001
+5,TIEGNA,Huguette,Mme,ENS,Ensemble ! (Majorité présidentielle),12745,"  34,14","  19,12",oui,04602,04602,46002
+7,GROSSEMY,Thierry,M.,NUP,Nouvelle union populaire écologique et sociale,12618,"  33,80","  18,92",non,04602,04602,46002
+8,PROENÇA,Christophe,M.,DVG,Divers gauche,11966,"  32,06","  17,95",non,04602,04602,46002
+1,LAUZZANA,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),20328,"  51,48","  22,92",oui,04701,04701,47001
+2,DELBOSQ,Sébastien,M.,RN,Rassemblement National,19163,"  48,52","  21,61",non,04701,04701,47001
+2,FRESCHI,Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),12484,"  29,81","  16,12",non,04702,04702,47002
+4,LAPORTE,Hélène,Mme,RN,Rassemblement National,16516,"  39,44","  21,32",oui,04702,04702,47002
+5,COURREGELONGUE,Christophe,M.,NUP,Nouvelle union populaire écologique et sociale,12880,"  30,75","  16,63",non,04702,04702,47002
+4,COUSIN,Annick,Mme,RN,Rassemblement National,18747,"  56,97","  24,67",oui,04703,04703,47003
+9,CZAPLA,Xavier,M.,NUP,Nouvelle union populaire écologique et sociale,14161,"  43,03","  18,64",non,04703,04703,47003
+1,DESCAVES,Sandrine,Mme,NUP,Nouvelle union populaire écologique et sociale,14620,"  45,72","  24,40",non,04801,04801,48001
+6,MOREL A L'HUISSIER,Pierre,M.,UDI,Union des Démocrates et des Indépendants,17355,"  54,28","  28,97",oui,04801,04801,48001
+4,SAEIDI,Arash,M.,NUP,Nouvelle union populaire écologique et sociale,18207,"  44,48","  20,69",non,04901,04901,49001
+8,GERNIGON,François,M.,ENS,Ensemble ! (Majorité présidentielle),22724,"  55,52","  25,82",oui,04901,04901,49001
+1,BESSAT,Caroline,Mme,NUP,Nouvelle union populaire écologique et sociale,19050,"  43,24","  20,26",non,04902,04902,49002
+7,DUPONT,Stella,Mme,ENS,Ensemble ! (Majorité présidentielle),25005,"  56,76","  26,59",oui,04902,04902,49002
+4,ROUDÉVITCH,Véronique,Mme,NUP,Nouvelle union populaire écologique et sociale,12342,"  39,35","  17,00",non,04903,04903,49003
+7,BLIN,Anne-Laure,Mme,LR,Les Républicains,19020,"  60,65","  26,20",oui,04903,04903,49003
+1,SAINT-PAUL,Laëtitia,Mme,ENS,Ensemble ! (Majorité présidentielle),19913,"  60,33","  26,12",oui,04904,04904,49004
+2,RABAULT,Caroline,Mme,NUP,Nouvelle union populaire écologique et sociale,13093,"  39,67","  17,17",non,04904,04904,49004
+1,AIRAUD,Christophe,M.,NUP,Nouvelle union populaire écologique et sociale,12525,"  39,24","  15,77",non,04905,04905,49005
+4,MASSEGLIA,Denis,M.,ENS,Ensemble ! (Majorité présidentielle),19395,"  60,76","  24,41",oui,04905,04905,49005
+2,AMGHAR,Tassadit,Mme,NUP,Nouvelle union populaire écologique et sociale,18120,"  42,40","  18,41",non,04906,04906,49006
+4,DUBRE CHIRAT,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle),24616,"  57,60","  25,02",oui,04906,04906,49006
+3,BOLO,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),20865,"  55,56","  25,18",oui,04907,04907,49007
+4,JOUANNEAU,Guillaume,M.,NUP,Nouvelle union populaire écologique et sociale,16692,"  44,44","  20,14",non,04907,04907,49007
+2,HÉDOUIN,Guillaume,M.,NUP,Nouvelle union populaire écologique et sociale,12331,"  31,22","  14,09",non,05001,05001,50001
+8,GOSSELIN,Philippe,M.,LR,Les Républicains,27166,"  68,78","  31,03",oui,05001,05001,50001
+4,SORRE,Bertrand,M.,ENS,Ensemble ! (Majorité présidentielle),28279,"  64,44","  29,16",oui,05002,05002,50002
+5,GRIMBERT,Patrick,M.,NUP,Nouvelle union populaire écologique et sociale,15602,"  35,56","  16,09",non,05002,05002,50002
+1,TRAVERT,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),27829,"  56,13","  25,10",oui,05003,05003,50003
+5,VEROVE,Gaëlle,Mme,NUP,Nouvelle union populaire écologique et sociale,21751,"  43,87","  19,62",non,05003,05003,50003
+5,PIC,Anna,Mme,NUP,Nouvelle union populaire écologique et sociale,20482,"  51,61","  22,91",oui,05004,05004,50004
+7,KRIMI,Sonia,Mme,ENS,Ensemble ! (Majorité présidentielle),19204,"  48,39","  21,48",non,05004,05004,50004
+3,ALBERTINI,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),15897,"  55,91","  21,35",oui,05101,05101,51001
+4,BOURGOIN,Evelyne,Mme,NUP,Nouvelle union populaire écologique et sociale,12536,"  44,09","  16,83",non,05101,05101,51001
+4,FRIGOUT,Anne-Sophie,Mme,RN,Rassemblement National,14650,"  54,81","  19,62",oui,05102,05102,51002
+9,MEGUENINE,Lynda,Mme,NUP,Nouvelle union populaire écologique et sociale,12080,"  45,19","  16,18",non,05102,05102,51002
+2,MARC,Jennifer,Mme,RN,Rassemblement National,15897,"  48,57","  19,86",non,05103,05103,51003
+9,GIRARDIN,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),16836,"  51,43","  21,03",oui,05103,05103,51003
+6,MAGNIER,Lise,Mme,ENS,Ensemble ! (Majorité présidentielle),17294,"  55,33","  22,43",oui,05104,05104,51004
+7,BESSON,Thierry,M.,RN,Rassemblement National,13962,"  44,67","  18,11",non,05104,05104,51004
+3,THIONNET,Pierre,M.,RN,Rassemblement National,12506,"  36,97","  16,46",non,05105,05105,51005
+5,DE COURSON,Charles,M.,DVD,Divers droite,21325,"  63,03","  28,06",oui,05105,05105,51005
+1,ABBA,Bérangère,Mme,ENS,Ensemble ! (Majorité présidentielle),15412,"  48,75","  22,02",non,05201,05201,52001
+10,BENTZ,Christophe,M.,RN,Rassemblement National,16201,"  51,25","  23,14",oui,05201,05201,52001
+1,CORNUT-GENTILLE,François,M.,LR,Les Républicains,12963,"  48,30","  21,81",non,05202,05202,52002
+6,ROBERT-DEHAULT,Laurence,Mme,RN,Rassemblement National,13877,"  51,70","  23,34",oui,05202,05202,52002
+2,GAROT,Guillaume,M.,NUP,Nouvelle union populaire écologique et sociale,20178,"  63,22","  27,38",oui,05301,05301,53001
+6,MOTTIER,Béatrice,Mme,ENS,Ensemble ! (Majorité présidentielle),11739,"  36,78","  15,93",non,05301,05301,53001
+3,BOISSEAU,Grégory,M.,NUP,Nouvelle union populaire écologique et sociale,13983,"  41,38","  17,68",non,05302,05302,53002
+7,BANNIER,Géraldine,Mme,ENS,Ensemble ! (Majorité présidentielle),19812,"  58,62","  25,05",oui,05302,05302,53002
+2,GRANDJEAN,Carole,Mme,ENS,Ensemble ! (Majorité présidentielle),19520,"  53,43","  23,68",oui,05401,05401,54001
+11,JOUIRA,Nordine,M.,NUP,Nouvelle union populaire écologique et sociale,17017,"  46,57","  20,64",non,05401,05401,54001
+3,LACRESSE,Emmanuel,M.,ENS,Ensemble ! (Majorité présidentielle),15689,"  50,26","  23,24",oui,05402,05402,54002
+6,HABLOT,Stéphane,M.,NUP,Nouvelle union populaire écologique et sociale,15524,"  49,74","  23,00",non,05402,05402,54002
+6,ETIENNE,Martine,Mme,NUP,Nouvelle union populaire écologique et sociale,13886,"  51,94","  17,20",oui,05403,05403,54003
+12,PALUSZKIEWICZ,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),12851,"  48,06","  15,91",non,05403,05403,54003
+5,BILDE,Dominique,Mme,RN,Rassemblement National,15175,"  37,82","  15,56",non,05404,05404,54004
+7,BAZIN,Thibault,M.,LR,Les Républicains,24952,"  62,18","  25,58",oui,05404,05404,54004
+1,MORENVILLIER,Philippe,M.,RN,Rassemblement National,12728,"  36,88","  16,22",non,05405,05405,54005
+6,POTIER,Dominique,M.,DVG,Divers gauche,21782,"  63,12","  27,75",oui,05405,05405,54005
+4,BOULOGNE,Anthony,M.,RN,Rassemblement National,15984,"  49,77","  18,31",non,05406,05406,54006
+9,FIAT,Caroline,Mme,NUP,Nouvelle union populaire écologique et sociale,16133,"  50,23","  18,48",oui,05406,05406,54006
+1,PANCHER,Bertrand,M.,DVD,Divers droite,19028,"  55,40","  25,16",oui,05501,05501,55001
+8,GAUDINEAU,Brigitte,Mme,RN,Rassemblement National,15319,"  44,60","  20,25",non,05501,05501,55001
+5,GOULET,Florence,Mme,RN,Rassemblement National,13269,"  53,50","  22,29",oui,05502,05502,55002
+10,BOIS,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),11534,"  46,50","  19,38",non,05502,05502,55002
+1,LE HÉNANFF,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),34382,"  59,25","  29,93",oui,05601,05601,56001
+7,FOUCAULT,Luc,M.,NUP,Nouvelle union populaire écologique et sociale,23648,"  40,75","  20,59",non,05601,05601,56001
+5,KIRCHNER,Karol,M.,NUP,Nouvelle union populaire écologique et sociale,22630,"  41,40","  20,13",non,05602,05602,56002
+12,PAHUN,Jimmy,M.,ENS,Ensemble ! (Majorité présidentielle),32026,"  58,60","  28,49",oui,05602,05602,56002
+2,DORE-LUCAS,Marie Madeleine,Mme,NUP,Nouvelle union populaire écologique et sociale,18588,"  43,36","  19,24",non,05603,05603,56003
+12,LE PEIH,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle),24283,"  56,64","  25,13",oui,05603,05603,56003
+4,MOLAC,Paul,M.,REG,Régionaliste,37678,"  73,43","  33,72",oui,05604,05604,56004
+9,GUEGAN,Rozenn,Mme,ENS,Ensemble ! (Majorité présidentielle),13631,"  26,57","  12,20",non,05604,05604,56004
+6,GIRARD,Damien,M.,NUP,Nouvelle union populaire écologique et sociale,18634,"  48,65","  22,77",non,05605,05605,56005
+7,MÉTAYER,Lysiane,Mme,ENS,Ensemble ! (Majorité présidentielle),19666,"  51,35","  24,03",oui,05605,05605,56005
+4,BAUDRY,Jean-Michel,M.,NUP,Nouvelle union populaire écologique et sociale,19725,"  45,19","  21,04",non,05606,05606,56006
+11,JACQUES,Jean-Michel,M.,ENS,Ensemble ! (Majorité présidentielle),23925,"  54,81","  25,52",oui,05606,05606,56006
+6,LALOUX,Grégoire,M.,RN,Rassemblement National,15184,"  46,41","  16,32",non,05701,05701,57001
+8,BELHADDAD,Belkhir,M.,ENS,Ensemble ! (Majorité présidentielle),17532,"  53,59","  18,84",oui,05701,05701,57001
+5,LAHORE,Lisa,Mme,NUP,Nouvelle union populaire écologique et sociale,12952,"  43,59","  16,99",non,05702,05702,57002
+10,MENDES,Ludovic,M.,ENS,Ensemble ! (Majorité présidentielle),16764,"  56,41","  21,99",oui,05702,05702,57002
+5,LEDUC,Charlotte,Mme,NUP,Nouvelle union populaire écologique et sociale,14012,"  51,46","  18,47",oui,05703,05703,57003
+14,GROLET,Françoise,Mme,RN,Rassemblement National,13215,"  48,54","  17,42",non,05703,05703,57003
+1,RAMBOUR,Michel,M.,RN,Rassemblement National,10038,"  30,70","  12,39",non,05704,05704,57004
+7,DI FILIPPO,Fabien,M.,LR,Les Républicains,22655,"  69,30","  27,97",oui,05704,05704,57004
+4,VOINÇON,Marie-Claude,Mme,RN,Rassemblement National,11348,"  40,88","  15,67",non,05705,05705,57005
+8,SEITLINGER,Vincent,M.,LR,Les Républicains,16413,"  59,12","  22,66",oui,05705,05705,57005
+7,PFEFFER,Kévin,M.,RN,Rassemblement National,12368,"  56,96","  18,49",oui,05706,05706,57006
+9,AREND,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),9347,"  43,04","  13,97",non,05706,05706,57006
+3,ZANNIER,Hélène,Mme,ENS,Ensemble ! (Majorité présidentielle),14829,"  44,59","  16,57",non,05707,05707,57007
+7,LOUBET,Alexandre,M.,RN,Rassemblement National,18424,"  55,41","  20,59",oui,05707,05707,57007
+3,LEGER,Céline,Mme,NUP,Nouvelle union populaire écologique et sociale,13770,"  47,57","  15,10",non,05708,05708,57008
+5,JACOBELLI,Laurent,M.,RN,Rassemblement National,15176,"  52,43","  16,64",oui,05708,05708,57008
+1,VAÏSSE,Brigitte,Mme,NUP,Nouvelle union populaire écologique et sociale,16386,"  44,97","  16,11",non,05709,05709,57009
+8,RAUCH,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),20048,"  55,03","  19,71",oui,05709,05709,57009
+4,VIGNERON,Pauline,Mme,RN,Rassemblement National,13858,"  45,57","  18,56",non,05801,05801,58001
+9,GOULET,Perrine,Mme,ENS,Ensemble ! (Majorité présidentielle),16554,"  54,43","  22,17",oui,05801,05801,58001
+1,GUILLEMAIN,Marie Anne,Mme,NUP,Nouvelle union populaire écologique et sociale,11527,"  27,07","  14,45",non,05802,05802,58002
+6,PERROT,Patrice,M.,ENS,Ensemble ! (Majorité présidentielle),15577,"  36,59","  19,53",oui,05802,05802,58002
+8,GUIBERT,Julien,M.,RN,Rassemblement National,15472,"  36,34","  19,40",non,05802,05802,58002
+5,DUHAMEL,Vanessa,Mme,ENS,Ensemble ! (Majorité présidentielle),9284,"  34,76","  14,45",non,05901,05901,59001
+11,QUATENNENS,Adrien,M.,NUP,Nouvelle union populaire écologique et sociale,17428,"  65,24","  27,13",oui,05901,05901,59001
+7,ELEGEEST,Rudy,M.,ENS,Ensemble ! (Majorité présidentielle),15743,"  42,00","  18,13",non,05902,05902,59002
+10,BERNALICIS,Ugo,M.,NUP,Nouvelle union populaire écologique et sociale,21740,"  58,00","  25,03",oui,05902,05902,59002
+3,SAINT-HUILE,Benjamin,M.,DVG,Divers gauche,18448,"  51,70","  19,98",oui,05903,05903,59003
+8,DELANNOY,Sandra,Mme,RN,Rassemblement National,17237,"  48,30","  18,67",non,05903,05903,59003
+11,DELEPIERE,Octave,M.,NUP,Nouvelle union populaire écologique et sociale,19952,"  43,95","  19,62",non,05904,05904,59004
+12,LISO,Brigitte,Mme,ENS,Ensemble ! (Majorité présidentielle),25447,"  56,05","  25,02",oui,05904,05904,59004
+1,CATTEAU,Victor,M.,RN,Rassemblement National,20658,"  51,14","  20,33",oui,05905,05905,59005
+4,DELNESTE,Ophélie,Mme,NUP,Nouvelle union populaire écologique et sociale,19736,"  48,86","  19,43",non,05905,05905,59005
+2,PEREIRA,Célia,Mme,NUP,Nouvelle union populaire écologique et sociale,16037,"  36,93","  17,11",non,05906,05906,59006
+10,PARMENTIER-LECOCQ,Charlotte,Mme,ENS,Ensemble ! (Majorité présidentielle),27387,"  63,07","  29,22",oui,05906,05906,59006
+6,CHOUIA,Karima,Mme,NUP,Nouvelle union populaire écologique et sociale,13324,"  44,53","  18,10",non,05907,05907,59007
+8,GÉRARD,Félicie,Mme,ENS,Ensemble ! (Majorité présidentielle),16600,"  55,47","  22,55",oui,05907,05907,59007
+3,GUIRAUD,David,M.,NUP,Nouvelle union populaire écologique et sociale,12585,"  59,94","  18,34",oui,05908,05908,59008
+9,OSSON,Catherine,Mme,ENS,Ensemble ! (Majorité présidentielle),8412,"  40,06","  12,26",non,05908,05908,59008
+2,VIDAL-SAGNIER,Odile,Mme,NUP,Nouvelle union populaire écologique et sociale,16602,"  40,90","  17,98",non,05909,05909,59009
+9,SPILLEBOUT,Violette,Mme,ENS,Ensemble ! (Majorité présidentielle),23990,"  59,10","  25,97",oui,05909,05909,59009
+4,DARMANIN,Gérald,M.,ENS,Ensemble ! (Majorité présidentielle),16193,"  57,52","  19,69",oui,05910,05910,59010
+8,MORTREUX,Leslie,M.,NUP,Nouvelle union populaire écologique et sociale,11957,"  42,48","  14,54",non,05910,05910,59010
+1,PIETRASZEWSKI,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),17210,"  43,73","  18,22",non,05911,05911,59011
+10,VICOT,Roger,M.,NUP,Nouvelle union populaire écologique et sociale,22143,"  56,27","  23,45",oui,05911,05911,59011
+4,TAVERNE,Michaël,M.,RN,Rassemblement National,20415,"  52,82","  21,93",oui,05912,05912,59012
+9,CATTELOT,Anne Laure,Mme,ENS,Ensemble ! (Majorité présidentielle),18235,"  47,18","  19,58",non,05912,05912,59012
+7,DUVAL,Yohann,M.,RN,Rassemblement National,15029,"  47,63","  17,27",non,05913,05913,59013
+8,DECODTS,Christine,Mme,ENS,Ensemble ! (Majorité présidentielle),16524,"  52,37","  18,99",oui,05913,05913,59013
+3,CUVELIER,Pierrette,Mme,RN,Rassemblement National,20155,"  46,79","  20,27",non,05914,05914,59014
+7,CHRISTOPHE,Paul,M.,ENS,Ensemble ! (Majorité présidentielle),22916,"  53,21","  23,05",oui,05914,05914,59014
+7,BERTELOOT,Pierrick,M.,RN,Rassemblement National,21367,"  54,09","  21,84",oui,05915,05915,59015
+11,DUCOURANT,Emilie,Mme,NUP,Nouvelle union populaire écologique et sociale,18134,"  45,91","  18,54",non,05915,05915,59015
+3,BRUNEEL,Alain,M.,NUP,Nouvelle union populaire écologique et sociale,16097,"  49,65","  19,22",non,05916,05916,59016
+4,MARCHIO,Matthieu,M.,RN,Rassemblement National,16322,"  50,35","  19,49",oui,05916,05916,59016
+6,FRANCOIS,Thibaut,M.,RN,Rassemblement National,15408,"  53,57","  20,92",oui,05917,05917,59017
+10,HOUBRON,Dimitri,M.,ENS,Ensemble ! (Majorité présidentielle),13354,"  46,43","  18,13",non,05917,05917,59017
+1,BRICOUT,Guy,M.,UDI,Union des Démocrates et des Indépendants,19211,"  50,58","  21,08",oui,05918,05918,59018
+7,DISDIER,Mélanie,Mme,RN,Rassemblement National,18768,"  49,42","  20,60",non,05918,05918,59018
+1,SOLOCH,Patrick,M.,NUP,Nouvelle union populaire écologique et sociale,13085,"  42,85","  16,28",non,05919,05919,59019
+5,CHENU,Sébastien,M.,RN,Rassemblement National,17451,"  57,15","  21,71",oui,05919,05919,59019
+4,FLORQUIN,Guillaume,M.,RN,Rassemblement National,13725,"  45,50","  16,83",non,05920,05920,59020
+5,ROUSSEL,Fabien,M.,NUP,Nouvelle union populaire écologique et sociale,16439,"  54,50","  20,16",oui,05920,05920,59020
+3,DESCAMPS,Béatrice,Mme,DVD,Divers droite,17199,"  57,12","  21,21",oui,05921,05921,59021
+8,VALENTIN,Océane,Mme,RN,Rassemblement National,12909,"  42,88","  15,92",non,05921,05921,59021
+4,MAGNIER,David,M.,RN,Rassemblement National,14625,"  41,66","  17,59",non,06001,06001,60001
+8,HABERT-DASSAULT,Victor,M.,LR,Les Républicains,20480,"  58,34","  24,64",oui,06001,06001,60001
+6,BALLARD,Philippe,M.,RN,Rassemblement National,21451,"  55,83","  24,07",oui,06002,06002,60002
+7,HERBANNE,Chanez,Mme,ENS,Ensemble ! (Majorité présidentielle),16974,"  44,17","  19,05",non,06002,06002,60002
+8,SABATOU,Alexandre,M.,RN,Rassemblement National,14066,"  52,42","  19,05",oui,06003,06003,60003
+9,LABATUT,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,12769,"  47,58","  17,29",non,06003,06003,60003
+5,WOERTH,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),21201,"  54,35","  22,66",oui,06004,06004,60004
+7,HAVEZ,Audrey,Mme,RN,Rassemblement National,17808,"  45,65","  19,03",non,06004,06004,60004
+2,LAMZOUDI,Myriam,Mme,RN,Rassemblement National,12399,"  40,22","  16,91",non,06005,06005,60005
+4,VATIN,Pierre,M.,LR,Les Républicains,18430,"  59,78","  25,13",oui,06005,06005,60005
+6,GUINIOT,Michel,M.,RN,Rassemblement National,17135,"  52,57","  22,58",oui,06006,06006,60006
+8,BUREAU-BONNARD,Carole,Mme,ENS,Ensemble ! (Majorité présidentielle),15458,"  47,43","  20,37",non,06006,06006,60006
+3,MINOT,Maxime,M.,LR,Les Républicains,18442,"  56,74","  23,99",oui,06007,06007,60007
+7,PEN,Loïc,M.,NUP,Nouvelle union populaire écologique et sociale,14058,"  43,26","  18,29",non,06007,06007,60007
+2,DUHARD,Marie-Annick,Mme,ENS,Ensemble ! (Majorité présidentielle),14661,"  49,80","  21,39",non,06101,06101,61001
+5,JOURDAN,Chantal,Mme,NUP,Nouvelle union populaire écologique et sociale,14776,"  50,20","  21,56",oui,06101,06101,61001
+2,LOUWAGIE,Véronique,Mme,LR,Les Républicains,18118,"  60,80","  27,42",oui,06102,06102,61002
+10,MOREL,Alexandre,M.,RN,Rassemblement National,11679,"  39,20","  17,68",non,06102,06102,61002
+1,NURY,Jérôme,M.,LR,Les Républicains,21603,"  69,66","  30,37",oui,06103,06103,61003
+7,FRÉMONT,Anthony,M.,RN,Rassemblement National,9411,"  30,34","  13,23",non,06103,06103,61003
+2,DUVERGÉ,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),21711,"  44,23","  20,68",non,06201,06201,62001
+8,BLAIRY,Emmanuel,M.,RN,Rassemblement National,27380,"  55,77","  26,08",oui,06201,06201,62001
+2,HEUSÈLE,Alban,M.,RN,Rassemblement National,17345,"  45,27","  19,80",non,06202,06202,62002
+13,MAQUET,Jacqueline,Mme,ENS,Ensemble ! (Majorité présidentielle),20971,"  54,73","  23,93",oui,06202,06202,62002
+7,TELLIER,Jean-Marc,M.,NUP,Nouvelle union populaire écologique et sociale,16294,"  50,11","  19,58",oui,06203,06203,62003
+9,CLAVET,Bruno,M.,RN,Rassemblement National,16223,"  49,89","  19,50",non,06203,06203,62003
+5,VANPEENE,Françoise,Mme,RN,Rassemblement National,18063,"  43,64","  20,08",non,06204,06204,62004
+6,FAIT,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),23331,"  56,36","  25,93",oui,06204,06204,62004
+2,GOLLIOT,Antoine,M.,RN,Rassemblement National,17372,"  48,97","  19,17",non,06205,06205,62005
+5,PONT,Jean-Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),18102,"  51,03","  19,98",oui,06205,06205,62005
+2,ENGRAND,Christine,Mme,RN,Rassemblement National,21858,"  50,06","  23,31",oui,06206,06206,62006
+3,BOURGUIGNON,Brigitte,Mme,ENS,Ensemble ! (Majorité présidentielle),21802,"  49,94","  23,25",non,06206,06206,62006
+6,DUMONT,Pierre-Henri,M.,LR,Les Républicains,20132,"  55,83","  21,40",oui,06207,06207,62007
+7,DE FLEURIAN,Marc,M.,RN,Rassemblement National,15930,"  44,17","  16,93",non,06207,06207,62007
+1,EVRARD,Auguste,M.,RN,Rassemblement National,18048,"  44,18","  19,57",non,06208,06208,62008
+9,PETIT,Bertrand,M.,DVG,Divers gauche,22801,"  55,82","  24,73",oui,06208,06208,62008
+9,DEPREZ-AUDEBERT,Marguerite,Mme,ENS,Ensemble ! (Majorité présidentielle),16279,"  46,69","  20,32",non,06209,06209,62009
+11,PARMENTIER,Caroline,Mme,RN,Rassemblement National,18587,"  53,31","  23,20",oui,06209,06209,62009
+3,DAGBERT,Michel,M.,ENS,Ensemble ! (Majorité présidentielle),12003,"  34,60","  13,51",non,06210,06210,62010
+9,FRAPPÉ,Thierry,M.,RN,Rassemblement National,22685,"  65,40","  25,54",oui,06210,06210,62010
+5,LE PEN,Marine,Mme,RN,Rassemblement National,22303,"  61,03","  23,68",oui,06211,06211,62011
+6,TONDELIER,Marine,Mme,NUP,Nouvelle union populaire écologique et sociale,14239,"  38,97","  15,12",non,06211,06211,62011
+6,DARRAS,Jérôme,M.,NUP,Nouvelle union populaire écologique et sociale,16190,"  43,70","  16,78",non,06212,06212,62012
+9,BILDE,Bruno,M.,RN,Rassemblement National,20855,"  56,30","  21,61",oui,06212,06212,62012
+3,MAXIMI,Marianne,Mme,NUP,Nouvelle union populaire écologique et sociale,18189,"  52,23","  21,60",oui,06301,06301,63001
+11,THOMAS,Valérie,Mme,ENS,Ensemble ! (Majorité présidentielle),16637,"  47,77","  19,76",non,06301,06301,63001
+1,PIRÈS BEAUNE,Christine,Mme,NUP,Nouvelle union populaire écologique et sociale,26614,"  63,84","  29,54",oui,06302,06302,63002
+2,MONNET,Karina,Mme,ENS,Ensemble ! (Majorité présidentielle),15077,"  36,16","  16,74",non,06302,06302,63002
+6,BONNET,Nicolas,M.,NUP,Nouvelle union populaire écologique et sociale,20358,"  46,91","  22,64",non,06303,06303,63003
+11,VICHNIEVSKY,Laurence,Mme,ENS,Ensemble ! (Majorité présidentielle),23042,"  53,09","  25,63",oui,06303,06303,63003
+1,GOLÉO,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,22564,"  49,87","  22,26",non,06304,06304,63004
+5,LINGEMANN,Delphine,Mme,ENS,Ensemble ! (Majorité présidentielle),22680,"  50,13","  22,38",oui,06304,06304,63004
+1,CARLETTO,Brigitte,Mme,RN,Rassemblement National,13633,"  30,57","  13,05",non,06305,06305,63005
+6,CHASSAIGNE,André,M.,NUP,Nouvelle union populaire écologique et sociale,30966,"  69,43","  29,65",oui,06305,06305,63005
+8,POUEYTO,Josy,Mme,ENS,Ensemble ! (Majorité présidentielle),16929,"  50,78","  24,53",oui,06401,06401,64001
+10,LALANNE,Jean-Yves,M.,NUP,Nouvelle union populaire écologique et sociale,16412,"  49,22","  23,78",non,06401,06401,64001
+1,FAURE,Cécile,Mme,NUP,Nouvelle union populaire écologique et sociale,17980,"  45,29","  21,63",non,06402,06402,64002
+7,MATTEI,Jean-Paul,M.,ENS,Ensemble ! (Majorité présidentielle),21720,"  54,71","  26,13",oui,06402,06402,64002
+1,HABIB,David,M.,DVG,Divers gauche,26414,"  66,55","  31,42",oui,06403,06403,64003
+7,BABY,Jean-François,M.,NUP,Nouvelle union populaire écologique et sociale,13277,"  33,45","  15,79",non,06403,06403,64003
+5,TROUNDAY,Annick,Mme,ENS,Ensemble ! (Majorité présidentielle),19846,"  49,89","  24,56",non,06404,06404,64004
+7,ECHANIZ,Inaki,M.,NUP,Nouvelle union populaire écologique et sociale,19936,"  50,11","  24,67",oui,06404,06404,64004
+2,PEREIRA-OSTANEL,Sandra,Mme,NUP,Nouvelle union populaire écologique et sociale,20269,"  45,60","  20,39",non,06405,06405,64005
+5,LASSERRE,Florence,Mme,ENS,Ensemble ! (Majorité présidentielle),24184,"  54,40","  24,33",oui,06405,06405,64005
+1,DUBOIS--ROBIN,Tom,M.,NUP,Nouvelle union populaire écologique et sociale,18497,"  39,79","  17,53",non,06406,06406,64006
+11,BRU,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle),27994,"  60,21","  26,53",oui,06406,06406,64006
+8,SEMPASTOUS,Jean-Bernard,M.,ENS,Ensemble ! (Majorité présidentielle),20552,"  49,87","  23,35",non,06501,06501,65001
+9,FERRER,Sylvie,Mme,NUP,Nouvelle union populaire écologique et sociale,20657,"  50,13","  23,47",oui,06501,06501,65001
+5,KORN,Grégory,M.,NUP,Nouvelle union populaire écologique et sociale,19239,"  47,73","  21,43",non,06502,06502,65002
+7,MOURNET,Benoit,M.,ENS,Ensemble ! (Majorité présidentielle),21073,"  52,27","  23,47",oui,06502,06502,65002
+5,GRAU,Romain,M.,ENS,Ensemble ! (Majorité présidentielle),13583,"  46,13","  18,66",non,06601,06601,66001
+12,BLANC,Sophie,Mme,RN,Rassemblement National,15859,"  53,87","  21,78",oui,06601,06601,66001
+1,SABATINI,Anaïs,Mme,RN,Rassemblement National,26682,"  61,23","  25,75",oui,06602,06602,66002
+7,LIS,Frédérique,Mme,ENS,Ensemble ! (Majorité présidentielle),16897,"  38,77","  16,30",non,06602,06602,66002
+10,CULLELL,Nathalie,Mme,NUP,Nouvelle union populaire écologique et sociale,16368,"  45,89","  19,26",non,06603,06603,66003
+11,DOGOR-SUCH,Sandrine,Mme,RN,Rassemblement National,19299,"  54,11","  22,71",oui,06603,06603,66003
+3,MARTINEZ,Michèle,Mme,RN,Rassemblement National,24332,"  56,28","  23,87",oui,06604,06604,66004
+9,CAZENOVE,Sébastien,M.,ENS,Ensemble ! (Majorité présidentielle),18905,"  43,72","  18,55",non,06604,06604,66004
+5,REGOL,Sandra,Mme,NUP,Nouvelle union populaire écologique et sociale,15569,"  51,47","  24,83",oui,06701,06701,67001
+9,FONTANEL,Alain,M.,ENS,Ensemble ! (Majorité présidentielle),14682,"  48,53","  23,42",non,06701,06701,67001
+3,FERNANDES,Emmanuel,M.,NUP,Nouvelle union populaire écologique et sociale,16990,"  51,23","  23,15",oui,06702,06702,67002
+5,WASERMAN,Sylvain,M.,ENS,Ensemble ! (Majorité présidentielle),16174,"  48,77","  22,04",non,06702,06702,67002
+4,MAS,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,13642,"  45,47","  19,23",non,06703,06703,67003
+12,STUDER,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),16357,"  54,53","  23,06",oui,06703,06703,67003
+3,BUFFET,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle),26856,"  66,06","  27,42",oui,06704,06704,67004
+6,LAHMEUR,Imane,Mme,NUP,Nouvelle union populaire écologique et sociale,13795,"  33,94","  14,09",non,06704,06704,67004
+1,SITZENSTUHL,Charles,M.,ENS,Ensemble ! (Majorité présidentielle),25426,"  60,67","  23,94",oui,06705,06705,67005
+9,WOLFF,Marc,M.,RN,Rassemblement National,16484,"  39,33","  15,52",non,06705,06705,67005
+7,MOREL,Louise,Mme,ENS,Ensemble ! (Majorité présidentielle),23080,"  57,90","  23,64",oui,06706,06706,67006
+10,STEINBACH,Jean-Frédéric,M.,RN,Rassemblement National,16785,"  42,10","  17,19",non,06706,06706,67006
+6,HETZEL,Patrick,M.,LR,Les Républicains,21676,"  64,03","  25,28",oui,06707,06707,67007
+11,ESCHENMANN,Valérie,Mme,RN,Rassemblement National,12177,"  35,97","  14,20",non,06707,06707,67007
+1,KOCHERT,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle),21373,"  56,64","  22,61",oui,06708,06708,67008
+5,KNOEPFFLER,Ludwig,M.,RN,Rassemblement National,16365,"  43,36","  17,31",non,06708,06708,67008
+7,GNAEDIG,Laurent,M.,RN,Rassemblement National,14868,"  40,21","  15,57",non,06709,06709,67009
+8,THIEBAUT,Vincent,M.,ENS,Ensemble ! (Majorité présidentielle),22108,"  59,79","  23,15",oui,06709,06709,67009
+4,HEMEDINGER,Yves,M.,LR,Les Républicains,14022,"  49,79","  17,91",non,06801,06801,68001
+5,KLINKERT,Brigitte,Mme,ENS,Ensemble ! (Majorité présidentielle),14141,"  50,21","  18,06",oui,06801,06801,68001
+6,OTT,Hubert,M.,ENS,Ensemble ! (Majorité présidentielle),17947,"  52,90","  19,38",oui,06802,06802,68002
+8,CATTIN,Jacques,M.,LR,Les Républicains,15977,"  47,10","  17,26",non,06802,06802,68002
+5,ZIMMERMANN,Christian,M.,RN,Rassemblement National,16053,"  46,12","  18,43",non,06803,06803,68003
+7,LEMAIRE,Didier,M.,ENS,Ensemble ! (Majorité présidentielle),18757,"  53,88","  21,53",oui,06803,06803,68003
+4,SCHELLENBERGER,Raphaël,M.,LR,Les Républicains,22161,"  54,98","  21,30",oui,06804,06804,68004
+6,WILHELM,Marion,Mme,RN,Rassemblement National,18144,"  45,02","  17,44",non,06804,06804,68004
+1,BECHT,Olivier,M.,ENS,Ensemble ! (Majorité présidentielle),18443,"  64,63","  23,93",oui,06805,06805,68005
+12,EL HAJJAJI,Nadia,Mme,NUP,Nouvelle union populaire écologique et sociale,10094,"  35,37","  13,10",non,06805,06805,68005
+14,RITZ,Christelle,Mme,RN,Rassemblement National,15030,"  44,69","  15,90",non,06806,06806,68006
+15,FUCHS,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),18604,"  55,31","  19,69",oui,06806,06806,68006
+3,RUDIGOZ,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),18803,"  51,86","  25,85",oui,06901,06901,69001
+7,GRIES,Aurélie,Mme,NUP,Nouvelle union populaire écologique et sociale,17452,"  48,14","  23,99",non,06901,06901,69001
+3,JULIEN-LAFERRIERE,Hubert,M.,NUP,Nouvelle union populaire écologique et sociale,20847,"  51,64","  28,15",oui,06902,06902,69002
+7,TERRENES,Loic,M.,ENS,Ensemble ! (Majorité présidentielle),19524,"  48,36","  26,37",non,06902,06902,69002
+3,PEILLON,Sarah,Mme,ENS,Ensemble ! (Majorité présidentielle),17416,"  45,21","  24,04",non,06903,06903,69003
+11,GARIN,Marie-Charlotte,Mme,NUP,Nouvelle union populaire écologique et sociale,21105,"  54,79","  29,13",oui,06903,06903,69003
+6,BRUGNERA,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),24338,"  59,13","  31,08",oui,06904,06904,69004
+9,BADOUARD,Benjamin,M.,NUP,Nouvelle union populaire écologique et sociale,16824,"  40,87","  21,49",non,06904,06904,69004
+5,BROCARD,Blandine,Mme,ENS,Ensemble ! (Majorité présidentielle),29199,"  67,32","  32,38",oui,06905,06905,69005
+6,MATTEUCCI,Fabrice,M.,NUP,Nouvelle union populaire écologique et sociale,14175,"  32,68","  15,72",non,06905,06905,69005
+13,HAZIZA,Emmanuelle,Mme,ENS,Ensemble ! (Majorité présidentielle),16328,"  44,46","  18,23",non,06906,06906,69006
+14,AMARD,Gabriel,M.,NUP,Nouvelle union populaire écologique et sociale,20397,"  55,54","  22,77",oui,06906,06906,69006
+4,LAHMAR,Abdelkader,M.,NUP,Nouvelle union populaire écologique et sociale,12896,"  46,56","  18,16",non,06907,06907,69007
+5,VINCENDET,Alexandre,M.,LR,Les Républicains,14801,"  53,44","  20,85",oui,06907,06907,69007
+8,SERRE,Nathalie,Mme,LR,Les Républicains,21855,"  50,81","  20,80",oui,06908,06908,69008
+10,DESPRAS,Dominique,M.,ENS,Ensemble ! (Majorité présidentielle),21158,"  49,19","  20,13",non,06908,06908,69008
+2,PORTIER,Alexandre,M.,LR,Les Républicains,22385,"  61,51","  23,16",oui,06909,06909,69009
+4,MÉJEAN,Ambroise,M.,ENS,Ensemble ! (Majorité présidentielle),14010,"  38,49","  14,50",non,06909,06909,69009
+4,EDERY,Michèle,Mme,NUP,Nouvelle union populaire écologique et sociale,15985,"  34,69","  16,08",non,06910,06910,69010
+8,GASSILLOUD,Thomas,M.,ENS,Ensemble ! (Majorité présidentielle),30089,"  65,31","  30,27",oui,06910,06910,69010
+9,YOUSFI,Abdel,M.,NUP,Nouvelle union populaire écologique et sociale,14489,"  35,91","  15,00",non,06911,06911,69011
+10,FUGIT,Jean-Luc,M.,ENS,Ensemble ! (Majorité présidentielle),25864,"  64,09","  26,78",oui,06911,06911,69011
+5,ISAAC-SIBILLE,Cyrille,M.,ENS,Ensemble ! (Majorité présidentielle),24244,"  62,92","  29,50",oui,06912,06912,69012
+10,BAUDIN,Jean-François,M.,NUP,Nouvelle union populaire écologique et sociale,14290,"  37,08","  17,39",non,06912,06912,69012
+1,TANZILLI,Sarah,Mme,ENS,Ensemble ! (Majorité présidentielle),22378,"  63,15","  25,26",oui,06913,06913,69013
+2,PRANDT,Victor,M.,NUP,Nouvelle union populaire écologique et sociale,13057,"  36,85","  14,74",non,06913,06913,69013
+9,BOUMERTIT,Idir,M.,NUP,Nouvelle union populaire écologique et sociale,13798,"  56,69","  18,18",oui,06914,06914,69014
+10,BLEIN,Yves,M.,ENS,Ensemble ! (Majorité présidentielle),10540,"  43,31","  13,89",non,06914,06914,69014
+1,BESSOT BALLOT,Barbara,Mme,ENS,Ensemble ! (Majorité présidentielle),18781,"  45,50","  21,26",non,07001,07001,70001
+4,VILLEDIEU,Antoine,M.,RN,Rassemblement National,22498,"  54,50","  25,47",oui,07001,07001,70001
+4,LEJEUNE,Christophe,M.,ENS,Ensemble ! (Majorité présidentielle),18662,"  45,62","  20,78",non,07002,07002,70002
+6,SALMON,Emeric,M.,RN,Rassemblement National,22244,"  54,38","  24,77",oui,07002,07002,70002
+2,MONIN,Patrick,M.,NUP,Nouvelle union populaire écologique et sociale,13702,"  42,75","  18,37",non,07101,07101,71001
+9,DIRX,Benjamin,M.,ENS,Ensemble ! (Majorité présidentielle),18349,"  57,25","  24,60",oui,07101,07101,71001
+1,CORNELOUP,Josiane,Mme,LR,Les Républicains,22823,"  66,65","  29,56",oui,07102,07102,71002
+5,VINAUGER,Céline,Mme,NUP,Nouvelle union populaire écologique et sociale,11419,"  33,35","  14,79",non,07102,07102,71002
+1,REBEYROTTE,Rémy,M.,ENS,Ensemble ! (Majorité présidentielle),18593,"  53,75","  22,90",oui,07103,07103,71003
+8,BAROIN,Sandrine,Mme,RN,Rassemblement National,16000,"  46,25","  19,71",non,07103,07103,71003
+5,DELOGE,Valérie,Mme,RN,Rassemblement National,15072,"  43,70","  18,14",non,07104,07104,71004
+7,UNTERMAIER,Cécile,Mme,NUP,Nouvelle union populaire écologique et sociale,19421,"  56,30","  23,37",oui,07104,07104,71004
+7,RIBOULET,Eric,M.,NUP,Nouvelle union populaire écologique et sociale,16085,"  47,34","  18,27",non,07105,07105,71005
+10,MARGUERITTE,Louis,M.,ENS,Ensemble ! (Majorité présidentielle),17893,"  52,66","  20,32",oui,07105,07105,71005
+5,DELPECH,Julie,Mme,ENS,Ensemble ! (Majorité présidentielle),17300,"  54,90","  23,54",oui,07201,07201,72001
+10,BONNET,Ghislaine,Mme,NUP,Nouvelle union populaire écologique et sociale,14213,"  45,10","  19,34",non,07201,07201,72001
+8,KARAMANLI,Marietta,Mme,NUP,Nouvelle union populaire écologique et sociale,20399,"  63,06","  24,50",oui,07202,07202,72002
+10,FURET,Angéline,Mme,RN,Rassemblement National,11952,"  36,94","  14,35",non,07202,07202,72002
+5,MARTINEAU,Eric,M.,ENS,Ensemble ! (Majorité présidentielle),18394,"  50,97","  21,25",oui,07203,07203,72003
+9,PINÇON,Bruno,M.,RN,Rassemblement National,17692,"  49,03","  20,44",non,07203,07203,72003
+6,LEBOUCHER,Elise,Mme,NUP,Nouvelle union populaire écologique et sociale,14891,"  50,15","  18,41",oui,07204,07204,72004
+9,DE MALHERBE,Raymond,M.,RN,Rassemblement National,14804,"  49,85","  18,30",non,07204,07204,72004
+6,DE VIGNERAL,Victoria,Mme,RN,Rassemblement National,14404,"  40,49","  16,39",non,07205,07205,72005
+10,GRELIER,Jean-Carles,M.,ENS,Ensemble ! (Majorité présidentielle),21174,"  59,51","  24,09",oui,07205,07205,72005
+6,FERRARI,Marina,Mme,ENS,Ensemble ! (Majorité présidentielle),24051,"  59,33","  25,72",oui,07301,07301,73001
+9,GRANATA,Christel,Mme,NUP,Nouvelle union populaire écologique et sociale,16490,"  40,67","  17,63",non,07301,07301,73001
+4,MORAND,Cédric,M.,NUP,Nouvelle union populaire écologique et sociale,11479,"  35,92","  15,04",non,07302,07302,73002
+11,ROLLAND,Vincent,M.,LR,Les Républicains,20474,"  64,08","  26,82",oui,07302,07302,73002
+2,BONNIVARD,Emilie,Mme,LR,Les Républicains,23149,"  65,54","  31,09",oui,07303,07303,73003
+7,KRAWEZYNSKI,Nathalie,Mme,NUP,Nouvelle union populaire écologique et sociale,12170,"  34,46","  16,34",non,07303,07303,73003
+1,MIGNOLA,Patrick,M.,ENS,Ensemble ! (Majorité présidentielle),17479,"  49,15","  22,42",non,07304,07304,73004
+9,COULOMME,Jean-François,M.,NUP,Nouvelle union populaire écologique et sociale,18083,"  50,85","  23,20",oui,07304,07304,73004
+5,DUVAL,Anne-Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,17477,"  37,35","  16,02",non,07401,07401,74001
+10,RIOTTON,Véronique,Mme,ENS,Ensemble ! (Majorité présidentielle),29312,"  62,65","  26,87",oui,07401,07401,74001
+12,ARMAND,Antoine,M.,ENS,Ensemble ! (Majorité présidentielle),25809,"  59,88","  25,75",oui,07402,07402,74002
+13,FONTANA,Loris,Mme,NUP,Nouvelle union populaire écologique et sociale,17290,"  40,12","  17,25",non,07402,07402,74002
+6,PETEX-LEVET,Christelle,Mme,LR,Les Républicains,23882,"  63,36","  27,06",oui,07403,07403,74003
+10,VANEECKELOOT-TASSA,Fabienne,Mme,NUP,Nouvelle union populaire écologique et sociale,13812,"  36,64","  15,65",non,07403,07403,74003
+8,DUBY-MULLER,Virginie,Mme,LR,Les Républicains,23171,"  66,92","  26,08",oui,07404,07404,74004
+10,VERVOORT,Valérian,M.,NUP,Nouvelle union populaire écologique et sociale,11453,"  33,08","  12,89",non,07404,07404,74004
+9,MARTIN-COCHER,Odile,Mme,NUP,Nouvelle union populaire écologique et sociale,15835,"  39,86","  15,55",non,07405,07405,74005
+12,VIOLLAND,Anne-Cécile,Mme,ENS,Ensemble ! (Majorité présidentielle),23896,"  60,14","  23,47",oui,07405,07405,74005
+3,ROSEREN,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),19398,"  63,11","  23,83",oui,07406,07406,74006
+6,MARTIN,Dominique,M.,RN,Rassemblement National,11338,"  36,89","  13,93",non,07406,07406,74006
+5,MAILLARD,Sylvain,M.,ENS,Ensemble ! (Majorité présidentielle),28656,"  65,57","  33,88",oui,07501,07501,75001
+11,LUQUET,Thomas,M.,NUP,Nouvelle union populaire écologique et sociale,15046,"  34,43","  17,79",non,07501,07501,75001
+1,ROSSET,Marine,Mme,NUP,Nouvelle union populaire écologique et sociale,14710,"  36,61","  19,67",non,07502,07502,75002
+9,LE GENDRE,Gilles,M.,ENS,Ensemble ! (Majorité présidentielle),25472,"  63,39","  34,07",oui,07502,07502,75002
+7,GUERINI,Stanislas,M.,ENS,Ensemble ! (Majorité présidentielle),19613,"  51,00","  26,81",oui,07503,07503,75003
+10,BALAGE EL MARIKY,Léa,Mme,NUP,Nouvelle union populaire écologique et sociale,18843,"  49,00","  25,76",non,07503,07503,75003
+4,PANOSYAN-BOUVET,Astrid,Mme,ENS,Ensemble ! (Majorité présidentielle),19159,"  55,46","  26,25",oui,07504,07504,75004
+13,KUSTER,Brigitte,Mme,LR,Les Républicains,15389,"  44,54","  21,08",non,07504,07504,75004
+7,FAJGELES,Elise,Mme,ENS,Ensemble ! (Majorité présidentielle),17960,"  41,95","  22,63",non,07505,07505,75005
+10,BAYOU,Julien,M.,NUP,Nouvelle union populaire écologique et sociale,24857,"  58,05","  31,32",oui,07505,07505,75005
+2,BEAUNE,Clément,M.,ENS,Ensemble ! (Majorité présidentielle),22916,"  50,73","  28,55",oui,07507,07507,75007
+10,MECARY,Caroline,Mme,NUP,Nouvelle union populaire écologique et sociale,22258,"  49,27","  27,73",non,07507,07507,75007
+12,AVIA,Laëtitia,Mme,ENS,Ensemble ! (Majorité présidentielle),20230,"  45,92","  23,73",non,07508,07508,75008
+13,SAS,Eva,Mme,NUP,Nouvelle union populaire écologique et sociale,23825,"  54,08","  27,94",oui,07508,07508,75008
+9,TAN,Buon,M.,ENS,Ensemble ! (Majorité présidentielle),14913,"  41,95","  21,06",non,07509,07509,75009
+13,ROUSSEAU,Sandrine,Mme,NUP,Nouvelle union populaire écologique et sociale,20635,"  58,05","  29,14",oui,07509,07509,75009
+1,LANG,Anne-Christine,Mme,ENS,Ensemble ! (Majorité présidentielle),16585,"  45,57","  23,61",non,07510,07510,75010
+2,ARENAS,Rodrigo,M.,NUP,Nouvelle union populaire écologique et sociale,19808,"  54,43","  28,20",oui,07510,07510,75010
+3,GATEL,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),23407,"  55,45","  32,04",oui,07511,07511,75011
+6,POLSKI,Olivia,Mme,NUP,Nouvelle union populaire écologique et sociale,18806,"  44,55","  25,74",non,07511,07511,75011
+3,GREGOIRE,Olivia,Mme,ENS,Ensemble ! (Majorité présidentielle),26908,"  68,51","  35,49",oui,07512,07512,75012
+9,MALAISÉ,Céline,Mme,NUP,Nouvelle union populaire écologique et sociale,12368,"  31,49","  16,31",non,07512,07512,75012
+9,NIAKATÉ,Aminata,Mme,NUP,Nouvelle union populaire écologique et sociale,16081,"  40,14","  20,57",non,07513,07513,75013
+12,AMIEL,David,M.,ENS,Ensemble ! (Majorité présidentielle),23982,"  59,86","  30,67",oui,07513,07513,75013
+1,SZPINER,Francis,M.,LR,Les Républicains,17347,"  46,77","  22,80",non,07514,07514,75014
+8,HADDAD,Benjamin,M.,ENS,Ensemble ! (Majorité présidentielle),19742,"  53,23","  25,95",oui,07514,07514,75014
+5,SIMONNET,Danielle,Mme,NUP,Nouvelle union populaire écologique et sociale,20897,"  58,45","  26,42",oui,07515,07515,75015
+8,EL AARAJE,Lamia,Mme,DVG,Divers gauche,14857,"  41,55","  18,78",non,07515,07515,75015
+2,BOURNAZEL,Pierre-Yves,M.,ENS,Ensemble ! (Majorité présidentielle),18645,"  48,35","  26,38",non,07518,07518,75018
+12,CARON,Aymeric,M.,NUP,Nouvelle union populaire écologique et sociale,19914,"  51,65","  28,17",oui,07518,07518,75018
+7,DA SILVA,Maxime,M.,NUP,Nouvelle union populaire écologique et sociale,15745,"  49,88","  23,61",non,07601,07601,76001
+9,ADAM,Damien,M.,ENS,Ensemble ! (Majorité présidentielle),15823,"  50,12","  23,73",oui,07601,07601,76001
+3,DUVAL,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,18175,"  40,36","  19,07",non,07602,07602,76002
+6,VIDAL,Annie,Mme,ENS,Ensemble ! (Majorité présidentielle),26856,"  59,64","  28,18",oui,07602,07602,76002
+1,WULFRANC,Hubert,M.,NUP,Nouvelle union populaire écologique et sociale,18868,"  70,36","  26,91",oui,07603,07603,76003
+4,TESSIER,Salomée,Mme,RN,Rassemblement National,7947,"  29,64","  11,33",non,07603,07603,76003
+2,DUFOUR,Alma,Mme,NUP,Nouvelle union populaire écologique et sociale,17764,"  53,72","  20,39",oui,07604,07604,76004
+4,PENNELLE,Guillaume,M.,RN,Rassemblement National,15301,"  46,28","  17,56",non,07604,07604,76004
+1,LESEUL,Gérard,M.,NUP,Nouvelle union populaire écologique et sociale,22874,"  55,81","  24,03",oui,07605,07605,76005
+5,MONTIER,Jean-Cyril,M.,RN,Rassemblement National,18113,"  44,19","  19,03",non,07605,07605,76005
+2,MARTIN,Patrice,M.,RN,Rassemblement National,20290,"  42,19","  18,47",non,07606,07606,76006
+3,JUMEL,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,27801,"  57,81","  25,31",oui,07606,07606,76006
+1,DUBOC,Nancy,Mme,NUP,Nouvelle union populaire écologique et sociale,15709,"  42,13","  18,09",non,07607,07607,76007
+11,FIRMIN LE BODO,Agnès,Mme,ENS,Ensemble ! (Majorité présidentielle),21578,"  57,87","  24,85",oui,07607,07607,76007
+1,LECOQ,Jean-Paul,M.,NUP,Nouvelle union populaire écologique et sociale,15117,"  65,76","  22,98",oui,07608,07608,76008
+4,ECHCHENNA,Wasil,M.,ENS,Ensemble ! (Majorité présidentielle),7872,"  34,24","  11,96",non,07608,07608,76008
+5,POUSSIER-WINSBACK,Marie-Agnès,Mme,ENS,Ensemble ! (Majorité présidentielle),21352,"  50,84","  22,32",oui,07609,07609,76009
+7,GOURY,Nicolas,M.,RN,Rassemblement National,20644,"  49,16","  21,58",non,07609,07609,76009
+6,BATUT,Xavier,M.,ENS,Ensemble ! (Majorité présidentielle),25900,"  51,05","  23,48",oui,07610,07610,76010
+8,THOMAS,Anaïs,Mme,RN,Rassemblement National,24836,"  48,95","  22,51",non,07610,07610,76010
+6,LUQUET,Aude,Mme,ENS,Ensemble ! (Majorité présidentielle),14994,"  53,06","  20,84",oui,07701,07701,77001
+10,SAINT-MARTIN,Arnaud,M.,NUP,Nouvelle union populaire écologique et sociale,13266,"  46,94","  18,44",non,07701,07701,77001
+3,MOLINA,Marie-Pierre,Mme,NUP,Nouvelle union populaire écologique et sociale,14856,"  42,58","  18,59",non,07702,07702,77002
+6,VALLETOUX,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),20037,"  57,42","  25,07",oui,07702,07702,77002
+3,THIÉRIOT,Jean-Louis,M.,LR,Les Républicains,18422,"  56,69","  23,90",oui,07703,07703,77003
+5,GÉRÔME-DELGADO,Elodie,Mme,NUP,Nouvelle union populaire écologique et sociale,14072,"  43,31","  18,26",non,07703,07703,77003
+4,PERIGAULT,Isabelle,Mme,LR,Les Républicains,18866,"  51,16","  21,24",oui,07704,07704,77004
+8,DUROX,Aymeric,M.,RN,Rassemblement National,18007,"  48,84","  20,27",non,07704,07704,77004
+2,LENORMAND,François,M.,RN,Rassemblement National,15782,"  46,79","  17,86",non,07705,07705,77005
+3,RIESTER,Franck,M.,ENS,Ensemble ! (Majorité présidentielle),17949,"  53,21","  20,31",oui,07705,07705,77005
+5,ROULLAUD,Béatrice,Mme,RN,Rassemblement National,15400,"  52,13","  18,88",oui,07706,07706,77006
+7,DELAGE,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,14144,"  47,87","  17,34",non,07706,07706,77006
+6,BERNARD,Didier,M.,RN,Rassemblement National,15880,"  48,69","  18,07",non,07707,07707,77007
+8,SOUDAIS,Ersilia,Mme,NUP,Nouvelle union populaire écologique et sociale,16732,"  51,31","  19,04",oui,07707,07707,77007
+6,BONNET,Arnaud,M.,NUP,Nouvelle union populaire écologique et sociale,19319,"  49,99","  20,29",non,07708,07708,77008
+7,GHOMI,Hadrien,M.,ENS,Ensemble ! (Majorité présidentielle),19323,"  50,01","  20,30",oui,07708,07708,77008
+8,NOVAIS,Pascal,M.,NUP,Nouvelle union populaire écologique et sociale,15709,"  47,37","  18,21",non,07709,07709,77009
+9,PEYRON,Michèle,Mme,ENS,Ensemble ! (Majorité présidentielle),17454,"  52,63","  20,24",oui,07709,07709,77009
+3,LAISNEY,Maxime,M.,NUP,Nouvelle union populaire écologique et sociale,17724,"  54,36","  21,74",oui,07710,07710,77010
+11,DO,Stéphanie,Mme,ENS,Ensemble ! (Majorité présidentielle),14880,"  45,64","  18,25",non,07710,07710,77010
+6,PÉCULIER,Charlyne,Mme,ENS,Ensemble ! (Majorité présidentielle),8522,"  35,55","  12,81",non,07711,07711,77011
+7,FAURE,Olivier,M.,NUP,Nouvelle union populaire écologique et sociale,15453,"  64,45","  23,22",oui,07711,07711,77011
+6,RODWELL,Charles,M.,ENS,Ensemble ! (Majorité présidentielle),25707,"  63,31","  30,84",oui,07801,07801,78001
+8,RAMAGE,Sébastien,M.,NUP,Nouvelle union populaire écologique et sociale,14898,"  36,69","  17,87",non,07801,07801,78001
+9,CARRIVE-BEDOUANI,Maïté,Mme,NUP,Nouvelle union populaire écologique et sociale,15880,"  35,73","  18,38",non,07802,07802,78002
+11,BARROT,Jean-Noël,M.,ENS,Ensemble ! (Majorité présidentielle),28559,"  64,27","  33,05",oui,07802,07802,78002
+4,PIRON,Béatrice,Mme,ENS,Ensemble ! (Majorité présidentielle),28327,"  71,40","  33,94",oui,07803,07803,78003
+10,BRODY,Louise,Mme,NUP,Nouvelle union populaire écologique et sociale,11347,"  28,60","  13,60",non,07803,07803,78003
+3,LEBEC,Marie,Mme,ENS,Ensemble ! (Majorité présidentielle),25888,"  65,69","  32,29",oui,07804,07804,78004
+8,BOURDON,Céline,Mme,NUP,Nouvelle union populaire écologique et sociale,13522,"  34,31","  16,87",non,07804,07804,78004
+6,THEVENET,Sophie,Mme,NUP,Nouvelle union populaire écologique et sociale,12779,"  35,38","  16,89",non,07805,07805,78005
+7,BRAUN-PIVET,Yaël,Mme,ENS,Ensemble ! (Majorité présidentielle),23336,"  64,62","  30,84",oui,07805,07805,78005
+1,SAUGER,Mélinda,Mme,NUP,Nouvelle union populaire écologique et sociale,12231,"  35,48","  16,10",non,07806,07806,78006
+6,POUZYREFF,Natalia,Mme,ENS,Ensemble ! (Majorité présidentielle),22244,"  64,52","  29,29",oui,07806,07806,78006
+1,HAI,Nadia,Mme,ENS,Ensemble ! (Majorité présidentielle),19889,"  55,78","  24,66",oui,07807,07807,78007
+7,CHRISTOPHOUL,Michèle,Mme,NUP,Nouvelle union populaire écologique et sociale,15770,"  44,22","  19,55",non,07807,07807,78007
+6,LUCAS,Benjamin,M.,NUP,Nouvelle union populaire écologique et sociale,15849,"  56,41","  21,27",oui,07808,07808,78008
+7,HERVIEUX,Edwige,Mme,ENS,Ensemble ! (Majorité présidentielle),12246,"  43,59","  16,43",non,07808,07808,78008
+8,MORIN,Laurent,M.,RN,Rassemblement National,15631,"  42,15","  16,81",non,07809,07809,78009
+9,MILLIENNE,Bruno,M.,ENS,Ensemble ! (Majorité présidentielle),21452,"  57,85","  23,07",oui,07809,07809,78009
+9,BRIOLAIS,Cédric,M.,NUP,Nouvelle union populaire écologique et sociale,16355,"  36,73","  17,86",non,07810,07810,78010
+10,BERGÉ,Aurore,Mme,ENS,Ensemble ! (Majorité présidentielle),28169,"  63,27","  30,77",oui,07810,07810,78010
+2,PIACENZA,Aurélie,Mme,ENS,Ensemble ! (Majorité présidentielle),15644,"  49,82","  22,55",non,07811,07811,78011
+5,MARTINET,William,M.,NUP,Nouvelle union populaire écologique et sociale,15760,"  50,18","  22,72",oui,07811,07811,78011
+5,LEGRIS,Edwin,M.,NUP,Nouvelle union populaire écologique et sociale,13414,"  40,06","  18,85",non,07812,07812,78012
+9,OLIVE,Karl,M.,ENS,Ensemble ! (Majorité présidentielle),20069,"  59,94","  28,20",oui,07812,07812,78012
+1,MARCHIVE,Bastien,M.,ENS,Ensemble ! (Majorité présidentielle),22511,"  51,99","  24,76",oui,07901,07901,79001
+7,CHARRON,François,M.,NUP,Nouvelle union populaire écologique et sociale,20788,"  48,01","  22,86",non,07901,07901,79001
+5,BATHO,Delphine,Mme,NUP,Nouvelle union populaire écologique et sociale,25011,"  57,88","  25,44",oui,07902,07902,79002
+7,ROCHEFORT,Cécilia,Mme,ENS,Ensemble ! (Majorité présidentielle),18200,"  42,12","  18,51",non,07902,07902,79002
+4,WOILLEZ,Juliette,Mme,NUP,Nouvelle union populaire écologique et sociale,14806,"  41,73","  17,44",non,07903,07903,79003
+6,FIÉVET,Jean-Marie,M.,ENS,Ensemble ! (Majorité présidentielle),20675,"  58,27","  24,36",oui,07903,07903,79003
+6,RIBEIRO-BILLET,Nathalie,Mme,RN,Rassemblement National,12610,"  38,99","  15,00",non,08001,08001,80001
+9,RUFFIN,François,M.,NUP,Nouvelle union populaire écologique et sociale,19731,"  61,01","  23,48",oui,08001,08001,80001
+9,POMPILI,Barbara,Mme,ENS,Ensemble ! (Majorité présidentielle),18162,"  53,13","  23,29",oui,08002,08002,80002
+10,HAMDANE,Zahia,Mme,NUP,Nouvelle union populaire écologique et sociale,16025,"  46,87","  20,55",non,08002,08002,80002
+4,LOTTIN,Nicolas,M.,RN,Rassemblement National,18251,"  46,19","  22,10",non,08003,08003,80003
+11,MAQUET,Emmanuel,M.,LR,Les Républicains,21266,"  53,81","  25,75",oui,08003,08003,80003
+3,LECLABART,Jean-Claude,M.,ENS,Ensemble ! (Majorité présidentielle),17584,"  45,41","  20,66",non,08004,08004,80004
+5,TANGUY,Jean-Philippe,M.,RN,Rassemblement National,21136,"  54,59","  24,83",oui,08004,08004,80004
+2,MENACHE,Yael,Mme,RN,Rassemblement National,20861,"  60,79","  25,64",oui,08005,08005,80005
+3,ANCELET,Guillaume,M.,NUP,Nouvelle union populaire écologique et sociale,13453,"  39,21","  16,54",non,08005,08005,80005
+9,CABROLIER,Frédéric,M.,RN,Rassemblement National,19125,"  53,09","  22,47",oui,08101,08101,81001
+10,POUJADE,Gérard,M.,NUP,Nouvelle union populaire écologique et sociale,16900,"  46,91","  19,85",non,08101,08101,81001
+4,VERDIER-JOUCLAS,Marie-Christine,Mme,ENS,Ensemble ! (Majorité présidentielle),21151,"  35,05","  19,25",non,08102,08102,81002
+8,BACOU,Julien,M.,RN,Rassemblement National,16564,"  27,45","  15,08",non,08102,08102,81002
+12,ERODI,Karen,Mme,NUP,Nouvelle union populaire écologique et sociale,22633,"  37,50","  20,60",oui,08102,08102,81002
+1,LASSALLE,Julien,M.,NUP,Nouvelle union populaire écologique et sociale,21978,"  46,29","  21,10",non,08103,08103,81003
+5,TERLIER,Jean,M.,ENS,Ensemble ! (Majorité présidentielle),25496,"  53,71","  24,48",oui,08103,08103,81003
+5,RABAULT,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,25327,"  58,29","  27,23",oui,08201,08201,82001
+7,POMA,Pierre,M.,RN,Rassemblement National,18121,"  41,71","  19,48",non,08201,08201,82001
+1,ASTRUC,Christian,M.,ENS,Ensemble ! (Majorité présidentielle),19384,"  45,01","  20,12",non,08202,08202,82002
+2,HAMELET,Marine,Mme,RN,Rassemblement National,23678,"  54,99","  24,58",oui,08202,08202,82002
+2,NAVARRANNE,Amaury,M.,RN,Rassemblement National,13606,"  46,51","  18,82",non,08301,08301,83001
+3,CHENEVARD,Yannick,M.,ENS,Ensemble ! (Majorité présidentielle),15649,"  53,49","  21,65",oui,08301,08301,83001
+1,LAVALETTE,Laure,Mme,RN,Rassemblement National,19756,"  51,64","  21,36",oui,08302,08302,83002
+9,MUSSO,Ange,M.,ENS,Ensemble ! (Majorité présidentielle),18504,"  48,36","  20,00",non,08302,08302,83002
+6,MONFORT,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),22921,"  49,58","  22,02",non,08303,08303,83003
+13,RAMBAUD,Stephane,M.,RN,Rassemblement National,23307,"  50,42","  22,39",oui,08303,08303,83003
+1,MAUBORGNE,Sereine,Mme,ENS,Ensemble ! (Majorité présidentielle),22098,"  46,35","  19,66",non,08304,08304,83004
+9,LOTTIAUX,Philippe,M.,RN,Rassemblement National,25581,"  53,65","  22,76",oui,08304,08304,83004
+9,LECHANTEUX,Julie,Mme,RN,Rassemblement National,24342,"  55,98","  23,92",oui,08305,08305,83005
+11,MICHEL-KLEISBAUER,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),19142,"  44,02","  18,81",non,08305,08305,83005
+7,GOMEZ-BASSAC,Valérie,Mme,ENS,Ensemble ! (Majorité présidentielle),23164,"  43,37","  18,16",non,08306,08306,83006
+11,GILETTI,Frank,M.,RN,Rassemblement National,30241,"  56,63","  23,71",oui,08306,08306,83006
+5,MUSCHOTTI,Cécile,Mme,ENS,Ensemble ! (Majorité présidentielle),20557,"  47,95","  19,54",non,08307,08307,83007
+12,BOCCALETTI,Frédéric,M.,RN,Rassemblement National,22311,"  52,05","  21,21",oui,08307,08307,83007
+8,SCHRECK,Philippe,M.,RN,Rassemblement National,25576,"  54,93","  23,43",oui,08308,08308,83008
+10,MATRAS,Fabien,M.,ENS,Ensemble ! (Majorité présidentielle),20988,"  45,07","  19,22",non,08308,08308,83008
+8,HEBRARD,Joris,M.,RN,Rassemblement National,14735,"  51,16","  19,97",oui,08401,08401,84001
+12,FARYSSY,Farid,M.,NUP,Nouvelle union populaire écologique et sociale,14065,"  48,84","  19,06",non,08401,08401,84001
+4,AUZANOT,Bénédicte,Mme,RN,Rassemblement National,19223,"  52,19","  22,39",oui,08402,08402,84002
+6,VIALA,Sylvie,Mme,ENS,Ensemble ! (Majorité présidentielle),17608,"  47,81","  20,51",non,08402,08402,84002
+1,MORENAS,Adrien,M.,ENS,Ensemble ! (Majorité présidentielle),13723,"  41,17","  17,40",non,08403,08403,84003
+4,DE LÉPINAU,Hervé,M.,RN,Rassemblement National,19606,"  58,83","  24,86",oui,08403,08403,84003
+1,RICHARD,Violaine,Mme,ENS,Ensemble ! (Majorité présidentielle),16529,"  43,03","  18,28",non,08404,08404,84004
+9,LORHO,Marie-France,Mme,RN,Rassemblement National,21883,"  56,97","  24,20",oui,08404,08404,84004
+9,LOVISOLO,Jean-François,M.,ENS,Ensemble ! (Majorité présidentielle),18564,"  50,79","  22,00",oui,08405,08405,84005
+10,THOMAS DE MALEVILLE,Marie,Mme,RN,Rassemblement National,17990,"  49,21","  21,32",non,08405,08405,84005
+6,LATOMBE,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),27885,"  56,73","  23,50",oui,08501,08501,85001
+7,ETONNO,Lucie,Mme,NUP,Nouvelle union populaire écologique et sociale,21268,"  43,27","  17,92",non,08501,08501,85001
+9,BELLAMY,Béatrice,Mme,ENS,Ensemble ! (Majorité présidentielle),28722,"  58,42","  25,61",oui,08502,08502,85002
+11,HELARY,Nicolas,M.,NUP,Nouvelle union populaire écologique et sociale,20441,"  41,58","  18,22",non,08502,08502,85002
+1,FILLET,Corinne,Mme,RN,Rassemblement National,22644,"  38,52","  16,74",non,08503,08503,85003
+8,BUCHOU,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),36145,"  61,48","  26,72",oui,08503,08503,85003
+5,BESSE,Véronique,Mme,DVD,Divers droite,23336,"  59,69","  22,72",oui,08504,08504,85004
+10,LEGUILLE-BALLOY,Martine,Mme,ENS,Ensemble ! (Majorité présidentielle),15761,"  40,31","  15,35",non,08504,08504,85004
+2,HENRIET,Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),22296,"  60,94","  26,51",oui,08505,08505,85005
+9,MAGNIN,Isabelle,Mme,RN,Rassemblement National,14291,"  39,06","  16,99",non,08505,08505,85005
+2,BALLET-BLU,Françoise,Mme,ENS,Ensemble ! (Majorité présidentielle),17917,"  48,64","  22,23",non,08601,08601,86001
+6,BELLUCO,Lisa,Mme,NUP,Nouvelle union populaire écologique et sociale,18918,"  51,36","  23,47",oui,08601,08601,86001
+4,SOUMAILLE,Valérie,Mme,NUP,Nouvelle union populaire écologique et sociale,19325,"  48,81","  24,30",non,08602,08602,86002
+10,HOULIÉ,Sacha,M.,ENS,Ensemble ! (Majorité présidentielle),20267,"  51,19","  25,49",oui,08602,08602,86002
+6,LECAMP,Pascal,M.,ENS,Ensemble ! (Majorité présidentielle),17496,"  54,14","  23,97",oui,08603,08603,86003
+9,SOULAT,Eric,M.,RN,Rassemblement National,14823,"  45,86","  20,30",non,08603,08603,86003
+1,TURQUOIS,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),16938,"  54,58","  22,92",oui,08604,08604,86004
+7,LATUS,Marion,Mme,RN,Rassemblement National,14098,"  45,42","  19,08",non,08604,08604,86004
+5,BEAUDOUIN HUBIERE,Sophie,Mme,ENS,Ensemble ! (Majorité présidentielle),18065,"  46,59","  21,43",non,08701,08701,87001
+8,MAUDET,Damien,M.,NUP,Nouvelle union populaire écologique et sociale,20710,"  53,41","  24,56",oui,08701,08701,87001
+1,DELAUTRETTE,Stéphane,M.,NUP,Nouvelle union populaire écologique et sociale,26730,"  61,47","  27,22",oui,08702,08702,87002
+7,MINGUET,Sabrina,Mme,RN,Rassemblement National,16757,"  38,53","  17,07",non,08702,08702,87002
+6,SARDIN,Geoffroy,M.,ENS,Ensemble ! (Majorité présidentielle),17976,"  47,90","  21,91",non,08703,08703,87003
+7,MEUNIER,Manon,Mme,NUP,Nouvelle union populaire écologique et sociale,19551,"  52,10","  23,83",oui,08703,08703,87003
+4,MOONS,Emmie,Mme,RN,Rassemblement National,10453,"  32,77","  13,61",non,08801,08801,88001
+8,VIRY,Stéphane,M.,LR,Les Républicains,21445,"  67,23","  27,93",oui,08801,08801,88001
+2,VALENCE,David,M.,ENS,Ensemble ! (Majorité présidentielle),15823,"  50,55","  21,81",oui,08802,08802,88002
+12,DUSSAUSAYE,Gaëtan,M.,RN,Rassemblement National,15481,"  49,45","  21,34",non,08802,08802,88002
+1,FRANÇOIS,Pierre,M.,RN,Rassemblement National,7288,"  25,73","  11,40",non,08803,08803,88003
+5,NAEGELEN,Christophe,M.,DVD,Divers droite,21035,"  74,27","  32,90",oui,08803,08803,88003
+2,HUMBERT,Sébastien,M.,RN,Rassemblement National,14302,"  48,09","  21,90",non,08804,08804,88004
+4,GAULTIER,Jean-Jacques,M.,LR,Les Républicains,15441,"  51,91","  23,65",oui,08804,08804,88004
+5,LOURY,Florence,Mme,NUP,Nouvelle union populaire écologique et sociale,16135,"  48,89","  21,30",non,08901,08901,89001
+6,GRENON,Daniel,M.,RN,Rassemblement National,16865,"  51,11","  22,26",oui,08901,08901,89001
+4,VILLIERS,André,M.,ENS,Ensemble ! (Majorité présidentielle),16760,"  51,34","  22,81",oui,08902,08902,89002
+5,LOPEZ,Audrey,Mme,RN,Rassemblement National,15883,"  48,66","  21,62",non,08902,08902,89002
+2,ODOUL,Julien,M.,RN,Rassemblement National,21429,"  55,84","  23,88",oui,08903,08903,89003
+8,CROUZET,Michèle,Mme,ENS,Ensemble ! (Majorité présidentielle),16949,"  44,16","  18,89",non,08903,08903,89003
+5,BOUCARD,Ian,M.,LR,Les Républicains,12037,"  61,61","  25,21",oui,09001,09001,90001
+9,SOUSTELLE,Christophe,M.,RN,Rassemblement National,7500,"  38,39","  15,71",non,09001,09001,90001
+1,CHAUCHE,Florian,M.,NUP,Nouvelle union populaire écologique et sociale,9476,"  51,37","  20,38",oui,09002,09002,90002
+8,CARNICER,Sophie,Mme,RN,Rassemblement National,8971,"  48,63","  19,29",non,09002,09002,90002
+4,ZEGHOUF,Medhy,M.,ENS,Ensemble ! (Majorité présidentielle),10386,"  40,17","  14,13",non,09101,09101,91001
+8,AMRANI,Farida,Mme,NUP,Nouvelle union populaire écologique et sociale,15471,"  59,83","  21,05",oui,09101,09101,91001
+6,DA CONCEICAO CARVALHO,Nathalie,Mme,RN,Rassemblement National,19607,"  53,27","  21,32",oui,09102,09102,91002
+7,HILLAIRE,Mathieu,M.,NUP,Nouvelle union populaire écologique et sociale,17203,"  46,73","  18,71",non,09102,09102,91002
+5,IZARD,Alexis,M.,ENS,Ensemble ! (Majorité présidentielle),22706,"  51,18","  23,00",oui,09103,09103,91003
+10,GUSTAVE,Steevy,M.,NUP,Nouvelle union populaire écologique et sociale,21659,"  48,82","  21,94",non,09103,09103,91003
+9,RIXAIN,Marie-Pierre,Mme,ENS,Ensemble ! (Majorité présidentielle),24962,"  55,65","  25,28",oui,09104,09104,91004
+10,DEME,Amadou,M.,NUP,Nouvelle union populaire écologique et sociale,19891,"  44,35","  20,15",non,09104,09104,91004
+3,MIDY,Paul,M.,ENS,Ensemble ! (Majorité présidentielle),18687,"  50,02","  27,29",oui,09105,09105,91005
+7,VILLANI,Cédric,M.,NUP,Nouvelle union populaire écologique et sociale,18669,"  49,98","  27,27",non,09105,09105,91005
+9,DE MONTCHALIN,Amélie,Mme,ENS,Ensemble ! (Majorité présidentielle),18543,"  46,64","  22,27",non,09106,09106,91006
+12,GUEDJ,Jérôme,M.,NUP,Nouvelle union populaire écologique et sociale,21213,"  53,36","  25,48",oui,09106,09106,91006
+4,REDA,Robin,M.,ENS,Ensemble ! (Majorité présidentielle),15935,"  50,34","  21,66",oui,09107,09107,91007
+10,LEJEUNE,Claire,Mme,NUP,Nouvelle union populaire écologique et sociale,15721,"  49,66","  21,37",non,09107,09107,91007
+1,DUPONT-AIGNAN,Nicolas,M.,DSV,Droite souverainiste,19306,"  57,26","  25,41",oui,09108,09108,91008
+2,CHAZETTE-GUILLET,Emilie,Mme,NUP,Nouvelle union populaire écologique et sociale,14413,"  42,74","  18,97",non,09108,09108,91008
+1,GUÉVENOUX,Marie,Mme,ENS,Ensemble ! (Majorité présidentielle),17005,"  51,27","  21,59",oui,09109,09109,91009
+9,BELETRECHE,Nadhera,Mme,NUP,Nouvelle union populaire écologique et sociale,16164,"  48,73","  20,52",non,09109,09109,91009
+5,CARCASSET,Nadia,Mme,ENS,Ensemble ! (Majorité présidentielle),10809,"  44,79","  17,48",non,09110,09110,91010
+12,LÉAUMENT,Antoine,M.,NUP,Nouvelle union populaire écologique et sociale,13321,"  55,21","  21,54",oui,09110,09110,91010
+11,FAUCILLON,Elsa,Mme,NUP,Nouvelle union populaire écologique et sociale,16934,"  70,17","  25,72",oui,09201,09201,92001
+12,BADIN,Marie-Ange,Mme,ENS,Ensemble ! (Majorité présidentielle),7200,"  29,83","  10,94",non,09201,09201,92001
+5,AESCHLIMANN,Marie-Do,Mme,LR,Les Républicains,11903,"  30,24","  17,06",non,09202,09202,92002
+6,PASQUINI,Francesca,Mme,NUP,Nouvelle union populaire écologique et sociale,13995,"  35,55","  20,06",oui,09202,09202,92002
+11,ACHIDI,Baï-Audrey,Mme,ENS,Ensemble ! (Majorité présidentielle),13464,"  34,21","  19,30",non,09202,09202,92002
+1,TAQUILLAIN,Aurélie,Mme,ENS,Ensemble ! (Majorité présidentielle),16757,"  37,27","  20,26",non,09203,09203,92003
+8,JUVIN,Philippe,M.,LR,Les Républicains,17083,"  38,00","  20,66",oui,09203,09203,92003
+10,TIJ,Sara,Mme,NUP,Nouvelle union populaire écologique et sociale,11117,"  24,73","  13,44",non,09203,09203,92003
+8,FLORENNES,Isabelle,Mme,ENS,Ensemble ! (Majorité présidentielle),17795,"  49,00","  21,97",non,09204,09204,92004
+9,SEBAIHI,Sabrina,Mme,NUP,Nouvelle union populaire écologique et sociale,18520,"  51,00","  22,87",oui,09204,09204,92004
+12,DRUET,Léa,Mme,NUP,Nouvelle union populaire écologique et sociale,14554,"  40,27","  19,26",non,09205,09205,92005
+13,CALVEZ,Céline,Mme,ENS,Ensemble ! (Majorité présidentielle),21584,"  59,73","  28,56",oui,09205,09205,92005
+7,BARBAUX,Julie,Mme,NUP,Nouvelle union populaire écologique et sociale,9632,"  25,81","  12,63",non,09206,09206,92006
+12,LE GRIP,Constance,Mme,ENS,Ensemble ! (Majorité présidentielle),27688,"  74,19","  36,30",oui,09206,09206,92006
+4,RATO,Sandro,M.,NUP,Nouvelle union populaire écologique et sociale,11906,"  27,94","  13,54",non,09207,09207,92007
+8,CAZENEUVE,Pierre,M.,ENS,Ensemble ! (Majorité présidentielle),30710,"  72,06","  34,93",oui,09207,09207,92007
+2,LARROQUE COMOY,Annie,Mme,NUP,Nouvelle union populaire écologique et sociale,12204,"  34,25","  17,93",non,09208,09208,92008
+6,THEVENOT,Prisca,Mme,ENS,Ensemble ! (Majorité présidentielle),23431,"  65,75","  34,43",oui,09208,09208,92008
+10,LOUAP,Pascal,M.,LR,Les Républicains,13542,"  46,09","  21,34",non,09209,09209,92009
+12,PELLERIN,Emmanuel,M.,ENS,Ensemble ! (Majorité présidentielle),15838,"  53,91","  24,96",oui,09209,09209,92009
+1,SOUBELET,Cécile,Mme,NUP,Nouvelle union populaire écologique et sociale,16130,"  40,15","  20,28",non,09210,09210,92010
+7,ATTAL,Gabriel,M.,ENS,Ensemble ! (Majorité présidentielle),24047,"  59,85","  30,23",oui,09210,09210,92010
+5,SAINTOUL,Aurélien,M.,NUP,Nouvelle union populaire écologique et sociale,19583,"  54,76","  27,66",oui,09211,09211,92011
+7,ROSSI,Laurianne,Mme,ENS,Ensemble ! (Majorité présidentielle),16181,"  45,24","  22,86",non,09211,09211,92011
+2,THOMAS,Cathy,Mme,NUP,Nouvelle union populaire écologique et sociale,20221,"  42,47","  21,65",non,09212,09212,92012
+11,BOURLANGES,Jean-Louis,M.,ENS,Ensemble ! (Majorité présidentielle),27386,"  57,53","  29,33",oui,09212,09212,92012
+3,BREGEON,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),27864,"  59,11","  30,94",oui,09213,09213,92013
+9,GAILLARD,Brice,M.,NUP,Nouvelle union populaire écologique et sociale,19272,"  40,89","  21,40",non,09213,09213,92013
+5,DROMARD,Jeanne,Mme,ENS,Ensemble ! (Majorité présidentielle),6895,"  28,32","  10,25",non,09301,09301,93001
+15,COQUEREL,Eric,M.,NUP,Nouvelle union populaire écologique et sociale,17456,"  71,68","  25,95",oui,09301,09301,93001
+4,PEU,Stéphane,M.,NUP,Nouvelle union populaire écologique et sociale,13180,"  78,70","  23,90",oui,09302,09302,93002
+7,BROOD,Anaïs,Mme,ENS,Ensemble ! (Majorité présidentielle),3567,"  21,30","   6,47",non,09302,09302,93002
+3,ANATO,Patrice,M.,ENS,Ensemble ! (Majorité présidentielle),14580,"  46,04","  19,27",non,09303,09303,93003
+4,PORTES,Thomas,M.,NUP,Nouvelle union populaire écologique et sociale,17085,"  53,96","  22,58",oui,09303,09303,93003
+4,BOUROUAHA,Soumya,Mme,NUP,Nouvelle union populaire écologique et sociale,12832," 100,00","  19,70",oui,09304,09304,93004
+6,GARRIDO,Raquel,Mme,NUP,Nouvelle union populaire écologique et sociale,13107,"  53,49","  20,09",oui,09305,09305,93005
+11,LAGARDE,Jean-Christophe,M.,UDI,Union des Démocrates et des Indépendants,11395,"  46,51","  17,47",non,09305,09305,93005
+8,LACHAUD,Bastien,M.,NUP,Nouvelle union populaire écologique et sociale,16046,"  75,40","  27,61",oui,09306,09306,93006
+10,BAZIZ,Yasmina,Mme,ENS,Ensemble ! (Majorité présidentielle),5236,"  24,60","   9,01",non,09306,09306,93006
+5,KELOUA HACHI,Fatiha,Mme,NUP,Nouvelle union populaire écologique et sociale,13169,"  53,57","  21,36",oui,09308,09308,93008
+9,CHARRIERE,Sylvie,Mme,ENS,Ensemble ! (Majorité présidentielle),11413,"  46,43","  18,51",non,09308,09308,93008
+2,TROUVÉ,Aurélie,Mme,NUP,Nouvelle union populaire écologique et sociale,20285,"  69,24","  27,51",oui,09309,09309,93009
+4,SAADA,Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),9010,"  30,76","  12,22",non,09309,09309,93009
+3,RAMADIER,Alain,M.,LR,Les Républicains,11394,"  44,47","  16,45",non,09310,09310,93010
+9,ABOMANGOLI,Nadège,Mme,NUP,Nouvelle union populaire écologique et sociale,14228,"  55,53","  20,54",oui,09310,09310,93010
+7,AUTAIN,Clémentine,Mme,NUP,Nouvelle union populaire écologique et sociale,11296," 100,00","  17,81",oui,09311,09311,93011
+9,LEGAVRE,Jérôme,M.,NUP,Nouvelle union populaire écologique et sociale,11677,"  51,11","  17,85",oui,09312,09312,93012
+11,TESTÉ,Stéphane,M.,ENS,Ensemble ! (Majorité présidentielle),11171,"  48,89","  17,08",non,09312,09312,93012
+2,DESCROZAILLE,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),23949,"  59,09","  28,12",oui,09401,09401,94001
+4,GUINTRAND,Thierry,M.,NUP,Nouvelle union populaire écologique et sociale,16581,"  40,91","  19,47",non,09401,09401,94001
+1,GUETTÉ,Clémence,Mme,NUP,Nouvelle union populaire écologique et sociale,16523,"  64,20","  24,99",oui,09402,09402,94002
+11,MBAYE,Jean François,M.,ENS,Ensemble ! (Majorité présidentielle),9213,"  35,80","  13,94",non,09402,09402,94002
+4,BOYARD,Louis,M.,NUP,Nouvelle union populaire écologique et sociale,15087,"  51,98","  20,37",oui,09403,09403,94003
+8,SAINT-MARTIN,Laurent,M.,ENS,Ensemble ! (Majorité présidentielle),13940,"  48,02","  18,83",non,09403,09403,94003
+1,PETIT,Maud,Mme,ENS,Ensemble ! (Majorité présidentielle),18050,"  55,98","  24,37",oui,09404,09404,94004
+2,LEMAIRE,Mirabelle,Mme,NUP,Nouvelle union populaire écologique et sociale,14192,"  44,02","  19,16",non,09404,09404,94004
+10,LEFEVRE,Mathieu,M.,ENS,Ensemble ! (Majorité présidentielle),23010,"  56,47","  25,48",oui,09405,09405,94005
+11,LEGER,Julien,M.,NUP,Nouvelle union populaire écologique et sociale,17739,"  43,53","  19,65",non,09405,09405,94005
+2,GOUFFIER-CHA,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle),23416,"  54,36","  28,51",oui,09406,09406,94006
+7,BOUHADA,May,Mme,NUP,Nouvelle union populaire écologique et sociale,19661,"  45,64","  23,94",non,09406,09406,94006
+2,KEKE,Rachel,Mme,NUP,Nouvelle union populaire écologique et sociale,14663,"  50,30","  22,13",oui,09407,09407,94007
+8,MARACINEANU,Roxana,Mme,ENS,Ensemble ! (Majorité présidentielle),14486,"  49,70","  21,86",non,09407,09407,94007
+1,PAGÈS,Erik,M.,NUP,Nouvelle union populaire écologique et sociale,14884,"  36,73","  18,95",non,09408,09408,94008
+10,HERBILLON,Michel,M.,LR,Les Républicains,25641,"  63,27","  32,65",oui,09408,09408,94008
+3,SANTIAGO,Isabelle,Mme,NUP,Nouvelle union populaire écologique et sociale,13771,"  67,25","  25,42",oui,09409,09409,94009
+13,ROSENBLUM,Jonathan,M.,ENS,Ensemble ! (Majorité présidentielle),6707,"  32,75","  12,38",non,09409,09409,94009
+3,HARDOUIN,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),8969,"  32,37","  13,36",non,09410,09410,94010
+7,PANOT,Mathilde,Mme,NUP,Nouvelle union populaire écologique et sociale,18739,"  67,63","  27,91",oui,09410,09410,94010
+3,TAILLÉ-POLIAN,Sophie,Mme,NUP,Nouvelle union populaire écologique et sociale,17977,"  63,32","  27,66",oui,09411,09411,94011
+14,CALVEZ,Erwann,M.,ENS,Ensemble ! (Majorité présidentielle),10413,"  36,68","  16,02",non,09411,09411,94011
+5,CHANDLER,Emilie,Mme,ENS,Ensemble ! (Majorité présidentielle),18777,"  52,53","  22,69",oui,09501,09501,95001
+8,IVORRA,Leïla,Mme,NUP,Nouvelle union populaire écologique et sociale,16969,"  47,47","  20,51",non,09501,09501,95001
+6,GEOFFROY-MARTIN,Sylvie,Mme,NUP,Nouvelle union populaire écologique et sociale,15333,"  46,75","  19,61",non,09502,09502,95002
+12,VUILLETET,Guillaume,M.,ENS,Ensemble ! (Majorité présidentielle),17462,"  53,25","  22,34",oui,09502,09502,95002
+4,PELEGRIN,Carine,Mme,NUP,Nouvelle union populaire écologique et sociale,19442,"  47,84","  20,56",non,09503,09503,95003
+8,RILHAC,Cécile,Mme,ENS,Ensemble ! (Majorité présidentielle),21200,"  52,16","  22,42",oui,09503,09503,95003
+2,LACOUTURE,Karine,Mme,NUP,Nouvelle union populaire écologique et sociale,15575,"  46,57","  20,61",non,09504,09504,95004
+3,MOUTCHOU,Naïma,Mme,ENS,Ensemble ! (Majorité présidentielle),17869,"  53,43","  23,65",oui,09504,09504,95004
+2,LAZAAR,Fiona,Mme,ENS,Ensemble ! (Majorité présidentielle),8913,"  36,29","  12,86",non,09505,09505,95005
+5,VANNIER,Paul,M.,NUP,Nouvelle union populaire écologique et sociale,15645,"  63,71","  22,58",oui,09505,09505,95005
+4,CATHALA,Gabrielle,Mme,NUP,Nouvelle union populaire écologique et sociale,15006,"  46,53","  19,91",non,09506,09506,95006
+9,FOLEST,Estelle,Mme,ENS,Ensemble ! (Majorité présidentielle),17245,"  53,47","  22,89",oui,09506,09506,95006
+4,ESKENAZI,Romain,M.,NUP,Nouvelle union populaire écologique et sociale,13732,"  49,63","  19,79",non,09507,09507,95007
+5,DA SILVA,Dominique,M.,ENS,Ensemble ! (Majorité présidentielle),13936,"  50,37","  20,08",oui,09507,09507,95007
+6,BILONGO,Carlos Martens,M.,NUP,Nouvelle union populaire écologique et sociale,11282,"  61,72","  20,69",oui,09508,09508,95008
+9,PUPPONI,François,M.,ENS,Ensemble ! (Majorité présidentielle),6997,"  38,28","  12,83",non,09508,09508,95008
+3,LE GALL,Arnaud,M.,NUP,Nouvelle union populaire écologique et sociale,13432,"  56,42","  19,05",oui,09509,09509,95009
+9,MARLY,Jean-Baptiste,M.,RN,Rassemblement National,10377,"  43,58","  14,72",non,09509,09509,95009
+5,TACHÉ,Aurélien,M.,NUP,Nouvelle union populaire écologique et sociale,14636,"  55,76","  21,54",oui,09510,09510,95010
+13,LACHAS,Victorien,M.,ENS,Ensemble ! (Majorité présidentielle),11613,"  44,24","  17,09",non,09510,09510,95010
+2,SERVA,Olivier,M.,DVG,Divers gauche,15624,"  74,04","  20,57",oui,97101,97101,ZA001
+7,BIRAS,Dominique,M.,DVG,Divers gauche,5478,"  25,96","   7,21",non,97101,97101,ZA001
+3,BENIN,Justine,Mme,ENS,Ensemble ! (Majorité présidentielle),10915,"  41,35","  12,43",non,97102,97102,ZA002
+11,BAPTISTE,Christian,M.,DVG,Divers gauche,15484,"  58,65","  17,64",oui,97102,97102,ZA002
+6,TOLASSY,Rody,M.,RN,Rassemblement National,11393,"  47,88","  13,51",non,97103,97103,ZA003
+16,MATHIASIN,Max,M.,DVG,Divers gauche,12402,"  52,12","  14,70",oui,97103,97103,ZA003
+12,CALIFER,Elie,M.,DVG,Divers gauche,10633," 100,00","  15,58",oui,97104,97104,ZA004
+6,EDMOND-MARIETTE,Philippe,M.,REG,Régionaliste,6675,"  37,06","   8,34",non,97201,97201,ZB001
+15,WILLIAM,Jiovanny,M.,DVG,Divers gauche,11336,"  62,94","  14,16",oui,97201,97201,ZB001
+2,NADEAU,Marcellin,M.,REG,Régionaliste,12764,"  63,46","  15,94",oui,97202,97202,ZB002
+8,PAMPHILE,Justin,M.,REG,Régionaliste,7348,"  36,54","   9,18",non,97202,97202,ZB002
+6,CAROLE,Francis,M.,REG,Régionaliste,5489,"  41,26","   9,07",non,97203,97203,ZB003
+12,HAJJAR,Johnny,M.,DVG,Divers gauche,7813,"  58,74","  12,91",oui,97203,97203,ZB003
+11,NILOR,Jean-Philippe,M.,REG,Régionaliste,15329,"  71,37","  18,26",oui,97204,97204,ZB004
+14,MARIE-JEANNE,Alfred,M.,REG,Régionaliste,6149,"  28,63","   7,32",non,97204,97204,ZB004
+3,GOUA,Yvane,Mme,REG,Régionaliste,6951,"  43,47","  12,19",non,97301,97301,ZC001
+12,CASTOR,Jean-Victor,M.,REG,Régionaliste,9038,"  56,53","  15,86",oui,97301,97301,ZC001
+4,RIMANE,Davy,M.,DVG,Divers gauche,8277,"  54,13","  17,77",oui,97302,97302,ZC002
+6,ADAM,Lénaïck,M.,ENS,Ensemble ! (Majorité présidentielle),7014,"  45,87","  15,06",non,97302,97302,ZC002
+12,MOREL,Jean Jacques,M.,DVD,Divers droite,9640,"  39,32","  11,22",non,97401,97401,ZD001
+13,NAILLET,Philippe,M.,DVG,Divers gauche,14876,"  60,68","  17,31",oui,97401,97401,ZD001
+5,LEBON,Karine,Mme,DVG,Divers gauche,18164,"  69,39","  18,35",oui,97402,97402,ZD002
+13,FONTAINE,Audrey,Mme,UDI,Union des Démocrates et des Indépendants,8013,"  30,61","   8,09",non,97402,97402,ZD002
+7,BASSIRE,Nathalie,Mme,DVD,Divers droite,15186,"  51,87","  15,78",oui,97403,97403,ZD003
+12,THIEN-AH-KOON,Patrice,M.,DVD,Divers droite,14091,"  48,13","  14,64",non,97403,97403,ZD003
+7,LORION,David,M.,LR,Les Républicains,17363,"  38,67","  15,94",non,97404,97404,ZD004
+11,K/BIDI,Emeline,Mme,DVG,Divers gauche,27532,"  61,33","  25,27",oui,97404,97404,ZD004
+3,ISSA,Ridwane,M.,DVG,Divers gauche,10510,"  37,19","  11,98",non,97405,97405,ZD005
+7,RATENON,Jean-Hugues,M.,DVG,Divers gauche,17748,"  62,81","  20,24",oui,97405,97405,ZD005
+7,MAILLOT,Frédéric,M.,DVG,Divers gauche,12659,"  52,99","  15,43",oui,97406,97406,ZD006
+11,LAÏ-KANE-CHEONG,Alexandre,M.,DXG,Divers extrême gauche,11229,"  47,01","  13,69",non,97406,97406,ZD006
+4,ROBERT,Thierry,M.,DVC,Divers centre,17537,"  48,77","  14,83",non,97407,97407,ZD007
+13,GAILLARD,Perceval,M.,DVG,Divers gauche,18425,"  51,23","  15,58",oui,97407,97407,ZD007
+3,GASTON,Olivier,M.,DVG,Divers gauche,1310,"  49,64","  25,95",non,97501,97501,ZS001
+4,LENORMAND,Stéphane,M.,DVD,Divers droite,1329,"  50,36","  26,32",oui,97501,97501,ZS001
+3,NARAYANIN,Théophane,M.,DIV,Divers,6116,"  33,43","  14,27",non,97601,97601,ZM001
+10,YOUSSOUFFA,Estelle,Mme,DIV,Divers,12180,"  66,57","  28,41",oui,97601,97601,ZM001
+5,ISSA ABDOU,Issa,M.,DVC,Divers centre,9806,"  40,76","  19,67",non,97602,97602,ZM002
+6,KAMARDINE,Mansour,M.,LR,Les Républicains,14250,"  59,24","  28,59",oui,97602,97602,ZM002
+2,GIBBS,Daniel,M.,DVD,Divers droite,1913,"  32,79","   7,79",non,97701,97701,ZX001
+6,GUMBS,Frantz,M.,DVC,Divers centre,3921,"  67,21","  15,96",oui,97701,97701,ZX001
+1,MULUKIHAAMEA,Etuato,M.,DVC,Divers centre,3701,"  49,89","  38,63",non,98601,98601,ZW001
+8,SEO,Mikaele,M.,DVC,Divers centre,3717,"  50,11","  38,80",oui,98601,98601,ZW001
+2,LE GAYIC,Tematai,M.,REG,Régionaliste,19523,"  50,88","  27,05",oui,98701,98701,ZP001
+6,BOUTEAU,Nicole,Mme,ENS,Ensemble ! (Majorité présidentielle),18851,"  49,12","  26,12",non,98701,98701,ZP001
+5,CHAILLOUX,Steve,M.,REG,Régionaliste,19977,"  58,89","  29,70",oui,98702,98702,ZP002
+10,TERIITAHI,Tepuaraurii,Mme,ENS,Ensemble ! (Majorité présidentielle),13947,"  41,11","  20,74",non,98702,98702,ZP002
+1,BROTHERSON,Moetai,M.,REG,Régionaliste,21937,"  61,32","  32,78",oui,98703,98703,ZP003
+7,TUMAHAI,Tuterai,M.,ENS,Ensemble ! (Majorité présidentielle),13837,"  38,68","  20,68",non,98703,98703,ZP003
+3,DUNOYER,Philippe,M.,ENS,Ensemble ! (Majorité présidentielle),25652,"  66,40","  26,46",oui,98801,98801,ZN001
+6,WAHETRA,Walisaune,Mme,REG,Régionaliste,12979,"  33,60","  13,39",non,98801,98801,ZN001
+3,METZDORF,Nicolas,M.,ENS,Ensemble ! (Majorité présidentielle),31398,"  54,23","  25,69",oui,98802,98802,ZN002
+8,REIGNIER,Gérard,M.,REG,Régionaliste,26500,"  45,77","  21,68",non,98802,98802,ZN002
+8,ROGER,Florence,Mme,NUP,Nouvelle union populaire écologique et sociale,24145,"  44,37","  10,02",non,09901,09901,ZZ001
+9,LESCURE,Roland,M.,ENS,Ensemble ! (Majorité présidentielle),30268,"  55,63","  12,56",oui,09901,09901,ZZ001
+7,RODRIGUEZ,Christian,M.,NUP,Nouvelle union populaire écologique et sociale,4996,"  42,58","   6,61",non,09902,09902,ZZ002
+8,CAROIT,Eléonore,Mme,ENS,Ensemble ! (Majorité présidentielle),6737,"  57,42","   8,91",oui,09902,09902,ZZ002
+4,HOLROYD,Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),24749,"  55,80","  16,65",oui,09903,09903,ZZ003
+5,MINVIELLE,Charlotte,Mme,NUP,Nouvelle union populaire écologique et sociale,19601,"  44,20","  13,18",non,09903,09903,ZZ003
+5,GONDARD,Cécilia,Mme,NUP,Nouvelle union populaire écologique et sociale,20893,"  44,85","  14,10",non,09904,09904,ZZ004
+10,ANGLADE,Pieyre-Alexandre,M.,ENS,Ensemble ! (Majorité présidentielle),25694,"  55,15","  17,34",oui,09904,09904,ZZ004
+9,LE BERRE,Renaud,M.,NUP,Nouvelle union populaire écologique et sociale,11073,"  42,74","  10,54",non,09905,09905,ZZ005
+12,VOJETTA,Stéphane,M.,DVC,Divers centre,14836,"  57,26","  14,13",oui,09905,09905,ZZ005
+6,MANGIN,Magali,Mme,NUP,Nouvelle union populaire écologique et sociale,12638,"  35,03","   8,42",non,09906,09906,ZZ006
+13,FERRACCI,Marc,M.,ENS,Ensemble ! (Majorité présidentielle),23441,"  64,97","  15,62",oui,09906,09906,ZZ006
+2,PETIT,Frédéric,M.,ENS,Ensemble ! (Majorité présidentielle),23191,"  60,21","  18,79",oui,09907,09907,ZZ007
+12,RHARMAOUI-CLAQUIN,Asma,Mme,NUP,Nouvelle union populaire écologique et sociale,15328,"  39,79","  12,42",non,09907,09907,ZZ007
+5,ABISROR - DE LIEME,Deborah,Mme,ENS,Ensemble ! (Majorité présidentielle),8277,"  49,42","   6,31",non,09908,09908,ZZ008
+8,HABIB,Meyer,M.,UDI,Union des Démocrates et des Indépendants,8470,"  50,58","   6,46",oui,09908,09908,ZZ008
+2,MORENO,Elisabeth,Mme,ENS,Ensemble ! (Majorité présidentielle),9639,"  45,93","   8,00",non,09909,09909,ZZ009
+3,BEN CHEÏKH,Karim,M.,NUP,Nouvelle union populaire écologique et sociale,11348,"  54,07","   9,41",oui,09909,09909,ZZ009
+4,LAKRAFI,Amélia,Mme,ENS,Ensemble ! (Majorité présidentielle),13048,"  63,58","  12,49",oui,09910,09910,ZZ010
+9,MOUSSA,Chantal,Mme,NUP,Nouvelle union populaire écologique et sociale,7474,"  36,42","   7,16",non,09910,09910,ZZ010
+1,GENETET,Anne,Mme,ENS,Ensemble ! (Majorité présidentielle),16537,"  61,73","  16,73",oui,09911,09911,ZZ011
+6,VIDAL,Dominique,Mme,NUP,Nouvelle union populaire écologique et sociale,10253,"  38,27","  10,37",non,09911,09911,ZZ011
