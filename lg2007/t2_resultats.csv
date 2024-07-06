@@ -1,0 +1,934 @@
+NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,RapportExprimes,RapportInscrits
+DEBAT,Jean-François,M.,SOC,Socialiste,23953,"  46,34","  27,65",non,00101,46.34,27.65
+BRETON,Xavier,M.,UMP,Union pour un Mouvement Populaire,27739,"  53,66","  32,02",oui,00101,53.66,32.02
+BLANC,Etienne,M.,UMP,Union pour un Mouvement Populaire,26378,"  60,20","  30,42",oui,00103,60.2,30.42
+RIGAUD,Françoise,Mme,SOC,Socialiste,17438,"  39,80","  20,11",non,00103,39.8,20.11
+DOSIERE,René,M.,DVG,Divers gauche,24499,"  56,28","  33,85",oui,00201,56.28,33.85
+BLANCHARD-DOUCHAIN,Gaëdic,Mme,UMP,Union pour un Mouvement Populaire,19028,"  43,72","  26,29",non,00201,43.72,26.29
+BALLIGAND,Jean-Pierre,M.,SOC,Socialiste,24383,"  53,31","  33,76",oui,00203,53.31,33.76
+MEURA,Frédéric,M.,UMP,Union pour un Mouvement Populaire,21354,"  46,69","  29,56",non,00203,46.69,29.56
+THUIN-MACHEREZ,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,20633,"  45,42","  26,03",non,00204,45.42,26.03
+DESALLANGRE,Jacques,M.,DVG,Divers gauche,24792,"  54,58","  31,28",oui,00204,54.58,31.28
+JOURDAIN,Dominique,M.,SOC,Socialiste,21471,"  46,04","  26,83",non,00205,46.04,26.83
+VASSEUR,Isabelle,Mme,UMP,Union pour un Mouvement Populaire,25167,"  53,96","  31,45",oui,00205,53.96,31.45
+PERISSOL,Pierre-André,M.,UMP,Union pour un Mouvement Populaire,17285,"  45,47","  29,64",non,00301,45.47,29.64
+CHAMBEFORT,Guy,M.,DVG,Divers gauche,20725,"  54,53","  35,55",oui,00301,54.53,35.55
+DUGLERY,Daniel,M.,UMP,Union pour un Mouvement Populaire,20160,"  46,41","  30,37",non,00302,46.41,30.37
+LESTERLIN,Bernard,M.,SOC,Socialiste,23278,"  53,59","  35,07",oui,00302,53.59,35.07
+SIMON,Yves,M.,UMP,Union pour un Mouvement Populaire,22822,"  49,20","  32,26",non,00303,49.2,32.26
+MALLOT,Jean,M.,SOC,Socialiste,23560,"  50,80","  33,30",oui,00303,50.8,33.3
+MALHURET,Claude,M.,UMP,Union pour un Mouvement Populaire,18499,"  43,46","  28,52",non,00304,43.46,28.52
+CHARASSE,Gérard,M.,RDG,Radical de gauche,24066,"  56,54","  37,11",oui,00304,56.54,37.11
+BARREILLE,Eliane,Mme,UMP,Union pour un Mouvement Populaire,18938,"  47,67","  32,37",non,00401,47.67,32.37
+BIANCO,Jean-Louis,M.,SOC,Socialiste,20791,"  52,33","  35,54",oui,00401,52.33,35.54
+SPAGNOU,Daniel,M.,UMP,Union pour un Mouvement Populaire,20905,"  53,96","  34,34",oui,00402,53.96,34.34
+CASTANER,Christophe,M.,SOC,Socialiste,17840,"  46,04","  29,31",non,00402,46.04,29.31
+MARTINEZ,Henriette,Mme,UMP,Union pour un Mouvement Populaire,18621,"  51,77","  32,29",oui,00501,51.77,32.29
+BERGER,Karine,Mme,SOC,Socialiste,17345,"  48,23","  30,07",non,00501,48.23,30.07
+GIRAUD,Joël,M.,RDG,Radical de gauche,17184,"  54,82","  37,48",oui,00502,54.82,37.48
+BAYROU,Alain,M.,UMP,Union pour un Mouvement Populaire,14163,"  45,18","  30,89",non,00502,45.18,30.89
+ALLEMAND,Patrick,M.,SOC,Socialiste,11780,"  39,08","  20,20",non,00601,39.08,20.2
+CIOTTI,Eric,M.,UMP,Union pour un Mouvement Populaire,18365,"  60,92","  31,50",oui,00601,60.92,31.5
+BROCHAND,Bernard,M.,UMP,Union pour un Mouvement Populaire,18299,"  54,97","  27,03",oui,00608,54.97,27.03
+LEROY,Henri,M.,DVD,Divers droite,14993,"  45,03","  22,14",non,00608,45.03,22.14
+TERRASSE,Pascal,M.,SOC,Socialiste,28639,"  61,67","  38,83",oui,00701,61.67,38.83
+COTTA,Rachel,Mme,UMP,Union pour un Mouvement Populaire,17803,"  38,33","  24,13",non,00701,38.33,24.13
+DUSSOPT,Olivier,M.,SOC,Socialiste,29096,"  53,71","  32,72",oui,00702,53.71,32.72
+WEBER,Gérard,M.,UMP,Union pour un Mouvement Populaire,25073,"  46,29","  28,19",non,00702,46.29,28.19
+FLORY,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,26082,"  55,59","  35,58",oui,00703,55.59,35.58
+LOUIS,Véronique,Mme,SOC,Socialiste,20836,"  44,41","  28,42",non,00703,44.41,28.42
+POLETTI,Bérengère,Mme,UMP,Union pour un Mouvement Populaire,24808,"  59,52","  33,76",oui,00801,59.52,33.76
+LEDOUX,Claudine,Mme,SOC,Socialiste,16870,"  40,48","  22,96",non,00801,40.48,22.96
+RAVIGNON,Boris,M.,UMP,Union pour un Mouvement Populaire,19192,"  48,52","  28,97",non,00802,48.52,28.97
+VUILQUE,Philippe,M.,SOC,Socialiste,20363,"  51,48","  30,74",oui,00802,51.48,30.74
+MASSAT,Frédérique,Mme,SOC,Socialiste,22236,"  65,91","  39,68",oui,00901,65.91,39.68
+ROUGE,Jacqueline,Mme,UMP,Union pour un Mouvement Populaire,11500,"  34,09","  20,52",non,00901,34.09,20.52
+NAYROU,Henri,M.,SOC,Socialiste,22692,"  61,05","  38,96",oui,00902,61.05,38.96
+CALLEJA,Philippe,M.,UMP,Union pour un Mouvement Populaire,14477,"  38,95","  24,86",non,00902,38.95,24.86
+DHUICQ,Nicolas,M.,UMP,Union pour un Mouvement Populaire,19707,"  60,64","  33,94",oui,01001,60.64,33.94
+BRET,Line,Mme,SOC,Socialiste,12793,"  39,36","  22,03",non,01001,39.36,22.03
+MATHIS,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,25032,"  65,26","  34,11",oui,01002,65.26,34.11
+AYADI,Saliha,Mme,RDG,Radical de gauche,13324,"  34,74","  18,16",non,01002,34.74,18.16
+CHESA,Isabelle,Mme,UMP,Union pour un Mouvement Populaire,21135,"  45,53","  30,11",non,01101,45.53,30.11
+PEREZ,Jean-Claude,M.,SOC,Socialiste,25290,"  54,47","  36,03",oui,01101,54.47,36.03
+BASCOU,Jacques,M.,SOC,Socialiste,38701,"  53,65","  35,04",oui,01102,53.65,35.04
+PY,Michel,M.,UMP,Union pour un Mouvement Populaire,33432,"  46,35","  30,27",non,01102,46.35,30.27
+DUPRE,Jean-Paul,M.,SOC,Socialiste,28728,"  58,38","  38,72",oui,01103,58.38,38.72
+SALVIGNOL,Jean,M.,UMP,Union pour un Mouvement Populaire,20479,"  41,62","  27,60",non,01103,41.62,27.6
+TEYSSEDRE,Christian,M.,SOC,Socialiste,22846,"  46,69","  30,62",non,01201,46.69,30.62
+CENSI,Yves,M.,UMP,Union pour un Mouvement Populaire,26085,"  53,31","  34,96",oui,01201,53.31,34.96
+ROQUES,Serge,M.,UMP,Union pour un Mouvement Populaire,23554,"  49,39","  32,84",non,01202,49.39,32.84
+MARCEL,Marie-Lou,Mme,SOC,Socialiste,24139,"  50,61","  33,66",oui,01202,50.61,33.66
+MARC,Alain,M.,UMP,Union pour un Mouvement Populaire,27350,"  57,67","  37,92",oui,01203,57.67,37.92
+MARRE,Béatrice,Mme,SOC,Socialiste,20071,"  42,33","  27,83",non,01203,42.33,27.83
+CARLOTTI,Marie-Arlette,Mme,SOC,Socialiste,14107,"  43,04","  23,36",non,01301,43.04,23.36
+BLUM,Roland,M.,UMP,Union pour un Mouvement Populaire,18668,"  56,96","  30,92",oui,01301,56.96,30.92
+MENNUCCI,Patrick,M.,SOC,Socialiste,12300,"  49,50","  26,36",non,01303,49.5,26.36
+ROATTA,Jean,M.,UMP,Union pour un Mouvement Populaire,12548,"  50,50","  26,89",oui,01303,50.5,26.89
+JIBRAYEL,Henri,M.,SOC,Socialiste,13224,"  57,41","  27,52",oui,01304,57.41,27.52
+SUSINI,Bernard,M.,UMP,Union pour un Mouvement Populaire,9812,"  42,59","  20,42",non,01304,42.59,20.42
+MUSELIER,Renaud,M.,UMP,Union pour un Mouvement Populaire,15098,"  53,32","  27,86",oui,01305,53.32,27.86
+ROUZAUD,Antoine,M.,RDG,Radical de gauche,13220,"  46,68","  24,39",non,01305,46.68,24.39
+ANDRIEUX,Sylvie,Mme,SOC,Socialiste,14874,"  57,79","  28,58",oui,01307,57.79,28.58
+REMADNIA PREZIOSI,Nora,Mme,UMP,Union pour un Mouvement Populaire,10866,"  42,21","  20,88",non,01307,42.21,20.88
+MASSE,Christophe,M.,SOC,Socialiste,20676,"  49,76","  27,89",non,01308,49.76,27.89
+BOYER,Valérie,Mme,UMP,Union pour un Mouvement Populaire,20872,"  50,24","  28,15",oui,01308,50.24,28.15
+MEI,Roger,M.,COM,Communiste,29900,"  42,88","  24,15",non,01310,42.88,24.15
+MALLIE,Richard,M.,UMP,Union pour un Mouvement Populaire,39837,"  57,12","  32,18",oui,01310,57.12,32.18
+LENFANT,Gaëlle,Mme,SOC,Socialiste,21211,"  38,59","  21,18",non,01311,38.59,21.18
+KERT,Christian,M.,UMP,Union pour un Mouvement Populaire,33751,"  61,41","  33,70",oui,01311,61.41,33.7
+ARAGNEAU,Alain,M.,UMP,Union pour un Mouvement Populaire,22962,"  43,97","  25,65",non,01313,43.97,25.65
+VAXES,Michel,M.,COM,Communiste,29260,"  56,03","  32,68",oui,01313,56.03,32.68
+JOISSAINS MASINI,Maryse,Mme,UMP,Union pour un Mouvement Populaire,31430,"  54,87","  30,84",oui,01314,54.87,30.84
+MEDVEDOWSKY,Alexandre,M.,SOC,Socialiste,25853,"  45,13","  25,36",non,01314,45.13,25.36
+VACHET,Léon,M.,UMP,Union pour un Mouvement Populaire,16671,"  38,35","  16,65",non,01315,38.35,16.65
+REYNES,Bernard,M.,DVD,Divers droite,26794,"  61,65","  26,77",oui,01315,61.65,26.77
+CHASSAIN,Roland,M.,UMP,Union pour un Mouvement Populaire,24923,"  47,68","  29,45",non,01316,47.68,29.45
+VAUZELLE,Michel,M.,SOC,Socialiste,27352,"  52,32","  32,32",oui,01316,52.32,32.32
+LE BRETHON,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,20589,"  45,83","  28,99",non,01401,45.83,28.99
+DURON,Philippe,M.,SOC,Socialiste,24336,"  54,17","  34,27",oui,01401,54.17,34.27
+DUMONT,Laurence,Mme,SOC,Socialiste,22403,"  54,62","  33,20",oui,01402,54.62,33.2
+THOMAS,Rodolphe,M.,MAJ,Majorité présidentielle,18616,"  45,38","  27,58",non,01402,45.38,27.58
+VALTER,Clotilde,Mme,SOC,Socialiste,20197,"  47,16","  27,16",non,01403,47.16,27.16
+LETEURTRE,Claude,M.,MAJ,Majorité présidentielle,22633,"  52,84","  30,44",oui,01403,52.84,30.44
+LEFRANC,Jean-Marc,M.,UMP,Union pour un Mouvement Populaire,33842,"  55,69","  33,37",oui,01405,55.69,33.37
+LE MOAL,Nathalie,Mme,SOC,Socialiste,26931,"  44,31","  26,55",non,01405,44.31,26.55
+COUSIN,Jean-Yves,M.,UMP,Union pour un Mouvement Populaire,30064,"  54,83","  33,88",oui,01406,54.83,33.88
+TOURRET,Alain,M.,RDG,Radical de gauche,24771,"  45,17","  27,92",non,01406,45.17,27.92
+MARKARIAN,Jacques,M.,SOC,Socialiste,17774,"  44,04","  27,44",non,01501,44.04,27.44
+DESCOEUR,Vincent,M.,UMP,Union pour un Mouvement Populaire,22584,"  55,96","  34,87",oui,01501,55.96,34.87
+FAURY,Martine,Mme,UMP,Union pour un Mouvement Populaire,15935,"  41,26","  25,01",non,01601,41.26,25.01
+VIOLLET,Jean-Claude,M.,SOC,Socialiste,22687,"  58,74","  35,60",oui,01601,58.74,35.6
+REYNAUD,Marie-Line,Mme,SOC,Socialiste,19858,"  52,78","  31,78",oui,01602,52.78,31.78
+MOUHOT,Jérôme,M.,UMP,Union pour un Mouvement Populaire,17767,"  47,22","  28,43",non,01602,47.22,28.43
+LAMBERT,Jérôme,M.,SOC,Socialiste,27484,"  61,56","  39,75",oui,01603,61.56,39.75
+FOMBARON,Caroline,Mme,UMP,Union pour un Mouvement Populaire,17163,"  38,44","  24,82",non,01603,38.44,24.82
+MOTTET,Philippe,M.,UMP,Union pour un Mouvement Populaire,17345,"  42,97","  26,54",non,01604,42.97,26.54
+PINVILLE,Martine,Mme,DVG,Divers gauche,23024,"  57,03","  35,23",oui,01604,57.03,35.23
+MORVANT,Dominique,Mme,UMP,Union pour un Mouvement Populaire,26409,"  44,95","  27,37",non,01701,44.95,27.37
+BONO,Maxime,M.,SOC,Socialiste,32345,"  55,05","  33,53",oui,01701,55.05,33.53
+LEONARD,Jean-Louis,M.,UMP,Union pour un Mouvement Populaire,27321,"  50,20","  29,61",oui,01702,50.2,29.61
+BONNIN,André,M.,SOC,Socialiste,27101,"  49,80","  29,37",non,01702,49.8,29.37
+QUERE,Catherine,Mme,SOC,Socialiste,25501,"  52,02","  31,97",oui,01703,52.02,31.97
+DE ROUX,Xavier,M.,UMP,Union pour un Mouvement Populaire,23522,"  47,98","  29,48",non,01703,47.98,29.48
+FELIX,Irène,Mme,SOC,Socialiste,19070,"  44,08","  25,42",non,01801,44.08,25.42
+FROMION,Yves,M.,UMP,Union pour un Mouvement Populaire,24193,"  55,92","  32,25",oui,01801,55.92,32.25
+SANDRIER,Jean-Claude,M.,COM,Communiste,23318,"  57,37","  33,22",oui,01802,57.37,33.22
+THOMAS-RICHARD,Franck,M.,UMP,Union pour un Mouvement Populaire,17324,"  42,63","  24,68",non,01802,42.63,24.68
+GALUT,Yann,M.,SOC,Socialiste,26104,"  49,57","  29,84",non,01803,49.57,29.84
+COSYNS,Louis,M.,UMP,Union pour un Mouvement Populaire,26559,"  50,43","  30,36",oui,01803,50.43,30.36
+DECAIE,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,18760,"  39,70","  28,44",non,01901,39.7,28.44
+HOLLANDE,François,M.,SOC,Socialiste,28494,"  60,30","  43,20",oui,01901,60.3,43.2
+SOULIER,Frédéric,M.,UMP,Union pour un Mouvement Populaire,22251,"  49,06","  31,93",non,01902,49.06,31.93
+NAUCHE,Philippe,M.,SOC,Socialiste,23106,"  50,94","  33,16",oui,01902,50.94,33.16
+DUPONT,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,18562,"  50,13","  35,73",oui,01903,50.13,35.73
+LECLERC,Martine,Mme,SOC,Socialiste,18464,"  49,87","  35,54",non,01903,49.87,35.54
+RENUCCI,Simon,M.,DVG,Divers gauche,15922,"  54,26","  35,61",oui,02A01,54.26,35.61
+CORTEY,Philippe,M.,UMP,Union pour un Mouvement Populaire,13424,"  45,74","  30,02",non,02A01,45.74,30.02
+GANDOLFI-SCHEIT,Sauveur,M.,UMP,Union pour un Mouvement Populaire,18480,"  53,89","  35,84",oui,02B01,53.89,35.84
+ZUCCARELLI,Emile,M.,RDG,Radical de gauche,15811,"  46,11","  30,67",non,02B01,46.11,30.67
+GRIMALDI,Stéphanie,Mme,UMP,Union pour un Mouvement Populaire,21145,"  47,79","  35,02",non,02B02,47.79,35.02
+GIACOBBI,Paul,M.,RDG,Radical de gauche,23100,"  52,21","  38,26",oui,02B02,52.21,38.26
+DEPIERRE,Bernard,M.,UMP,Union pour un Mouvement Populaire,22393,"  55,44","  33,30",oui,02101,55.44,33.3
+TENENBAUM,Françoise,Mme,SOC,Socialiste,18000,"  44,56","  26,77",non,02101,44.56,26.77
+DELATTE,Rémi,M.,UMP,Union pour un Mouvement Populaire,22031,"  57,52","  34,15",oui,02102,57.52,34.15
+POPARD,Colette,Mme,SOC,Socialiste,16269,"  42,48","  25,22",non,02102,42.48,25.22
+BEAUDOUVI,Anne-Marie,Mme,UMP,Union pour un Mouvement Populaire,18646,"  46,74","  27,16",non,02103,46.74,27.16
+DARCIAUX,Claude Anne,Mme,SOC,Socialiste,21250,"  53,26","  30,95",oui,02103,53.26,30.95
+CADEC,Alain,M.,UMP,Union pour un Mouvement Populaire,23880,"  42,28","  26,98",non,02201,42.28,26.98
+BOUSQUET,Danielle,Mme,SOC,Socialiste,32606,"  57,72","  36,85",oui,02201,57.72,36.85
+GAUBERT,Jean,M.,SOC,Socialiste,34636,"  54,68","  37,91",oui,02202,54.68,37.91
+VASPART,Michel,M.,UMP,Union pour un Mouvement Populaire,28705,"  45,32","  31,42",non,02202,45.32,31.42
+LE FUR,Marc,M.,UMP,Union pour un Mouvement Populaire,30767,"  52,02","  35,95",oui,02203,52.02,35.95
+CAURET,Loïc,M.,SOC,Socialiste,28382,"  47,98","  33,16",non,02203,47.98,33.16
+BAGUE,Marie-Elisabeth,Mme,UMP,Union pour un Mouvement Populaire,19241,"  36,78","  24,08",non,02204,36.78,24.08
+OGET,Marie-Renée,Mme,SOC,Socialiste,33068,"  63,22","  41,39",oui,02204,63.22,41.39
+FURET,Marie-Dominique,Mme,UMP,Union pour un Mouvement Populaire,29994,"  43,92","  29,47",non,02205,43.92,29.47
+ERHEL,Corinne,Mme,SOC,Socialiste,38294,"  56,08","  37,63",oui,02205,56.08,37.63
+VERGNIER,Michel,M.,SOC,Socialiste,19432,"  60,52","  38,17",oui,02301,60.52,38.17
+JAMMOT,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,12675,"  39,48","  24,90",non,02301,39.48,24.9
+SARRE,Georges,M.,DVG,Divers gauche,13920,"  42,98","  28,43",non,02302,42.98,28.43
+AUCLAIR,Jean,M.,UMP,Union pour un Mouvement Populaire,18466,"  57,02","  37,72",oui,02302,57.02,37.72
+DEGUILHEM,Pascal,M.,SOC,Socialiste,29674,"  58,96","  39,73",oui,02401,58.96,39.73
+PEYRAT,Jérome,M.,UMP,Union pour un Mouvement Populaire,20652,"  41,04","  27,65",non,02401,41.04,27.65
+LABARTHE,Cécile,Mme,SOC,Socialiste,24810,"  48,63","  31,34",non,02402,48.63,31.34
+GARRIGUE,Daniel,M.,UMP,Union pour un Mouvement Populaire,26205,"  51,37","  33,10",oui,02402,51.37,33.1
+DEBET,Michel,M.,SOC,Socialiste,27896,"  54,78","  39,60",oui,02403,54.78,39.6
+LUCAS,Alain,M.,UMP,Union pour un Mouvement Populaire,23030,"  45,22","  32,70",non,02403,45.22,32.7
+BOUSQUET,Dominique,M.,UMP,Union pour un Mouvement Populaire,24601,"  41,22","  28,71",non,02404,41.22,28.71
+PEIRO,Germinal,M.,SOC,Socialiste,35075,"  58,78","  40,93",oui,02404,58.78,40.93
+ROMAGNAN,Barbara,Mme,SOC,Socialiste,21548,"  49,86","  30,16",non,02501,49.86,30.16
+BRANGET,Françoise,Mme,UMP,Union pour un Mouvement Populaire,21672,"  50,14","  30,33",oui,02501,50.14,30.33
+GROSPERRIN,Jacques,M.,UMP,Union pour un Mouvement Populaire,24416,"  52,68","  32,39",oui,02502,52.68,32.39
+DUFAY,Marie-Guite,Mme,SOC,Socialiste,21934,"  47,32","  29,09",non,02502,47.32,29.09
+PARRENIN,Joseph,M.,SOC,Socialiste,18260,"  46,15","  27,61",non,02503,46.15,27.61
+BONNOT,Marcel,M.,UMP,Union pour un Mouvement Populaire,21303,"  53,85","  32,21",oui,02503,53.85,32.21
+THARIN,Irène,Mme,UMP,Union pour un Mouvement Populaire,19730,"  49,07","  29,20",non,02504,49.07,29.2
+MOSCOVICI,Pierre,M.,SOC,Socialiste,20480,"  50,93","  30,31",oui,02504,50.93,30.31
+NAKIB-COLOMB,Zabida,Mme,SOC,Socialiste,18295,"  44,54","  25,04",non,02601,44.54,25.04
+LABAUNE,Patrick,M.,UMP,Union pour un Mouvement Populaire,22783,"  55,46","  31,18",oui,02601,55.46,31.18
+REYNIER,Franck,M.,UMP,Union pour un Mouvement Populaire,25641,"  53,00","  31,07",oui,02602,53.0,31.07
+REME-PIC,Anne-Marie,Mme,SOC,Socialiste,22739,"  47,00","  27,55",non,02602,47.0,27.55
+MARITON,Hervé,M.,UMP,Union pour un Mouvement Populaire,33147,"  52,62","  33,80",oui,02603,52.62,33.8
+GREGOIRE,Michel,M.,SOC,Socialiste,29851,"  47,38","  30,44",non,02603,47.38,30.44
+BIANCHERI,Gabriel,M.,UMP,Union pour un Mouvement Populaire,28950,"  57,70","  33,81",oui,02604,57.7,33.81
+COUTARD,Catherine,Mme,DVG,Divers gauche,21225,"  42,30","  24,78",non,02604,42.3,24.78
+LE MAIRE,Bruno,M.,UMP,Union pour un Mouvement Populaire,26838,"  58,27","  32,20",oui,02701,58.27,32.2
+MANSOURET,Anne,Mme,SOC,Socialiste,19218,"  41,73","  23,05",non,02701,41.73,23.05
+RECOURS,Alfred,M.,SOC,Socialiste,20371,"  47,03","  27,27",non,02702,47.03,27.27
+NICOLAS,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,22943,"  52,97","  30,71",oui,02702,52.97,30.71
+MIQUEL,Françoise,Mme,UMP,Union pour un Mouvement Populaire,22637,"  46,49","  27,12",non,02704,46.49,27.12
+LONCLE,François,M.,SOC,Socialiste,26050,"  53,51","  31,20",oui,02704,53.51,31.2
+GILARD,Franck,M.,UMP,Union pour un Mouvement Populaire,26957,"  56,18","  31,71",oui,02705,56.18,31.71
+PICARD,Catherine,Mme,SOC,Socialiste,21024,"  43,82","  24,73",non,02705,43.82,24.73
+GORGES,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,23556,"  50,06","  27,61",oui,02801,50.06,27.61
+VALLET,Françoise,Mme,SOC,Socialiste,23497,"  49,94","  27,54",non,02801,49.94,27.54
+HESSEL,Birgitta,Mme,SOC,Socialiste,14496,"  39,59","  20,66",non,02802,39.59,20.66
+HAMEL,Gérard,M.,UMP,Union pour un Mouvement Populaire,22120,"  60,41","  31,54",oui,02802,60.41,31.54
+HUWART,François,M.,RDG,Radical de gauche,18950,"  46,68","  26,58",non,02803,46.68,26.58
+de LA RAUDIERE,Laure,Mme,UMP,Union pour un Mouvement Populaire,21648,"  53,32","  30,37",oui,02803,53.32,30.37
+RAMONET,Marcelle,Mme,UMP,Union pour un Mouvement Populaire,27122,"  47,87","  32,01",non,02901,47.87,32.01
+URVOAS,Jean Jacques,M.,SOC,Socialiste,29539,"  52,13","  34,86",oui,02901,52.13,34.86
+ADAM,Patricia,Mme,SOC,Socialiste,23681,"  55,51","  33,25",oui,02902,55.51,33.25
+LE BORGNE,Jean Yves,M.,UMP,Union pour un Mouvement Populaire,18980,"  44,49","  26,65",non,02902,44.49,26.65
+CUILLANDRE,François,M.,SOC,Socialiste,27728,"  47,63","  29,97",non,02903,47.63,29.97
+LAMOUR,Marguerite,Mme,UMP,Union pour un Mouvement Populaire,30490,"  52,37","  32,95",oui,02903,52.37,32.95
+LEBRANCHU,Marylise,Mme,SOC,Socialiste,29833,"  54,38","  36,21",oui,02904,54.38,36.21
+CAROFF,Gilles,M.,UMP,Union pour un Mouvement Populaire,25023,"  45,62","  30,37",non,02904,45.62,30.37
+GUITTET,Chantal,Mme,SOC,Socialiste,24549,"  45,20","  27,64",non,02905,45.2,27.64
+LE GUEN,Jacques,M.,UMP,Union pour un Mouvement Populaire,29760,"  54,80","  33,51",oui,02905,54.8,33.51
+FERRAND,Richard,M.,SOC,Socialiste,29673,"  49,81","  33,45",non,02906,49.81,33.45
+MENARD,Christian,M.,UMP,Union pour un Mouvement Populaire,29903,"  50,19","  33,71",oui,02906,50.19,33.71
+TANGUY,Hélène,Mme,UMP,Union pour un Mouvement Populaire,25970,"  48,99","  32,75",non,02907,48.99,32.75
+LE LOCH,Annick,Mme,SOC,Socialiste,27042,"  51,01","  34,10",oui,02907,51.01,34.1
+TRICHE,Jeanne Yvonne,Mme,UMP,Union pour un Mouvement Populaire,25247,"  46,52","  30,78",non,02908,46.52,30.78
+LE BRIS,Gilbert,M.,SOC,Socialiste,29023,"  53,48","  35,39",oui,02908,53.48,35.39
+LACHAUD,Yvan,M.,MAJ,Majorité présidentielle,25717,"  56,96","  30,95",oui,03001,56.96,30.95
+DUMAS,Françoise,Mme,SOC,Socialiste,19432,"  43,04","  23,38",non,03001,43.04,23.38
+CRAUSTE,Robert,M.,SOC,Socialiste,26024,"  40,53","  22,70",non,03002,40.53,22.7
+MOURRUT,Etienne,M.,UMP,Union pour un Mouvement Populaire,38189,"  59,47","  33,32",oui,03002,59.47,33.32
+ROUBAUD,Jean-Marc,M.,UMP,Union pour un Mouvement Populaire,39131,"  58,79","  34,33",oui,03003,58.79,34.33
+PISSAS,Alexandre,M.,SOC,Socialiste,27427,"  41,21","  24,06",non,03003,41.21,24.06
+MALAVIEILLE,Patrick,M.,COM,Communiste,24778,"  46,85","  28,99",non,03004,46.85,28.99
+ROUSTAN,Max,M.,UMP,Union pour un Mouvement Populaire,28106,"  53,15","  32,88",oui,03004,53.15,32.88
+RUAS,Christophe,M.,UMP,Union pour un Mouvement Populaire,28365,"  48,61","  30,27",non,03005,48.61,30.27
+DUMAS,William,M.,SOC,Socialiste,29993,"  51,39","  32,01",oui,03005,51.39,32.01
+LEMORTON,Catherine,Mme,SOC,Socialiste,21824,"  54,55","  30,99",oui,03101,54.55,30.99
+MOUDENC,Jean-Luc,M.,MAJ,Majorité présidentielle,18186,"  45,45","  25,82",non,03101,45.45,25.82
+DAMIN,Danièle,Mme,UMP,Union pour un Mouvement Populaire,32547,"  46,23","  29,41",non,03102,46.23,29.41
+BAPT,Gérard,M.,SOC,Socialiste,37854,"  53,77","  34,21",oui,03102,53.77,34.21
+COHEN,Pierre,M.,SOC,Socialiste,31045,"  57,26","  36,23",oui,03103,57.26,36.23
+DANEN,Marie-Claire,Mme,UMP,Union pour un Mouvement Populaire,23171,"  42,74","  27,04",non,03103,42.74,27.04
+DIEBOLD,Jean,M.,UMP,Union pour un Mouvement Populaire,13689,"  43,54","  24,63",non,03104,43.54,24.63
+MARTINEL,Martine,Mme,SOC,Socialiste,17752,"  56,46","  31,94",oui,03104,56.46,31.94
+CARNEIRO,Grégoire,M.,UMP,Union pour un Mouvement Populaire,35877,"  42,13","  25,93",non,03105,42.13,25.93
+IMBERT,Françoise,Mme,SOC,Socialiste,49281,"  57,87","  35,62",oui,03105,57.87,35.62
+DE VEYRINAS,Françoise,Mme,UMP,Union pour un Mouvement Populaire,35686,"  44,90","  27,44",non,03106,44.9,27.44
+IBORRA,Monique,Mme,SOC,Socialiste,43785,"  55,10","  33,67",oui,03106,55.1,33.67
+LEMASLE,Patrick,M.,SOC,Socialiste,44891,"  57,26","  36,98",oui,03107,57.26,36.98
+BASTIANI,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,33501,"  42,74","  27,60",non,03107,42.74,27.6
+IDIART,Jean-Louis,M.,SOC,Socialiste,30677,"  60,40","  37,03",oui,03108,60.4,37.03
+BOULET RIBET,Françoise,Mme,UMP,Union pour un Mouvement Populaire,20112,"  39,60","  24,28",non,03108,39.6,24.28
+MOUCHET,Anne-Marie,Mme,UMP,Union pour un Mouvement Populaire,19746,"  41,11","  27,34",non,03201,41.11,27.34
+MARTIN,Philippe,M.,SOC,Socialiste,28286,"  58,89","  39,16",oui,03201,58.89,39.16
+BIEMOURET,Gisèle,Mme,SOC,Socialiste,23232,"  50,59","  33,89",oui,03202,50.59,33.89
+DUBRAC,Gérard,M.,UMP,Union pour un Mouvement Populaire,22690,"  49,41","  33,10",non,03202,49.41,33.1
+BOURRAGUE,Chantal,Mme,UMP,Union pour un Mouvement Populaire,26349,"  54,45","  31,93",oui,03301,54.45,31.93
+DESAIGUES,Béatrice,Mme,SOC,Socialiste,22042,"  45,55","  26,71",non,03301,45.55,26.71
+DELAUNAY,Michèle,Mme,SOC,Socialiste,18382,"  50,93","  30,47",oui,03302,50.93,30.47
+JUPPE,Alain,M.,UMP,Union pour un Mouvement Populaire,17712,"  49,07","  29,35",non,03302,49.07,29.35
+MAMERE,Noël,M.,VEC,Les Verts,26611,"  62,82","  36,83",oui,03303,62.82,36.83
+VIGNE,Elisabeth,Mme,UMP,Union pour un Mouvement Populaire,15751,"  37,18","  21,80",non,03303,37.18,21.8
+LACUEY,Conchita,Mme,SOC,Socialiste,27840,"  59,50","  33,64",oui,03304,59.5,33.64
+DELATTRE,Nathalie,Mme,UMP,Union pour un Mouvement Populaire,18948,"  40,50","  22,89",non,03304,40.5,22.89
+GOT,Pascale,Mme,SOC,Socialiste,29179,"  50,37","  30,52",oui,03305,50.37,30.52
+REGERE,Jean-François,M.,UMP,Union pour un Mouvement Populaire,28745,"  49,63","  30,07",non,03305,49.63,30.07
+SAINTE MARIE,Michel,M.,SOC,Socialiste,31740,"  57,19","  35,54",oui,03306,57.19,35.54
+MUTTER,Marie-Hélène,Mme,UMP,Union pour un Mouvement Populaire,23757,"  42,81","  26,60",non,03306,42.81,26.6
+ROUSSET,Alain,M.,SOC,Socialiste,36410,"  60,46","  37,68",oui,03307,60.46,37.68
+DUFRANC,Sylvie,Mme,UMP,Union pour un Mouvement Populaire,23808,"  39,54","  24,63",non,03307,39.54,24.63
+DELUGA,François,M.,SOC,Socialiste,34614,"  45,87","  28,99",non,03308,45.87,28.99
+DES ESGAULX DE NOLET,Marie-Hélène,Mme,UMP,Union pour un Mouvement Populaire,40852,"  54,13","  34,22",oui,03308,54.13,34.22
+FAURE,Martine,Mme,SOC,Socialiste,35561,"  55,80","  35,99",oui,03309,55.8,35.99
+DUBOURG,Philippe,M.,UMP,Union pour un Mouvement Populaire,28172,"  44,20","  28,51",non,03309,44.2,28.51
+BUISSON,Philippe,M.,SOC,Socialiste,23904,"  48,56","  30,41",non,03310,48.56,30.41
+GARRAUD,Jean-Paul,M.,UMP,Union pour un Mouvement Populaire,25317,"  51,44","  32,21",oui,03310,51.44,32.21
+PLISSON,Philippe,M.,SOC,Socialiste,28186,"  55,07","  33,96",oui,03311,55.07,33.96
+ESTRADE,Hélène,Mme,UMP,Union pour un Mouvement Populaire,22992,"  44,93","  27,70",non,03311,44.93,27.7
+GUIBAL,Michel,M.,SOC,Socialiste,21149,"  47,80","  27,58",non,03401,47.8,27.58
+DOMERGUE,Jacques,M.,UMP,Union pour un Mouvement Populaire,23094,"  52,20","  30,11",oui,03401,52.2,30.11
+VEZINHET,André,M.,SOC,Socialiste,21177,"  53,92","  31,56",oui,03402,53.92,31.56
+JULIEN,Arnaud,M.,UMP,Union pour un Mouvement Populaire,18099,"  46,08","  26,97",non,03402,46.08,26.97
+LAZERGES,Christine,Mme,SOC,Socialiste,32863,"  43,30","  26,08",non,03403,43.3,26.08
+GRAND,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,43039,"  56,70","  34,15",oui,03403,56.7,34.15
+LECOU,Robert,M.,UMP,Union pour un Mouvement Populaire,43683,"  51,68","  32,54",oui,03404,51.68,32.54
+MOURE,Jean-Pierre,M.,SOC,Socialiste,40844,"  48,32","  30,43",non,03404,48.32,30.43
+MESQUIDA,Kléber,M.,SOC,Socialiste,32398,"  52,31","  33,83",oui,03405,52.31,33.83
+ROQUES,Marcel,M.,UMP,Union pour un Mouvement Populaire,29532,"  47,69","  30,84",non,03405,47.69,30.84
+BAUDUIN,Eliane,Mme,SOC,Socialiste,20004,"  42,34","  23,67",non,03406,42.34,23.67
+CUGNENC,Paul-Henri,M.,UMP,Union pour un Mouvement Populaire,27243,"  57,66","  32,23",oui,03406,57.66,32.23
+LIBERTI,François,M.,COM,Communiste,34933,"  47,31","  29,15",non,03407,47.31,29.15
+D'ETTORE,Gilles,M.,UMP,Union pour un Mouvement Populaire,38913,"  52,69","  32,47",oui,03407,52.69,32.47
+BOUCHERON,Jean-Michel,M.,SOC,Socialiste,26541,"  65,49","  35,63",oui,03501,65.49,35.63
+LOUIS,Marie,Mme,UMP,Union pour un Mouvement Populaire,13988,"  34,51","  18,77",non,03501,34.51,18.77
+TOURTELIER,Philippe,M.,SOC,Socialiste,34841,"  56,43","  35,51",oui,03502,56.43,35.51
+LE BRUN,Loïck,M.,UMP,Union pour un Mouvement Populaire,26902,"  43,57","  27,42",non,03502,43.57,27.42
+ROUAULT,Philippe,M.,UMP,Union pour un Mouvement Populaire,26916,"  47,25","  29,47",non,03503,47.25,29.47
+ROGEMONT,Marcel,M.,DVG,Divers gauche,30050,"  52,75","  32,90",oui,03503,52.75,32.9
+MARSAC,Jean-René,M.,SOC,Socialiste,34983,"  52,92","  31,91",oui,03504,52.92,31.91
+AUBIN,Loic,M.,UMP,Union pour un Mouvement Populaire,31117,"  47,08","  28,38",non,03504,47.08,28.38
+BENOIT,Thierry,M.,UDFD,UDF-Mouvement Démocrate,21534,"  55,09","  27,61",oui,03506,55.09,27.61
+BOISSEAU,Marie-Thérèse,Mme,UMP,Union pour un Mouvement Populaire,17553,"  44,91","  22,50",non,03506,44.91,22.5
+COUANAU,René,M.,UMP,Union pour un Mouvement Populaire,32745,"  57,00","  33,05",oui,03507,57.0,33.05
+THOMAS,Isabelle,Mme,SOC,Socialiste,24698,"  43,00","  24,93",non,03507,43.0,24.93
+SAPIN ,Michel,M.,SOC,Socialiste,17175,"  50,55","  30,52",oui,03601,50.55,30.52
+HUGON,Jean-Yves,M.,UMP,Union pour un Mouvement Populaire,16801,"  49,45","  29,85",non,03601,49.45,29.85
+FORISSIER,Nicolas,M.,UMP,Union pour un Mouvement Populaire,21481,"  54,15","  33,21",oui,03602,54.15,33.21
+BECHTEL,Marie-Françoise,Mme,DVG,Divers gauche,18186,"  45,85","  28,11",non,03602,45.85,28.11
+POUSSET,Bernard,M.,UMP,Union pour un Mouvement Populaire,17411,"  46,52","  30,72",non,03603,46.52,30.72
+CHANTEGUET,Jean-Paul,M.,SOC,Socialiste,20019,"  53,48","  35,32",oui,03603,53.48,35.32
+DONNEDIEU DE VABRES,Renaud,M.,UMP,Union pour un Mouvement Populaire,15160,"  48,93","  27,79",non,03701,48.93,27.79
+GILLE,Jean-Patrick,M.,SOC,Socialiste,15826,"  51,07","  29,01",oui,03701,51.07,29.01
+GREFF,Claude,Mme,UMP,Union pour un Mouvement Populaire,29699,"  53,99","  32,26",oui,03702,53.99,32.26
+FORTIER,Mélanie,Mme,RDG,Radical de gauche,25312,"  46,01","  27,49",non,03702,46.01,27.49
+DESCAMPS,Jean-Jacques,M.,UMP,Union pour un Mouvement Populaire,28463,"  49,78","  30,77",non,03703,49.78,30.77
+TOURAINE,Marisol,Mme,SOC,Socialiste,28714,"  50,22","  31,04",oui,03703,50.22,31.04
+NOVELLI,Hervé,M.,UMP,Union pour un Mouvement Populaire,27157,"  52,56","  31,43",oui,03704,52.56,31.43
+LE BRETON,Philippe,M.,SOC,Socialiste,24514,"  47,44","  28,37",non,03704,47.44,28.37
+BRIAND,Philippe,M.,UMP,Union pour un Mouvement Populaire,25770,"  55,37","  32,97",oui,03705,55.37,32.97
+ROIRON,Claude,Mme,SOC,Socialiste,20771,"  44,63","  26,57",non,03705,44.63,26.57
+FIORASO,Geneviève,Mme,SOC,Socialiste,29184,"  63,03","  36,69",oui,03801,63.03,36.69
+CARIGNON,Alain,M.,UMP,Union pour un Mouvement Populaire,17115,"  36,97","  21,52",non,03801,36.97,21.52
+SAVOUREUX,Christine,Mme,UMP,Union pour un Mouvement Populaire,16418,"  39,67","  22,47",non,03802,39.67,22.47
+ISSINDOU,Michel,M.,SOC,Socialiste,24973,"  60,33","  34,18",oui,03802,60.33,34.18
+DESTOT,Michel,M.,SOC,Socialiste,20088,"  61,95","  33,29",oui,03803,61.95,33.29
+BERANGER,Nathalie,Mme,UMP,Union pour un Mouvement Populaire,12340,"  38,05","  20,45",non,03803,38.05,20.45
+MIGAUD,Didier,M.,SOC,Socialiste,31725,"  62,76","  37,13",oui,03804,62.76,37.13
+CASAVECCHIA,Yann,M.,MAJ,Majorité présidentielle,18825,"  37,24","  22,03",non,03804,37.24,22.03
+BROTTES,François,M.,SOC,Socialiste,31237,"  53,36","  33,55",oui,03805,53.36,33.55
+SAVIN,Michel,M.,UMP,Union pour un Mouvement Populaire,27301,"  46,64","  29,33",non,03805,46.64,29.33
+FINET-GIRARD,Laurence,Mme,SOC,Socialiste,22107,"  40,19","  20,81",non,03806,40.19,20.81
+MOYNE BRESSAND,Alain,M.,UMP,Union pour un Mouvement Populaire,32894,"  59,81","  30,97",oui,03806,59.81,30.97
+BINET,Erwann,M.,SOC,Socialiste,26385,"  46,49","  25,71",non,03808,46.49,25.71
+REMILLER,Jacques,M.,UMP,Union pour un Mouvement Populaire,30374,"  53,51","  29,59",oui,03808,53.51,29.59
+DE SANS NICOLAS,Fabien,M.,UMP,Union pour un Mouvement Populaire,21969,"  40,27","  24,68",non,03809,40.27,24.68
+VALLINI,André,M.,SOC,Socialiste,32589,"  59,73","  36,61",oui,03809,59.73,36.61
+GARNIER ,Yves,M.,UMP,Union pour un Mouvement Populaire,7208,"  34,61","  12,97",non,03902,34.61,12.97
+DALLOZ,Marie-Christine,Mme,UMP,Union pour un Mouvement Populaire,13621,"  65,39","  24,52",oui,03902,65.39,24.52
+SERMIER,Jean-Marie,M.,UMP,Union pour un Mouvement Populaire,23153,"  54,51","  34,11",oui,03903,54.51,34.11
+VIVERGE,Patrick,M.,SOC,Socialiste,19325,"  45,49","  28,47",non,03903,45.49,28.47
+VIDALIES,Alain,M.,SOC,Socialiste,31977,"  53,47","  34,38",oui,04001,53.47,34.38
+BERTHELON,Marie-Constance,Mme,UMP,Union pour un Mouvement Populaire,27824,"  46,53","  29,92",non,04001,46.53,29.92
+FORTE,Jacques,M.,UMP,Union pour un Mouvement Populaire,31451,"  44,69","  29,20",non,04002,44.69,29.2
+DUFAU,Jean-Pierre,M.,SOC,Socialiste,38918,"  55,31","  36,14",oui,04002,55.31,36.14
+EMMANUELLI,Henri,M.,SOC,Socialiste,33522,"  58,79","  40,27",oui,04003,58.79,40.27
+TAUZIN,Arnaud,M.,UMP,Union pour un Mouvement Populaire,23501,"  41,21","  28,23",non,04003,41.21,28.23
+PERRUCHOT,Nicolas,M.,MAJ,Majorité présidentielle,26418,"  50,31","  29,15",oui,04101,50.31,29.15
+BARABAN,Geneviève,Mme,SOC,Socialiste,26097,"  49,69","  28,80",non,04101,49.69,28.8
+LORGEOUX,Jeanny,M.,SOC,Socialiste,21745,"  44,85","  27,15",non,04102,44.85,27.15
+MARTIN-LALANDE,Patrice,M.,UMP,Union pour un Mouvement Populaire,26735,"  55,15","  33,38",oui,04102,55.15,33.38
+LEROY,Maurice,M.,MAJ,Majorité présidentielle,24707,"  58,29","  34,87",oui,04103,58.29,34.87
+VIDAL,Marie-Hélène,Mme,SOC,Socialiste,17676,"  41,71","  24,94",non,04103,41.71,24.94
+JUANICO,Régis,M.,SOC,Socialiste,18922,"  52,13","  27,45",oui,04201,52.13,27.45
+GROSSETETE,Françoise,Mme,UMP,Union pour un Mouvement Populaire,17373,"  47,87","  25,20",non,04201,47.87,25.2
+CABAL,Christian,M.,UMP,Union pour un Mouvement Populaire,12095,"  46,01","  24,12",non,04202,46.01,24.12
+GAGNAIRE,Jean-Louis,M.,SOC,Socialiste,14194,"  53,99","  28,31",oui,04202,53.99,28.31
+FARIGOULE,Christiane,Mme,SOC,Socialiste,17485,"  40,97","  22,09",non,04203,40.97,22.09
+ROCHEBLOINE,François,M.,MAJ,Majorité présidentielle,25189,"  59,03","  31,83",oui,04203,59.03,31.83
+CHARTRON,Jean-Paul,M.,SOC,Socialiste,18641,"  48,36","  26,94",non,04204,48.36,26.94
+CINIERI,Dino,M.,UMP,Union pour un Mouvement Populaire,19903,"  51,64","  28,77",oui,04204,51.64,28.77
+DEROCHE,Laure,Mme,SOC,Socialiste,20761,"  49,33","  29,96",non,04205,49.33,29.96
+NICOLIN,Yves,M.,UMP,Union pour un Mouvement Populaire,21324,"  50,67","  30,78",oui,04205,50.67,30.78
+CLEMENT,Pascal,M.,UMP,Union pour un Mouvement Populaire,22401,"  60,51","  32,24",oui,04206,60.51,32.24
+FRULEUX,Dominique,Mme,SOC,Socialiste,14617,"  39,49","  21,04",non,04206,39.49,21.04
+PRORIOL,Jean,M.,UMP,Union pour un Mouvement Populaire,24389,"  53,63","  30,34",oui,04302,53.63,30.34
+CHAPAVEIRE,André,M.,SOC,Socialiste,21090,"  46,37","  26,24",non,04302,46.37,26.24
+LE RIDANT,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,21231,"  47,97","  29,12",non,04401,47.97,29.12
+DE RUGY,François,M.,VEC,Les Verts,23029,"  52,03","  31,58",oui,04401,52.03,31.58
+PINTE,François,M.,UMP,Union pour un Mouvement Populaire,21876,"  45,24","  26,48",non,04402,45.24,26.48
+CLERGEAU,Marie-Françoise,Mme,SOC,Socialiste,26479,"  54,76","  32,05",oui,04402,54.76,32.05
+JOZAN,Sophie,Mme,UMP,Union pour un Mouvement Populaire,16769,"  33,85","  19,26",non,04403,33.85,19.26
+AYRAULT,Jean-Marc,M.,SOC,Socialiste,32770,"  66,15","  37,64",oui,04403,66.15,37.64
+RAIMBOURG,Dominique,M.,SOC,Socialiste,29978,"  64,49","  37,63",oui,04404,64.49,37.63
+THEBAUDEAU,Christine,Mme,UMP,Union pour un Mouvement Populaire,16506,"  35,51","  20,72",non,04404,35.51,20.72
+MENARD,Michel,M.,SOC,Socialiste,36891,"  51,11","  32,09",oui,04405,51.11,32.09
+DIAT,Robert,M.,UMP,Union pour un Mouvement Populaire,35292,"  48,89","  30,70",non,04405,48.89,30.7
+HUNAULT,Michel,M.,MAJ,Majorité présidentielle,25086,"  53,86","  32,47",oui,04406,53.86,32.47
+BIORET,Pascal,M.,SOC,Socialiste,21490,"  46,14","  27,82",non,04406,46.14,27.82
+L'HONEN,Adeline,Mme,SOC,Socialiste,26515,"  42,15","  25,11",non,04407,42.15,25.11
+PRIOU,Christophe,M.,UMP,Union pour un Mouvement Populaire,36392,"  57,85","  34,46",oui,04407,57.85,34.46
+BOUILLE,Marie-Odile,Mme,SOC,Socialiste,28471,"  64,30","  35,98",oui,04408,64.3,35.98
+ARTHUR,Jean-François,M.,UMP,Union pour un Mouvement Populaire,15806,"  35,70","  19,98",non,04408,35.7,19.98
+BOENNEC,Philippe,M.,UMP,Union pour un Mouvement Populaire,31712,"  53,00","  31,88",oui,04409,53.0,31.88
+RABIN,Monique,Mme,SOC,Socialiste,28121,"  47,00","  28,27",non,04409,47.0,28.27
+POIGNANT,Serge,M.,UMP,Union pour un Mouvement Populaire,33354,"  56,85","  33,67",oui,04410,56.85,33.67
+L'HOSTIS,Martine,Mme,SOC,Socialiste,25318,"  43,15","  25,55",non,04410,43.15,25.55
+MIALOT,Marie-Madeleine,Mme,SOC,Socialiste,21628,"  45,05","  26,16",non,04501,45.05,26.16
+CARRE,Olivier,M.,UMP,Union pour un Mouvement Populaire,26386,"  54,95","  31,91",oui,04501,54.95,31.91
+GROUARD,Serge,M.,UMP,Union pour un Mouvement Populaire,25054,"  54,65","  30,64",oui,04502,54.65,30.64
+CHAILLOU,Christophe,M.,SOC,Socialiste,20793,"  45,35","  25,42",non,04502,45.35,25.42
+PRAHECQ,Micheline,Mme,SOC,Socialiste,22528,"  44,50","  25,04",non,04503,44.5,25.04
+BERNARD,Jean-Louis,M.,UMP,Union pour un Mouvement Populaire,28099,"  55,50","  31,23",oui,04503,55.5,31.23
+CHARIE,Jean-Paul,M.,UMP,Union pour un Mouvement Populaire,29423,"  58,91","  32,76",oui,04505,58.91,32.76
+CANETTE,Carole,Mme,SOC,Socialiste,20520,"  41,09","  22,85",non,04505,41.09,22.85
+ROUMEGOUX,Michel,M.,UMP,Union pour un Mouvement Populaire,21638,"  45,03","  31,45",non,04601,45.03,31.45
+ORLIAC,Dominique,Mme,RDG,Radical de gauche,26419,"  54,97","  38,40",oui,04601,54.97,38.4
+LAUNAY,Jean,M.,SOC,Socialiste,25985,"  59,28","  40,22",oui,04602,59.28,40.22
+MARTIGNAC,Monique,Mme,UMP,Union pour un Mouvement Populaire,17847,"  40,72","  27,62",non,04602,40.72,27.62
+DEZALOS,Christian,M.,SOC,Socialiste,25085,"  46,43","  29,19",non,04701,46.43,29.19
+DIONIS DU SEJOUR,Jean,M.,MAJ,Majorité présidentielle,28945,"  53,57","  33,68",oui,04701,53.57,33.68
+DIEFENBACHER,Michel,M.,UMP,Union pour un Mouvement Populaire,27711,"  56,19","  35,72",oui,04702,56.19,35.72
+GOUZES,Gérard,M.,SOC,Socialiste,21605,"  43,81","  27,85",non,04702,43.81,27.85
+BRUGUIERE,Jean-Louis,M.,UMP,Union pour un Mouvement Populaire,25427,"  47,92","  33,38",non,04703,47.92,33.38
+CAHUZAC,Jérôme,M.,SOC,Socialiste,27639,"  52,08","  36,29",oui,04703,52.08,36.29
+CHAZAL,Jean-Claude,M.,SOC,Socialiste,9887,"  46,39","  30,84",non,04801,46.39,30.84
+SAINT LEGER,Francis,M.,UMP,Union pour un Mouvement Populaire,11425,"  53,61","  35,64",oui,04801,53.61,35.64
+BELOT,LUC,M.,SOC,Socialiste,20477,"  45,33","  25,68",non,04901,45.33,25.68
+BACHELOT-NARQUIN,Roselyne,Mme,UMP,Union pour un Mouvement Populaire,24694,"  54,67","  30,96",oui,04901,54.67,30.96
+GOUA,Marc,M.,SOC,Socialiste,26517,"  52,12","  31,01",oui,04902,52.12,31.01
+RICHARD,Dominique,M.,UMP,Union pour un Mouvement Populaire,24363,"  47,88","  28,49",non,04902,47.88,28.49
+ADRIEN-BIGEON,Laurence,Mme,SOC,Socialiste,17609,"  43,70","  23,66",non,04905,43.7,23.66
+BOURDOULEIX,Gilles,M.,UMP,Union pour un Mouvement Populaire,22684,"  56,30","  30,47",oui,04905,56.3,30.47
+BARDY,Serge,M.,SOC,Socialiste,21953,"  43,31","  24,33",non,04906,43.31,24.33
+DE CHARETTE,Hervé,M.,UMP,Union pour un Mouvement Populaire,28734,"  56,69","  31,85",oui,04906,56.69,31.85
+DESCHAMPS,Jean-Karl,M.,SOC,Socialiste,18571,"  42,29","  24,93",non,05001,42.29,24.93
+GOSSELIN,Philippe,M.,UMP,Union pour un Mouvement Populaire,25346,"  57,71","  34,03",oui,05001,57.71,34.03
+BAS,Philippe,M.,UMP,Union pour un Mouvement Populaire,18593,"  42,14","  24,46",non,05002,42.14,24.46
+HUET,Guénhaël,M.,DVD,Divers droite,25528,"  57,86","  33,58",oui,05002,57.86,33.58
+JOURDAIN MENNINGER,Danièle,Mme,SOC,Socialiste,17522,"  39,48","  22,81",non,05003,39.48,22.81
+COUSIN,Alain,M.,UMP,Union pour un Mouvement Populaire,26855,"  60,52","  34,96",oui,05003,60.52,34.96
+GATIGNOL,Claude,M.,UMP,Union pour un Mouvement Populaire,23440,"  55,50","  32,00",oui,05004,55.5,32.0
+DRUEZ,Yveline,Mme,SOC,Socialiste,18793,"  44,50","  25,66",non,05004,44.5,25.66
+CAZENEUVE,Bernard,M.,SOC,Socialiste,25652,"  58,96","  35,57",oui,05005,58.96,35.57
+LEMIERE,Jean,M.,UMP,Union pour un Mouvement Populaire,17859,"  41,04","  24,76",non,05005,41.04,24.76
+QUENARD,Eric,M.,SOC,Socialiste,13328,"  46,28","  23,01",non,05101,46.28,23.01
+DUTREIL,Renaud,M.,UMP,Union pour un Mouvement Populaire,15469,"  53,72","  26,70",oui,05101,53.72,26.7
+HAZAN,Adeline,Mme,SOC,Socialiste,15520,"  43,07","  23,03",non,05102,43.07,23.03
+VAUTRIN,Catherine,Mme,UMP,Union pour un Mouvement Populaire,20511,"  56,93","  30,43",oui,05102,56.93,30.43
+THOMAS,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,17326,"  53,70","  26,40",oui,05103,53.7,26.4
+DAHM,Nathalie,Mme,SOC,Socialiste,14936,"  46,30","  22,76",non,05103,46.3,22.76
+APPARU,Benoist,M.,UMP,Union pour un Mouvement Populaire,18523,"  58,94","  30,25",oui,05104,58.94,30.25
+BERTHIOT,Gérard,M.,SOC,Socialiste,12905,"  41,06","  21,07",non,05104,41.06,21.07
+GAROT,Guillaume,M.,SOC,Socialiste,25258,"  50,63","  30,91",oui,05301,50.63,30.91
+D'AUBERT,François,M.,UMP,Union pour un Mouvement Populaire,24634,"  49,37","  30,15",non,05301,49.37,30.15
+BERNIER,Marc,M.,UMP,Union pour un Mouvement Populaire,18051,"  51,80","  26,94",oui,05302,51.8,26.94
+DOINEAU,Elisabeth,Mme,UDFD,UDF-Mouvement Démocrate,16796,"  48,20","  25,07",non,05302,48.2,25.07
+HENART,Laurent,M.,UMP,Union pour un Mouvement Populaire,14816,"  50,80","  27,99",oui,05401,50.8,27.99
+KLEIN,Mathieu,M.,SOC,Socialiste,14348,"  49,20","  27,10",non,05401,49.2,27.1
+FERON,Hervé,M.,SOC,Socialiste,22933,"  50,65","  29,32",oui,05402,50.65,29.32
+BURCKHART-VANDEVELDE,Patricia,Mme,UMP,Union pour un Mouvement Populaire,22341,"  49,35","  28,56",non,05402,49.35,28.56
+ROSSO-DEBORD,Valérie,Mme,UMP,Union pour un Mouvement Populaire,16718,"  51,37","  28,67",oui,05403,51.37,28.67
+JACQUEMIN,Pascal,M.,SOC,Socialiste,15825,"  48,63","  27,14",non,05403,48.63,27.14
+LAMBLIN,Jacques,M.,UMP,Union pour un Mouvement Populaire,25291,"  57,85","  32,44",oui,05404,57.85,32.44
+DEMONET,Laurence,Mme,SOC,Socialiste,18430,"  42,15","  23,64",non,05404,42.15,23.64
+PILOT,Michèle,Mme,SOC,Socialiste,21206,"  47,18","  28,14",non,05405,47.18,28.14
+MORANO,Nadine,Mme,UMP,Union pour un Mouvement Populaire,23741,"  52,82","  31,50",oui,05405,52.82,31.5
+GIROUX,Paul,M.,UMP,Union pour un Mouvement Populaire,17341,"  41,38","  22,11",non,05406,41.38,22.11
+LE DEAUT,Jean-Yves,M.,SOC,Socialiste,24562,"  58,62","  31,32",oui,05406,58.62,31.32
+JACQUE,Edouard,M.,UMP,Union pour un Mouvement Populaire,16787,"  46,05","  23,54",non,05407,46.05,23.54
+ECKERT,Christian,M.,SOC,Socialiste,19668,"  53,95","  27,58",oui,05407,53.95,27.58
+VILLEMIN,Thibaut,M.,SOC,Socialiste,21481,"  46,03","  26,83",non,05501,46.03,26.83
+PANCHER,Bertrand,M.,UMP,Union pour un Mouvement Populaire,25188,"  53,97","  31,46",oui,05501,53.97,31.46
+BECQ-VINCI,Claudine,Mme,UMP,Union pour un Mouvement Populaire,17222,"  47,08","  27,93",non,05502,47.08,27.93
+DUMONT,Jean-Louis,M.,SOC,Socialiste,19361,"  52,92","  31,40",oui,05502,52.92,31.4
+PELLOIS,Hervé,M.,SOC,Socialiste,30429,"  47,10","  29,11",non,05601,47.1,29.11
+GOULARD,François,M.,UMP,Union pour un Mouvement Populaire,34174,"  52,90","  32,69",oui,05601,52.9,32.69
+LE MAGUERESSE,Nathalie,Mme,SOC,Socialiste,27189,"  47,75","  29,16",non,05602,47.75,29.16
+GRALL,Michel,M.,UMP,Union pour un Mouvement Populaire,29755,"  52,25","  31,91",oui,05602,52.25,31.91
+LORGEOUX,Gérard,M.,UMP,Union pour un Mouvement Populaire,27523,"  53,04","  33,02",oui,05603,53.04,33.02
+LE ROCH,Jean-Pierre,M.,SOC,Socialiste,24365,"  46,96","  29,23",non,05603,46.96,29.23
+LE MARRE,Béatrice,Mme,SOC,Socialiste,26893,"  49,58","  30,82",non,05604,49.58,30.82
+BOUVARD,Loïc,M.,UMP,Union pour un Mouvement Populaire,27351,"  50,42","  31,35",oui,05604,50.42,31.35
+COLAS,Maria,Mme,UMP,Union pour un Mouvement Populaire,21395,"  44,73","  26,28",non,05605,44.73,26.28
+OLIVIER-COUPEAU,Françoise,Mme,SOC,Socialiste,26433,"  55,27","  32,48",oui,05605,55.27,32.48
+LE NAY,Jacques,M.,UMP,Union pour un Mouvement Populaire,30528,"  54,67","  35,05",oui,05606,54.67,35.05
+BAGEOT,Jean-Pierre,M.,SOC,Socialiste,25311,"  45,33","  29,06",non,05606,45.33,29.06
+GROSDIDIER,François,M.,UMP,Union pour un Mouvement Populaire,19547,"  52,40","  26,32",oui,05701,52.4,26.32
+TERRIER,Gérard,M.,SOC,Socialiste,17755,"  47,60","  23,90",non,05701,47.6,23.9
+JACQUAT,Denis,M.,UMP,Union pour un Mouvement Populaire,20150,"  55,89","  26,73",oui,05702,55.89,26.73
+GANSOINAT-RAVAINE,Marie-Thérèse,Mme,SOC,Socialiste,15906,"  44,11","  21,10",non,05702,44.11,21.1
+LANG,Pierre,M.,UMP,Union pour un Mouvement Populaire,20742,"  65,26","  28,22",oui,05706,65.26,28.22
+OBIEGALA,Michel,M.,SOC,Socialiste,11040,"  34,74","  15,02",non,05706,34.74,15.02
+MISSOFFE,Alain,M.,UMP,Union pour un Mouvement Populaire,19025,"  49,04","  24,85",non,05708,49.04,24.85
+FILIPPETTI,Aurélie,Mme,SOC,Socialiste,19769,"  50,96","  25,82",oui,05708,50.96,25.82
+MERTZ,Bertrand,M.,SOC,Socialiste,16163,"  44,89","  21,88",non,05709,44.89,21.88
+DEMANGE,Jean-Marie,M.,UMP,Union pour un Mouvement Populaire,19840,"  55,11","  26,86",oui,05709,55.11,26.86
+FERRARI,Christine,Mme,UMP,Union pour un Mouvement Populaire,14772,"  43,90","  20,85",non,05710,43.9,20.85
+LIEBGOTT,Michel,M.,SOC,Socialiste,18874,"  56,10","  26,64",oui,05710,56.1,26.64
+CARRILLON COUVREUR,Martine,Mme,SOC,Socialiste,17919,"  56,07","  32,21",oui,05801,56.07,32.21
+ROSTEIN,Daniel,M.,UMP,Union pour un Mouvement Populaire,14039,"  43,93","  25,24",non,05801,43.93,25.24
+GORCE,Gaëtan,M.,SOC,Socialiste,21219,"  57,71","  35,00",oui,05802,57.71,35.0
+LEGRAIN,Annie,Mme,UMP,Union pour un Mouvement Populaire,15551,"  42,29","  25,65",non,05802,42.29,25.65
+PAUL,Christian,M.,SOC,Socialiste,19660,"  57,47","  36,74",oui,05803,57.47,36.74
+FREYTAG,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,14550,"  42,53","  27,19",non,05803,42.53,27.19
+ROMAN,Bernard,M.,SOC,Socialiste,17772,"  61,75","  30,23",oui,05901,61.75,30.23
+SELLALI,Khalida,Mme,UMP,Union pour un Mouvement Populaire,11007,"  38,25","  18,72",non,05901,38.25,18.72
+DEROSIER,Bernard,M.,SOC,Socialiste,23180,"  58,67","  31,66",oui,05902,58.67,31.66
+VANNIER,Caroline,Mme,UMP,Union pour un Mouvement Populaire,16327,"  41,33","  22,30",non,05902,41.33,22.3
+DECOCQ,Christian,M.,UMP,Union pour un Mouvement Populaire,16479,"  49,40","  25,62",non,05903,49.4,25.62
+CACHEUX,Alain,M.,SOC,Socialiste,16879,"  50,60","  26,25",oui,05903,50.6,26.25
+DAUBRESSE,Marc-Philippe,M.,UMP,Union pour un Mouvement Populaire,23115,"  58,72","  31,73",oui,05904,58.72,31.73
+FILLEUL,Martine,Mme,SOC,Socialiste,16248,"  41,28","  22,30",non,05904,41.28,22.3
+HUYGHE,Sébastien,M.,UMP,Union pour un Mouvement Populaire,25387,"  50,73","  28,85",oui,05905,50.73,28.85
+PARAT,Brigitte,Mme,SOC,Socialiste,24657,"  49,27","  28,02",non,05905,49.27,28.02
+BAILLY,Dominique,M.,SOC,Socialiste,21745,"  43,40","  26,83",non,05906,43.4,26.83
+LAZARO,Thierry,M.,UMP,Union pour un Mouvement Populaire,28363,"  56,60","  35,00",oui,05906,56.6,35.0
+BULLAERT,Fanny,Mme,SOC,Socialiste,17660,"  49,74","  24,86",non,05907,49.74,24.86
+VERCAMER,Francis,M.,MAJ,Majorité présidentielle,17844,"  50,26","  25,12",oui,05907,50.26,25.12
+BAERT,Dominique,M.,SOC,Socialiste,19373,"  56,86","  26,91",oui,05908,56.86,26.91
+KACET,Salem,M.,UMP,Union pour un Mouvement Populaire,14697,"  43,14","  20,41",non,05908,43.14,20.41
+VANNESTE,Christian,M.,DVD,Divers droite,21720,"  58,56","  27,70",oui,05910,58.56,27.7
+AZMY,Najat,Mme,SOC,Socialiste,15367,"  41,44","  19,59",non,05910,41.44,19.59
+DURAND,Yves,M.,SOC,Socialiste,26588,"  52,28","  30,60",oui,05911,52.28,30.6
+WAYMEL,Philippe,M.,UMP,Union pour un Mouvement Populaire,24272,"  47,72","  27,94",non,05911,47.72,27.94
+HUTIN,Christian,M.,DVG,Divers gauche,23448,"  63,95","  33,33",oui,05912,63.95,33.33
+GABANT,Jacqueline,Mme,UMP,Union pour un Mouvement Populaire,13219,"  36,05","  18,79",non,05912,36.05,18.79
+DELEBARRE,Michel,M.,SOC,Socialiste,22338,"  53,12","  34,34",oui,05913,53.12,34.34
+DHERSIN,Franck,M.,UMP,Union pour un Mouvement Populaire,19712,"  46,88","  30,30",non,05913,46.88,30.3
+POLNECQ,Françoise,Mme,SOC,Socialiste,20136,"  48,13","  27,16",non,05915,48.13,27.16
+HOSTALIER,Françoise,Mme,UMP,Union pour un Mouvement Populaire,21705,"  51,87","  29,27",oui,05915,51.87,29.27
+CANDELIER,Jean-Jacques,M.,COM,Communiste,29565,"  66,09","  36,38",oui,05916,66.09,36.38
+DERAIN,Michelle,Mme,UMP,Union pour un Mouvement Populaire,15169,"  33,91","  18,66",non,05916,33.91,18.66
+PROUVOST,Françoise,Mme,UMP,Union pour un Mouvement Populaire,15746,"  37,86","  20,98",non,05917,37.86,20.98
+DOLEZ,Marc,M.,SOC,Socialiste,25847,"  62,14","  34,45",oui,05917,62.14,34.45
+DOUAY,Brigitte,Mme,SOC,Socialiste,19641,"  42,55","  24,71",non,05918,42.55,24.71
+VILLAIN,François-Xavier,M.,UMP,Union pour un Mouvement Populaire,26519,"  57,45","  33,37",oui,05918,57.45,33.37
+ROY,Patrick,M.,SOC,Socialiste,22870," 100,00","  28,50",oui,05919,100.0,28.5
+BOCQUET,Alain,M.,COM,Communiste,29933,"  69,17","  36,18",oui,05920,69.17,36.18
+GARCIA,Marie-Thérèse,Mme,UMP,Union pour un Mouvement Populaire,13340,"  30,83","  16,12",non,05920,30.83,16.12
+BATAILLE,Christian,M.,SOC,Socialiste,24487,"  52,78","  32,63",oui,05922,52.78,32.63
+LESNE,Marie-Sophie,Mme,UMP,Union pour un Mouvement Populaire,21909,"  47,22","  29,19",non,05922,47.22,29.19
+PAUVROS,Rémi,M.,SOC,Socialiste,18346,"  49,25","  27,64",non,05923,49.25,27.64
+MARIN,Christine,Mme,UMP,Union pour un Mouvement Populaire,18906,"  50,75","  28,48",oui,05923,50.75,28.48
+PERAT,Jean-Luc,M.,SOC,Socialiste,19918,"  53,15","  30,63",oui,05924,53.15,30.63
+POYART,Alain,M.,UMP,Union pour un Mouvement Populaire,17554,"  46,85","  27,00",non,05924,46.85,27.0
+DASSAULT,Olivier,M.,UMP,Union pour un Mouvement Populaire,27473,"  58,61","  34,62",oui,06001,58.61,34.62
+ROME,Yves,M.,SOC,Socialiste,19404,"  41,39","  24,45",non,06001,41.39,24.45
+HOUSSIN,Sylvie,Mme,SOC,Socialiste,21690,"  47,23","  25,83",non,06002,47.23,25.83
+MANCEL,Jean-François,M.,UMP,Union pour un Mouvement Populaire,24234,"  52,77","  28,86",oui,06002,52.77,28.86
+BREMARD,Cécile,Mme,UMP,Union pour un Mouvement Populaire,17596,"  46,57","  25,20",non,06003,46.57,25.2
+FRANCAIX,Michel,M.,SOC,Socialiste,20188,"  53,43","  28,91",oui,06003,53.43,28.91
+CARVALHO,Patrice,M.,COM,Communiste,19437,"  45,99","  26,37",non,06006,45.99,26.37
+GONNOT,François-Michel,M.,UMP,Union pour un Mouvement Populaire,22829,"  54,01","  30,98",oui,06006,54.01,30.98
+PUEYO,Joaquim,M.,DVG,Divers gauche,20103,"  47,18","  27,73",non,06101,47.18,27.73
+DENIAUD,Yves,M.,UMP,Union pour un Mouvement Populaire,22504,"  52,82","  31,04",oui,06101,52.82,31.04
+MAQUET,Jacqueline,Mme,SOC,Socialiste,26398,"  52,09","  33,06",oui,06201,52.09,33.06
+RAPENEAU,Philippe,M.,UMP,Union pour un Mouvement Populaire,24282,"  47,91","  30,41",non,06201,47.91,30.41
+GENISSON,Catherine,Mme,SOC,Socialiste,27635,"  56,11","  36,11",oui,06202,56.11,36.11
+ZIOLKOWSKI,Michel,M.,UMP,Union pour un Mouvement Populaire,21615,"  43,89","  28,24",non,06202,43.89,28.24
+LEROY,Jean-Claude,M.,SOC,Socialiste,30004,"  57,09","  39,80",oui,06203,57.09,39.8
+MAGNIER,Hélène,Mme,UMP,Union pour un Mouvement Populaire,22553,"  42,91","  29,92",non,06203,42.91,29.92
+FASQUELLE,Daniel,M.,UMP,Union pour un Mouvement Populaire,26498,"  53,89","  33,55",oui,06204,53.89,33.55
+LENA,Vincent,M.,SOC,Socialiste,22675,"  46,11","  28,71",non,06204,46.11,28.71
+CUVILLIER,Frédéric,M.,SOC,Socialiste,23315,"  62,04","  35,94",oui,06205,62.04,35.94
+VALLA,Annick,Mme,UMP,Union pour un Mouvement Populaire,14266,"  37,96","  21,99",non,06205,37.96,21.99
+WACHEUX,Frédéric,M.,UMP,Union pour un Mouvement Populaire,19729,"  45,28","  26,77",non,06206,45.28,26.77
+LANG,Jack,M.,SOC,Socialiste,23839,"  54,72","  32,34",oui,06206,54.72,32.34
+BOUCHART,Natacha,Mme,UMP,Union pour un Mouvement Populaire,23319,"  49,29","  27,17",non,06207,49.29,27.17
+COCQUEMPOT,Gilles,M.,SOC,Socialiste,23994,"  50,71","  27,95",oui,06207,50.71,27.95
+FLAJOLET,André,M.,UMP,Union pour un Mouvement Populaire,25841,"  51,76","  31,93",oui,06209,51.76,31.93
+MELLICK,Jacques,M.,SOC,Socialiste,24080,"  48,24","  29,75",non,06209,48.24,29.75
+JANQUIN,Serge,M.,SOC,Socialiste,25496,"  67,90","  35,21",oui,06210,67.9,35.21
+MOREL,Isabelle,Mme,UMP,Union pour un Mouvement Populaire,12055,"  32,10","  16,65",non,06210,32.1,16.65
+WONTERGHEM,Myriam,Mme,UMP,Union pour un Mouvement Populaire,20265,"  38,34","  20,96",non,06211,38.34,20.96
+DURIEZ,Odette,Mme,SOC,Socialiste,32595,"  61,66","  33,72",oui,06211,61.66,33.72
+KUCHEIDA,Jean-Pierre,M.,SOC,Socialiste,27866,"  69,69","  35,28",oui,06212,69.69,35.28
+DUQUESNE,Jeanine,Mme,UMP,Union pour un Mouvement Populaire,12118,"  30,31","  15,34",non,06212,30.31,15.34
+DELCOURT,Guy,M.,SOC,Socialiste,23574,"  64,22","  32,56",oui,06213,64.22,32.56
+PERMUY,Béatrice,Mme,UMP,Union pour un Mouvement Populaire,13137,"  35,78","  18,14",non,06213,35.78,18.14
+LE PEN,Marine,Mme,FN,Front national,17107,"  41,65","  22,61",non,06214,41.65,22.61
+FACON,Albert,M.,SOC,Socialiste,23965,"  58,35","  31,67",oui,06214,58.35,31.67
+COURTILLE,Anne,Mme,UMP,Union pour un Mouvement Populaire,12939,"  38,75","  21,00",non,06301,38.75,21.0
+SAUGUES,Odile,Mme,SOC,Socialiste,20453,"  61,25","  33,20",oui,06301,61.25,33.2
+NERI,Alain,M.,SOC,Socialiste,28286,"  61,83","  36,90",oui,06302,61.83,36.9
+SUSS,Paul,M.,UMP,Union pour un Mouvement Populaire,17459,"  38,17","  22,77",non,06302,38.17,22.77
+LACOMBE,Mireille,Mme,SOC,Socialiste,21023,"  46,91","  28,14",non,06303,46.91,28.14
+GISCARD D'ESTAING,Louis,M.,UMP,Union pour un Mouvement Populaire,23790,"  53,09","  31,84",oui,06303,53.09,31.84
+BACQUET,Jean-Paul,M.,SOC,Socialiste,29965,"  61,44","  38,58",oui,06304,61.44,38.58
+SERRE,Christophe,M.,UMP,Union pour un Mouvement Populaire,18806,"  38,56","  24,21",non,06304,38.56,24.21
+DELANNOY,Anne-Marie,Mme,UMP,Union pour un Mouvement Populaire,14393,"  34,10","  21,68",non,06305,34.1,21.68
+CHASSAIGNE,André,M.,COM,Communiste,27819,"  65,90","  41,91",oui,06305,65.9,41.91
+MICHEL,Jean,M.,SOC,Socialiste,31011,"  54,24","  35,09",oui,06306,54.24,35.09
+SIKORA,Marie-Thérèse,Mme,UMP,Union pour un Mouvement Populaire,26163,"  45,76","  29,60",non,06306,45.76,29.6
+LIGNIERES-CASSOU,Martine,Mme,SOC,Socialiste,23729,"  55,52","  34,71",oui,06401,55.52,34.71
+LAYRE,Bernard,M.,UMP,Union pour un Mouvement Populaire,19012,"  44,48","  27,81",non,06401,44.48,27.81
+CABANNE,Marie-Pierre,Mme,SOC,Socialiste,16273,"  38,79","  21,89",non,06402,38.79,21.89
+BAYROU,François,M.,UDFD,UDF-Mouvement Démocrate,25677,"  61,21","  34,55",oui,06402,61.21,34.55
+HABIB,David,M.,SOC,Socialiste,32457,"  62,50","  40,46",oui,06403,62.5,40.46
+SAILLIET,Laurence,Mme,UMP,Union pour un Mouvement Populaire,19471,"  37,50","  24,27",non,06403,37.5,24.27
+LUCBEREILH,Hervé,M.,UMP,Union pour un Mouvement Populaire,18997,"  33,65","  23,66",non,06404,33.65,23.66
+DOMECQ,Jean-Pierre,M.,SOC,Socialiste,14657,"  25,96","  18,25",non,06404,25.96,18.25
+LASSALLE,Jean,M.,UDFD,UDF-Mouvement Démocrate,22803,"  40,39","  28,40",oui,06404,40.39,28.4
+GRENET,Jean,M.,UMP,Union pour un Mouvement Populaire,25037,"  52,93","  30,19",oui,06405,52.93,30.19
+ESPILONDO,Jean,M.,SOC,Socialiste,22266,"  47,07","  26,85",non,06405,47.07,26.85
+ALAUX,Sylviane,Mme,SOC,Socialiste,21726,"  41,63","  23,67",non,06406,41.63,23.67
+ALLIOT-MARIE,Michèle,Mme,UMP,Union pour un Mouvement Populaire,30460,"  58,37","  33,18",oui,06406,58.37,33.18
+FORGUES,Pierre,M.,SOC,Socialiste,22465,"  60,77","  37,37",oui,06501,60.77,37.37
+LAMON,Monique,Mme,UMP,Union pour un Mouvement Populaire,14505,"  39,23","  24,13",non,06501,39.23,24.13
+ROBIN-RODRIGO,Chantal,Mme,RDG,Radical de gauche,23075,"  55,17","  36,50",oui,06502,55.17,36.5
+TREMEGE,Gérard,M.,UMP,Union pour un Mouvement Populaire,18754,"  44,83","  29,67",non,06502,44.83,29.67
+GLAVANY,Jean,M.,SOC,Socialiste,20100,"  61,41","  37,61",oui,06503,61.41,37.61
+RABAUD-CARRIE,Christine,Mme,UMP,Union pour un Mouvement Populaire,12631,"  38,59","  23,64",non,06503,38.59,23.64
+MACH,Daniel,M.,UMP,Union pour un Mouvement Populaire,21410,"  56,98","  32,33",oui,06601,56.98,32.33
+VILA,JEAN,M.,COM,Communiste,16167,"  43,02","  24,41",non,06601,43.02,24.41
+SOUM,RENEE,Mme,SOC,Socialiste,22622,"  40,22","  23,38",non,06602,40.22,23.38
+FRANCO,Arlette,Mme,UMP,Union pour un Mouvement Populaire,33630,"  59,78","  34,76",oui,06602,59.78,34.76
+CALVET,François,M.,UMP,Union pour un Mouvement Populaire,20881,"  51,94","  31,64",oui,06603,51.94,31.64
+BOURQUIN,Christian,M.,SOC,Socialiste,19321,"  48,06","  29,27",non,06603,48.06,29.27
+IRLES,JACQUELINE,Mme,UMP,Union pour un Mouvement Populaire,28070,"  50,25","  32,12",oui,06604,50.25,32.12
+AYLAGAS,Pierre,M.,DVG,Divers gauche,27790,"  49,75","  31,80",non,06604,49.75,31.8
+JUNG,Armand,M.,SOC,Socialiste,15994,"  56,27","  30,36",oui,06701,56.27,30.36
+LOUTREL,Frédérique,Mme,UMP,Union pour un Mouvement Populaire,12428,"  43,73","  23,59",non,06701,43.73,23.59
+BIES,Philippe,M.,SOC,Socialiste,12530,"  48,68","  24,33",non,06702,48.68,24.33
+MAURER,Jean-Philippe,M.,UMP,Union pour un Mouvement Populaire,13211,"  51,32","  25,65",oui,06702,51.32,25.65
+SCHNEIDER,André,M.,UMP,Union pour un Mouvement Populaire,18154,"  57,75","  27,14",oui,06703,57.75,27.14
+NAÏLI,Zoubida,Mme,SOC,Socialiste,13284,"  42,25","  19,86",non,06703,42.25,19.86
+MEYER,Gilbert,M.,UMP,Union pour un Mouvement Populaire,12492,"  33,95","  17,36",non,06801,33.95,17.36
+STRAUMANN,Eric,M.,DVD,Divers droite,24298,"  66,05","  33,77",oui,06801,66.05,33.77
+FREYBURGER,Pierre,M.,SOC,Socialiste,11641,"  43,73","  21,35",non,06805,43.73,21.35
+GROSSKOST,Arlette,Mme,UMP,Union pour un Mouvement Populaire,14977,"  56,27","  27,46",oui,06805,56.27,27.46
+BRAILLARD,Thierry,M.,RDG,Radical de gauche,16687,"  48,46","  26,16",non,06901,48.46,26.16
+HAVARD,Michel ,M.,UMP,Union pour un Mouvement Populaire,17750,"  51,54","  27,83",oui,06901,51.54,27.83
+MUET,Pierre-Alain,M.,SOC,Socialiste,21310,"  51,51","  29,72",oui,06902,51.51,29.72
+HAMELIN,Emmanuel,M.,UMP,Union pour un Mouvement Populaire,20058,"  48,49","  27,97",non,06902,48.49,27.97
+DUBERNARD,Jean-Michel,M.,UMP,Union pour un Mouvement Populaire,18186,"  48,66","  27,00",non,06903,48.66,27.0
+TOURAINE,Jean-Louis,M.,SOC,Socialiste,19190,"  51,34","  28,49",oui,06903,51.34,28.49
+PERBEN,Dominique,M.,UMP,Union pour un Mouvement Populaire,23717,"  56,57","  31,59",oui,06904,56.57,31.59
+VALLAUD-BELKACEM,Najat,Mme,SOC,Socialiste,18210,"  43,43","  24,26",non,06904,43.43,24.26
+CHABERT,Henry,M.,UMP,Union pour un Mouvement Populaire,18532,"  46,19","  24,90",non,06906,46.19,24.9
+CROZON,Pascale,Mme,SOC,Socialiste,21592,"  53,81","  29,01",oui,06906,53.81,29.01
+DEBIOL,Jean-François,M.,UMP,Union pour un Mouvement Populaire,15147,"  47,73","  24,95",non,06907,47.73,24.95
+QUEYRANNE,Jean-Jack,M.,SOC,Socialiste,16591,"  52,27","  27,33",oui,06907,52.27,27.33
+GUILLOTEAU,Christophe,M.,UMP,Union pour un Mouvement Populaire,32514,"  63,99","  36,20",oui,06910,63.99,36.2
+PERRIN,Florence,Mme,SOC,Socialiste,18295,"  36,01","  20,37",non,06910,36.01,20.37
+FENECH,Georges,M.,UMP,Union pour un Mouvement Populaire,25843,"  56,54","  32,24",oui,06911,56.54,32.24
+GAGNEUR,Jean-François,M.,SOC,Socialiste,19865,"  43,46","  24,78",non,06911,43.46,24.78
+POMMATEAU,Gilles,M.,SOC,Socialiste,17090,"  41,01","  23,07",non,06912,41.01,23.07
+TERROT,Michel,M.,UMP,Union pour un Mouvement Populaire,24580,"  58,99","  33,19",oui,06912,58.99,33.19
+DAVID,Martine,Mme,SOC,Socialiste,21522,"  42,83","  23,55",non,06913,42.83,23.55
+MEUNIER,Philippe,M.,UMP,Union pour un Mouvement Populaire,28729,"  57,17","  31,44",oui,06913,57.17,31.44
+DENIS,Michel,M.,UMP,Union pour un Mouvement Populaire,11631,"  46,15","  23,10",non,06914,46.15,23.1
+GERIN,André,M.,COM,Communiste,13574,"  53,85","  26,96",oui,06914,53.85,26.96
+BRIOT,Maryvonne,Mme,UMP,Union pour un Mouvement Populaire,19498,"  48,39","  30,41",non,07002,48.39,30.41
+VILLAUMÉ,Jean-Michel,M.,SOC,Socialiste,20795,"  51,61","  32,43",oui,07002,51.61,32.43
+ESCHMANN,Nicole,Mme,SOC,Socialiste,17106,"  44,45","  25,36",non,07101,44.45,25.36
+VOISIN,Gérard,M.,UMP,Union pour un Mouvement Populaire,21380,"  55,55","  31,70",oui,07101,55.55,31.7
+NESME,Jean-Marc,M.,UMP,Union pour un Mouvement Populaire,20262,"  50,09","  31,40",oui,07102,50.09,31.4
+REBILLARD,Jacques,M.,RDG,Radical de gauche,20187,"  49,91","  31,28",non,07102,49.91,31.28
+COUILLEROT,Evelyne,Mme,SOC,Socialiste,20006,"  48,51","  29,99",non,07103,48.51,29.99
+ANCIAUX,Jean-Paul,M.,UMP,Union pour un Mouvement Populaire,21233,"  51,49","  31,83",oui,07103,51.49,31.83
+JARROT,Marie-Claude,Mme,UMP,Union pour un Mouvement Populaire,19635,"  48,77","  31,75",non,07104,48.77,31.75
+MATHUS,Didier,M.,SOC,Socialiste,20629,"  51,23","  33,35",oui,07104,51.23,33.35
+JUILLOT,Dominique,M.,UMP,Union pour un Mouvement Populaire,19256,"  49,70","  29,81",non,07105,49.7,29.81
+SIRUGUE,Christophe,M.,SOC,Socialiste,19488,"  50,30","  30,17",oui,07105,50.3,30.17
+DANJEAN,Arnaud,M.,UMP,Union pour un Mouvement Populaire,28965,"  49,66","  34,02",non,07106,49.66,34.02
+MONTEBOURG,Arnaud,M.,SOC,Socialiste,29361,"  50,34","  34,48",oui,07106,50.34,34.48
+LABRETTE-MENAGER,Fabienne,Mme,UMP,Union pour un Mouvement Populaire,22158,"  56,55","  31,01",oui,07201,56.55,31.01
+DUBOIS,Françoise,Mme,SOC,Socialiste,17026,"  43,45","  23,82",non,07201,43.45,23.82
+GEVEAUX,Jean-Marie,M.,UMP,Union pour un Mouvement Populaire,21261,"  47,52","  25,86",non,07202,47.52,25.86
+KARAMANLI,Marietta,Mme,SOC,Socialiste,23476,"  52,48","  28,55",oui,07202,52.48,28.55
+PAVY,Béatrice,Mme,UMP,Union pour un Mouvement Populaire,26595,"  55,16","  31,65",oui,07203,55.16,31.65
+LORILLEUX,Agnès,Mme,SOC,Socialiste,21619,"  44,84","  25,73",non,07203,44.84,25.73
+LE MENER,Dominique,M.,UMP,Union pour un Mouvement Populaire,27754,"  55,11","  31,97",oui,07205,55.11,31.97
+ROUILLON,Christophe,M.,SOC,Socialiste,22606,"  44,89","  26,04",non,07205,44.89,26.04
+BOUVARD,Michel,M.,UMP,Union pour un Mouvement Populaire,29483,"  54,57","  30,77",oui,07303,54.57,30.77
+LACLAIS,Bernadette,Mme,SOC,Socialiste,24547,"  45,43","  25,62",non,07303,45.43,25.62
+TARDY,Lionel,M.,DVD,Divers droite,20434,"  55,51","  23,58",oui,07402,55.51,23.58
+BOSSON,Bernard,M.,MAJ,Majorité présidentielle,16379,"  44,49","  18,90",non,07402,44.49,18.9
+FRANCINA,Marc,M.,UMP,Union pour un Mouvement Populaire,33210,"  63,59","  31,12",oui,07405,63.59,31.12
+VERGUET,Clotilde,Mme,SOC,Socialiste,19019,"  36,41","  17,82",non,07405,36.41,17.82
+BILLARD,Martine,Mme,VEC,Les Verts,20125,"  54,25","  31,92",oui,07501,54.25,31.92
+LEGARET,Jean-François,M.,UMP,Union pour un Mouvement Populaire,16969,"  45,75","  26,91",non,07501,45.75,26.91
+COHEN-SOLAL,Lyne,Mme,SOC,Socialiste,15173,"  47,34","  28,31",non,07502,47.34,28.31
+TIBERI,Jean,M.,UMP,Union pour un Mouvement Populaire,16880,"  52,66","  31,50",oui,07502,52.66,31.5
+ASMANI,Lynda,Mme,UMP,Union pour un Mouvement Populaire,10132,"  36,81","  20,35",non,07505,36.81,20.35
+DREYFUS,Tony,M.,SOC,Socialiste,17391,"  63,19","  34,94",oui,07505,63.19,34.94
+HOFFMAN-RISPAL,Danièle,Mme,SOC,Socialiste,25770,"  69,12","  39,03",oui,07506,69.12,39.03
+BEAUJOUR,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,11513,"  30,88","  17,43",non,07506,30.88,17.43
+BLOCHE,Patrick,M.,SOC,Socialiste,23639,"  62,44","  37,05",oui,07507,62.44,37.05
+TISSOT,Claude-Annick,Mme,UMP,Union pour un Mouvement Populaire,14220,"  37,56","  22,28",non,07507,37.56,22.28
+MAZETIER,Sandrine,Mme,SOC,Socialiste,24783,"  55,85","  34,99",oui,07508,55.85,34.99
+KLARSFELD,Arno,M.,UMP,Union pour un Mouvement Populaire,19588,"  44,15","  27,65",non,07508,44.15,27.65
+TREMEGE,Patrick,M.,UMP,Union pour un Mouvement Populaire,13223,"  37,43","  21,38",non,07509,37.43,21.38
+LE GUEN,Jean-Marie,M.,SOC,Socialiste,22108,"  62,57","  35,75",oui,07509,62.57,35.75
+VASSEUR,Véronique,Mme,UMP,Union pour un Mouvement Populaire,17490,"  42,66","  26,81",non,07510,42.66,26.81
+BLISKO,Serge,M.,SOC,Socialiste,23512,"  57,34","  36,04",oui,07510,57.34,36.04
+COCHET,Yves,M.,VEC,Les Verts,21210,"  57,17","  35,35",oui,07511,57.17,35.35
+GUEDJ,Nicole,Mme,UMP,Union pour un Mouvement Populaire,15891,"  42,83","  26,49",non,07511,42.83,26.49
+GOUJON,Philippe,M.,UMP,Union pour un Mouvement Populaire,23907,"  62,79","  35,25",oui,07512,62.79,35.25
+DARGENT,Claude,M.,SOC,Socialiste,14170,"  37,21","  20,89",non,07512,37.21,20.89
+LAMOUR,Jean-François,M.,UMP,Union pour un Mouvement Populaire,23705,"  56,74","  33,45",oui,07513,56.74,33.45
+HIDALGO,Anne,Mme,SOC,Socialiste,18071,"  43,26","  25,50",non,07513,43.26,25.5
+LEPETIT,Annick,Mme,SOC,Socialiste,17944,"  56,24","  31,80",oui,07517,56.24,31.8
+KUSTER,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,13963,"  43,76","  24,74",non,07517,43.76,24.74
+CARESCHE,Christophe,M.,SOC,Socialiste,19895,"  63,29","  35,63",oui,07518,63.29,35.63
+BOUGRAB,Jeannette,Mme,UMP,Union pour un Mouvement Populaire,11540,"  36,71","  20,66",non,07518,36.71,20.66
+VAILLANT,Daniel,M.,SOC,Socialiste,15778,"  63,05","  32,77",oui,07519,63.05,32.77
+DECORTE,Roxane,Mme,UMP,Union pour un Mouvement Populaire,9245,"  36,95","  19,20",non,07519,36.95,19.2
+CAMBADELIS,Jean-Christophe,M.,SOC,Socialiste,20897,"  59,09","  31,66",oui,07520,59.09,31.66
+GIANNESINI,Jean-Jacques,M.,UMP,Union pour un Mouvement Populaire,14469,"  40,91","  21,92",non,07520,40.91,21.92
+DELAMARE,Raoul,M.,UMP,Union pour un Mouvement Populaire,15701,"  37,30","  20,84",non,07521,37.3,20.84
+PAU-LANGEVIN,George,Mme,SOC,Socialiste,26398,"  62,70","  35,04",oui,07521,62.7,35.04
+FOURNEYRON,Valérie,Mme,SOC,Socialiste,19289,"  55,16","  31,55",oui,07601,55.16,31.55
+DEVAUX,Bruno,M.,UMP,Union pour un Mouvement Populaire,15681,"  44,84","  25,65",non,07601,44.84,25.65
+ZIMERAY,François,M.,SOC,Socialiste,25994,"  48,76","  29,59",non,07602,48.76,29.59
+GUÉGOT,Françoise,Mme,UMP,Union pour un Mouvement Populaire,27311,"  51,24","  31,09",oui,07602,51.24,31.09
+BOURGUIGNON,Pierre,M.,SOC,Socialiste,20669,"  66,94","  36,30",oui,07603,66.94,36.3
+TAFFOREAU,Catherine,Mme,UMP,Union pour un Mouvement Populaire,10207,"  33,06","  17,92",non,07603,33.06,17.92
+FABIUS,Laurent,M.,SOC,Socialiste,27536,"  67,54","  38,01",oui,07604,67.54,38.01
+ROUX,Marie-Hélène,Mme,UMP,Union pour un Mouvement Populaire,13236,"  32,46","  18,27",non,07604,32.46,18.27
+BOUILLON,Christophe,M.,SOC,Socialiste,32196,"  60,06","  36,14",oui,07605,60.06,36.14
+POUSSIER,Marie-Agnès,Mme,UMP,Union pour un Mouvement Populaire,21411,"  39,94","  24,03",non,07605,39.94,24.03
+LECOQ,Jean-Paul,M.,COM,Communiste,22813,"  51,11","  28,75",oui,07606,51.11,28.75
+MERVILLE,Denis,M.,UMP,Union pour un Mouvement Populaire,21819,"  48,89","  27,50",non,07606,48.89,27.5
+BESSELAT,Jean-Yves,M.,UMP,Union pour un Mouvement Populaire,18154,"  56,39","  30,68",oui,07607,56.39,30.68
+LOGIOU,Laurent,M.,SOC,Socialiste,14039,"  43,61","  23,72",non,07607,43.61,23.72
+CAHIERRE,Agathe,Mme,UMP,Union pour un Mouvement Populaire,10689,"  42,57","  20,43",non,07608,42.57,20.43
+PAUL,Daniel,M.,COM,Communiste,14423,"  57,43","  27,57",oui,07608,57.43,27.57
+FIDELIN,Daniel,M.,UMP,Union pour un Mouvement Populaire,27758,"  53,16","  32,47",oui,07609,53.16,32.47
+GRELIER,Estelle,Mme,SOC,Socialiste,24461,"  46,84","  28,61",non,07609,46.84,28.61
+TRASSY-PAILLOGUES,Alfred,M.,UMP,Union pour un Mouvement Populaire,29554,"  55,15","  34,84",oui,07610,55.15,34.84
+CHAUVEL,Dominique,Mme,SOC,Socialiste,24034,"  44,85","  28,33",non,07610,44.85,28.33
+BAZIN,Jean,M.,UMP,Union pour un Mouvement Populaire,22976,"  47,80","  30,39",non,07611,47.8,30.39
+HUREL,Sandrine,Mme,SOC,Socialiste,25087,"  52,20","  33,18",oui,07611,52.2,33.18
+PICHERY,Marie-Line,Mme,SOC,Socialiste,19848,"  43,02","  22,42",non,07701,43.02,22.42
+MIGNON,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,26294,"  56,98","  29,70",oui,07701,56.98,29.7
+JULIA,Didier,M.,UMP,Union pour un Mouvement Populaire,18442,"  57,77","  23,86",oui,07702,57.77,23.86
+VALLETOUX,Frédéric,M.,DVD,Divers droite,13482,"  42,23","  17,44",non,07702,42.23,17.44
+JEGO,Yves,M.,UMP,Union pour un Mouvement Populaire,26050,"  63,47","  34,03",oui,07703,63.47,34.03
+NAIR,Sami,M.,DVG,Divers gauche,14996,"  36,53","  19,59",non,07703,36.53,19.59
+RICHARD,Marie,Mme,SOC,Socialiste,20044,"  41,05","  21,62",non,07705,41.05,21.62
+RIESTER,Franck,M.,UMP,Union pour un Mouvement Populaire,28789,"  58,95","  31,06",oui,07705,58.95,31.06
+BREHIER,Emeric,M.,SOC,Socialiste,20940,"  44,53","  23,62",non,07707,44.53,23.62
+ALBARELLO,Yves,M.,UMP,Union pour un Mouvement Populaire,26084,"  55,47","  29,43",oui,07707,55.47,29.43
+BRUNEL,Chantal,Mme,UMP,Union pour un Mouvement Populaire,30054,"  50,94","  27,00",oui,07708,50.94,27.0
+FAURE,Olivier,M.,SOC,Socialiste,28946,"  49,06","  26,00",non,07708,49.06,26.0
+GEOFFROY,Guy,M.,UMP,Union pour un Mouvement Populaire,31098,"  54,56","  28,95",oui,07709,54.56,28.95
+HEUCLIN,Jacques,M.,SOC,Socialiste,25895,"  45,44","  24,10",non,07709,45.44,24.1
+PINTE,Etienne,M.,UMP,Union pour un Mouvement Populaire,28300,"  57,70","  30,92",oui,07801,57.7,30.92
+FAUCHEUX,Sylvie,Mme,SOC,Socialiste,20750,"  42,30","  22,67",non,07801,42.3,22.67
+RODES,Estelle,Mme,DVG,Divers gauche,17442,"  42,20","  23,09",non,07807,42.2,23.09
+CARDO,Pierre,M.,UMP,Union pour un Mouvement Populaire,23889,"  57,80","  31,62",oui,07807,57.8,31.62
+BEDIER,Pierre,M.,UMP,Union pour un Mouvement Populaire,17860,"  50,67","  26,52",oui,07808,50.67,26.52
+DESCAMPS CROSNIER,Françoise,Mme,SOC,Socialiste,17390,"  49,33","  25,82",non,07808,49.33,25.82
+FISCHER,Didier,M.,SOC,Socialiste,23949,"  41,63","  23,66",non,07810,41.63,23.66
+BOUTIN,Christine,Mme,UMP,Union pour un Mouvement Populaire,33583,"  58,37","  33,18",oui,07810,58.37,33.18
+FOURGOUS,Jean-Michel,M.,UMP,Union pour un Mouvement Populaire,15868,"  51,75","  27,35",oui,07811,51.75,27.35
+OTOKORE,Safia,Mme,SOC,Socialiste,14796,"  48,25","  25,50",non,07811,48.25,25.5
+MASDEU ARUS,Jacques,M.,UMP,Union pour un Mouvement Populaire,19321,"  52,32","  26,98",oui,07812,52.32,26.98
+AIT,Eddie,M.,SOC,Socialiste,17610,"  47,68","  24,59",non,07812,47.68,24.59
+GAILLARD,Geneviève,Mme,SOC,Socialiste,23871,"  65,24","  37,11",oui,07901,65.24,37.11
+ROUILLE,Frédéric,M.,UMP,Union pour un Mouvement Populaire,12717,"  34,76","  19,77",non,07901,34.76,19.77
+GRIFFAULT,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,19669,"  42,58","  26,69",non,07902,42.58,26.69
+BATHO,Delphine,Mme,SOC,Socialiste,26524,"  57,42","  36,00",oui,07902,57.42,36.0
+GRELLIER,Jean,M.,SOC,Socialiste,22095,"  51,41","  31,49",oui,07904,51.41,31.49
+PAILLE,Dominique,M.,UMP,Union pour un Mouvement Populaire,20886,"  48,59","  29,77",non,07904,48.59,29.77
+GREMETZ,Maxime,M.,DVG,Divers gauche,18618,"  59,33","  30,95",oui,08001,59.33,30.95
+BOURGOIS,Jean-Yves,M.,MAJ,Majorité présidentielle,12761,"  40,67","  21,21",non,08001,40.67,21.21
+THUILLIEZ,Sarah,Mme,SOC,Socialiste,17131,"  47,18","  26,55",non,08002,47.18,26.55
+JARDE,Olivier,M.,MAJ,Majorité présidentielle,19181,"  52,82","  29,73",oui,08002,52.82,29.73
+PEILLON,Vincent,M.,SOC,Socialiste,23560,"  49,85","  34,40",non,08003,49.85,34.4
+BIGNON,Jérôme,M.,UMP,Union pour un Mouvement Populaire,23703,"  50,15","  34,61",oui,08003,50.15,34.61
+MATHON,Gilbert,M.,SOC,Socialiste,23555,"  51,62","  32,22",oui,08004,51.62,32.22
+HART,Joël,M.,UMP,Union pour un Mouvement Populaire,22076,"  48,38","  30,20",non,08004,48.38,30.2
+KUMM,Valérie,Mme,SOC,Socialiste,18459,"  44,53","  27,94",non,08005,44.53,27.94
+DEMILLY,Stéphane,M.,MAJ,Majorité présidentielle,22995,"  55,47","  34,81",oui,08005,55.47,34.81
+FLEURY,Jacques,M.,SOC,Socialiste,24457,"  49,28","  31,00",non,08006,49.28,31.0
+GEST,Alain,M.,UMP,Union pour un Mouvement Populaire,25171,"  50,72","  31,91",oui,08006,50.72,31.91
+VALAX,Jacques,M.,SOC,Socialiste,22744,"  62,67","  39,59",oui,08101,62.67,39.59
+BOUSQUET SALMANI,Jacqueline,Mme,UMP,Union pour un Mouvement Populaire,13545,"  37,33","  23,57",non,08101,37.33,23.57
+CARCENAC,Thierry,M.,SOC,Socialiste,28796,"  54,25","  36,00",oui,08102,54.25,36.0
+REVEILLON,Catherine,Mme,UMP,Union pour un Mouvement Populaire,24283,"  45,75","  30,36",non,08102,45.75,30.36
+THOUROUDE,Jacques,M.,DVD,Divers droite,10832,"  35,22","  18,12",non,08103,35.22,18.12
+FOLLIOT,Philippe,M.,MAJ,Majorité présidentielle,19927,"  64,78","  33,34",oui,08103,64.78,33.34
+CARAYON,Bernard,M.,UMP,Union pour un Mouvement Populaire,28131,"  53,61","  35,13",oui,08104,53.61,35.13
+COLLANGE,Monique,Mme,SOC,Socialiste,24340,"  46,39","  30,39",non,08104,46.39,30.39
+GARRIGUES,Roland,M.,SOC,Socialiste,26357,"  49,19","  32,13",non,08201,49.19,32.13
+BAREGES,Brigitte,Mme,UMP,Union pour un Mouvement Populaire,27222,"  50,81","  33,18",oui,08201,50.81,33.18
+PINEL,Sylvia,Mme,RDG,Radical de gauche,26811,"  50,71","  31,76",oui,08202,50.71,31.76
+BRIAT,Jacques,M.,UMP,Union pour un Mouvement Populaire,26062,"  49,29","  30,87",non,08202,49.29,30.87
+COUVE,Jean-Michel,M.,UMP,Union pour un Mouvement Populaire,43047,"  65,98","  35,45",oui,08304,65.98,35.45
+PINEAU,Michel,M.,SOC,Socialiste,22200,"  34,02","  18,28",non,08304,34.02,18.28
+ROIG,Marie-Josée,Mme,UMP,Union pour un Mouvement Populaire,22479,"  56,71","  31,41",oui,08401,56.71,31.41
+FOURNIER-ARMAND,Michèle,Mme,SOC,Socialiste,17160,"  43,29","  23,98",non,08401,43.29,23.98
+JOSEPH,Jean-Louis,M.,SOC,Socialiste,31970,"  44,72","  26,48",non,08402,44.72,26.48
+BOUCHET,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,39523,"  55,28","  32,74",oui,08402,55.28,32.74
+PERIS,Nadine,Mme,SOC,Socialiste,19660,"  35,53","  20,20",non,08403,35.53,20.2
+FERRAND,Jean-Michel,M.,UMP,Union pour un Mouvement Populaire,35680,"  64,47","  36,66",oui,08403,64.47,36.66
+MEFFRE,Pierre,M.,SOC,Socialiste,18835,"  39,82","  22,73",non,08404,39.82,22.73
+MARIANI,Thierry,M.,UMP,Union pour un Mouvement Populaire,28462,"  60,18","  34,35",oui,08404,60.18,34.35
+PREEL,Jean-Luc,M.,MAJ,Majorité présidentielle,29055,"  56,89","  30,46",oui,08501,56.89,30.46
+CEREIJO,Patricia,Mme,SOC,Socialiste,22014,"  43,11","  23,08",non,08501,43.11,23.08
+BULTEAU,Sylviane,Mme,SOC,Socialiste,24263,"  45,22","  26,43",non,08502,45.22,26.43
+CAILLAUD,Dominique,M.,UMP,Union pour un Mouvement Populaire,29393,"  54,78","  32,02",oui,08502,54.78,32.02
+CLAEYS,Alain,M.,SOC,Socialiste,29549,"  59,10","  35,64",oui,08601,59.1,35.64
+DAIGRE,Jacqueline,Mme,UMP,Union pour un Mouvement Populaire,20450,"  40,90","  24,67",non,08601,40.9,24.67
+CHAMARD,Jean-Yves,M.,UMP,Union pour un Mouvement Populaire,20699,"  44,94","  28,17",non,08602,44.94,28.17
+COUTELLE,Catherine,Mme,SOC,Socialiste,25358,"  55,06","  34,51",oui,08602,55.06,34.51
+HERBERT,Gérard,M.,UMP,Union pour un Mouvement Populaire,21526,"  49,91","  31,78",non,08603,49.91,31.78
+CLEMENT,Jean-Michel,M.,SOC,Socialiste,21604,"  50,09","  31,89",oui,08603,50.09,31.89
+ABELIN,Jean-Pierre,M.,MAJ,Majorité présidentielle,24282,"  56,62","  31,99",oui,08604,56.62,31.99
+TONDUSSON,Brigitte,Mme,SOC,Socialiste,18605,"  43,38","  24,51",non,08604,43.38,24.51
+BOULESTIN,Monique,Mme,SOC,Socialiste,18218,"  53,09","  33,56",oui,08701,53.09,33.56
+MARSAUD,Alain,M.,UMP,Union pour un Mouvement Populaire,16095,"  46,91","  29,65",non,08701,46.91,29.65
+BOISSERIE,Daniel,M.,SOC,Socialiste,30149,"  60,89","  40,74",oui,08702,60.89,40.74
+GUILHEM,Evelyne,Mme,UMP,Union pour un Mouvement Populaire,19364,"  39,11","  26,16",non,08702,39.11,26.16
+PEROL-DUMONT,Marie-Françoise,Mme,SOC,Socialiste,26631,"  62,33","  40,19",oui,08703,62.33,40.19
+MARTINEAU,Béatrice,Mme,UMP,Union pour un Mouvement Populaire,16093,"  37,67","  24,28",non,08703,37.67,24.28
+RODET,Alain,M.,SOC,Socialiste,29341,"  65,90","  40,74",oui,08704,65.9,40.74
+GENTIL,Sarah,Mme,UMP,Union pour un Mouvement Populaire,15183,"  34,10","  21,08",non,08704,34.1,21.08
+PIERRET,Christian,M.,SOC,Socialiste,18566,"  45,01","  24,53",non,08802,45.01,24.53
+CHERPION,Gérard,M.,UMP,Union pour un Mouvement Populaire,22685,"  54,99","  29,97",oui,08802,54.99,29.97
+GAULTIER,Jean-Jacques,M.,UMP,Union pour un Mouvement Populaire,23347,"  55,72","  33,63",oui,08804,55.72,33.63
+FRANQUEVILLE,Christian,M.,SOC,Socialiste,18555,"  44,28","  26,73",non,08804,44.28,26.73
+LE CORRE,Mireille,Mme,SOC,Socialiste,20577,"  45,47","  26,00",non,08901,45.47,26.0
+SOISSON,Jean-Pierre,M.,UMP,Union pour un Mouvement Populaire,24675,"  54,53","  31,18",oui,08901,54.53,31.18
+CAULLET,Jean-Yves,M.,SOC,Socialiste,19932,"  46,18","  26,98",non,08902,46.18,26.98
+ROLLAND,Jean-Marie,M.,UMP,Union pour un Mouvement Populaire,23234,"  53,82","  31,45",oui,08902,53.82,31.45
+PARIS,Daniel,M.,RDG,Radical de gauche,24290,"  46,97","  26,05",non,08903,46.97,26.05
+FORT,Marie-Louise,Mme,UMP,Union pour un Mouvement Populaire,27428,"  53,03","  29,41",oui,08903,53.03,29.41
+MESLOT,Damien,M.,UMP,Union pour un Mouvement Populaire,16478,"  58,66","  35,25",oui,09001,58.66,35.25
+FORCINAL,Anne-Marie,Mme,SOC,Socialiste,11612,"  41,34","  24,84",non,09001,41.34,24.84
+ZUMKELLER,Michel,M.,UMP,Union pour un Mouvement Populaire,15701,"  54,48","  33,06",oui,09002,54.48,33.06
+CHEVÈNEMENT,Jean-Pierre,M.,DVG,Divers gauche,13119,"  45,52","  27,62",non,09002,45.52,27.62
+VALLS,Manuel,M.,SOC,Socialiste,21523,"  60,12","  31,95",oui,09101,60.12,31.95
+DE OLIVEIRA,Cristela,Mme,UMP,Union pour un Mouvement Populaire,14279,"  39,88","  21,19",non,09101,39.88,21.19
+COLOT,Geneviève,Mme,UMP,Union pour un Mouvement Populaire,29240,"  54,58","  31,25",oui,09103,54.58,31.25
+ZINS,Brigitte,Mme,SOC,Socialiste,24336,"  45,42","  26,01",non,09103,45.42,26.01
+KOSCIUSKO-MORIZET,Nathalie,Mme,UMP,Union pour un Mouvement Populaire,27576,"  56,09","  32,58",oui,09104,56.09,32.58
+THOMAS,Olivier,M.,SOC,Socialiste,21591,"  43,91","  25,51",non,09104,43.91,25.51
+OLIVIER,Maud,Mme,SOC,Socialiste,20016,"  49,75","  30,44",non,09105,49.75,30.44
+LASBORDES,Pierre,M.,UMP,Union pour un Mouvement Populaire,20216,"  50,25","  30,75",oui,09105,50.25,30.75
+LAMY,François,M.,SOC,Socialiste,22913,"  52,64","  31,37",oui,09106,52.64,31.37
+CARANTOIS,Véronique,Mme,UMP,Union pour un Mouvement Populaire,20615,"  47,36","  28,22",non,09106,47.36,28.22
+MARSAUDON,Jean,M.,UMP,Union pour un Mouvement Populaire,20523,"  52,04","  28,55",oui,09107,52.04,28.55
+MATHIEU,Simone,Mme,SOC,Socialiste,18917,"  47,96","  26,31",non,09107,47.96,26.31
+MANDON,Thierry,M.,SOC,Socialiste,18542,"  44,22","  25,00",non,09109,44.22,25.0
+TRON,Georges,M.,UMP,Union pour un Mouvement Populaire,23391,"  55,78","  31,54",oui,09109,55.78,31.54
+GAUDIN,Laurence,Mme,UMP,Union pour un Mouvement Populaire,15819,"  46,52","  26,03",non,09110,46.52,26.03
+DRAY,Julien,M.,SOC,Socialiste,18183,"  53,48","  29,92",oui,09110,53.48,29.92
+MUZEAU,Roland,M.,COM,Communiste,17861,"  63,54","  30,13",oui,09201,63.54,30.13
+VIGNON,Véronique,Mme,UMP,Union pour un Mouvement Populaire,10249,"  36,46","  17,28",non,09201,36.46,17.28
+AESCHLIMANN,Manuel,M.,UMP,Union pour un Mouvement Populaire,18322,"  56,19","  29,34",oui,09202,56.19,29.34
+ETCHEBERRY,Michèle,Mme,SOC,Socialiste,14286,"  43,81","  22,88",non,09202,43.81,22.88
+DUPUY,Christian,M.,UMP,Union pour un Mouvement Populaire,16723,"  45,56","  24,84",non,09204,45.56,24.84
+FRAYSSE,Jacqueline,Mme,COM,Communiste,19985,"  54,44","  29,69",oui,09204,54.44,29.69
+CATOIRE,Gilles,M.,SOC,Socialiste,15773,"  44,75","  23,10",non,09205,44.75,23.1
+BALKANY,Patrick,M.,UMP,Union pour un Mouvement Populaire,19476,"  55,25","  28,52",oui,09205,55.25,28.52
+SCHMID,Lucille,Mme,SOC,Socialiste,16366,"  44,10","  24,61",non,09210,44.1,24.61
+SANTINI,André,M.,MAJ,Majorité présidentielle,20741,"  55,90","  31,19",oui,09210,55.9,31.19
+AMIABLE,Marie-Hélène,Mme,COM,Communiste,22016,"  58,58","  33,56",oui,09211,58.58,33.56
+METTON,Jean-Loup,M.,MAJ,Majorité présidentielle,15570,"  41,42","  23,73",non,09211,41.42,23.73
+KALTENBACH,Philippe,M.,SOC,Socialiste,24682,"  47,10","  28,76",non,09212,47.1,28.76
+PEMEZEC,Philippe,M.,UMP,Union pour un Mouvement Populaire,27719,"  52,90","  32,30",oui,09212,52.9,32.3
+DEVEDJIAN,Patrick,M.,UMP,Union pour un Mouvement Populaire,27018,"  54,90","  31,72",oui,09213,54.9,31.72
+CANET,Michèle,Mme,SOC,Socialiste,22197,"  45,10","  26,06",non,09213,45.1,26.06
+LE ROUX,Bruno,M.,SOC,Socialiste,14699,"  62,71","  29,13",oui,09301,62.71,29.13
+ESPINASSE,Briggitte,Mme,UMP,Union pour un Mouvement Populaire,8740,"  37,29","  17,32",non,09301,37.29,17.32
+BRAOUEZEC,Patrick,M.,COM,Communiste,14472,"  65,00","  28,92",oui,09302,65.0,28.92
+NICOL,Evelyne,Mme,UMP,Union pour un Mouvement Populaire,7794,"  35,00","  15,57",non,09302,35.0,15.57
+GOLDBERG,Daniel,M.,SOC,Socialiste,12121,"  61,52","  26,87",oui,09303,61.52,26.87
+HAMZA,Kamel,M.,UMP,Union pour un Mouvement Populaire,7583,"  38,48","  16,81",non,09303,38.48,16.81
+MEIGNEN,Thierry,M.,UMP,Union pour un Mouvement Populaire,9702,"  44,05","  21,36",non,09304,44.05,21.36
+BUFFET,Marie-George,Mme,COM,Communiste,12324,"  55,95","  27,13",oui,09304,55.95,27.13
+SADI,ABDEL,M.,COM,Communiste,10585,"  40,13","  19,88",non,09305,40.13,19.88
+LAGARDE,Jean-Christophe,M.,DVD,Divers droite,15795,"  59,87","  29,67",oui,09305,59.87,29.67
+DUPONT,Jean-Claude,M.,UMP,Union pour un Mouvement Populaire,10817,"  35,38","  17,73",non,09306,35.38,17.73
+BARTOLONE,Claude,M.,SOC,Socialiste,19758,"  64,62","  32,39",oui,09306,64.62,32.39
+BRARD,Jean-Pierre,M.,DVG,Divers gauche,11912," 100,00","  23,88",oui,09307,100.0,23.88
+POCHON,Elizabeth,Mme,SOC,Socialiste,14261,"  44,31","  23,48",non,09308,44.31,23.48
+CALMEJANE,Patrice,M.,UMP,Union pour un Mouvement Populaire,17923,"  55,69","  29,51",oui,09308,55.69,29.51
+VINCENT,Georgia,Mme,UMP,Union pour un Mouvement Populaire,10968,"  39,75","  19,83",non,09309,39.75,19.83
+GUIGOU,Elisabeth,Mme,SOC,Socialiste,16622,"  60,25","  30,06",oui,09309,60.25,30.06
+SEGURA,Gérard,M.,SOC,Socialiste,13473,"  49,02","  25,70",non,09310,49.02,25.7
+GAUDRON,Gérard,M.,UMP,Union pour un Mouvement Populaire,14011,"  50,98","  26,72",oui,09310,50.98,26.72
+ASENSI,François,M.,COM,Communiste,17464,"  56,75","  29,72",oui,09311,56.75,29.72
+VALLETON,Martine,Mme,UMP,Union pour un Mouvement Populaire,13307,"  43,25","  22,65",non,09311,43.25,22.65
+POPELIN,Pascal,M.,SOC,Socialiste,15068,"  46,18","  24,36",non,09312,46.18,24.36
+RAOULT,Eric,M.,UMP,Union pour un Mouvement Populaire,17564,"  53,82","  28,39",oui,09312,53.82,28.39
+PAJON,Michel,M.,SOC,Socialiste,20520,"  54,79","  29,49",oui,09313,54.79,29.49
+DEMUYNCK,Elizabeth,Mme,UMP,Union pour un Mouvement Populaire,16930,"  45,21","  24,33",non,09313,45.21,24.33
+PLAGNOL,Henri,M.,UMP,Union pour un Mouvement Populaire,15762,"  54,23","  28,72",oui,09401,54.23,28.72
+CAVADA,Jean-Marie,M.,UDFD,UDF-Mouvement Démocrate,13305,"  45,77","  24,24",non,09401,45.77,24.24
+CATHALA,Laurent,M.,SOC,Socialiste,19690,"  60,19","  30,54",oui,09402,60.19,30.54
+BARON,Monique,Mme,UMP,Union pour un Mouvement Populaire,13025,"  39,81","  20,20",non,09402,39.81,20.2
+SCHWARTZENBERG,Roger-Gérard,M.,RDG,Radical de gauche,18171,"  49,80","  26,46",non,09403,49.8,26.46
+GONZALES,Didier,M.,UMP,Union pour un Mouvement Populaire,18319,"  50,20","  26,67",oui,09403,50.2,26.67
+BENISTI,Jacques-Alain,M.,UMP,Union pour un Mouvement Populaire,21219,"  56,61","  30,19",oui,09404,56.61,30.19
+ABRAHAM-THISSE,Simone,Mme,SOC,Socialiste,16266,"  43,39","  23,15",non,09404,43.39,23.15
+ADENOT,Dominique,M.,COM,Communiste,14404,"  44,39","  23,24",non,09405,44.39,23.24
+CARREZ,Gilles,M.,UMP,Union pour un Mouvement Populaire,18044,"  55,61","  29,11",oui,09405,55.61,29.11
+DORNBUSCH,David,M.,SOC,Socialiste,19719,"  46,36","  25,31",non,09406,46.36,25.31
+BEAUDOUIN,Patrick,M.,UMP,Union pour un Mouvement Populaire,22816,"  53,64","  29,28",oui,09406,53.64,29.28
+MONTCHAMP,Marie-Anne,Mme,UMP,Union pour un Mouvement Populaire,18595,"  58,45","  31,58",oui,09407,58.45,31.58
+JOUBERT,Monique,Mme,SOC,Socialiste,13221,"  41,55","  22,45",non,09407,41.55,22.45
+ROUQUET,René,M.,SOC,Socialiste,16390,"  64,99","  31,64",oui,09409,64.99,31.64
+NJOH,Emmanuel,M.,UMP,Union pour un Mouvement Populaire,8830,"  35,01","  17,04",non,09409,35.01,17.04
+GOSNAT,Pierre,M.,COM,Communiste,19708,"  64,70","  32,23",oui,09410,64.7,32.23
+BACHSCHMIDT,Philippe,M.,UMP,Union pour un Mouvement Populaire,10754,"  35,30","  17,58",non,09410,35.3,17.58
+PINON,Sophie,Mme,UMP,Union pour un Mouvement Populaire,11332,"  37,21","  19,64",non,09411,37.21,19.64
+LE BOUILLONNEC,Jean-Yves,M.,SOC,Socialiste,19126,"  62,79","  33,16",oui,09411,62.79,33.16
+SEVE,Patrick,M.,SOC,Socialiste,17723,"  49,46","  27,46",non,09412,49.46,27.46
+DELL'AGNOLA,Richard,M.,UMP,Union pour un Mouvement Populaire,18109,"  50,54","  28,06",oui,09412,50.54,28.06
+HOUILLON,Philippe,M.,UMP,Union pour un Mouvement Populaire,25358,"  58,64","  32,94",oui,09501,58.64,32.94
+DROLON,Corine,Mme,SOC,Socialiste,17884,"  41,36","  23,23",non,09501,41.36,23.23
+PONIATOWSKI,Axel,M.,UMP,Union pour un Mouvement Populaire,33270,"  53,08","  28,94",oui,09502,53.08,28.94
+LEFEBVRE,Dominique,M.,SOC,Socialiste,29408,"  46,92","  25,58",non,09502,46.92,25.58
+LEON,Nelly,Mme,SOC,Socialiste,20632,"  45,97","  24,58",non,09503,45.97,24.58
+BARDET,Jean,M.,UMP,Union pour un Mouvement Populaire,24246,"  54,03","  28,88",oui,09503,54.03,28.88
+BODIN,Claude,M.,UMP,Union pour un Mouvement Populaire,21491,"  54,94","  29,90",oui,09504,54.94,29.9
+SEBAOUN,Gérard,M.,SOC,Socialiste,17626,"  45,06","  24,52",non,09504,45.06,24.52
+MOTHRON,Georges,M.,UMP,Union pour un Mouvement Populaire,16983,"  51,01","  26,50",oui,09505,51.01,26.5
+LAMDAOUI,Faouzi,M.,SOC,Socialiste,16309,"  48,99","  25,45",non,09505,48.99,25.45
+SCELLIER,François,M.,UMP,Union pour un Mouvement Populaire,21836,"  58,09","  30,09",oui,09506,58.09,30.09
+GEORGELIN,Marie-Paule,Mme,SOC,Socialiste,15752,"  41,91","  21,71",non,09506,41.91,21.71
+ARNAL,Didier,M.,SOC,Socialiste,18693,"  43,22","  23,11",non,09507,43.22,23.11
+CHARTIER,Jérôme,M.,UMP,Union pour un Mouvement Populaire,24553,"  56,78","  30,36",oui,09507,56.78,30.36
+NOACHOVITCH,Sylvie,Mme,UMP,Union pour un Mouvement Populaire,11363,"  44,53","  23,26",non,09508,44.53,23.26
+STRAUSS KAHN,Dominique,M.,SOC,Socialiste,14154,"  55,47","  28,98",oui,09508,55.47,28.98
+BLAZY,Jean-Pierre,M.,SOC,Socialiste,16761,"  49,57","  25,64",non,09509,49.57,25.64
+PATERNOTTE,Yanick,M.,UMP,Union pour un Mouvement Populaire,17051,"  50,43","  26,08",oui,09509,50.43,26.08
+JALTON,Eric,M.,DVG,Divers gauche,14453,"  62,71","  23,15",oui,97101,62.71,23.15
+JERPAN,Josette,Mme,DVD,Divers droite,8596,"  37,29","  13,76",non,97101,37.29,13.76
+MOUTOUSSAMY,Ernest,M.,DVG,Divers gauche,16234,"  45,13","  18,35",non,97102,45.13,18.35
+LOUIS-CARABIN,Gabrielle,Mme,UMP,Union pour un Mouvement Populaire,19736,"  54,87","  22,30",oui,97102,54.87,22.3
+MARC ,Jeanny,Mme,DVG,Divers gauche,18061,"  58,11","  22,05",oui,97103,58.11,22.05
+BEAUGENDRE,Joël,M.,UMP,Union pour un Mouvement Populaire,13022,"  41,89","  15,90",non,97103,41.89,15.9
+DORVILLE,Albert,M.,DIV,Divers,14279,"  47,42","  20,19",non,97104,47.42,20.19
+LUREL,Victorin,M.,SOC,Socialiste,15830,"  52,58","  22,38",oui,97104,52.58,22.38
+MANSCOUR,Louis-Joseph,M.,SOC,Socialiste,14151,"  55,02","  23,29",oui,97201,55.02,23.29
+MONPLAISIR,Yan Anselme,M.,UMP,Union pour un Mouvement Populaire,11569,"  44,98","  19,04",non,97201,44.98,19.04
+ALMONT,Alfred,M.,UMP,Union pour un Mouvement Populaire,13268,"  51,83","  21,49",oui,97202,51.83,21.49
+CONCONNE,Catherine,Mme,DVG,Divers gauche,12332,"  48,17","  19,97",non,97202,48.17,19.97
+LETCHIMY,Serge,M.,DVG,Divers gauche,16055,"  67,77","  25,78",oui,97203,67.77,25.78
+EDMOND-MARIETTE,Philippe,M.,DVG,Divers gauche,7636,"  32,23","  12,26",non,97203,32.23,12.26
+LESUEUR,André,M.,UMP,Union pour un Mouvement Populaire,12289,"  31,54","  11,87",non,97204,31.54,11.87
+MARIE-JEANNE,Alfred,M.,REG,Régionaliste,26673,"  68,46","  25,76",oui,97204,68.46,25.76
+BUDOC,Rémy-Louis,M.,UMP,Union pour un Mouvement Populaire,3286,"  36,59","  14,72",non,97301,36.59,14.72
+TAUBIRA,Christiane,Mme,DVG,Divers gauche,5695,"  63,41","  25,51",oui,97301,63.41,25.51
+BERTHELOT,Chantal,Mme,DVG,Divers gauche,9012,"  52,87","  22,25",oui,97302,52.87,22.25
+BERTRAND,LEON,M.,UMP,Union pour un Mouvement Populaire,8034,"  47,13","  19,84",non,97302,47.13,19.84
+ANNETTE,Gilbert,M.,SOC,Socialiste,20951,"  48,54","  24,98",non,97401,48.54,24.98
+VICTORIA,René-Paul,M.,UMP,Union pour un Mouvement Populaire,22207,"  51,46","  26,48",oui,97401,51.46,26.48
+BELLO,Huguette,Mme,DVG,Divers gauche,34911,"  59,61","  32,27",oui,97402,59.61,32.27
+BENARD,Alain,M.,DVD,Divers droite,23657,"  40,39","  21,87",non,97402,40.39,21.87
+ROBERT,Didier,M.,UMP,Union pour un Mouvement Populaire,48822,"  62,42","  38,47",oui,97403,62.42,38.47
+VERGES,Paul,M.,DVG,Divers gauche,29396,"  37,58","  23,16",non,97403,37.58,23.16
+LEBRETON,Patrick,M.,SOC,Socialiste,34994,"  58,21","  37,29",oui,97404,58.21,37.29
+FONTAINE,Michel,M.,UMP,Union pour un Mouvement Populaire,25121,"  41,79","  26,77",non,97404,41.79,26.77
+AUDIFAX,Bertho,M.,UMP,Union pour un Mouvement Populaire,22405,"  40,05","  22,36",non,97405,40.05,22.36
+FRUTEAU,Jean-Claude,M.,SOC,Socialiste,33543,"  59,95","  33,47",oui,97405,59.95,33.47
+ALY,Abdoulatifou,M.,DIV,Divers,18789,"  56,28","  29,03",oui,97601,56.28,29.03
+KAMARDINE,Mansour,M.,UMP,Union pour un Mouvement Populaire,14594,"  43,72","  22,55",non,97601,43.72,22.55
+YANNO,Gaël,M.,UMP,Union pour un Mouvement Populaire,26732,"  69,21","  38,78",oui,98801,69.21,38.78
+WASHETINE,Charles,M.,REG,Régionaliste,11891,"  30,79","  17,25",non,98801,30.79,17.25
+FROGIER,Pierre,M.,UMP,Union pour un Mouvement Populaire,25559,"  54,13","  32,79",oui,98802,54.13,32.79
+PIDJOT,Charles,M.,REG,Régionaliste,21663,"  45,87","  27,79",non,98802,45.87,27.79
+TEMARU,Oscar Manutahi,M.,REG,Régionaliste,27569,"  45,93","  29,38",non,98701,45.93,29.38
+BUILLARD,Michel,M.,DVD,Divers droite,32459,"  54,07","  34,60",oui,98701,54.07,34.6
+SANDRAS,Bruno,M.,UMP,Union pour un Mouvement Populaire,24707,"  56,94","  33,43",oui,98702,56.94,33.43
+FREBAULT,Pierre Aroarii,M.,REG,Régionaliste,18688,"  43,06","  25,28",non,98702,43.06,25.28
+GRIGNON,Gérard,M.,UMP,Union pour un Mouvement Populaire,1726,"  48,73","  35,05",non,97501,48.73,35.05
+GIRARDIN ,Annick,Mme,RDG,Radical de gauche,1816,"  51,27","  36,88",oui,97501,51.27,36.88
+LIKUVALU,Albert,M.,SOC,Socialiste,4152,"  51,79","  37,21",oui,98601,51.79,37.21
+BRIAL,Victor,M.,UMP,Union pour un Mouvement Populaire,3865,"  48,21","  34,64",non,98601,48.21,34.64
