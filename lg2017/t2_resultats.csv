@@ -1,0 +1,1147 @@
+NumPanneauCand,NomPsn,PrenomPsn,CivilitePsn,CodNua,LibNua,NbVoix,RapportExprime,RapportInscrit,Elu,CodCirc,RapportExprimes,RapportInscrits
+1,MALLET,Laurent,M.,MDM,Modem,15114,"  46,25","  18,28",non,00101,46.25,18.28
+5,BRETON,Xavier,M.,LR,Les Républicains,17564,"  53,75","  21,25",oui,00101,53.75,21.25
+6,BEGUET,Marie Jeanne,Mme,MDM,Modem,17319,"  48,28","  18,52",non,00102,48.28,18.52
+8,DE LA VERPILLIÈRE,Charles,M.,LR,Les Républicains,18556,"  51,72","  19,84",oui,00102,51.72,19.84
+4,GIVERNET,Olga,Mme,REM,La République en marche,16552,"  61,86","  21,91",oui,00103,61.86,21.91
+7,PERNOD BEAUDON,Stéphanie,Mme,LR,Les Républicains,10204,"  38,14","  13,51",non,00103,38.14,13.51
+5,TROMPILLE,Stéphane,M.,REM,La République en marche,22532,"  64,50","  25,21",oui,00104,64.5,25.21
+10,CHAUSSAT,Blanche,Mme,FN,Front National,12404,"  35,50","  13,88",non,00104,35.5,13.88
+9,ABAD,Damien,M.,LR,Les Républicains,19383,"  67,02","  25,74",oui,00105,67.02,25.74
+12,DE MEIRE,Hélène,Mme,REM,La République en marche,9538,"  32,98","  12,67",non,00105,32.98,12.67
+3,BONO-VANDORME,Aude,Mme,REM,La République en marche,16684,"  56,22","  23,06",oui,00201,56.22,23.06
+4,PHILIPPOT,Damien,M.,FN,Front National,12994,"  43,78","  17,96",non,00201,43.78,17.96
+1,DIVE,Julien,M.,LR,Les Républicains,19019,"  64,97","  25,71",oui,00202,64.97,25.71
+7,SAILLARD-MEUNIER,Sylvie,Mme,FN,Front National,10255,"  35,03","  13,86",non,00202,35.03,13.86
+3,BRICOUT,Jean-Louis,M.,SOC,Parti socialiste,17558,"  60,45","  25,79",oui,00203,60.45,25.79
+10,HANSEN-CATTA,Paul-Henry,M.,FN,Front National,11487,"  39,55","  16,87",non,00203,39.55,16.87
+2,MESSIHA,Jean,M.,FN,Front National,12631,"  43,73","  15,97",non,00204,43.73,15.97
+9,DELATTE,Marc,M.,REM,La République en marche,16256,"  56,27","  20,55",oui,00204,56.27,20.55
+4,KRABAL,Jacques,M.,REM,La République en marche,19609,"  57,82","  23,85",oui,00205,57.82,23.85
+8,DE VOYER,François,M.,FN,Front National,14304,"  42,18","  17,40",non,00205,42.18,17.4
+7,RIVIERE,Pauline,Mme,REM,La République en marche,19424,"  48,15","  21,66",non,00301,48.15,21.66
+11,DUFRÈGNE,Jean-Paul,M.,COM,Parti communiste français,20915,"  51,85","  23,32",oui,00301,51.85,23.32
+2,DUGLÉRY,Daniel,M.,LR,Les Républicains,16027,"  47,95","  18,95",non,00302,47.95,18.95
+12,VANCEUNEBROCK-MIALON,Laurence,Mme,REM,La République en marche,17396,"  52,05","  20,57",oui,00302,52.05,20.57
+3,PEYROL,Bénédicte,Mme,REM,La République en marche,18480,"  58,43","  23,35",oui,00303,58.43,23.35
+6,MAQUIN,Gabriel,M.,LR,Les Républicains,13145,"  41,57","  16,61",non,00303,41.57,16.61
+7,BAGARRY,Delphine,Mme,REM,La République en marche,15609,"  63,60","  25,53",oui,00401,63.6,25.53
+12,BRUN,Odile,Mme,FN,Front National,8933,"  36,40","  14,61",non,00401,36.4,14.61
+5,WALTER,Léo,M.,FI,La France insoumise,10244,"  38,43","  15,68",non,00402,38.43,15.68
+6,CASTANER,Christophe,M.,REM,La République en marche,16412,"  61,57","  25,12",oui,00402,61.57,25.12
+4,ASSO,Catherine,Mme,LR,Les Républicains,8828,"  42,08","  15,29",non,00501,42.08,15.29
+11,BOYER,Pascale,Mme,REM,La République en marche,12151,"  57,92","  21,04",oui,00501,57.92,21.04
+1,GIRAUD,Joël,M.,REM,La République en marche,14823,"  68,16","  28,42",oui,00502,68.16,28.42
+6,MURGIA,Arnaud,M.,DVD,Divers droite,6923,"  31,84","  13,27",non,00502,31.84,13.27
+5,REVERSO-MEINIETTI,Caroline,Mme,REM,La République en marche,15493,"  43,79","  19,25",non,00601,43.79,19.25
+8,CIOTTI,Eric,M.,LR,Les Républicains,19888,"  56,21","  24,72",oui,00601,56.21,24.72
+1,COCHET,Jérôme,M.,FN,Front National,13483,"  40,92","  15,77",non,00602,40.92,15.77
+6,DOMBREVAL,Loîc,M.,REM,La République en marche,19468,"  59,08","  22,77",oui,00602,59.08,22.77
+1,ROUSSEL,Cédric,M.,REM,La République en marche,19762,"  60,84","  22,17",oui,00603,60.84,22.17
+12,VARDON,Philippe,M.,FN,Front National,12720,"  39,16","  14,27",non,00603,39.16,14.27
+7,VALETTA ARDISSON,Alexandra,Mme,REM,La République en marche,17047,"  52,74","  19,92",oui,00604,52.74,19.92
+14,BETTATI,Olivier,M.,FN,Front National,15274,"  47,26","  17,85",non,00604,47.26,17.85
+3,AGNELY,Chantal,Mme,FN,Front National,12311,"  38,79","  14,01",non,00605,38.79,14.01
+6,BRENIER,Marine,Mme,LR,Les Républicains,19425,"  61,21","  22,10",oui,00605,61.21,22.1
+1,AUDIN,Nathalie,Mme,MDM,Modem,12680,"  42,65","  16,26",non,00606,42.65,16.26
+10,TRASTOUR-ISNART,Laurence,Mme,LR,Les Républicains,17051,"  57,35","  21,86",oui,00606,57.35,21.86
+2,PAUGET,Eric,M.,LR,Les Républicains,23278,"  59,45","  25,07",oui,00607,59.45,25.07
+13,BEN ABDERRAHMANE,Khaled,M.,REM,La République en marche,15875,"  40,55","  17,10",non,00607,40.55,17.1
+9,BUERCH,Philippe,M.,REM,La République en marche,13061,"  42,87","  15,93",non,00608,42.87,15.93
+10,BROCHAND,Bernard,M.,LR,Les Républicains,17403,"  57,13","  21,23",oui,00608,57.13,21.23
+7,FILLEBEEN,Dominique,Mme,REM,La République en marche,14947,"  46,02","  18,70",non,00609,46.02,18.7
+10,TABAROT,Michèle,Mme,LR,Les Républicains,17530,"  53,98","  21,93",oui,00609,53.98,21.93
+5,DUPONT,André,M.,REM,La République en marche,12294,"  41,98","  15,78",non,00701,41.98,15.78
+14,SAULIGNAC,Hervé,M.,SOC,Parti socialiste,16993,"  58,02","  21,81",oui,00701,58.02,21.81
+6,GOUYET-POMMARET,Laurette,Mme,REM,La République en marche,17179,"  43,70","  18,46",non,00702,43.7,18.46
+9,DUSSOPT,Olivier,M.,SOC,Parti socialiste,22132,"  56,30","  23,78",oui,00702,56.3,23.78
+9,BRUN,Fabrice,M.,LR,Les Républicains,16926,"  54,77","  21,63",oui,00703,54.77,21.63
+12,PEYRAUD,Matthieu,M.,REM,La République en marche,13976,"  45,23","  17,86",non,00703,45.23,17.86
+1,MORALI,Jean-Pierre,M.,REM,La République en marche,8404,"  30,32","  11,45",non,00801,30.32,11.45
+10,POLETTI,Bérengère,Mme,LR,Les Républicains,19311,"  69,68","  26,32",oui,00801,69.68,26.32
+3,IGLESIAS,Mario,M.,REM,La République en marche,8530,"  38,95","  13,35",non,00802,38.95,13.35
+5,CORDIER,Pierre,M.,LR,Les Républicains,13371,"  61,05","  20,93",oui,00802,61.05,20.93
+6,WARSMANN,Jean-Luc,M.,LR,Les Républicains,17678,"  74,72","  30,99",oui,00803,74.72,30.99
+7,BLOMME,Amandine,Mme,FN,Front National,5980,"  25,28","  10,48",non,00803,25.28,10.48
+2,AZEMA,Jérôme,M.,REM,La République en marche,12633,"  49,72","  22,27",non,00901,49.72,22.27
+4,TAURINE,Bénédicte,Mme,FI,La France insoumise,12776,"  50,28","  22,52",oui,00901,50.28,22.52
+8,BERTRAND-VINZERICH,Huguette,Mme,REM,La République en marche,12298,"  49,45","  20,27",non,00902,49.45,20.27
+9,LARIVE,Michel,M.,FI,La France insoumise,12572,"  50,55","  20,72",oui,00902,50.55,20.72
+2,BESSON-MOREAU,Grégory,M.,REM,La République en marche,11339,"  36,46","  17,62",oui,01001,36.46,17.62
+3,DHUICQ,Nicolas,M.,LR,Les Républicains,10980,"  35,31","  17,06",non,01001,35.31,17.06
+8,SUBTIL,Bruno,M.,FN,Front National,8780,"  28,23","  13,64",non,01001,28.23,13.64
+11,BAZIN-MALGRAS,Valérie,Mme,LR,Les Républicains,16501,"  55,30","  22,33",oui,01002,55.3,22.33
+12,HADDAD,Djamila,Mme,REM,La République en marche,13340,"  44,70","  18,06",non,01002,44.7,18.06
+4,MENUEL,Gérard,M.,LR,Les Républicains,12877,"  52,72","  19,61",oui,01003,52.72,19.61
+11,LANDRÉAT,Pascal,M.,MDM,Modem,11548,"  47,28","  17,59",non,01003,47.28,17.59
+12,HÉRIN,Danièle,Mme,REM,La République en marche,23137,"  58,71","  24,32",oui,01101,58.71,24.32
+13,BARTHÈS,Christophe,M.,FN,Front National,16275,"  41,29","  17,11",non,01101,41.29,17.11
+6,DARAUD,Jean-François,M.,FN,Front National,13774,"  41,54","  15,49",non,01102,41.54,15.49
+10,PEREA,Alain,M.,REM,La République en marche,19381,"  58,46","  21,80",oui,01102,58.46,21.8
+6,ROBERT,Mireille,Mme,REM,La République en marche,19605,"  53,10","  22,12",oui,01103,53.1,22.12
+12,VIOLA,André,M.,SOC,Parti socialiste,17318,"  46,90","  19,54",non,01103,46.9,19.54
+2,MAZARS,Stéphane,M.,REM,La République en marche,23217,"  66,37","  30,39",oui,01201,66.37,30.39
+9,CENSI,Yves,M.,LR,Les Républicains,11763,"  33,63","  15,40",non,01201,33.63,15.4
+5,BLANC,Anne,Mme,REM,La République en marche,16013," 100,00","  22,95",oui,01202,100.0,22.95
+1,AUSTRUY,Jean-Louis,M.,REM,La République en marche,14449,"  40,84","  20,12",non,01203,40.84,20.12
+4,VIALA,Arnaud,M.,LR,Les Républicains,20934,"  59,16","  29,16",oui,01203,59.16,29.16
+10,BOYER,Valérie,Mme,LR,Les Républicains,14531,"  55,10","  18,53",oui,01301,55.1,18.53
+15,CHAMASSIAN,Pascal,M.,REM,La République en marche,11839,"  44,90","  15,10",non,01301,44.9,15.1
+8,TIAN,Dominique,M.,LR,Les Républicains,13814,"  45,23","  17,55",non,01302,45.23,17.55
+15,PITOLLAT,Claire,Mme,REM,La République en marche,16725,"  54,77","  21,25",oui,01302,54.77,21.25
+3,RAVIER,Stéphane,M.,FN,Front National,11641,"  47,58","  15,84",non,01303,47.58,15.84
+9,LOUIS,Alexandra,Mme,REM,La République en marche,12826,"  52,42","  17,45",oui,01303,52.42,17.45
+8,VERSINI,Corinne,Mme,REM,La République en marche,7992,"  40,15","  13,39",non,01304,40.15,13.39
+11,MÉLENCHON,Jean-Luc,M.,FI,La France insoumise,11912,"  59,85","  19,96",oui,01304,59.85,19.96
+2,DAVI,Hendrik,M.,FI,La France insoumise,11648,"  47,79","  16,87",non,01305,47.79,16.87
+10,RACON-BOUZON,Cathy,Mme,REM,La République en marche,12725,"  52,21","  18,43",oui,01305,52.21,18.43
+2,LEPRETTRE,Eléonore,Mme,MDM,Modem,12412,"  46,47","  16,41",non,01306,46.47,16.41
+8,TEISSIER,Guy,M.,LR,Les Républicains,14299,"  53,53","  18,90",oui,01306,53.53,18.9
+8,GRECH,Sophie,Mme,FN,Front National,6996,"  41,61","  10,69",non,01307,41.61,10.69
+15,AHAMADA,Saïd,M.,REM,La République en marche,9818,"  58,39","  15,00",oui,01307,58.39,15.0
+15,ZULESI,Jean-Marc,M.,REM,La République en marche,22448,"  58,68","  22,43",oui,01308,58.68,22.43
+16,BAUDINO,Antoine,M.,FN,Front National,15807,"  41,32","  15,79",non,01308,41.32,15.79
+3,BRUNET,Sylvie,Mme,MDM,Modem,17333,"  49,23","  17,88",non,01309,49.23,17.88
+13,DEFLESSELLES,Bernard,M.,LR,Les Républicains,17875,"  50,77","  18,44",oui,01309,50.77,18.44
+8,JACOBELLI,Laurent,M.,FN,Front National,16451,"  41,73","  15,50",non,01310,41.73,15.5
+10,LAMBERT,François-Michel,M.,REM,La République en marche,22976,"  58,27","  21,65",oui,01310,58.27,21.65
+1,KERT,Christian,M.,LR,Les Républicains,15214,"  49,05","  17,04",non,01311,49.05,17.04
+7,LAQHILA,Mohamed,M.,MDM,Modem,15804,"  50,95","  17,70",oui,01311,50.95,17.7
+1,DIARD,Eric,M.,LR,Les Républicains,18861,"  62,13","  20,47",oui,01312,62.13,20.47
+8,BAL,Camille,Mme,REM,La République en marche,11496,"  37,87","  12,47",non,01312,37.87,12.47
+3,SIREROLS,Magali,Mme,REM,La République en marche,13013,"  37,59","  13,87",non,01313,37.59,13.87
+14,DHARRÉVILLE,Pierre,M.,COM,Parti communiste français,21602,"  62,41","  23,03",oui,01313,62.41,23.03
+5,PETEL,Anne-Laurence,Mme,REM,La République en marche,21500,"  60,23","  22,30",oui,01314,60.23,22.3
+13,PAOLI,Stéphane,M.,LR,Les Républicains,14197,"  39,77","  14,72",non,01314,39.77,14.72
+1,FARRO,Nathalie,Mme,REM,La République en marche,18675,"  43,51","  17,80",non,01315,43.51,17.8
+11,REYNÈS,Bernard,M.,LR,Les Républicains,24242,"  56,49","  23,11",oui,01315,56.49,23.11
+4,LAUPIES,Valérie,Mme,FN,Front National,17505,"  48,83","  19,32",non,01316,48.83,19.32
+10,MICHEL,Monica,Mme,REM,La République en marche,18341,"  51,17","  20,24",oui,01316,51.17,20.24
+7,LE VIGOUREUX,Fabrice,M.,REM,La République en marche,17340,"  64,93","  24,74",oui,01401,64.93,24.74
+10,DE LA PROVÔTÉ,Sonia,Mme,UDI,Union des Démocrates et Indépendants,9367,"  35,07","  13,36",non,01401,35.07,13.36
+6,DUMONT,Laurence,Mme,SOC,Parti socialiste,14814,"  53,32","  21,92",oui,01402,53.32,21.92
+13,HALPHEN,Eric,M.,REM,La République en marche,12968,"  46,68","  19,19",non,01402,46.68,19.19
+5,LECLERC,Sébastien,M.,LR,Les Républicains,15174,"  51,32","  19,23",oui,01403,51.32,19.23
+11,LEHERICY,Florence,Mme,MDM,Modem,14394,"  48,68","  18,24",non,01403,48.68,18.24
+1,AMELINE,Nicole,Mme,LR,Les Républicains,17908,"  44,18","  17,73",non,01404,44.18,17.73
+13,BLANCHET,Christophe,M.,REM,La République en marche,22624,"  55,82","  22,40",oui,01404,55.82,22.4
+3,NOUVELOT,Cédric,M.,LR,Les Républicains,16439,"  44,67","  18,27",non,01405,44.67,18.27
+5,BOUYX,Bertrand,M.,REM,La République en marche,20358,"  55,33","  22,62",oui,01405,55.33,22.62
+5,TOURRET,Alain,M.,REM,La République en marche,24289,"  68,34","  25,96",oui,01406,68.34,25.96
+10,ROY,Jean-Philippe,M.,FN,Front National,11252,"  31,66","  12,03",non,01406,31.66,12.03
+9,DANEMANS,François,M.,REM,La République en marche,14829,"  48,89","  23,55",non,01501,48.89,23.55
+10,DESCOEUR,Vincent,M.,LR,Les Républicains,15501,"  51,11","  24,62",oui,01501,51.11,24.62
+5,BONY,Jean-Yves,M.,LR,Les Républicains,14501,"  55,76","  26,71",oui,01502,55.76,26.71
+10,ROCHES,Patricia,Mme,REM,La République en marche,11504,"  44,24","  21,19",non,01502,44.24,21.19
+7,MESNIER,Thomas,M.,REM,La République en marche,19360,"  59,95","  22,79",oui,01601,59.95,22.79
+8,BOUTIN,Martine,Mme,FI,La France insoumise,12935,"  40,05","  15,23",non,01601,40.05,15.23
+7,SAUVAITRE,Daniel,M.,LR,Les Républicains,13011,"  41,27","  15,50",non,01602,41.27,15.5
+11,MARSAUD,Sandra,Mme,REM,La République en marche,18518,"  58,73","  22,06",oui,01602,58.73,22.06
+5,NGOMBET BITOO,Madeleine,Mme,REM,La République en marche,14951,"  40,10","  16,45",non,01603,40.1,16.45
+10,LAMBERT,Jérôme,M.,SOC,Parti socialiste,22337,"  59,90","  24,58",oui,01603,59.9,24.58
+3,FALORNI,Olivier,M.,DVG,Divers gauche,28765,"  69,02","  27,87",oui,01701,69.02,27.87
+11,FERREIRA,Otilia,Mme,MDM,Modem,12913,"  30,98","  12,51",non,01701,30.98,12.51
+3,MARCILLY,Sylvie,Mme,LR,Les Républicains,16307,"  42,73","  15,64",non,01702,42.73,15.64
+6,TUFFNELL,Fréderique,Mme,REM,La République en marche,21859,"  57,27","  20,96",oui,01702,57.27,20.96
+6,NEVEU,Frederic,M.,LR,Les Républicains,12360,"  42,48","  15,04",non,01703,42.48,15.04
+8,ARDOUIN,Jean-Philippe,M.,REM,La République en marche,16739,"  57,52","  20,37",oui,01703,57.52,20.37
+10,GIRARD,Loic,M.,LR,Les Républicains,17159,"  48,71","  19,09",non,01704,48.71,19.09
+12,GÉRARD,Raphaël,M.,REM,La République en marche,18070,"  51,29","  20,10",oui,01704,51.29,20.1
+5,POTENNEC,Gérard,M.,DIV,Divers,19024,"  45,11","  17,07",non,01705,45.11,17.07
+8,QUENTIN,Didier,M.,LR,Les Républicains,23151,"  54,89","  20,78",oui,01705,54.89,20.78
+4,CORMIER-BOULIGEON,François,M.,REM,La République en marche,15397,"  56,21","  21,22",oui,01801,56.21,21.22
+6,D'ORMESSON,Wladimir,M.,LR,Les Républicains,11996,"  43,79","  16,53",non,01801,43.79,16.53
+3,SANSU,Nicolas,M.,COM,Parti communiste français,12962,"  47,43","  18,48",non,01802,47.43,18.48
+8,ESSAYAN,Nadia,Mme,MDM,Modem,14366,"  52,57","  20,48",oui,01802,52.57,20.48
+4,KERVRAN,Loïc,M.,REM,La République en marche,17775,"  50,92","  20,63",oui,01803,50.92,20.63
+6,GALUT,Yann,M.,SOC,Parti socialiste,17136,"  49,08","  19,89",non,01803,49.08,19.89
+2,COMBES,Bernard,M.,SOC,Parti socialiste,19619,"  46,57","  21,18",non,01901,46.57,21.18
+10,JERRETIE,Christophe,M.,REM,La République en marche,22509,"  53,43","  24,30",oui,01901,53.43,24.3
+2,BORDAS,Patricia,Mme,REM,La République en marche,18849,"  49,97","  20,37",non,01902,49.97,20.37
+14,MEUNIER,Frédérique,Mme,LR,Les Républicains,18874,"  50,03","  20,40",oui,01902,50.03,20.4
+3,FERRARA,Jean-Jacques,M.,LR,Les Républicains,12278,"  64,99","  24,13",oui,02A01,64.99,24.13
+7,GUIDICELLI,Maria,Mme,REM,La République en marche,6614,"  35,01","  13,00",non,02A01,35.01,13.0
+4,COLOMBANI,Paul-André,M.,REG,Régionaliste,16637,"  55,22","  28,75",oui,02A02,55.22,28.75
+5,DE ROCCA SERRA,Camille,M.,LR,Les Républicains,13491,"  44,78","  23,31",non,02A02,44.78,23.31
+3,GANDOLFI-SCHEIT,Sauveur,M.,LR,Les Républicains,10490,"  39,19","  17,85",non,02B01,39.19,17.85
+9,CASTELLANI,Michel,M.,REG,Régionaliste,16279,"  60,81","  27,70",oui,02B01,60.81,27.7
+4,ACQUAVIVA,Jean-Félix,M.,REG,Régionaliste,21302,"  63,16","  32,29",oui,02B02,63.16,32.29
+6,GIUDICI,Francis,M.,REM,La République en marche,12425,"  36,84","  18,84",non,02B02,36.84,18.84
+10,DUGOURD,François-Xavier,M.,DVD,Divers droite,12935,"  45,86","  18,89",non,02101,45.86,18.89
+15,MARTIN,Didier,M.,REM,La République en marche,15269,"  54,14","  22,30",oui,02101,54.14,22.3
+11,DELATTE,Rémi,M.,LR,Les Républicains,14352,"  52,44","  20,87",oui,02102,52.44,20.87
+12,DESEILLE,François,M.,REM,La République en marche,13017,"  47,56","  18,93",non,02102,47.56,18.93
+3,KHATTABI,Fadila,Mme,REM,La République en marche,17553,"  65,31","  24,92",oui,02103,65.31,24.92
+8,BATHELIER,Jean-François,M.,FN,Front National,9323,"  34,69","  13,24",non,02103,34.69,13.24
+8,DE COURSON,Yolaine,Mme,REM,La République en marche,14414,"  51,29","  20,98",oui,02104,51.29,20.98
+10,BARRIERE,Charles,M.,LR,Les Républicains,13690,"  48,71","  19,93",non,02104,48.71,19.93
+4,POULLOT,Hubert,M.,LR,Les Républicains,15319,"  46,22","  18,14",non,02105,46.22,18.14
+6,PARIS,Didier,M.,REM,La République en marche,17822,"  53,78","  21,11",oui,02105,53.78,21.11
+7,LESAGE,Michel,M.,SOC,Parti socialiste,14795,"  39,96","  16,47",non,02201,39.96,16.47
+10,JONCOUR,Bruno,M.,MDM,Modem,22233,"  60,04","  24,75",oui,02201,60.04,24.75
+4,DÉRU,Didier,M.,LR,Les Républicains,14980,"  35,83","  15,48",non,02202,35.83,15.48
+9,BERVILLE,Hervé,M.,REM,La République en marche,26834,"  64,17","  27,73",oui,02202,64.17,27.73
+3,ALLAIN,Olivier,M.,REM,La République en marche,21584,"  45,68","  24,87",non,02203,45.68,24.87
+9,LE FUR,Marc,M.,LR,Les Républicains,25668,"  54,32","  29,58",oui,02203,54.32,29.58
+9,LE HOUÉROU,Annie,Mme,SOC,Parti socialiste,17705,"  49,51","  22,50",non,02204,49.51,22.5
+11,KERLOGOT,Yannick,M.,REM,La République en marche,18053,"  50,49","  22,94",oui,02204,50.49,22.94
+3,DE CHAISEMARTIN,Jean-Yves,M.,UDI,Union des Démocrates et Indépendants,14788,"  33,59","  14,25",non,02205,33.59,14.25
+9,BOTHOREL,Eric,M.,REM,La République en marche,29236,"  66,41","  28,18",oui,02205,66.41,28.18
+3,MOREAU,Jean-Baptiste,M.,REM,La République en marche,21688,"  58,23","  23,32",oui,02301,58.23,23.32
+9,SAUTY,Jérémie,M.,LR,Les Républicains,15558,"  41,77","  16,73",non,02301,41.77,16.73
+2,CHASSAING,Philippe,M.,REM,La République en marche,17298,"  52,53","  22,76",oui,02401,52.53,22.76
+8,REYS,Hélène,Mme,FI,La France insoumise,15633,"  47,47","  20,57",non,02401,47.47,20.57
+4,DELPON,Michel,M.,REM,La République en marche,22317,"  66,32","  27,08",oui,02402,66.32,27.08
+8,DUBOIS,Robert,M.,FN,Front National,11331,"  33,68","  13,75",non,02402,33.68,13.75
+1,CUBERTAFON,Jean-Pierre,M.,MDM,Modem,16678,"  51,00","  24,74",oui,02403,51.0,24.74
+9,LANGLADE,Colette,Mme,SOC,Parti socialiste,16021,"  49,00","  23,77",non,02403,49.0,23.77
+1,CHALARD,Émilie,Mme,FI,La France insoumise,17136,"  43,80","  19,54",non,02404,43.8,19.54
+8,DUBOIS,Jacqueline,Mme,REM,La République en marche,21990,"  56,20","  25,07",oui,02404,56.2,25.07
+8,ROMAGNAN,Barbara,Mme,SOC,Parti socialiste,13169,"  46,51","  17,50",non,02501,46.51,17.5
+9,CHARVIER,Fannette,Mme,REM,La République en marche,15143,"  53,49","  20,13",oui,02501,53.49,20.13
+1,ALAUZET,Eric,M.,ECO,Ecologiste,19672,"  62,19","  25,09",oui,02502,62.19,25.09
+4,FAGAUT,Ludovic,M.,LR,Les Républicains,11960,"  37,81","  15,26",non,02502,37.81,15.26
+1,CARTIER,Frédéric,M.,LR,Les Républicains,12530,"  49,19","  19,01",non,02503,49.19,19.01
+9,SOMMER,Denis,M.,REM,La République en marche,12943,"  50,81","  19,63",oui,02503,50.81,19.63
+6,BARBIER,Frédéric,M.,REM,La République en marche,15841,"  61,64","  23,69",oui,02504,61.64,23.69
+8,MONTEL,Sophie,Mme,FN,Front National,9860,"  38,36","  14,75",non,02504,38.36,14.75
+5,LE HIR,Sylvie,Mme,REM,La République en marche,14674,"  40,22","  17,90",non,02505,40.22,17.9
+10,GENEVARD,Annie,Mme,LR,Les Républicains,21812,"  59,78","  26,61",oui,02505,59.78,26.61
+6,CLAPOT,Mireille,Mme,REM,La République en marche,15248,"  56,89","  20,26",oui,02601,56.89,20.26
+14,RACT-MADOUX,Bertrand,M.,LR,Les Républicains,11554,"  43,11","  15,35",non,02601,43.11,15.35
+3,PELLIER,Laure,Mme,FN,Front National,13160,"  37,20","  14,11",non,02602,37.2,14.11
+8,THOUROT,Alice,Mme,REM,La République en marche,22219,"  62,80","  23,82",oui,02602,62.8,23.82
+2,BERARD,Paul,M.,LR,Les Républicains,18506,"  43,01","  17,34",non,02603,43.01,17.34
+13,DE LAVERGNE,Célia,Mme,REM,La République en marche,24518,"  56,99","  22,98",oui,02603,56.99,22.98
+5,CHAY,Latifa,Mme,REM,La République en marche,15520,"  43,55","  16,47",non,02604,43.55,16.47
+9,ANTHOINE,Emmanuelle,Mme,LR,Les Républicains,20116,"  56,45","  21,34",oui,02604,56.45,21.34
+12,LE MAIRE,Bruno,M.,REM,La République en marche,21398,"  64,53","  24,76",oui,02701,64.53,24.76
+13,DELACOUR,Fabienne,Mme,FN,Front National,11761,"  35,47","  13,61",non,02701,35.47,13.61
+2,CAMOIN,Emmanuel,M.,FN,Front National,11653,"  36,75","  14,85",non,02702,36.75,14.85
+4,GOUTTEFARDE,Fabien,M.,REM,La République en marche,20056,"  63,25","  25,56",oui,02702,63.25,25.56
+4,HOUSSIN,Timothée,M.,FN,Front National,14275,"  40,71","  16,92",non,02703,40.71,16.92
+7,TAMARELLE-VERHAEGHE,Marie,Mme,MDM,Modem,20788,"  59,29","  24,63",oui,02703,59.29,24.63
+5,QUESTEL,Bruno,M.,REM,La République en marche,20755,"  60,51","  23,08",oui,02704,60.51,23.08
+11,PERREAUX,Doris,Mme,FN,Front National,13543,"  39,49","  15,06",non,02704,39.49,15.06
+11,O'PETIT,Claire,Mme,REM,La République en marche,18804,"  55,98","  21,25",oui,02705,55.98,21.25
+15,TAILLIEU,Vincent,M.,FN,Front National,14784,"  44,02","  16,71",non,02705,44.02,16.71
+3,KASBARIAN,Guillaume,M.,REM,La République en marche,19127,"  55,18","  21,46",oui,02801,55.18,21.46
+4,MASSELUS,Franck,M.,LR,Les Républicains,15534,"  44,82","  17,43",non,02801,44.82,17.43
+2,MARLEIX,Olivier,M.,LR,Les Républicains,16303,"  59,38","  21,94",oui,02802,59.38,21.94
+11,HOUD,Claire Tassadit,Mme,REM,La République en marche,11152,"  40,62","  15,01",non,02802,40.62,15.01
+2,HUWART,Harold,M.,RDG,Parti radical de gauche,12729,"  43,90","  17,99",non,02803,43.9,17.99
+9,DE LA RAUDIERE,Laure,Mme,LR,Les Républicains,16268,"  56,10","  23,00",oui,02803,56.1,23.0
+2,ROUVIER,Clémence,Mme,REM,La République en marche,8705,"  29,62","  12,95",non,02804,29.62,12.95
+3,VIGIER,Philippe,M.,UDI,Union des Démocrates et Indépendants,20685,"  70,38","  30,78",oui,02804,70.38,30.78
+4,LE MEUR,Annaïg,Mme,REM,La République en marche,20925,"  54,45","  23,55",oui,02901,54.45,23.55
+14,URVOAS,Jean-Jacques,M.,SOC,Parti socialiste,17502,"  45,55","  19,69",non,02901,45.55,19.69
+3,CADALEN,Pierre-Yves,M.,FI,La France insoumise,12646,"  40,42","  16,27",non,02902,40.42,16.27
+5,LARSONNEUR,Jean-Charles,M.,REM,La République en marche,18638,"  59,58","  23,98",oui,02902,59.58,23.98
+4,LE GAC,Didier,M.,REM,La République en marche,22593,"  60,69","  25,30",oui,02903,60.69,25.3
+7,BLEUNVEN,Jean-Luc,M.,DVG,Divers gauche,14633,"  39,31","  16,38",non,02903,39.31,16.38
+7,LE FEUR,Sandrine,Mme,REM,La République en marche,19001,"  52,14","  23,13",oui,02904,52.14,23.13
+11,DE CALAN,Maël,M.,LR,Les Républicains,17440,"  47,86","  21,23",non,02904,47.86,21.23
+3,MELCHIOR,Graziella,Mme,REM,La République en marche,20957,"  53,89","  22,18",oui,02905,53.89,22.18
+6,LECLERC,Patrick,M.,DVD,Divers droite,17930,"  46,11","  18,98",non,02905,46.11,18.98
+3,NICOLAS,Gaëlle,Mme,LR,Les Républicains,16140,"  43,47","  18,08",non,02906,43.47,18.08
+4,FERRAND,Richard,M.,REM,La République en marche,20991,"  56,53","  23,51",oui,02906,56.53,23.51
+6,TANGUY,Liliane,Mme,REM,La République en marche,20611,"  62,95","  25,65",oui,02907,62.95,25.65
+11,GUILLON,Didier,M.,LR,Les Républicains,12133,"  37,05","  15,10",non,02907,37.05,15.1
+1,QUERNEZ,Michael,M.,SOC,Parti socialiste,17203,"  48,55","  19,73",non,02908,48.55,19.73
+8,BALANANT,Erwan,M.,REM,La République en marche,18233,"  51,45","  20,91",oui,02908,51.45,20.91
+1,GILLET,Yoann,M.,FN,Front National,14470,"  45,45","  16,64",non,03001,45.45,16.64
+10,DUMAS,Françoise,Mme,REM,La République en marche,17365,"  54,55","  19,97",oui,03001,54.55,19.97
+1,COLLARD,Gilbert,M.,FN,Front National,19834,"  50,16","  22,28",oui,03002,50.16,22.28
+11,MARIE SARA,.,Mme,MDM,Modem,19711,"  49,84","  22,14",non,03002,49.84,22.14
+7,TEZENAS DU MONTCEL,Monique,Mme,FN,Front National,15212,"  40,98","  16,26",non,03003,40.98,16.26
+8,CELLIER,Anthony,M.,REM,La République en marche,21908,"  59,02","  23,42",oui,03003,59.02,23.42
+2,ROULLAUD,Brigitte,Mme,FN,Front National,14375,"  41,79","  15,78",non,03004,41.79,15.78
+11,CHAPELIER,Annie,Mme,REM,La République en marche,20027,"  58,21","  21,98",oui,03004,58.21,21.98
+2,DE VIDO,Daniela,Mme,FN,Front National,13337,"  36,43","  13,92",non,03005,36.43,13.92
+15,GAILLARD,Olivier,M.,REM,La République en marche,23268,"  63,57","  24,28",oui,03005,63.57,24.28
+4,GARDET,Laurence,Mme,FN,Front National,11747,"  39,65","  14,47",non,03006,39.65,14.47
+6,BERTA,Philippe,M.,REM,La République en marche,17879,"  60,35","  22,02",oui,03006,60.35,22.02
+5,CABARE,Pierre,M.,REM,La République en marche,16203,"  51,02","  19,74",oui,03101,51.02,19.74
+12,DUJARDIN,Claire,Mme,FI,La France insoumise,15556,"  48,98","  18,95",non,03101,48.98,18.95
+8,STAMBACH-TERRENOIR,Anne,Mme,FI,La France insoumise,18113,"  44,51","  18,03",non,03102,44.51,18.03
+10,LAGLEIZE,Jean-Luc,M.,MDM,Modem,22581,"  55,49","  22,47",oui,03102,55.49,22.47
+1,VIGNON,Corinne,Mme,REM,La République en marche,16254,"  52,97","  20,81",oui,03103,52.97,20.81
+6,ARRIBAGÉ,Laurence,Mme,LR,Les Républicains,14429,"  47,03","  18,47",non,03103,47.03,18.47
+1,HOANG NGOC,Liem,M.,FI,La France insoumise,12650,"  48,09","  18,24",non,03104,48.09,18.24
+13,NOGAL,Mickaël,M.,REM,La République en marche,13657,"  51,91","  19,69",oui,03104,51.91,19.69
+6,LEONARDELLI,Julien,M.,FN,Front National,12504,"  32,40","  12,71",non,03105,32.4,12.71
+9,PORTARRIEU,Jean-François,M.,REM,La République en marche,26091,"  67,60","  26,52",oui,03105,67.6,26.52
+14,JIMENA,Patrick,M.,FI,La France insoumise,20483,"  44,13","  18,39",non,03106,44.13,18.39
+16,IBORRA,Monique,Mme,REM,La République en marche,25934,"  55,87","  23,29",oui,03106,55.87,23.29
+4,DOMBES,Marie,Mme,FN,Front National,12572,"  32,16","  12,60",non,03107,32.16,12.6
+6,TOUTUT-PICARD,Elisabeth,Mme,REM,La République en marche,26521,"  67,84","  26,58",oui,03107,67.84,26.58
+2,AVIRAGNET,Joël,M.,SOC,Parti socialiste,17270,"  50,13","  20,22",oui,03108,50.13,20.22
+6,MONTSARRAT,Michel,M.,REM,La République en marche,17179,"  49,87","  20,11",non,03108,49.87,20.11
+1,BOMPARD,Manuel,M.,FI,La France insoumise,14991,"  47,67","  18,88",non,03109,47.67,18.88
+12,MÖRCH,Sandrine,Mme,REM,La République en marche,16458,"  52,33","  20,73",oui,03109,52.33,20.73
+2,FABRE,Monique,Mme,FI,La France insoumise,17512,"  39,30","  18,36",non,03110,39.3,18.36
+7,NADOT,Sébastien,M.,REM,La République en marche,27048,"  60,70","  28,36",oui,03110,60.7,28.36
+2,DUPOUEY,Francis,M.,SOC,Parti socialiste,13159,"  40,75","  17,90",non,03201,40.75,17.9
+5,CAZENEUVE,Jean-René,M.,REM,La République en marche,19133,"  59,25","  26,03",oui,03201,59.25,26.03
+2,SOCCIO,Christopher,M.,REM,La République en marche,15001,"  48,43","  20,98",non,03202,48.43,20.98
+12,BIÉMOURET,Gisèle,Mme,SOC,Parti socialiste,15972,"  51,57","  22,34",oui,03202,51.57,22.34
+1,DAVID,Dominique,Mme,REM,La République en marche,20645,"  59,59","  21,73",oui,03301,59.59,21.73
+4,FLORIAN,Nicolas,M.,LR,Les Républicains,14000,"  40,41","  14,74",non,03301,40.41,14.74
+10,FABRE,Catherine,Mme,REM,La République en marche,13874,"  63,79","  21,02",oui,03302,63.79,21.02
+14,WALRYCK,Anne,Mme,LR,Les Républicains,7875,"  36,21","  11,93",non,03302,36.21,11.93
+4,PRUD'HOMME,Loïc,M.,FI,La France insoumise,16248,"  50,20","  20,05",oui,03303,50.2,20.05
+21,FETOUH,Marik,M.,REM,La République en marche,16117,"  49,80","  19,89",non,03303,49.8,19.89
+1,DAVID,Alain,M.,SOC,Parti socialiste,15550,"  50,91","  16,61",oui,03304,50.91,16.61
+9,S'KALLI-BOUAZIZA,Aziz,M.,REM,La République en marche,14992,"  49,09","  16,01",non,03304,49.09,16.01
+7,GOT,Pascale,Mme,SOC,Parti socialiste,20632,"  49,54","  18,67",non,03305,49.54,18.67
+11,SIMIAN,Benoit,M.,REM,La République en marche,21011,"  50,46","  19,01",oui,03305,50.46,19.01
+9,RÉCALDE,Marie,Mme,SOC,Parti socialiste,16590,"  41,19","  15,99",non,03306,41.19,15.99
+10,POULLIAT,Eric,M.,REM,La République en marche,23690,"  58,81","  22,84",oui,03306,58.81,22.84
+8,COUILLARD,Bérangère,Mme,REM,La République en marche,17304,"  55,70","  22,49",oui,03307,55.7,22.49
+14,GARRIGOU,Bernard,M.,SOC,Parti socialiste,13761,"  44,30","  17,89",non,03307,44.3,17.89
+1,PANONACLE,Sophie,Mme,REM,La République en marche,26713,"  59,75","  24,49",oui,03308,59.75,24.49
+5,FOULON,Yves,M.,LR,Les Républicains,17997,"  40,25","  16,50",non,03308,40.25,16.5
+8,SAVARY,Gilles,M.,SOC,Parti socialiste,15674,"  46,46","  16,75",non,03309,46.46,16.75
+9,METTE,Sophie,Mme,MDM,Modem,18059,"  53,54","  19,29",oui,03309,53.54,19.29
+7,BOUDIÉ,Florent,M.,REM,La République en marche,21772,"  67,90","  26,95",oui,03310,67.9,26.95
+11,CHADOURNE,Sandrine,Mme,FN,Front National,10295,"  32,10","  12,74",non,03310,32.1,12.74
+12,HAMMERER,Véronique,Mme,REM,La République en marche,21085,"  57,02","  22,69",oui,03311,57.02,22.69
+16,DIAZ,Edwige,Mme,FN,Front National,15891,"  42,98","  17,10",non,03311,42.98,17.1
+6,DUBOS,Christelle,Mme,REM,La République en marche,19670,"  56,71","  23,60",oui,03312,56.71,23.6
+8,MIQUEU,Christophe,M.,FI,La France insoumise,15018,"  43,29","  18,02",non,03312,43.29,18.02
+4,JAMET,France,Mme,FN,Front National,10381,"  34,31","  12,26",non,03401,34.31,12.26
+6,MIRALLÈS,Patricia,Mme,REM,La République en marche,19877,"  65,69","  23,48",oui,03401,65.69,23.48
+7,JANNIN,Stéphanie,Mme,REM,La République en marche,9866,"  47,71","  16,32",non,03402,47.71,16.32
+14,RESSIGUIER,Muriel,Mme,FI,La France insoumise,10811,"  52,29","  17,89",oui,03402,52.29,17.89
+6,VIDAL,Stéphane,M.,FI,La France insoumise,13226,"  39,55","  15,54",non,03403,39.55,15.54
+7,DUBOST,Coralie,Mme,REM,La République en marche,20211,"  60,45","  23,75",oui,03403,60.45,23.75
+1,GAUBERT,François,M.,FN,Front National,13771,"  34,25","  12,30",non,03404,34.25,12.3
+2,ELIAOU,Jean-François,M.,REM,La République en marche,26432,"  65,75","  23,60",oui,03404,65.75,23.6
+6,ARDINAT,Gilles,M.,FN,Front National,15107,"  41,64","  16,03",non,03405,41.64,16.03
+10,HUPPÉ,Philippe,M.,REM,La République en marche,21169,"  58,36","  22,46",oui,03405,58.36,22.46
+3,VOYER,Isabelle,Mme,REM,La République en marche,17950,"  46,51","  19,67",non,03406,46.51,19.67
+14,MÉNARD,Emmanuelle,Mme,FN,Front National,20640,"  53,49","  22,61",oui,03406,53.49,22.61
+8,EUZET,Christophe,M.,REM,La République en marche,20623,"  52,83","  20,20",oui,03407,52.83,20.2
+14,ROQUES,Myriam,Mme,FN,Front National,18414,"  47,17","  18,04",non,03407,47.17,18.04
+4,PRATO,Gérard,M.,FN,Front National,11680,"  37,15","  13,19",non,03408,37.15,13.19
+13,DÉMOULIN,Nicolas,M.,REM,La République en marche,19757,"  62,85","  22,31",oui,03408,62.85,22.31
+2,VOUZELLAUD,Guillaume,M.,FN,Front National,10600,"  35,46","  12,91",non,03409,35.46,12.91
+7,VIGNAL,Patrick,M.,REM,La République en marche,19293,"  64,54","  23,49",oui,03409,64.54,23.49
+1,LAABID,Mostapha,M.,REM,La République en marche,19346,"  58,87","  21,57",oui,03501,58.87,21.57
+7,LE BLOND,Grégoire,M.,UDI,Union des Démocrates et Indépendants,13519,"  41,13","  15,07",non,03501,41.13,15.07
+7,PLOUVIER,Bertrand,M.,LR,Les Républicains,9243,"  25,56","  10,01",non,03502,25.56,10.01
+13,MAILLART-MÉHAIGNERIE,Laurence,Mme,MDM,Modem,26922,"  74,44","  29,17",oui,03502,74.44,29.17
+10,ANDRÉ,François,M.,SOC,Parti socialiste,21693,"  65,86","  25,18",oui,03503,65.86,25.18
+12,PARMENTIER,Mélina,Mme,LR,Les Républicains,11244,"  34,14","  13,05",non,03503,34.14,13.05
+4,LE BOHEC,Gaël,M.,REM,La République en marche,22667,"  61,75","  25,08",oui,03504,61.75,25.08
+9,MARTIN,Marc,M.,FI,La France insoumise,14041,"  38,25","  15,54",non,03504,38.25,15.54
+3,LE CALLENNEC,Isabelle,Mme,LR,Les Républicains,20627,"  46,70","  19,97",non,03505,46.7,19.97
+10,CLOAREC,Christine,Mme,REM,La République en marche,23546,"  53,30","  22,79",oui,03505,53.3,22.79
+1,VAHÉ,Nolwenn,Mme,REM,La République en marche,16389,"  42,00","  18,85",non,03506,42.0,18.85
+10,BENOIT,Thierry,M.,UDI,Union des Démocrates et Indépendants,22633,"  58,00","  26,03",oui,03506,58.0,26.03
+2,LURTON,Gilles,M.,LR,Les Républicains,26032,"  56,21","  26,26",oui,03507,56.21,26.26
+14,FRIBOLLE,Valérie,Mme,REM,La République en marche,20282,"  43,79","  20,46",non,03507,43.79,20.46
+8,BACHELIER,Florian,M.,REM,La République en marche,22111,"  60,96","  26,49",oui,03508,60.96,26.49
+16,LE PAPE,Enora,Mme,FI,La France insoumise,14161,"  39,04","  16,97",non,03508,39.04,16.97
+8,WUNSCH,Mylène,Mme,FN,Front National,9369,"  29,58","  11,63",non,03601,29.58,11.63
+13,JOLIVET,François,M.,REM,La République en marche,22303,"  70,42","  27,69",oui,03601,70.42,27.69
+9,FORISSIER,Nicolas,M.,LR,Les Républicains,19218,"  51,69","  21,34",oui,03602,51.69,21.34
+10,GUERIN,Sophie,Mme,MDM,Modem,17962,"  48,31","  19,95",non,03602,48.31,19.95
+3,GILLE,Jean-Patrick,M.,SOC,Parti socialiste,11573,"  46,07","  16,86",non,03701,46.07,16.86
+14,CHALUMEAU,Philippe,M.,REM,La République en marche,13548,"  53,93","  19,74",oui,03701,53.93,19.74
+7,LABARONNE,Daniel,M.,REM,La République en marche,20192,"  56,86","  22,78",oui,03702,56.86,22.78
+11,GREFF,Claude,Mme,LR,Les Républicains,15321,"  43,14","  17,29",non,03702,43.14,17.29
+10,AUCONIE,Sophie,Mme,UDI,Union des Démocrates et Indépendants,22194,"  56,59","  22,77",oui,03703,56.59,22.77
+12,TOURAINE,Marisol,Mme,SOC,Parti socialiste,17022,"  43,41","  17,46",non,03703,43.41,17.46
+6,COLBOC,Fabienne,Mme,REM,La République en marche,19995,"  58,26","  22,18",oui,03704,58.26,22.18
+12,NOVELLI,Hervé,M.,LR,Les Républicains,14327,"  41,74","  15,90",non,03704,41.74,15.9
+8,THILLAYE,Sabine,Mme,REM,La République en marche,18782,"  58,29","  22,39",oui,03705,58.29,22.39
+10,BOIGARD,Fabrice,M.,LR,Les Républicains,13441,"  41,71","  16,02",non,03705,41.71,16.02
+5,VERAN,Olivier,M.,REM,La République en marche,23212,"  68,09","  27,91",oui,03801,68.09,27.91
+10,MERMILLOD-BLONDIN,Jean-Damien,M.,UDI,Union des Démocrates et Indépendants,10878,"  31,91","  13,08",non,03801,31.91,13.08
+3,JOLLY,Alexis,M.,FN,Front National,7115,"  26,45","   9,19",non,03802,26.45,9.19
+5,COLAS-ROY,Jean-Charles,M.,REM,La République en marche,19785,"  73,55","  25,55",oui,03802,73.55,25.55
+3,CHALAS,Emilie,Mme,REM,La République en marche,12014,"  54,01","  20,10",oui,03803,54.01,20.1
+4,BRIOT,Raphaël,M.,FI,La France insoumise,10232,"  45,99","  17,12",non,03803,45.99,17.12
+11,BATTISTEL,Marie-Noëlle,Mme,SOC,Parti socialiste,18755,"  54,01","  20,90",oui,03804,54.01,20.9
+12,HUGELÉ,Fabrice,M.,REM,La République en marche,15970,"  45,99","  17,79",non,03804,45.99,17.79
+9,LANGENIEUX-VILLARD,Philippe,M.,LR,Les Républicains,12046,"  33,29","  11,77",non,03805,33.29,11.77
+12,KAMOWSKI,Catherine,Mme,REM,La République en marche,24136,"  66,71","  23,59",oui,03805,66.71,23.59
+6,DÉZEMPTE,Gérard,M.,FN,Front National,15062,"  44,95","  18,09",non,03806,44.95,18.09
+8,MOTIN,Cendra,Mme,REM,La République en marche,18444,"  55,05","  22,15",oui,03806,55.05,22.15
+5,LIMON,Monique,Mme,REM,La République en marche,17716,"  51,84","  19,37",oui,03807,51.84,19.37
+6,NEUDER,Yannick,M.,LR,Les Républicains,16456,"  48,16","  18,00",non,03807,48.16,18.0
+1,MONNIER,Thibaut,M.,FN,Front National,10671,"  36,08","  13,58",non,03808,36.08,13.58
+2,ABADIE,Caroline,Mme,REM,La République en marche,18907,"  63,92","  24,06",oui,03808,63.92,24.06
+1,JACQUIER-LAFORGE,Elodie,Mme,MDM,Modem,20544,"  60,25","  21,14",oui,03809,60.25,21.14
+6,GATTAZ,Bruno,M.,LR,Les Républicains,13554,"  39,75","  13,95",non,03809,39.75,13.95
+2,MEYNIER-MILLEFERT,Marjolaine,Mme,REM,La République en marche,21566,"  64,62","  23,00",oui,03810,64.62,23.0
+3,BREUIL,Alain,M.,FN,Front National,11806,"  35,38","  12,59",non,03810,35.38,12.59
+8,BRULEBOIS,Danielle,Mme,REM,La République en marche,15498,"  57,88","  23,69",oui,03901,57.88,23.69
+11,BRERO,Cyrille,M.,LR,Les Républicains,11278,"  42,12","  17,24",non,03901,42.12,17.24
+7,PROST-GROSJEAN,Anne,Mme,MDM,Modem,9785,"  42,83","  17,72",non,03902,42.83,17.72
+11,DALLOZ,Marie-Christine,Mme,LR,Les Républicains,13063,"  57,17","  23,65",oui,03902,57.17,23.65
+7,SERMIER,Jean-Marie,M.,LR,Les Républicains,17679,"  58,27","  25,44",oui,03903,58.27,25.44
+8,BARD,Paul-Henri,M.,MDM,Modem,12660,"  41,73","  18,22",non,03903,41.73,18.22
+3,DARRIEUSSECQ,Geneviève,Mme,MDM,Modem,26192,"  63,65","  25,83",oui,04001,63.65,25.83
+6,LAGRAVE,Renaud,M.,SOC,Parti socialiste,14961,"  36,35","  14,76",non,04001,36.35,14.76
+2,CAUSSE,Lionel,M.,REM,La République en marche,29682,"  62,95","  26,44",oui,04002,62.95,26.44
+6,DACHARRY,Caroline,Mme,FI,La France insoumise,17471,"  37,05","  15,56",non,04002,37.05,15.56
+2,VALLAUD,Boris,M.,SOC,Parti socialiste,23460,"  50,75","  24,31",oui,04003,50.75,24.31
+8,STEINER,Jean-Pierre,M.,REM,La République en marche,22769,"  49,25","  23,59",non,04003,49.25,23.59
+7,FESNEAU,Marc,M.,MDM,Modem,22914,"  69,15","  27,69",oui,04101,69.15,27.69
+9,CHASSIER,Michel,M.,FN,Front National,10221,"  30,85","  12,35",non,04101,30.85,12.35
+9,BRAULT,Jean-Luc,M.,REM,La République en marche,16324,"  46,07","  20,32",non,04102,46.07,20.32
+12,PELTIER,Guillaume,M.,LR,Les Républicains,19108,"  53,93","  23,78",oui,04102,53.93,23.78
+3,MARTIN,Marlène,Mme,REM,La République en marche,14784,"  39,04","  17,99",non,04103,39.04,17.99
+9,LEROY,Maurice,M.,UDI,Union des Démocrates et Indépendants,23088,"  60,96","  28,09",oui,04103,60.96,28.09
+5,JUANICO,Régis,M.,SOC,Parti socialiste,11544,"  50,05","  17,59",oui,04201,50.05,17.59
+10,VIALLON,Magalie,Mme,REM,La République en marche,11521,"  49,95","  17,55",non,04201,49.95,17.55
+6,TAURINYA,Andrée,Mme,FI,La France insoumise,7716,"  42,53","  14,51",non,04202,42.53,14.51
+7,MIS,Jean-Michel,M.,REM,La République en marche,10425,"  57,47","  19,60",oui,04202,57.47,19.6
+5,FAURE-MUNTIAN,Valéria,Mme,REM,La République en marche,15298,"  52,62","  18,54",oui,04203,52.62,18.54
+9,ROCHEBLOINE,François,M.,UDI,Union des Démocrates et Indépendants,13776,"  47,38","  16,70",non,04203,47.38,16.7
+9,CINIERI,Dino,M.,LR,Les Républicains,19039,"  50,13","  18,83",oui,04204,50.13,18.83
+12,KAUFFER,David,M.,REM,La République en marche,18940,"  49,87","  18,73",non,04204,49.87,18.73
+7,SARLES,Nathalie,Mme,MDM,Modem,21257,"  53,13","  21,02",oui,04205,53.13,21.02
+8,ROBIN,Clotilde,Mme,LR,Les Républicains,18751,"  46,87","  18,54",non,04205,46.87,18.54
+5,BOROWCZYK,Julien,M.,REM,La République en marche,23055,"  56,87","  21,42",oui,04206,56.87,21.42
+11,SALEN,Paul,M.,LR,Les Républicains,17485,"  43,13","  16,25",non,04206,43.13,16.25
+1,GALLIEN,Cécile,Mme,REM,La République en marche,18772,"  41,28","  19,20",non,04301,41.28,19.2
+9,VALENTIN,Isabelle,Mme,LR,Les Républicains,26705,"  58,72","  27,31",oui,04301,58.72,27.31
+1,VIGIER,Jean-Pierre,M.,LR,Les Républicains,22306,"  63,89","  28,07",oui,04302,63.89,28.07
+9,ETEOCLE,Pierre,M.,REM,La République en marche,12606,"  36,11","  15,86",non,04302,36.11,15.86
+6,DE RUGY,François,M.,REM,La République en marche,18796,"  66,14","  25,08",oui,04401,66.14,25.08
+16,BAINVEL,Julien,M.,LR,Les Républicains,9622,"  33,86","  12,84",non,04401,33.86,12.84
+5,MALARD,Carole,Mme,FI,La France insoumise,14370,"  40,01","  16,74",non,04402,40.01,16.74
+12,OPPELT,Valérie,Mme,REM,La République en marche,21542,"  59,99","  25,10",oui,04402,59.99,25.1
+2,GOURDON,Martine,Mme,FI,La France insoumise,16132,"  43,74","  17,50",non,04403,43.74,17.5
+9,BRUNET,Anne-France,Mme,REM,La République en marche,20746,"  56,26","  22,51",oui,04403,56.26,22.51
+1,AMADOU,Aude,Mme,REM,La République en marche,21179,"  56,93","  23,80",oui,04404,56.93,23.8
+14,EGRON,Vincent,M.,FI,La France insoumise,16025,"  43,07","  18,00",non,04404,43.07,18.0
+5,MÉNARD,Michel,M.,SOC,Parti socialiste,17636,"  38,98","  15,16",non,04405,38.98,15.16
+14,EL HAÏRY,Sarah,Mme,MDM,Modem,27613,"  61,02","  23,74",oui,04405,61.02,23.74
+7,DANIEL,Yves,M.,REM,La République en marche,26420,"  61,79","  23,97",oui,04406,61.79,23.97
+8,HUNAULT,Alain,M.,LR,Les Républicains,16338,"  38,21","  14,82",non,04406,38.21,14.82
+8,LOUVRIER,Franck,M.,LR,Les Républicains,16787,"  38,89","  15,51",non,04407,38.89,15.51
+9,JOSSO,Sandrine,Mme,REM,La République en marche,26377,"  61,11","  24,37",oui,04407,61.11,24.37
+8,DUFEU SCHUBERT,Audrey,Mme,REM,La République en marche,19344,"  56,70","  22,60",oui,04408,56.7,22.6
+15,DEBRAYE,Lionel,M.,FI,La France insoumise,14773,"  43,30","  17,26",non,04408,43.3,17.26
+12,HUGUES,Claire,Mme,LR,Les Républicains,15176,"  34,98","  12,87",non,04409,34.98,12.87
+13,HAURY,Yannick,M.,MDM,Modem,28208,"  65,02","  23,93",oui,04409,65.02,23.93
+4,ERRANTE,Sophie,Mme,REM,La République en marche,28560,"  63,89","  24,89",oui,04410,63.89,24.89
+11,GUIHO,Jérôme,M.,LR,Les Républicains,16140,"  36,11","  14,07",non,04410,36.11,14.07
+2,LEMAIGNEN,Charles-Eric,M.,LR,Les Républicains,10759,"  34,98","  14,22",non,04501,34.98,14.22
+4,RIST,Stéphanie,Mme,REM,La République en marche,20001,"  65,02","  26,44",oui,04501,65.02,26.44
+1,GROUARD,Serge,M.,LR,Les Républicains,16579,"  48,77","  19,44",non,04502,48.77,19.44
+12,JANVIER,Caroline,Mme,REM,La République en marche,17415,"  51,23","  20,42",oui,04502,51.23,20.42
+1,CHELLY,Jihan,Mme,REM,La République en marche,14210,"  49,90","  20,06",non,04503,49.9,20.06
+3,DE GANAY,Claude,M.,LR,Les Républicains,14269,"  50,10","  20,14",oui,04503,50.1,20.14
+3,DOOR,Jean-Pierre,M.,LR,Les Républicains,14561,"  50,01","  19,51",oui,04504,50.01,19.51
+8,HARLÉ,Mélusine,Mme,REM,La République en marche,14553,"  49,99","  19,50",non,04504,49.99,19.5
+6,DUBOIS,Marianne,Mme,LR,Les Républicains,14120,"  50,16","  18,94",oui,04505,50.16,18.94
+15,SIMONNET,David,M.,REM,La République en marche,14032,"  49,84","  18,82",non,04505,49.84,18.82
+3,RAMOS,Richard,M.,MDM,Modem,14379,"  52,69","  20,00",oui,04506,52.69,20.0
+4,LECLERC,Alexandrine,Mme,UDI,Union des Démocrates et Indépendants,12911,"  47,31","  17,96",non,04506,47.31,17.96
+1,MAUREL,Sébastien,M.,REM,La République en marche,15516,"  48,68","  21,91",non,04601,48.68,21.91
+8,PRADIÉ,Aurélien,M.,LR,Les Républicains,16358,"  51,32","  23,10",oui,04601,51.32,23.1
+10,TIEGNA,Huguette,Mme,REM,La République en marche,15985,"  53,25","  24,46",oui,04602,53.25,24.46
+11,LABARTHE,Vincent,M.,SOC,Parti socialiste,14033,"  46,75","  21,48",non,04602,46.75,21.48
+10,LAUZZANA,Michel,M.,REM,La République en marche,19635,"  56,85","  22,27",oui,04701,56.85,22.27
+11,DIONIS DU SEJOUR,Jean,M.,UDI,Union des Démocrates et Indépendants,14903,"  43,15","  16,90",non,04701,43.15,16.9
+1,LAPORTE,Hélène,Mme,FN,Front National,13413,"  40,28","  17,43",non,04702,40.28,17.43
+4,FRESCHI,Alexandre,M.,REM,La République en marche,19883,"  59,72","  25,83",oui,04702,59.72,25.83
+5,BOUSQUET-CASSAGNE,Étienne,M.,FN,Front National,12926,"  39,57","  17,08",non,04703,39.57,17.08
+12,DAMAISIN,Olivier,M.,REM,La République en marche,19743,"  60,43","  26,09",oui,04703,60.43,26.09
+4,MOREL A L'HUISSIER,Pierre,M.,LR,Les Républicains,16440,"  56,61","  27,66",oui,04801,56.61,27.66
+5,PALOMBI,Francis,M.,REM,La République en marche,12601,"  43,39","  21,20",non,04801,43.39,21.2
+2,FEL,Caroline,Mme,LR,Les Républicains,11734,"  35,67","  13,95",non,04901,35.67,13.95
+12,ORPHELIN,Matthieu,M.,REM,La République en marche,21158,"  64,33","  25,16",oui,04901,64.33,25.16
+5,DUPONT,Stella,Mme,REM,La République en marche,24313,"  69,09","  26,92",oui,04902,69.09,26.92
+10,HENRY,Maxence,M.,LR,Les Républicains,10875,"  30,91","  12,04",non,04902,30.91,12.04
+4,BARRAULT,Anne,Mme,REM,La République en marche,13827,"  48,12","  19,65",non,04903,48.12,19.65
+11,TAUGOURDEAU,Jean-Charles,M.,LR,Les Républicains,14906,"  51,88","  21,18",oui,04903,51.88,21.18
+4,TOURON,Éric,M.,UDI,Union des Démocrates et Indépendants,12091,"  41,77","  16,28",non,04904,41.77,16.28
+13,SAINT-PAUL,Laëtitia,Mme,REM,La République en marche,16857,"  58,23","  22,70",oui,04904,58.23,22.7
+2,BRAULT,Patrice,M.,DVD,Divers droite,9545,"  31,63","  12,34",non,04905,31.63,12.34
+11,MASSEGLIA,Denis,M.,REM,La République en marche,20631,"  68,37","  26,66",oui,04905,68.37,26.66
+8,MARTIN,André,M.,LR,Les Républicains,14017,"  38,23","  14,80",non,04906,38.23,14.8
+9,DUBRE-CHIRAT,Nicole,Mme,REM,La République en marche,22649,"  61,77","  23,92",oui,04906,61.77,23.92
+5,GLÉMOT,Étienne,M.,LR,Les Républicains,11581,"  37,58","  14,88",non,04907,37.58,14.88
+8,BOLO,Philippe,M.,MDM,Modem,19235,"  62,42","  24,72",oui,04907,62.42,24.72
+3,NOUET,Benoîte,Mme,REM,La République en marche,18131,"  47,50","  20,86",non,05001,47.5,20.86
+9,GOSSELIN,Philippe,M.,LR,Les Républicains,20043,"  52,50","  23,06",oui,05001,52.5,23.06
+1,HUET,Guenhaël,M.,LR,Les Républicains,16747,"  39,00","  17,54",non,05002,39.0,17.54
+6,SORRE,Bertrand,M.,REM,La République en marche,26190,"  61,00","  27,43",oui,05002,61.0,27.43
+6,TRAVERT,Stéphane,M.,REM,La République en marche,27811,"  66,16","  25,80",oui,05003,66.16,25.8
+9,COUSIN,Jean-Manuel,M.,LR,Les Républicains,14224,"  33,84","  13,19",non,05003,33.84,13.19
+4,KRIMI,Sonia,Mme,DIV,Divers,15636,"  60,93","  17,63",oui,05004,60.93,17.63
+13,MISTLER,Blaise,M.,REM,La République en marche,10028,"  39,07","  11,30",non,05004,39.07,11.3
+3,CHEMLA,Gérard,M.,DIV,Divers,10573,"  44,66","  14,66",non,05101,44.66,14.66
+9,BEAUVAIS,Valérie,Mme,LR,Les Républicains,13104,"  55,34","  18,17",oui,05101,55.34,18.17
+3,KURIC,Aina,Mme,REM,La République en marche,14176,"  51,21","  19,38",oui,05102,51.21,19.38
+8,VAUTRIN,Catherine,Mme,LR,Les Républicains,13508,"  48,79","  18,47",non,05102,48.79,18.47
+6,PHILIPPO,Baptiste,M.,FN,Front National,12160,"  40,39","  15,09",non,05103,40.39,15.09
+11,GIRARDIN,Éric,M.,REM,La République en marche,17946,"  59,61","  22,27",oui,05103,59.61,22.27
+9,BESSON,Thierry,M.,FN,Front National,9878,"  33,12","  12,53",non,05104,33.12,12.53
+10,MAGNIER,Lise,Mme,LR,Les Républicains,19946,"  66,88","  25,31",oui,05104,66.88,25.31
+1,DE COURSON,Charles,M.,UDI,Union des Démocrates et Indépendants,24074,"  71,57","  31,30",oui,05105,71.57,31.3
+8,LAVAL,Thomas,M.,FN,Front National,9563,"  28,43","  12,43",non,05105,28.43,12.43
+1,GUENÉ,Adrien,M.,LR,Les Républicains,13109,"  46,56","  18,11",non,05201,46.56,18.11
+5,ABBA,Bérangère,Mme,REM,La République en marche,15045,"  53,44","  20,78",oui,05201,53.44,20.78
+2,FABRE,Frédéric,M.,FN,Front National,9901,"  38,19","  16,07",non,05202,38.19,16.07
+5,CORNUT-GENTILLE,François,M.,LR,Les Républicains,16027,"  61,81","  26,02",oui,05202,61.81,26.02
+4,GAROT,Guillaume,M.,SOC,Parti socialiste,18848,"  61,24","  25,92",oui,05301,61.24,25.92
+6,MOTTIER,Béatrice,Mme,REM,La République en marche,11931,"  38,76","  16,41",non,05301,38.76,16.41
+8,BANNIER,Géraldine,Mme,MDM,Modem,18013,"  54,78","  23,15",oui,05302,54.78,23.15
+11,CHEVROLLIER,Guillaume,M.,LR,Les Républicains,14869,"  45,22","  19,11",non,05302,45.22,19.11
+3,FAVENNEC,Yannick,M.,UDI,Union des Démocrates et Indépendants,19405,"  61,53","  26,98",oui,05303,61.53,26.98
+12,CHOUZY,Josselin,M.,REM,La République en marche,12132,"  38,47","  16,87",non,05303,38.47,16.87
+2,GRANDJEAN,Carole,Mme,REM,La République en marche,17025,"  55,89","  21,47",oui,05401,55.89,21.47
+7,KHIROUNI,Chaynesse,Mme,SOC,Parti socialiste,13439,"  44,11","  16,95",non,05401,44.11,16.95
+6,GARCIA,Laurent,M.,MDM,Modem,17487,"  66,82","  25,49",oui,05402,66.82,25.49
+11,DEBORD,Valérie,Mme,LR,Les Républicains,8684,"  33,18","  12,66",non,05402,33.18,12.66
+12,ZOLFO,Patrice,M.,FI,La France insoumise,12636,"  47,59","  15,30",non,05403,47.59,15.3
+15,PALUSZKIEWICZ,Xavier,M.,REM,La République en marche,13917,"  52,41","  16,85",oui,05403,52.41,16.85
+3,BUZZI,Philippe,M.,REM,La République en marche,17124,"  46,73","  17,47",non,05404,46.73,17.47
+5,BAZIN,Thibault,M.,LR,Les Républicains,19524,"  53,27","  19,92",oui,05404,53.27,19.92
+1,BUCHET,Marion,Mme,REM,La République en marche,11951,"  36,87","  15,18",non,05405,36.87,15.18
+11,POTIER,Dominique,M.,SOC,Parti socialiste,20461,"  63,13","  25,98",oui,05405,63.13,25.98
+5,MARSOLLE,Cédric,M.,FN,Front National,11192,"  38,64","  12,78",non,05406,38.64,12.78
+11,FIAT,Caroline,Mme,FI,La France insoumise,17772,"  61,36","  20,30",oui,05406,61.36,20.3
+2,PANCHER,Bertrand,M.,UDI,Union des Démocrates et Indépendants,18053,"  58,25","  23,36",oui,05501,58.25,23.36
+10,ANDRÉ,Diana,Mme,REM,La République en marche,12940,"  41,75","  16,74",non,05501,41.75,16.74
+5,CARIOU,Emilie,Mme,REM,La République en marche,14969,"  62,76","  24,83",oui,05502,62.76,24.83
+7,VILAIN,Eric,M.,FN,Front National,8881,"  37,24","  14,73",non,05502,37.24,14.73
+2,PELLOIS,Hervé,M.,REM,La République en marche,29243,"  64,41","  27,75",oui,05601,64.41,27.75
+5,PENHOUET,Christine,Mme,LR,Les Républicains,16156,"  35,59","  15,33",non,05601,35.59,15.33
+3,PAHUN,Jimmy,M.,DIV,Divers,21223,"  51,06","  20,35",oui,05602,51.06,20.35
+6,LE RAY,Philippe,M.,LR,Les Républicains,20340,"  48,94","  19,50",non,05602,48.94,19.5
+1,LE PEIH,Nicole,Mme,REM,La République en marche,24064,"  66,10","  26,51",oui,05603,66.1,26.51
+12,DORÉ-LUCAS,Marie Madeleine,Mme,FI,La France insoumise,12340,"  33,90","  13,59",non,05603,33.9,13.59
+3,SCHEUER,Alexandre,M.,FI,La France insoumise,11549,"  36,89","  14,31",non,05605,36.89,14.31
+4,ROUILLARD,Gwendal,M.,REM,La République en marche,19756,"  63,11","  24,48",oui,05605,63.11,24.48
+3,JACQUES,Jean-Michel,M.,REM,La République en marche,20250,"  54,72","  22,33",oui,05606,54.72,22.33
+10,LE NAY,Gwenn,M.,UDI,Union des Démocrates et Indépendants,16755,"  45,28","  18,47",non,05606,45.28,18.47
+10,BURG,Laurence,Mme,FN,Front National,12081,"  40,03","  13,21",non,05701,40.03,13.21
+12,BELHADDAD,Belkhir,M.,REM,La République en marche,18098,"  59,97","  19,79",oui,05701,59.97,19.79
+2,MENDES,Ludovic,M.,REM,La République en marche,14020,"  52,40","  18,33",oui,05702,52.4,18.33
+8,FRANÇOIS,Jean,M.,LR,Les Républicains,12735,"  47,60","  16,65",non,05702,47.6,16.65
+7,LIOGER,Richard,M.,REM,La République en marche,13657,"  51,21","  18,13",oui,05703,51.21,18.13
+8,ZIMMERMANN,Marie-Jo,Mme,LR,Les Républicains,13013,"  48,79","  17,28",non,05703,48.79,17.28
+9,DI FILIPPO,Fabien,M.,LR,Les Républicains,16089,"  53,29","  19,75",oui,05704,53.29,19.75
+10,HUCHOT,Mathilde,Mme,REM,La République en marche,14102,"  46,71","  17,31",non,05704,46.71,17.31
+1,LETT,Céleste,M.,LR,Les Républicains,13676,"  48,49","  18,49",non,05705,48.49,18.49
+4,GRIES-TRISSE,Nicole,Mme,REM,La République en marche,14529,"  51,51","  19,64",oui,05705,51.51,19.64
+5,PHILIPPOT,Florian,M.,FN,Front National,10337,"  43,04","  14,74",non,05706,43.04,14.74
+9,AREND,Christophe,M.,REM,La République en marche,13682,"  56,96","  19,51",oui,05706,56.96,19.51
+1,ZANNIER,Hélène,Mme,REM,La République en marche,17879,"  56,24","  19,79",oui,05707,56.24,19.79
+9,PFEFFER,Kévin,M.,FN,Front National,13911,"  43,76","  15,40",non,05707,43.76,15.4
+5,HAMMOUCHE,Brahim,M.,MDM,Modem,16150,"  58,84","  17,47",oui,05708,58.84,17.47
+12,HOFF,Hervé,M.,FN,Front National,11297,"  41,16","  12,22",non,05708,41.16,12.22
+5,MATZ,Emilie,Mme,FN,Front National,10218,"  29,87","  10,27",non,05709,29.87,10.27
+7,RAUCH,Isabelle,Mme,REM,La République en marche,23995,"  70,13","  24,12",oui,05709,70.13,24.12
+2,GOULET,Perrine,Mme,REM,La République en marche,18713,"  66,13","  24,33",oui,05801,66.13,24.33
+10,VIGNERON,Pauline,Mme,FN,Front National,9584,"  33,87","  12,46",non,05801,33.87,12.46
+5,PAUL,Christian,M.,SOC,Parti socialiste,15686,"  45,38","  19,04",non,05802,45.38,19.04
+9,PERROT,Patrice,M.,REM,La République en marche,18883,"  54,62","  22,92",oui,05802,54.62,22.92
+8,QUATENNENS,Adrien,M.,FI,La France insoumise,11039,"  50,11","  17,88",oui,05901,50.11,17.88
+14,ITIER,Christophe,M.,REM,La République en marche,10989,"  49,89","  17,80",non,05901,49.89,17.8
+9,BERRADA,Houmria,Mme,REM,La République en marche,10962,"  35,85","  12,65",non,05902,35.85,12.65
+15,BERNALICIS,Ugo,M.,FI,La France insoumise,19619,"  64,15","  22,64",oui,05902,64.15,22.64
+3,DI POMPEO,Christophe,M.,REM,La République en marche,16861,"  51,30","  17,94",oui,05903,51.3,17.94
+5,GODDYN,Sylvie,Mme,FN,Front National,16008,"  48,70","  17,03",non,05903,48.7,17.03
+4,LISO,Brigitte,Mme,REM,La République en marche,21814,"  58,75","  21,97",oui,05904,58.75,21.97
+7,HOUSSIN,Jacques,M.,LR,Les Républicains,15317,"  41,25","  15,42",non,05904,41.25,15.42
+4,DEKONINCK,Guillaume,M.,REM,La République en marche,17053,"  44,48","  17,07",non,05905,44.48,17.07
+14,HUYGHE,Sébastien,M.,LR,Les Républicains,21284,"  55,52","  21,31",oui,05905,55.52,21.31
+2,LAZARO,Thierry,M.,LR,Les Républicains,18354,"  48,18","  20,60",non,05906,48.18,20.6
+11,LECOCQ,Charlotte,Mme,REM,La République en marche,19739,"  51,82","  22,15",oui,05906,51.82,22.15
+2,VERCAMER,Francis,M.,UDI,Union des Démocrates et Indépendants,13576,"  53,52","  18,74",oui,05907,53.52,18.74
+6,VERSPIEREN,Arnaud,M.,MDM,Modem,11788,"  46,48","  16,27",non,05907,46.48,16.27
+3,LEPLAT,Astrid,Mme,FN,Front National,6889,"  37,05","  10,16",non,05908,37.05,10.16
+12,OSSON,Catherine,Mme,REM,La République en marche,11703,"  62,95","  17,26",oui,05908,62.95,17.26
+4,GERARD,Bernard,M.,LR,Les Républicains,16837,"  47,94","  18,38",non,05909,47.94,18.38
+12,PETIT,Valérie,Mme,REM,La République en marche,18281,"  52,06","  19,95",oui,05909,52.06,19.95
+1,LEDOUX,Vincent,M.,LR,Les Républicains,13168,"  55,93","  16,06",oui,05910,55.93,16.06
+8,TAÏEB,Sophie,Mme,REM,La République en marche,10374,"  44,07","  12,65",non,05910,44.07,12.65
+2,PIETRASZEWSKI,Laurent,M.,REM,La République en marche,22645,"  67,17","  24,60",oui,05911,67.17,24.6
+10,ACS,Nathalie,Mme,FN,Front National,11067,"  32,83","  12,02",non,05911,32.83,12.02
+2,CATTELOT,Anne Laure,Mme,REM,La République en marche,19095,"  54,06","  20,41",oui,05912,54.06,20.41
+3,PHILIPPE,Gérard,M.,FN,Front National,16230,"  45,94","  17,34",non,05912,45.94,17.34
+4,EYMERY,Philippe,M.,FN,Front National,12478,"  36,68","  13,98",non,05913,36.68,13.98
+8,HUTIN,Christian,M.,DVG,Divers gauche,21538,"  63,32","  24,12",oui,05913,63.32,24.12
+4,CHRISTOPHE,Paul,M.,LR,Les Républicains,25162,"  63,88","  25,47",oui,05914,63.88,25.47
+11,LEMAITTE,Julien,M.,REM,La République en marche,14229,"  36,12","  14,40",non,05914,36.12,14.4
+2,DE TEMMERMAN,Jennifer,Mme,REM,La République en marche,24519,"  60,69","  25,57",oui,05915,60.69,25.57
+7,PRINCE,Pascal,M.,FN,Front National,15881,"  39,31","  16,56",non,05915,39.31,16.56
+6,BRUNEEL,Alain,M.,COM,Parti communiste français,17057,"  55,86","  20,54",oui,05916,55.86,20.54
+8,DE MEREUIL,Hortense,Mme,FN,Front National,13478,"  44,14","  16,23",non,05916,44.14,16.23
+4,HOUBRON,Dimitri,M.,REM,La République en marche,14442,"  53,21","  19,62",oui,05917,53.21,19.62
+6,FRANCOIS,Thibaut,M.,FN,Front National,12697,"  46,79","  17,25",non,05917,46.79,17.25
+1,BRICOUT,Guy,M.,UDI,Union des Démocrates et Indépendants,21669,"  63,67","  23,66",oui,05918,63.67,23.66
+7,POMMEYROL-BURLET,Claire,Mme,REM,La République en marche,12363,"  36,33","  13,50",non,05918,36.33,13.5
+1,CHENU,Sébastien,M.,FN,Front National,16013,"  55,35","  20,25",oui,05919,55.35,20.25
+3,HEBBAR,Sabine,Mme,MDM,Modem,12920,"  44,65","  16,34",non,05919,44.65,16.34
+9,DE DANNE,Ludovic,M.,FN,Front National,10538,"  36,12","  12,99",non,05920,36.12,12.99
+11,ROUSSEL,Fabien,M.,COM,Parti communiste français,18633,"  63,88","  22,97",oui,05920,63.88,22.97
+4,DESCAMPS,Béatrice,Mme,UDI,Union des Démocrates et Indépendants,18126,"  62,72","  21,95",oui,05921,62.72,21.95
+6,CAUDRON,Valérie,Mme,FN,Front National,10774,"  37,28","  13,05",non,05921,37.28,13.05
+2,DASSAULT,Olivier,M.,LR,Les Républicains,22885,"  67,07","  27,59",oui,06001,67.07,27.59
+10,FLOUR,Denis,M.,REM,La République en marche,11237,"  32,93","  13,54",non,06001,32.93,13.54
+9,THILL,Agnès,Mme,REM,La République en marche,19164,"  54,70","  21,60",oui,06002,54.7,21.6
+11,DUSSAUSAYE,Gaëtan,M.,FN,Front National,15871,"  45,30","  17,89",non,06002,45.3,17.89
+7,MURER,Philippe,M.,FN,Front National,10493,"  42,32","  14,20",non,06003,42.32,14.2
+11,BOIS,Pascal,M.,REM,La République en marche,14300,"  57,68","  19,35",oui,06003,57.68,19.35
+6,WOERTH,Eric,M.,LR,Les Républicains,19396,"  51,98","  20,97",oui,06004,51.98,20.97
+10,LOZANO,Stéphanie,Mme,REM,La République en marche,17916,"  48,02","  19,37",non,06004,48.02,19.37
+2,VATIN,Pierre,M.,LR,Les Républicains,15347,"  55,96","  21,07",oui,06005,55.96,21.07
+6,BOUR,Emmanuelle,Mme,REM,La République en marche,12076,"  44,04","  16,58",non,06005,44.04,16.58
+5,GUINIOT,Michel,M.,FN,Front National,12548,"  41,60","  16,68",non,06006,41.6,16.68
+6,BUREAU-BONNARD,Carole,Mme,REM,La République en marche,17619,"  58,40","  23,42",oui,06006,58.4,23.42
+6,MINOT,Maxime,M.,LR,Les Républicains,17233,"  60,52","  22,65",oui,06007,60.52,22.65
+10,DARDENNE,Jean-François,M.,REM,La République en marche,11244,"  39,48","  14,78",non,06007,39.48,14.78
+3,PUEYO,Joaquim,M.,SOC,Parti socialiste,15192,"  52,50","  21,85",oui,06101,52.5,21.85
+13,ROIMIER,Christine,Mme,DVD,Divers droite,13746,"  47,50","  19,77",non,06101,47.5,19.77
+8,LEROUGE,Ophélie,Mme,REM,La République en marche,13386,"  45,27","  19,85",non,06102,45.27,19.85
+9,LOUWAGIE,Véronique,Mme,LR,Les Républicains,16182,"  54,73","  23,99",oui,06102,54.73,23.99
+1,BOSCHER,Isabelle,Mme,REM,La République en marche,14407,"  43,92","  20,11",non,06103,43.92,20.11
+3,NURY,Jérôme,M.,LR,Les Républicains,18397,"  56,08","  25,68",oui,06103,56.08,25.68
+8,DUVERGÉ,Bruno,M.,MDM,Modem,24770,"  54,01","  23,73",oui,06201,54.01,23.73
+11,CAUDRON,Agnès,Mme,FN,Front National,21093,"  45,99","  20,21",non,06201,45.99,20.21
+2,HEUSELE,Alban,M.,FN,Front National,12028,"  34,49","  14,13",non,06202,34.49,14.13
+12,MAQUET,Jacqueline,Mme,REM,La République en marche,22847,"  65,51","  26,84",oui,06202,65.51,26.84
+2,EVRARD,José,M.,FN,Front National,16298,"  52,94","  19,04",oui,06203,52.94,19.04
+7,DEBRUYNE,Patrick,M.,MDM,Modem,14485,"  47,06","  16,92",non,06203,47.06,16.92
+6,GUILLUY,Thibaut,M.,REM,La République en marche,21204,"  47,81","  23,95",non,06204,47.81,23.95
+10,FASQUELLE,Daniel,M.,LR,Les Républicains,23147,"  52,19","  26,15",oui,06204,52.19,26.15
+3,GOLLIOT,Antoine,M.,FN,Front National,13101,"  38,97","  14,54",non,06205,38.97,14.54
+11,PONT,Jean-Pierre,M.,REM,La République en marche,20515,"  61,03","  22,77",oui,06205,61.03,22.77
+3,BOURGUIGNON,Brigitte,Mme,REM,La République en marche,24970,"  60,84","  27,38",oui,06206,60.84,27.38
+7,BOURGEOIS,Marie-Christine,Mme,FN,Front National,16074,"  39,16","  17,63",non,06206,39.16,17.63
+7,OLIVIER,Philippe,M.,FN,Front National,13707,"  39,17","  14,69",non,06207,39.17,14.69
+9,DUMONT,Pierre-Henri,M.,LR,Les Républicains,21284,"  60,83","  22,82",oui,06207,60.83,22.82
+6,HAVERLANT,Karine,Mme,FN,Front National,16310,"  43,22","  17,53",non,06208,43.22,17.53
+10,POTTERIE,Benoit,M.,REM,La République en marche,21431,"  56,78","  23,04",oui,06208,56.78,23.04
+1,DEPREZ-AUDEBERT,Marguerite,Mme,MDM,Modem,18451,"  57,66","  23,33",oui,06209,57.66,23.33
+11,DELAIRE,Jacques,M.,FN,Front National,13548,"  42,34","  17,13",non,06209,42.34,17.13
+4,DESCHANEL,Laurence,Mme,REM,La République en marche,16105,"  47,42","  17,84",non,06210,47.42,17.84
+9,PAJOT,Ludovic,M.,FN,Front National,17854,"  52,58","  19,78",oui,06210,52.58,19.78
+3,ROQUET,Anne,Mme,REM,La République en marche,16084,"  41,40","  16,94",non,06211,41.4,16.94
+4,LE PEN,Marine,Mme,FN,Front National,22769,"  58,60","  23,99",oui,06211,58.6,23.99
+3,REMBERT,Coralie,Mme,REM,La République en marche,16360,"  44,92","  17,20",non,06212,44.92,17.2
+13,BILDE,Bruno,M.,FN,Front National,20057,"  55,08","  21,09",oui,06212,55.08,21.09
+10,LAFFONT,Alain,M.,FI,La France insoumise,13603,"  42,99","  16,29",non,06301,42.99,16.29
+13,THOMAS,Valérie,Mme,REM,La République en marche,18042,"  57,01","  21,61",oui,06301,57.01,21.61
+3,HAMOUMOU,Mohand,M.,REM,La République en marche,14515,"  36,79","  16,52",non,06302,36.79,16.52
+6,PIRÈS BEAUNE,Christine,Mme,SOC,Parti socialiste,24936,"  63,21","  28,38",oui,06302,63.21,28.38
+1,VICHNIEVSKY,Laurence,Mme,MDM,Modem,20333,"  56,02","  22,84",oui,06303,56.02,22.84
+4,GISCARD D'ESTAING,Louis,M.,UDI,Union des Démocrates et Indépendants,15966,"  43,98","  17,94",non,06303,43.98,17.94
+2,BARRAUD,Bertrand,M.,LR,Les Républicains,15483,"  44,56","  15,70",non,06304,44.56,15.7
+5,FANGET,Michel,M.,MDM,Modem,19265,"  55,44","  19,53",oui,06304,55.44,19.53
+5,GARDETTE,Sébastien,M.,REM,La République en marche,17561,"  36,45","  17,21",non,06305,36.45,17.21
+11,CHASSAIGNE,André,M.,COM,Parti communiste français,30620,"  63,55","  30,01",oui,06305,63.55,30.01
+7,POUEYTO,Josy,Mme,MDM,Modem,15438,"  62,72","  22,44",oui,06401,62.72,22.44
+11,ROY,Pauline,Mme,LR,Les Républicains,9178,"  37,28","  13,34",non,06401,37.28,13.34
+3,CHABANNE,Nathalie,Mme,SOC,Parti socialiste,13198,"  39,07","  16,48",non,06402,39.07,16.48
+9,MATTEI,Jean-Paul,M.,MDM,Modem,20584,"  60,93","  25,71",oui,06402,60.93,25.71
+2,HABIB,David,M.,SOC,Parti socialiste,21286,"  53,96","  25,72",oui,06403,53.96,25.72
+5,BERNOS,Michel,M.,REM,La République en marche,18164,"  46,04","  21,95",non,06403,46.04,21.95
+7,CORRÉGÉ,Loïc,M.,REM,La République en marche,17694,"  47,21","  22,07",non,06404,47.21,22.07
+11,LASSALLE,Jean,M.,DVD,Divers droite,19787,"  52,79","  24,68",oui,06404,52.79,24.68
+2,LASSERRE-DAVID,Florence,Mme,MDM,Modem,20623,"  57,03","  22,67",oui,06405,57.03,22.67
+12,CAPDEVIELLE,Colette,Mme,SOC,Parti socialiste,15536,"  42,97","  17,08",non,06405,42.97,17.08
+4,BRU,Vincent,M.,MDM,Modem,22872,"  62,51","  23,01",oui,06406,62.51,23.01
+5,AROSTEGUY,Maider,Mme,LR,Les Républicains,13715,"  37,49","  13,80",non,06406,37.49,13.8
+5,FERRER,Sylvie,Mme,FI,La France insoumise,16102,"  41,14","  18,23",non,06501,41.14,18.23
+6,SEMPASTOUS,Jean-Bernard,M.,REM,La République en marche,23033,"  58,86","  26,08",oui,06501,58.86,26.08
+7,STARICKY,Marie-Agnès,Mme,REM,La République en marche,17455,"  48,91","  19,54",non,06502,48.91,19.54
+10,DUBIÉ,Jeanine,Mme,RDG,Parti radical de gauche,18230,"  51,09","  20,41",oui,06502,51.09,20.41
+2,BOLO,Alexandre,M.,FN,Front National,11008,"  42,79","  15,51",non,06601,42.79,15.51
+5,GRAU,Romain,M.,REM,La République en marche,14720,"  57,21","  20,74",oui,06601,57.21,20.74
+9,ESPERT,Christine,Mme,MDM,Modem,20025,"  49,44","  20,72",non,06602,49.44,20.72
+13,ALIOT,Louis,M.,FN,Front National,20477,"  50,56","  21,19",oui,06602,50.56,21.19
+1,DOGOR,Sandrine,Mme,FN,Front National,12693,"  40,69","  15,29",non,06603,40.69,15.29
+7,GAYTE,Laurence,Mme,REM,La République en marche,18501,"  59,31","  22,28",oui,06603,59.31,22.28
+1,CAZENOVE,Sébastien,M.,REM,La République en marche,22193,"  57,97","  22,86",oui,06604,57.97,22.86
+12,MASSANELL,Stéphane,M.,FN,Front National,16092,"  42,03","  16,57",non,06604,42.03,16.57
+14,ELKOUBY,Eric,M.,SOC,Parti socialiste,8885,"  40,05","  14,56",non,06701,40.05,14.56
+18,MICHELS,Thierry,M.,REM,La République en marche,13301,"  59,95","  21,79",oui,06701,59.95,21.79
+1,BIES,Philippe,M.,SOC,Parti socialiste,10268,"  41,47","  14,77",non,06702,41.47,14.77
+12,WASERMAN,Sylvain,M.,REM,La République en marche,14492,"  58,53","  20,84",oui,06702,58.53,20.84
+3,SCHULER,Georges,M.,LR,Les Républicains,9648,"  40,23","  14,01",non,06703,40.23,14.01
+7,STUDER,Bruno,M.,REM,La République en marche,14337,"  59,77","  20,81",oui,06703,59.77,20.81
+1,ROHFRITSCH,Sophie,Mme,LR,Les Républicains,16471,"  44,14","  17,43",non,06704,44.14,17.43
+9,WONNER,Martine,Mme,REM,La République en marche,20842,"  55,86","  22,06",oui,06704,55.86,22.06
+5,HERTH,Antoine,M.,LR,Les Républicains,19508,"  54,14","  18,76",oui,06705,54.14,18.76
+11,SIMLER,Gérard,M.,REG,Régionaliste,16522,"  45,86","  15,89",non,06705,45.86,15.89
+10,SALOMON,Guy,M.,MDM,Modem,14845,"  37,40","  15,46",non,06706,37.4,15.46
+12,FURST,Laurent,M.,LR,Les Républicains,24843,"  62,60","  25,87",oui,06706,62.6,25.87
+3,DE SANTIS,Antoinette,Mme,REM,La République en marche,12445,"  37,39","  14,57",non,06707,37.39,14.57
+10,HETZEL,Patrick,M.,LR,Les Républicains,20836,"  62,61","  24,39",oui,06707,62.61,24.39
+1,REISS,Frédéric,M.,LR,Les Républicains,22063,"  58,88","  23,35",oui,06708,58.88,23.35
+6,GLIECH,Christian,M.,REM,La République en marche,15407,"  41,12","  16,30",non,06708,41.12,16.3
+2,THIEBAUT,Vincent,M.,REM,La République en marche,17209,"  51,03","  18,56",oui,06709,51.03,18.56
+7,WOLF,Etienne,M.,LR,Les Républicains,16513,"  48,97","  17,81",non,06709,48.97,17.81
+9,VILLEMIN,Stéphanie,Mme,REM,La République en marche,10199,"  33,59","  13,41",non,06801,33.59,13.41
+18,STRAUMANN,Eric,M.,LR,Les Républicains,20163,"  66,41","  26,51",oui,06801,66.41,26.51
+3,CATTIN,Jacques,M.,LR,Les Républicains,19001,"  51,39","  20,61",oui,06802,51.39,20.61
+5,OTT,Hubert,M.,REM,La République en marche,17974,"  48,61","  19,49",non,06802,48.61,19.49
+4,REITZER,Jean-Luc,M.,LR,Les Républicains,18786,"  55,15","  21,92",oui,06803,55.15,21.92
+7,STRIBY,Patrick,M.,REM,La République en marche,15278,"  44,85","  17,82",non,06803,44.85,17.82
+1,SCHELLENBERGER,Raphaël,M.,LR,Les Républicains,18234,"  50,88","  17,76",oui,06804,50.88,17.76
+3,TACQUARD,Aurélie,Mme,REM,La République en marche,17604,"  49,12","  17,14",non,06804,49.12,17.14
+5,BECHT,Olivier,M.,DVD,Divers droite,16807,"  57,69","  21,69",oui,06805,57.69,21.69
+11,LEHR,Cécile,Mme,REM,La République en marche,12327,"  42,31","  15,91",non,06805,42.31,15.91
+3,MARCELLI,Sylvain,M.,FN,Front National,11401,"  35,84","  12,34",non,06806,35.84,12.34
+7,FUCHS,Bruno,M.,REM,La République en marche,20408,"  64,16","  22,08",oui,06806,64.16,22.08
+8,AUBIN,Elliott,M.,FI,La France insoumise,9693,"  35,53","  13,95",non,06901,35.53,13.95
+12,RUDIGOZ,Thomas,M.,REM,La République en marche,17587,"  64,47","  25,30",oui,06901,64.47,25.3
+5,PERRIN-GILBERT,Nathalie,Mme,DVG,Divers gauche,15067,"  47,19","  20,09",non,06902,47.19,20.09
+19,JULIEN-LAFERRIERE,Hubert,M.,REM,La République en marche,16864,"  52,81","  22,49",oui,06902,52.81,22.49
+6,TOURAINE,Jean-Louis,M.,REM,La République en marche,17595,"  59,85","  24,43",oui,06903,59.85,24.43
+14,LE BRUN,Pascal,M.,FI,La France insoumise,11805,"  40,15","  16,39",non,06903,40.15,16.39
+5,NACHURY,Dominique,Mme,LR,Les Républicains,13090,"  39,45","  16,33",non,06904,39.45,16.33
+12,BRUGNERA,Anne,Mme,REM,La République en marche,20095,"  60,55","  25,07",oui,06904,60.55,25.07
+1,BROCARD,Blandine,Mme,REM,La République en marche,22348,"  60,26","  25,37",oui,06905,60.26,25.37
+9,COCHET,Philippe,M.,LR,Les Républicains,14740,"  39,74","  16,74",non,06905,39.74,16.74
+6,BONNELL,Bruno,M.,REM,La République en marche,18233,"  60,18","  22,11",oui,06906,60.18,22.11
+17,VALLAUD-BELKACEM,Najat,Mme,SOC,Parti socialiste,12063,"  39,82","  14,63",non,06906,39.82,14.63
+4,KHEDHER,Anissa,Mme,REM,La République en marche,10466,"  50,61","  15,39",oui,06907,50.61,15.39
+15,VINCENDET,Alexandre,M.,LR,Les Républicains,10215,"  49,39","  15,02",non,06907,49.39,15.02
+8,VERCHÈRE,Patrice,M.,LR,Les Républicains,23721,"  53,62","  23,13",oui,06908,53.62,23.13
+9,TERROIR,Joëlle,Mme,REM,La République en marche,20514,"  46,38","  20,00",non,06908,46.38,20.0
+10,CROIZEAU,Marion,Mme,REM,La République en marche,18284,"  49,00","  19,94",non,06909,49.0,19.94
+13,PERRUT,Bernard,M.,LR,Les Républicains,19029,"  51,00","  20,76",oui,06909,51.0,20.76
+1,CRUZ,Sophie,Mme,LR,Les Républicains,13880,"  36,17","  14,57",non,06910,36.17,14.57
+9,GASSILLOUD,Thomas,M.,REM,La République en marche,24498,"  63,83","  25,71",oui,06910,63.83,25.71
+2,FENECH,Georges,M.,LR,Les Républicains,15886,"  45,29","  17,17",non,06911,45.29,17.17
+4,FUGIT,Jean-Luc,M.,REM,La République en marche,19192,"  54,71","  20,75",oui,06911,54.71,20.75
+2,ISAAC-SIBILLE,Cyrille,M.,MDM,Modem,17977,"  56,25","  22,53",oui,06912,56.25,22.53
+8,MOROGE,Jérôme,M.,LR,Les Républicains,13981,"  43,75","  17,52",non,06912,43.75,17.52
+6,MEUNIER,Philippe,M.,LR,Les Républicains,14692,"  47,65","  17,32",non,06913,47.65,17.32
+8,CAZARIAN,Danièle,Mme,REM,La République en marche,16141,"  52,35","  19,03",oui,06913,52.35,19.03
+3,BLEIN,Yves,M.,REM,La République en marche,13714,"  65,60","  18,47",oui,06914,65.6,18.47
+7,MONCHAU,Damien,M.,FN,Front National,7192,"  34,40","   9,69",non,06914,34.4,9.69
+3,CUGNOT,Léonie,Mme,FN,Front National,15989,"  40,87","  18,08",non,07001,40.87,18.08
+11,BESSOT BALLOT,Barbara,Mme,REM,La République en marche,23129,"  59,13","  26,15",oui,07001,59.13,26.15
+4,MONNIER,Maurice,M.,FN,Front National,16181,"  42,00","  17,84",non,07002,42.0,17.84
+11,LEJEUNE,Christophe,M.,REM,La République en marche,22343,"  58,00","  24,63",oui,07002,58.0,24.63
+8,COURTOIS,Jean-Patrick,M.,LR,Les Républicains,12090,"  42,71","  16,59",non,07101,42.71,16.59
+14,DIRX,Benjamin,M.,REM,La République en marche,16219,"  57,29","  22,25",oui,07101,57.29,22.25
+3,CORNELOUP,Josiane,Mme,LR,Les Républicains,16124,"  51,04","  20,58",oui,07102,51.04,20.58
+11,CHAUVET,Vincent,M.,REM,La République en marche,15466,"  48,96","  19,74",non,07102,48.96,19.74
+5,REBEYROTTE,Rémy,M.,REM,La République en marche,16993,"  55,43","  20,54",oui,07103,55.43,20.54
+9,LANDRE,Charles,M.,LR,Les Républicains,13661,"  44,57","  16,51",non,07103,44.57,16.51
+2,UNTERMAIER,Cécile,Mme,SOC,Parti socialiste,16527,"  54,67","  20,07",oui,07104,54.67,20.07
+7,GABRELLE,Catherine,Mme,REM,La République en marche,13701,"  45,33","  16,64",non,07104,45.33,16.64
+4,PLATRET,Gilles,M.,LR,Les Républicains,14012,"  44,91","  15,57",non,07105,44.91,15.57
+9,GAUVAIN,Raphaël,M.,REM,La République en marche,17189,"  55,09","  19,10",oui,07105,55.09,19.1
+2,MORANÇAIS,Christelle,Mme,LR,Les Républicains,13657,"  49,91","  19,03",non,07201,49.91,19.03
+14,PICHEREAU,Damien,M.,REM,La République en marche,13704,"  50,09","  19,09",oui,07201,50.09,19.09
+9,PEROT,Aurélie,Mme,REM,La République en marche,11208,"  38,12","  13,67",non,07202,38.12,13.67
+10,KARAMANLI,Marietta,Mme,SOC,Parti socialiste,18192,"  61,88","  22,19",oui,07202,61.88,22.19
+3,FONTENEL-PERSONNE,Pascale,Mme,REM,La République en marche,16730,"  53,69","  19,62",oui,07203,53.69,19.62
+6,PAVY-MORANÇAIS,Béatrice,Mme,LR,Les Républicains,14430,"  46,31","  16,93",non,07203,46.31,16.93
+1,FRANCO,Emmanuel,M.,LR,Les Républicains,13235,"  45,09","  16,62",non,07204,45.09,16.62
+8,LE FOLL,Stéphane,M.,SOC,Parti socialiste,16117,"  54,91","  20,24",oui,07204,54.91,20.24
+5,COLIN,Willy,M.,REM,La République en marche,15951,"  47,27","  18,35",non,07205,47.27,18.35
+7,GRELIER,Jean-Carles,M.,LR,Les Républicains,17795,"  52,73","  20,47",oui,07205,52.73,20.47
+4,DORD,Dominique,M.,LR,Les Républicains,18775,"  49,24","  21,56",non,07301,49.24,21.56
+8,DEGOIS,Typhanie,Mme,REM,La République en marche,19355,"  50,76","  22,22",oui,07301,50.76,22.22
+8,TROUTOT,Philipe,M.,DIV,Divers,10547,"  42,83","  13,87",non,07302,42.83,13.87
+9,ROLLAND,Vincent,M.,LR,Les Républicains,14076,"  57,17","  18,51",oui,07302,57.17,18.51
+6,VIVIER,Philip,M.,REM,La République en marche,12776,"  46,23","  17,57",non,07303,46.23,17.57
+12,BONNIVARD,Emilie,Mme,LR,Les Républicains,14857,"  53,77","  20,43",oui,07303,53.77,20.43
+9,MIGNOLA,Patrick,M.,MDM,Modem,13293,"  55,71","  17,81",oui,07304,55.71,17.81
+10,LACLAIS,Bernadette,Mme,DVG,Divers gauche,10568,"  44,29","  14,16",non,07304,44.29,14.16
+11,RIOTTON,Véronique,Mme,REM,La République en marche,25174,"  64,32","  25,07",oui,07401,64.32,25.07
+17,ANDRE-LAURENT,Annabel,Mme,LR,Les Républicains,13962,"  35,68","  13,91",non,07401,35.68,13.91
+2,LARDET,Frédérique,Mme,REM,La République en marche,20287,"  53,60","  21,37",oui,07402,53.6,21.37
+12,TARDY,Lionel,M.,LR,Les Républicains,17560,"  46,40","  18,49",non,07402,46.4,18.49
+6,GIBOUIN,Guillaume,M.,REM,La République en marche,15693,"  48,50","  19,17",non,07403,48.5,19.17
+8,SADDIER,Martial,M.,LR,Les Républicains,16665,"  51,50","  20,36",oui,07403,51.5,20.36
+7,DUBY-MULLER,Virginie,Mme,LR,Les Républicains,17158,"  54,63","  20,13",oui,07404,54.63,20.13
+9,DEVIN,Laura,Mme,REM,La République en marche,14249,"  45,37","  16,72",non,07404,45.37,16.72
+1,BAUD-ROCHE,Astrid,Mme,DVD,Divers droite,15381,"  46,34","  16,09",non,07405,46.34,16.09
+4,LENNE,Marion,Mme,REM,La République en marche,17814,"  53,66","  18,63",oui,07405,53.66,18.63
+3,DION,Sophie,Mme,LR,Les Républicains,12588,"  43,49","  15,95",non,07406,43.49,15.95
+7,ROSEREN,Xavier,M.,REM,La République en marche,16356,"  56,51","  20,72",oui,07406,56.51,20.72
+1,LE GENDRE,Gilles,M.,REM,La République en marche,18347,"  54,53","  25,58",oui,07502,54.53,25.58
+3,KOSCIUSKO-MORIZET,Nathalie,Mme,LR,Les Républicains,15298,"  45,47","  21,33",non,07502,45.47,21.33
+1,GUERINI,Stanislas,M.,REM,La République en marche,17801,"  65,50","  25,92",oui,07503,65.5,25.92
+3,NAHMIAS,Valérie,Mme,UDI,Union des Démocrates et Indépendants,9376,"  34,50","  13,65",non,07503,34.5,13.65
+7,CICUREL,Ilana,Mme,REM,La République en marche,16024,"  48,49","  22,97",non,07504,48.49,22.97
+14,KUSTER,Brigitte,Mme,LR,Les Républicains,17024,"  51,51","  24,41",oui,07504,51.51,24.41
+10,DAGOMA,Seybah,Mme,SOC,Parti socialiste,14930,"  43,73","  19,68",non,07505,43.73,19.68
+20,GRIVEAUX,Benjamin,M.,REM,La République en marche,19212,"  56,27","  25,32",oui,07505,56.27,25.32
+6,PERSON,Pierre,M.,REM,La République en marche,18309,"  50,99","  23,88",oui,07506,50.99,23.88
+8,SIMONNET,Danielle,Mme,FI,La France insoumise,17600,"  49,01","  22,96",non,07506,49.01,22.96
+2,BLOCHE,Patrick,M.,SOC,Parti socialiste,15491,"  44,10","  20,37",non,07507,44.1,20.37
+13,RUPIN,Pacôme,M.,REM,La République en marche,19637,"  55,90","  25,82",oui,07507,55.9,25.82
+1,AVIA,Laetitia,Mme,REM,La République en marche,21336,"  64,56","  25,97",oui,07508,64.56,25.97
+8,MONTANDON,Valérie,Mme,LR,Les Républicains,11710,"  35,44","  14,25",non,07508,35.44,14.25
+9,QNOUCH,Raphaël,M.,FI,La France insoumise,13497,"  44,74","  19,75",non,07509,44.74,19.75
+10,TAN,Buon,M.,REM,La République en marche,16669,"  55,26","  24,39",oui,07509,55.26,24.39
+4,LANG,Anne-Christine,Mme,REM,La République en marche,18181,"  60,11","  27,00",oui,07510,60.11,27.0
+12,CHAIBI,Leïla,Mme,FI,La France insoumise,12063,"  39,89","  17,91",non,07510,39.89,17.91
+12,SZPINER,Francis,M.,LR,Les Républicains,11036,"  36,50","  15,56",non,07511,36.5,15.56
+14,DE SARNEZ,Marielle,Mme,MDM,Modem,19203,"  63,50","  27,07",oui,07511,63.5,27.07
+3,GREGOIRE,Olivia,Mme,REM,La République en marche,21082,"  56,36","  28,52",oui,07512,56.36,28.52
+13,GOUJON,Philippe,M.,LR,Les Républicains,16327,"  43,64","  22,09",non,07512,43.64,22.09
+3,LAMOUR,Jean-François,M.,LR,Les Républicains,15906,"  44,01","  21,10",non,07513,44.01,21.1
+12,RENSON,Hugues,M.,REM,La République en marche,20239,"  55,99","  26,85",oui,07513,55.99,26.85
+5,GOASGUEN,Claude,M.,LR,Les Républicains,19029,"  52,43","  26,30",oui,07514,52.43,26.3
+9,BOUGAULT-DELAGE,Valérie,Mme,REM,La République en marche,17263,"  47,57","  23,86",non,07514,47.57,23.86
+7,KEMOUNE,Mehdi,M.,FI,La France insoumise,11880,"  39,71","  15,59",non,07515,39.71,15.59
+13,PAU-LANGEVIN,George,Mme,SOC,Parti socialiste,18039,"  60,29","  23,67",oui,07515,60.29,23.67
+7,LEGRAIN,Sarah,Mme,FI,La France insoumise,14562,"  48,82","  20,69",non,07516,48.82,20.69
+14,MAHJOUBI,Mounir,M.,REM,La République en marche,15263,"  51,18","  21,69",oui,07516,51.18,21.69
+6,FAILLÉS,Béatrice,Mme,REM,La République en marche,11041,"  49,29","  18,96",non,07517,49.29,18.96
+19,OBONO,Danièle,Mme,FI,La France insoumise,11360,"  50,71","  19,50",oui,07517,50.71,19.5
+10,EL KHOMRI,Myriam,Mme,SOC,Parti socialiste,11209,"  46,39","  16,67",non,07518,46.39,16.67
+12,BOURNAZEL,Pierre-Yves,M.,LR,Les Républicains,12954,"  53,61","  19,26",oui,07518,53.61,19.26
+5,ADAM,Damien,M.,REM,La République en marche,13271,"  54,68","  20,58",oui,07601,54.68,20.58
+11,FOURNEYRON,Valérie,Mme,SOC,Parti socialiste,11000,"  45,32","  17,06",non,07601,45.32,17.06
+5,GUÉGOT,Françoise,Mme,LR,Les Républicains,14805,"  39,46","  15,62",non,07602,39.46,15.62
+10,VIDAL,Annie,Mme,REM,La République en marche,22716,"  60,54","  23,96",oui,07602,60.54,23.96
+10,WULFRANC,Hubert,M.,COM,Parti communiste français,16268,"  61,07","  23,44",oui,07603,61.07,23.44
+11,GRENOT,Cyrille,M.,REM,La République en marche,10371,"  38,93","  14,94",non,07603,38.93,14.94
+5,SYLLA,Sira,Mme,REM,La République en marche,19271,"  60,73","  21,81",oui,07604,60.73,21.81
+11,GOURY,Nicolas,M.,FN,Front National,12461,"  39,27","  14,10",non,07604,39.27,14.1
+5,DELALANDRE,Jean,M.,LR,Les Républicains,11648,"  30,85","  12,09",non,07605,30.85,12.09
+6,BOUILLON,Christophe,M.,SOC,Parti socialiste,26103,"  69,15","  27,10",oui,07605,69.15,27.1
+5,DUFOUR,Philippe,M.,REM,La République en marche,22685,"  47,73","  20,70",non,07606,47.73,20.7
+7,JUMEL,Sébastien,M.,COM,Parti communiste français,24845,"  52,27","  22,68",oui,07606,52.27,22.68
+3,SIFFERT,Antoine,M.,RDG,Parti radical de gauche,10617,"  38,08","  12,12",non,07607,38.08,12.12
+8,FIRMIN LE BODO,Agnès,Mme,LR,Les Républicains,17267,"  61,92","  19,70",oui,07607,61.92,19.7
+1,LECOQ,Jean-Paul,M.,COM,Parti communiste français,13911,"  62,70","  20,56",oui,07608,62.7,20.56
+7,DELAMOTTE,Béatrice,Mme,REM,La République en marche,8276,"  37,30","  12,23",non,07608,37.3,12.23
+2,SALVISBERG,Geneviève,Mme,FN,Front National,14045,"  37,06","  14,99",non,07609,37.06,14.99
+10,KERBARH,Stéphanie,Mme,REM,La République en marche,23852,"  62,94","  25,46",oui,07609,62.94,25.46
+3,BATUT,Xavier,M.,REM,La République en marche,28569,"  61,72","  26,27",oui,07610,61.72,26.27
+5,BLONDEL,Stacy,Mme,FN,Front National,17720,"  38,28","  16,30",non,07610,38.28,16.3
+1,LUQUET,Aude,Mme,MDM,Modem,12659,"  56,01","  17,85",oui,07701,56.01,17.85
+17,JULLEMIER,Denis,M.,LR,Les Républicains,9942,"  43,99","  14,02",non,07701,43.99,14.02
+5,ROUSSEAU,Estelle,Mme,REM,La République en marche,14897,"  45,91","  18,69",non,07702,45.91,18.69
+10,LACROUTE,Valérie,Mme,LR,Les Républicains,17551,"  54,09","  22,01",oui,07702,54.09,22.01
+6,DUROX,Aymeric,M.,FN,Front National,8274,"  30,87","  10,97",non,07703,30.87,10.97
+10,JEGO,Yves,M.,UDI,Union des Démocrates et Indépendants,18531,"  69,13","  24,56",oui,07703,69.13,24.56
+1,JACOB,Christian,M.,LR,Les Républicains,20957,"  61,77","  23,83",oui,07704,61.77,23.83
+7,MARCADET,Emmanuel,M.,REM,La République en marche,12973,"  38,23","  14,75",non,07704,38.23,14.75
+2,RIESTER,Franck,M.,LR,Les Républicains,20523,"  68,89","  24,18",oui,07705,68.89,24.18
+10,BOLLÉE,Joffrey,M.,FN,Front National,9266,"  31,11","  10,92",non,07705,31.11,10.92
+4,PARIGI,Jean-François,M.,LR,Les Républicains,14397,"  55,22","  18,43",oui,07706,55.22,18.43
+8,MARTIG-DECÈS,Laëtitia,Mme,REM,La République en marche,11673,"  44,78","  14,94",non,07706,44.78,14.94
+3,KOKOUENDO,Rodrigue,M.,REM,La République en marche,18279,"  61,48","  21,41",oui,07707,61.48,21.41
+14,TROUSSARD,Béatrice,Mme,FN,Front National,11455,"  38,52","  13,42",non,07707,38.52,13.42
+3,BRUNEL,Chantal,Mme,LR,Les Républicains,9513,"  32,81","  10,70",non,07708,32.81,10.7
+9,FAUVERGUE,Jean-Michel,M.,REM,La République en marche,19485,"  67,19","  21,93",oui,07708,67.19,21.93
+11,PEYRON,Michèle,Mme,REM,La République en marche,15361,"  54,27","  17,87",oui,07709,54.27,17.87
+12,GEOFFROY,Guy,M.,LR,Les Républicains,12943,"  45,73","  15,05",non,07709,45.73,15.05
+4,DO,Stéphanie,Mme,REM,La République en marche,15154,"  56,31","  19,09",oui,07710,56.31,19.09
+9,LAISNEY,Maxime,M.,FI,La France insoumise,11757,"  43,69","  14,81",non,07710,43.69,14.81
+2,FAURE,Olivier,M.,SOC,Parti socialiste,13639,"  61,09","  21,02",oui,07711,61.09,21.02
+8,RUBINELLI,Amandine,Mme,REM,La République en marche,8686,"  38,91","  13,39",non,07711,38.91,13.39
+1,BAICHÈRE,Didier,M.,REM,La République en marche,19879,"  51,06","  23,81",oui,07801,51.06,23.81
+2,BELLAMY,François-Xavier,M.,LR,Les Républicains,19054,"  48,94","  22,82",non,07801,48.94,22.82
+1,THÉVENOT,Pascal,M.,LR,Les Républicains,16711,"  41,70","  19,56",non,07802,41.7,19.56
+10,BARROT,Jean-Noël,M.,REM,La République en marche,23361,"  58,30","  27,35",oui,07802,58.3,27.35
+4,BRILLAULT,Philippe,M.,LR,Les Républicains,15466,"  41,07","  18,58",non,07803,41.07,18.58
+8,PIRON,Béatrice,Mme,REM,La République en marche,22192,"  58,93","  26,66",oui,07803,58.93,26.66
+1,LEBEC,Marie,Mme,REM,La République en marche,21662,"  61,39","  27,60",oui,07804,61.39,27.6
+7,FOURNIER,Ghislain,M.,LR,Les Républicains,13625,"  38,61","  17,36",non,07804,38.61,17.36
+8,MYARD,Jacques,M.,LR,Les Républicains,13686,"  41,01","  18,55",non,07805,41.01,18.55
+9,BRAUN-PIVET,Yaël,Mme,REM,La République en marche,19684,"  58,99","  26,68",oui,07805,58.99,26.68
+1,POUZYREFF,Natalia,Mme,REM,La République en marche,18510,"  58,34","  24,45",oui,07806,58.34,24.45
+10,MORANGE,Pierre,M.,LR,Les Républicains,13219,"  41,66","  17,46",non,07806,41.66,17.46
+5,RICHARD,Arnaud,M.,UDI,Union des Démocrates et Indépendants,13395,"  44,43","  16,62",non,07807,44.43,16.62
+6,DE VAUCOULEURS,Michèle,Mme,MDM,Modem,16756,"  55,57","  20,79",oui,07807,55.57,20.79
+8,VIALAY,Michel,M.,LR,Les Républicains,12276,"  52,87","  16,62",oui,07808,52.87,16.62
+14,MOUDNIB,Khadija,Mme,REM,La République en marche,10945,"  47,13","  14,82",non,07808,47.13,14.82
+13,MILLIENNE,Bruno,M.,MDM,Modem,17926,"  54,49","  19,70",oui,07809,54.49,19.7
+14,TETART,Jean-Marie,M.,LR,Les Républicains,14971,"  45,51","  16,45",non,07809,45.51,16.45
+7,BERGÉ,Aurore,Mme,REM,La République en marche,25868,"  64,75","  29,14",oui,07810,64.75,29.14
+10,POISSON,Jean-Frédéric,M.,DVD,Divers droite,14084,"  35,25","  15,87",non,07810,35.25,15.87
+3,HAÏ,Nadia,Mme,REM,La République en marche,13684,"  52,96","  20,12",oui,07811,52.96,20.12
+5,FOURGOUS,Jean-Michel,M.,LR,Les Républicains,12154,"  47,04","  17,87",non,07811,47.04,17.87
+2,DOUILLET,David,M.,LR,Les Républicains,12625,"  43,37","  18,30",non,07812,43.37,18.3
+12,GRANJUS,Florence,Mme,REM,La République en marche,16484,"  56,63","  23,89",oui,07812,56.63,23.89
+3,CHICHE,Guillaume,M.,REM,La République en marche,22878,"  60,42","  25,35",oui,07901,60.42,25.35
+5,SEGUIN,Nathalie,Mme,FI,La France insoumise,14987,"  39,58","  16,61",non,07901,39.58,16.61
+1,BATHO,Delphine,Mme,SOC,Parti socialiste,24970,"  56,94","  25,64",oui,07902,56.94,25.64
+7,HEINTZ,Christine,Mme,REM,La République en marche,18886,"  43,06","  19,39",non,07902,43.06,19.39
+2,FIEVET,Jean-Marie,M.,REM,La République en marche,19434,"  59,37","  22,92",oui,07903,59.37,22.92
+10,SCHAAF-GAUTHIER,Véronique,Mme,LR,Les Républicains,13300,"  40,63","  15,69",non,07903,40.63,15.69
+6,RUFFIN,François,M.,FI,La France insoumise,19329,"  55,97","  22,93",oui,08001,55.97,22.93
+8,DUMONT,Nicolas,M.,REM,La République en marche,15205,"  44,03","  18,04",non,08001,44.03,18.04
+7,POMPILI,Barbara,Mme,REM,La République en marche,17948,"  61,89","  23,78",oui,08002,61.89,23.78
+11,MAISSE,Cédric,M.,FI,La France insoumise,11053,"  38,11","  14,64",non,08002,38.11,14.64
+9,MAQUET,Emmanuel,M.,LR,Les Républicains,20688,"  60,14","  24,70",oui,08003,60.14,24.7
+11,MARIAGE,Bruno,M.,REM,La République en marche,13714,"  39,86","  16,37",non,08003,39.86,16.37
+5,RICHERMOZ,Eric,M.,FN,Front National,14811,"  41,96","  17,63",non,08004,41.96,17.63
+10,LECLABART,Jean-Claude,M.,REM,La République en marche,20489,"  58,04","  24,38",oui,08004,58.04,24.38
+6,FOLLIOT,Philippe,M.,DVD,Divers droite,24959,"  70,69","  29,80",oui,08101,70.69,29.8
+13,CABROLIER,Frédéric,M.,FN,Front National,10350,"  29,31","  12,36",non,08101,29.31,12.36
+6,VERDIER-JOUCLAS,Marie-Christine,Mme,REM,La République en marche,29014,"  66,14","  27,37",oui,08102,66.14,27.37
+9,ALBARAO,Doriane,Mme,FN,Front National,14851,"  33,86","  14,01",non,08102,33.86,14.01
+5,TERLIER,Jean,M.,REM,La République en marche,22884,"  52,11","  22,56",oui,08103,52.11,22.56
+12,CARAYON,Bernard,M.,LR,Les Républicains,21031,"  47,89","  20,73",non,08103,47.89,20.73
+1,RABAULT,Valérie,Mme,SOC,Parti socialiste,20053,"  55,02","  22,29",oui,08201,55.02,22.29
+8,MARDEGAN,Pierre,M.,REM,La République en marche,16393,"  44,98","  18,22",non,08201,44.98,18.22
+10,LOPEZ,Romain,M.,FN,Front National,17230,"  44,60","  18,46",non,08202,44.6,18.46
+14,PINEL,Sylvia,Mme,RDG,Parti radical de gauche,21398,"  55,40","  22,93",oui,08202,55.4,22.93
+13,CHANTRIEUX,Elisabeth,Mme,REM,La République en marche,11734,"  44,82","  15,68",non,08301,44.82,15.68
+14,LEVY,Geneviève,Mme,LR,Les Républicains,14448,"  55,18","  19,30",oui,08301,55.18,19.3
+7,ROUSSEL,Rachel,Mme,FN,Front National,13678,"  42,73","  15,11",non,08302,42.73,15.11
+8,MUSCHOTTI,Cécile,Mme,REM,La République en marche,18334,"  57,27","  20,25",oui,08302,57.27,20.25
+3,ZAPOLSKY,Alexandre,M.,REM,La République en marche,18521,"  48,62","  18,38",non,08303,48.62,18.38
+7,MASSON,Jean-Louis,M.,LR,Les Républicains,19570,"  51,38","  19,42",oui,08303,51.38,19.42
+1,LOTTIAUX,Philippe,M.,FN,Front National,17808,"  45,35","  16,78",non,08304,45.35,16.78
+13,MAUBORGNE,Sereine,Mme,REM,La République en marche,21460,"  54,65","  20,22",oui,08304,54.65,20.22
+5,MICHEL-KLEISBAUER,Philippe,M.,MDM,Modem,20061,"  53,24","  20,85",oui,08305,53.24,20.85
+8,LONGO,Gilles,M.,FN,Front National,17622,"  46,76","  18,31",non,08305,46.76,18.31
+4,RIVIERE,Jérôme,M.,FN,Front National,19371,"  44,11","  16,36",non,08306,44.11,16.36
+14,GOMEZ-BASSAC,Valérie,Mme,REM,La République en marche,24541,"  55,89","  20,73",oui,08306,55.89,20.73
+8,GUEREL,Emilie,Mme,REM,La République en marche,20967,"  56,97","  20,26",oui,08307,56.97,20.26
+10,BOCCALETTI,Frédéric,M.,FN,Front National,15838,"  43,03","  15,30",non,08307,43.03,15.3
+1,MATRAS,Fabien,M.,REM,La République en marche,24209,"  57,71","  23,20",oui,08308,57.71,23.2
+4,JUGY,Pierre,M.,FN,Front National,17743,"  42,29","  17,00",non,08308,42.29,17.0
+6,RIGAULT,Anne-Sophie,Mme,FN,Front National,10984,"  41,90","  15,05",non,08401,41.9,15.05
+13,CESARINI,Jean-François,M.,REM,La République en marche,15228,"  58,10","  20,86",oui,08401,58.1,20.86
+4,STRAPELIAS,Sonia,Mme,REM,La République en marche,14634,"  46,61","  17,57",non,08402,46.61,17.57
+5,BOUCHET,Jean-Claude,M.,LR,Les Républicains,16763,"  53,39","  20,12",oui,08402,53.39,20.12
+1,POIRSON,Brune,Mme,REM,La République en marche,15821,"  50,68","  20,93",oui,08403,50.68,20.93
+5,DE LÉPINAU,Hervé,M.,FN,Front National,15398,"  49,32","  20,37",non,08403,49.32,20.37
+7,BOMPARD,Jacques,M.,EXD,Extrême droite,19034,"  50,37","  21,44",oui,08404,50.37,21.44
+9,NORMANI,Carole,Mme,REM,La République en marche,18756,"  49,63","  21,13",non,08404,49.63,21.13
+2,AUBERT,Julien,M.,LR,Les Républicains,16020,"  50,89","  19,57",oui,08405,50.89,19.57
+11,VIARD,Jean,M.,REM,La République en marche,15460,"  49,11","  18,88",non,08405,49.11,18.88
+3,LEBOEUF,Alain,M.,LR,Les Républicains,20122,"  45,59","  18,35",non,08501,45.59,18.35
+14,LATOMBE,Philippe,M.,MDM,Modem,24017,"  54,41","  21,90",oui,08501,54.41,21.9
+7,GALLERNEAU,Patricia,Mme,MDM,Modem,23748,"  59,58","  22,95",oui,08502,59.58,22.95
+12,BELLAMY,Béatrice,Mme,LR,Les Républicains,16113,"  40,42","  15,57",non,08502,40.42,15.57
+7,PINEAU,Florence,Mme,LR,Les Républicains,19825,"  39,84","  16,25",non,08503,39.84,16.25
+11,BUCHOU,Stéphane,M.,REM,La République en marche,29940,"  60,16","  24,54",oui,08503,60.16,24.54
+1,LEGUILLE-BALLOY,Martine,Mme,REM,La République en marche,24129,"  62,50","  24,65",oui,08504,62.5,24.65
+6,MONTASSIER,Wilfrid,M.,UDI,Union des Démocrates et Indépendants,14475,"  37,50","  14,79",non,08504,37.5,14.79
+1,FOURAGE,Hugues,M.,SOC,Parti socialiste,15732,"  46,64","  19,31",non,08505,46.64,19.31
+7,HENRIET,Pierre,M.,REM,La République en marche,17999,"  53,36","  22,10",oui,08505,53.36,22.1
+1,SAVATIER,Jacques,M.,REM,La République en marche,19135,"  59,62","  24,05",oui,08601,59.62,24.05
+6,CUVILLIER,Céline,Mme,FI,La France insoumise,12961,"  40,38","  16,29",non,08601,40.38,16.29
+3,CHARTIER,Olivier,M.,LR,Les Républicains,9261,"  32,29","  11,95",non,08602,32.29,11.95
+13,HOULIÉ,Sacha,M.,REM,La République en marche,19423,"  67,71","  25,05",oui,08602,67.71,25.05
+4,JUMEAU,Delphine,Mme,FN,Front National,9744,"  32,17","  13,16",non,08603,32.17,13.16
+11,CLÉMENT,Jean-Michel,M.,REM,La République en marche,20544,"  67,83","  27,75",oui,08603,67.83,27.75
+6,TURQUOIS,Nicolas,M.,MDM,Modem,14508,"  51,34","  19,18",oui,08604,51.34,19.18
+9,BOURAT,Anne-Florence,Mme,UDI,Union des Démocrates et Indépendants,13752,"  48,66","  18,18",non,08604,48.66,18.18
+3,BEAUDOUIN-HUBIERE,Sophie,Mme,REM,La République en marche,19965,"  55,60","  23,56",oui,08701,55.6,23.56
+6,SOURY,Danielle,Mme,FI,La France insoumise,15943,"  44,40","  18,81",non,08701,44.4,18.81
+3,DJEBBARI-BONNET,Jean-Baptiste,M.,REM,La République en marche,24209,"  54,59","  24,84",oui,08702,54.59,24.84
+5,ALLARD,Pierre,M.,COM,Parti communiste français,20139,"  45,41","  20,66",non,08702,45.41,20.66
+5,MAGNE,Marie-Ange,Mme,REM,La République en marche,21369,"  62,78","  25,73",oui,08703,62.78,25.73
+9,GUERIN,Guillaume,M.,LR,Les Républicains,12668,"  37,22","  15,25",non,08703,37.22,15.25
+11,HAMELIN,Alisson,Mme,REM,La République en marche,14423,"  46,88","  18,71",non,08801,46.88,18.71
+13,VIRY,Stéphane,M.,LR,Les Républicains,16340,"  53,12","  21,20",oui,08801,53.12,21.2
+2,CHERPION,Gérard,M.,LR,Les Républicains,15501,"  55,41","  21,16",oui,08802,55.41,21.16
+9,URBES,Christine,Mme,REM,La République en marche,12474,"  44,59","  17,03",non,08802,44.59,17.03
+4,THIRARD,Claude,M.,REM,La République en marche,10707,"  39,29","  16,31",non,08803,39.29,16.31
+8,NAEGELEN,Christophe,M.,DVD,Divers droite,16547,"  60,71","  25,21",oui,08803,60.71,25.21
+4,GAULTIER,Jean-Jacques,M.,LR,Les Républicains,14836,"  53,47","  22,29",oui,08804,53.47,22.29
+5,FRANQUEVILLE,Christian,M.,SOC,Parti socialiste,12909,"  46,53","  19,40",non,08804,46.53,19.4
+2,LARRIVÉ,Guillaume,M.,LR,Les Républicains,18243,"  52,60","  23,72",oui,08901,52.6,23.72
+4,DA SILVA MOREIRA,Paulo,M.,REM,La République en marche,16442,"  47,40","  21,38",non,08901,47.4,21.38
+4,VILLIERS,André,M.,UDI,Union des Démocrates et Indépendants,15911,"  54,09","  21,02",oui,08902,54.09,21.02
+15,CAULLET,Jean-Yves,M.,REM,La République en marche,13505,"  45,91","  17,84",non,08902,45.91,17.84
+7,ODOUL,Julien,M.,FN,Front National,16020,"  44,40","  17,97",non,08903,44.4,17.97
+12,CROUZET,Michèle,Mme,REM,La République en marche,20058,"  55,60","  22,50",oui,08903,55.6,22.5
+4,GRUDLER,Christophe,M.,MDM,Modem,9131,"  49,25","  19,09",non,09001,49.25,19.09
+6,BOUCARD,Ian,M.,LR,Les Républicains,9410,"  50,75","  19,67",oui,09001,50.75,19.67
+4,KERN,Bruno,M.,REM,La République en marche,8415,"  46,16","  17,72",non,09002,46.16,17.72
+10,ZUMKELLER,Michel,M.,UDI,Union des Démocrates et Indépendants,9815,"  53,84","  20,67",oui,09002,53.84,20.67
+16,VALLS,Manuel,M.,DVG,Divers gauche,11757,"  50,30","  16,51",oui,09101,50.3,16.51
+22,AMRANI,Farida,Mme,FI,La France insoumise,11618,"  49,70","  16,32",non,09101,49.7,16.32
+6,MARLIN,Franck,M.,LR,Les Républicains,21572,"  59,42","  23,77",oui,09102,59.42,23.77
+11,RACT-MADOUX,Daphné,Mme,MDM,Modem,14731,"  40,58","  16,23",non,09102,40.58,16.23
+9,ARAUJO,Virginie,Mme,FI,La France insoumise,16089,"  42,59","  16,79",non,09103,42.59,16.79
+12,ROMEIRO DIAS,Laëtitia,Mme,REM,La République en marche,21684,"  57,41","  22,63",oui,09103,57.41,22.63
+2,RIXAIN,Marie-Pierre,Mme,REM,La République en marche,21725,"  57,75","  22,52",oui,09104,57.75,22.52
+7,EVREN,Agnès,Mme,LR,Les Républicains,15895,"  42,25","  16,47",non,09104,42.25,16.47
+4,VILLANI,Cédric,M.,REM,La République en marche,21436,"  69,36","  31,34",oui,09105,69.36,31.34
+15,DARCOS,Laure,Mme,LR,Les Républicains,9469,"  30,64","  13,84",non,09105,30.64,13.84
+6,COUASSE,Françoise,Mme,UDI,Union des Démocrates et Indépendants,11429,"  38,66","  13,95",non,09106,38.66,13.95
+13,DE MONTCHALIN,Amélie,Mme,REM,La République en marche,18132,"  61,34","  22,13",oui,09106,61.34,22.13
+2,KERNREUTER,Muriel,Mme,REM,La République en marche,12156,"  46,96","  16,50",non,09107,46.96,16.5
+3,REDA,Robin,M.,LR,Les Républicains,13731,"  53,04","  18,64",oui,09107,53.04,18.64
+1,DUPONT-AIGNAN,Nicolas,M.,DLF,Debout la France,17344,"  52,05","  22,68",oui,09108,52.05,22.68
+4,PAVAMANI,Antoine,M.,REM,La République en marche,15980,"  47,95","  20,90",non,09108,47.95,20.9
+7,GUÉVENOUX,Marie,Mme,REM,La République en marche,15513,"  57,96","  19,57",oui,09109,57.96,19.57
+12,CARANTOIS,Véronique,Mme,LR,Les Républicains,11254,"  42,04","  14,19",non,09109,42.04,14.19
+7,RAPHAN,Pierre-Alain,M.,REM,La République en marche,11138,"  53,42","  18,29",oui,09110,53.42,18.29
+9,GIRARD,Charlotte,Mme,FI,La France insoumise,9713,"  46,58","  15,95",non,09110,46.58,15.95
+9,FAUCILLON,Elsa,Mme,COM,Parti communiste français,10955,"  55,18","  17,53",oui,09201,55.18,17.53
+18,KHALFI,Isia,Mme,REM,La République en marche,8897,"  44,82","  14,24",non,09201,44.82,14.24
+4,TAQUET,Adrien,M.,REM,La République en marche,18810,"  63,43","  27,66",oui,09202,63.43,27.66
+6,AESCHLIMANN,Marie-Do,Mme,LR,Les Républicains,10844,"  36,57","  15,95",non,09202,36.57,15.95
+5,SPIRI,Jean,M.,LR,Les Républicains,14772,"  41,34","  18,22",non,09203,41.34,18.22
+13,HENNION,Christine,Mme,REM,La République en marche,20962,"  58,66","  25,86",oui,09203,58.66,25.86
+7,FLORENNES,Isabelle,Mme,REM,La République en marche,17616,"  67,27","  23,13",oui,09204,67.27,23.13
+9,BEDIN,Camille,Mme,LR,Les Républicains,8571,"  32,73","  11,25",non,09204,32.73,11.25
+5,DE COURSON,Arnaud,M.,LR,Les Républicains,10637,"  37,49","  15,12",non,09205,37.49,15.12
+18,CALVEZ,Céline,Mme,REM,La République en marche,17736,"  62,51","  25,20",oui,09205,62.51,25.2
+8,ZAMECZKOWSKI,Laurent,M.,REM,La République en marche,15890,"  46,19","  21,38",non,09206,46.19,21.38
+16,LE GRIP,Constance,Mme,LR,Les Républicains,18512,"  53,81","  24,91",oui,09206,53.81,24.91
+12,MARILOSSIAN,Jacques,M.,REM,La République en marche,23492,"  57,81","  27,10",oui,09207,57.81,27.1
+13,BERDOATI,Eric,M.,LR,Les Républicains,17144,"  42,19","  19,78",non,09207,42.19,19.78
+8,MAIRE,Jacques,M.,REM,La République en marche,19126,"  61,03","  27,82",oui,09208,61.03,27.82
+12,BOYER,Gilles,M.,LR,Les Républicains,12215,"  38,97","  17,77",non,09208,38.97,17.77
+8,GODIN,Marie-Laure,Mme,DVD,Divers droite,11379,"  43,47","  17,51",non,09209,43.47,17.51
+9,SOLÈRE,Thierry,M.,LR,Les Républicains,14800,"  56,53","  22,77",oui,09209,56.53,22.77
+6,ATTAL,Gabriel,M.,REM,La République en marche,20818,"  60,94","  26,36",oui,09210,60.94,26.36
+8,COSTE,Jeremy,M.,UDI,Union des Démocrates et Indépendants,13342,"  39,06","  16,89",non,09210,39.06,16.89
+3,ROSSI,Laurianne,Mme,REM,La République en marche,16287,"  52,33","  23,51",oui,09211,52.33,23.51
+9,BOUDJENAH,Yasmine,Mme,FI,La France insoumise,14834,"  47,67","  21,41",non,09211,47.67,21.41
+9,BOURLANGES,Jean-Louis,M.,MDM,Modem,23705,"  57,92","  25,53",oui,09212,57.92,25.53
+17,PEMEZEC,Philippe,M.,LR,Les Républicains,17221,"  42,08","  18,55",non,09212,42.08,18.55
+7,DUMAS,Frédérique,Mme,REM,La République en marche,25017,"  61,36","  28,07",oui,09213,61.36,28.07
+10,SIFFREDI,Georges,M.,LR,Les Républicains,15757,"  38,64","  17,68",non,09213,38.64,17.68
+3,COQUEREL,Éric,M.,FI,La France insoumise,9591,"  51,73","  15,52",oui,09301,51.73,15.52
+10,MÉNARD,Sébastien,M.,REM,La République en marche,8951,"  48,27","  14,48",non,09301,48.27,14.48
+9,PEU,Stéphane,M.,FI,La France insoumise,8501,"  57,89","  15,70",oui,09302,57.89,15.7
+13,AVRIL,Véronique,Mme,REM,La République en marche,6183,"  42,11","  11,42",non,09302,42.11,11.42
+7,DELAUNAY,Dominique,Mme,FI,La France insoumise,10971,"  42,91","  15,12",non,09303,42.91,15.12
+13,ANATO,Patrice,M.,REM,La République en marche,14598,"  57,09","  20,12",oui,09303,57.09,20.12
+2,THEVENOT,Prisca,Mme,REM,La République en marche,6723,"  40,38","  11,03",non,09304,40.38,11.03
+8,BUFFET,Marie-George,Mme,COM,Parti communiste français,9926,"  59,62","  16,28",oui,09304,59.62,16.28
+3,MAALEM-CHIBANE,Malika,Mme,REM,La République en marche,6537,"  33,90","  10,24",non,09305,33.9,10.24
+9,LAGARDE,Jean-Christophe,M.,UDI,Union des Démocrates et Indépendants,12746,"  66,10","  19,96",oui,09305,66.1,19.96
+13,AÏDARA,Alexandre,M.,REM,La République en marche,7522,"  44,99","  14,30",non,09306,44.99,14.3
+14,LACHAUD,Bastien,M.,FI,La France insoumise,9196,"  55,01","  17,49",oui,09306,55.01,17.49
+6,MENHOUDJ,Halima,Mme,REM,La République en marche,11812,"  42,10","  15,53",non,09307,42.1,15.53
+9,CORBIÈRE,Alexis,M.,FI,La France insoumise,16246,"  57,90","  21,36",oui,09307,57.9,21.36
+7,CHARRIÈRE,Sylvie,Mme,REM,La République en marche,11635,"  56,46","  19,35",oui,09308,56.46,19.35
+8,CALMÉJANE,Patrice,M.,LR,Les Républicains,8974,"  43,54","  14,92",non,09308,43.54,14.92
+5,RUBIN,Sabine,Mme,FI,La France insoumise,12533,"  52,26","  17,86",oui,09309,52.26,17.86
+14,DROMARD,Jeanne,Mme,REM,La République en marche,11447,"  47,74","  16,31",non,09309,47.74,16.31
+7,RAMADIER,Alain,M.,LR,Les Républicains,10470,"  52,92","  15,24",oui,09310,52.92,15.24
+10,OUADAH,Billel,M.,REM,La République en marche,9313,"  47,08","  13,56",non,09310,47.08,13.56
+6,AUTAIN,Clémentine,Mme,FI,La France insoumise,10962,"  59,52","  17,49",oui,09311,59.52,17.49
+8,WANLIN,Elsa,Mme,REM,La République en marche,7456,"  40,48","  11,90",non,09311,40.48,11.9
+6,TORO,Ludovic,M.,UDI,Union des Démocrates et Indépendants,9042,"  47,00","  13,95",non,09312,47.0,13.95
+8,TESTE,Stéphane,M.,REM,La République en marche,10196,"  53,00","  15,74",oui,09312,53.0,15.74
+3,DESCROZAILLE,Frédéric,M.,REM,La République en marche,17114,"  52,47","  20,21",oui,09401,52.47,20.21
+11,KASPI,André,M.,LR,Les Républicains,15505,"  47,53","  18,31",non,09401,47.53,18.31
+2,COCQ,François,M.,FI,La France insoumise,10087,"  47,42","  15,92",non,09402,47.42,15.92
+7,MBAYE,Jean François,M.,REM,La République en marche,11184,"  52,58","  17,65",oui,09402,52.58,17.65
+1,SAINT-MARTIN,Laurent,M.,REM,La République en marche,12452,"  51,64","  17,25",oui,09403,51.64,17.25
+5,GONZALES,Didier,M.,LR,Les Républicains,11660,"  48,36","  16,16",non,09403,48.36,16.16
+2,CIUNTU,Marie-Carole,Mme,LR,Les Républicains,12687,"  46,45","  17,44",non,09404,46.45,17.44
+6,PETIT,Maud,Mme,MDM,Modem,14625,"  53,55","  20,11",oui,09404,53.55,20.11
+2,CARREZ,Gilles,M.,LR,Les Républicains,17145,"  50,49","  19,17",oui,09405,50.49,19.17
+11,RET,Nadine,Mme,REM,La République en marche,16815,"  49,51","  18,80",non,09405,49.51,18.8
+3,LECOQ,Gildas,M.,UDI,Union des Démocrates et Indépendants,13030,"  40,78","  16,03",non,09406,40.78,16.03
+5,GOUFFIER-CHA,Guillaume,M.,REM,La République en marche,18923,"  59,22","  23,28",oui,09406,59.22,23.28
+2,BRIDEY,Jean-Jacques,M.,REM,La République en marche,12141,"  52,70","  18,52",oui,09407,52.7,18.52
+9,JEANBRUN,Vincent,M.,LR,Les Républicains,10895,"  47,30","  16,62",non,09407,47.3,16.62
+5,DOUIEB-NAHON,Jennifer,Mme,REM,La République en marche,15001,"  42,01","  19,55",non,09408,42.01,19.55
+9,HERBILLON,Michel,M.,LR,Les Républicains,20706,"  57,99","  26,98",oui,09408,57.99,26.98
+12,MARSEAU,Gaëlle,Mme,REM,La République en marche,7747,"  41,26","  14,44",non,09409,41.26,14.44
+15,CARVOUNAS,Luc,M.,SOC,Parti socialiste,11029,"  58,74","  20,55",oui,09409,58.74,20.55
+3,BOULKROUN,Sheerazed,Mme,REM,La République en marche,11479,"  47,78","  17,81",non,09410,47.78,17.81
+9,PANOT,Mathilde,Mme,FI,La France insoumise,12547,"  52,22","  19,47",oui,09410,52.22,19.47
+1,ARROUCHE,Djamel,M.,FI,La France insoumise,10824,"  46,39","  17,33",non,09411,46.39,17.33
+13,GAILLOT,Albane,Mme,REM,La République en marche,12511,"  53,61","  20,03",oui,09411,53.61,20.03
+2,MULLER-QUOY,Isabelle,Mme,REM,La République en marche,15400,"  54,23","  18,88",oui,09501,54.23,18.88
+8,SAVIGNAT,Antoine,M.,LR,Les Républicains,12996,"  45,77","  15,94",non,09501,45.77,15.94
+4,VUILLETET,Guillaume,M.,REM,La République en marche,14539,"  50,96","  19,00",oui,09502,50.96,19.0
+8,PONIATOWSKI,Axel,M.,LR,Les Républicains,13992,"  49,04","  18,28",non,09502,49.04,18.28
+4,RILHAC,Cecile,Mme,REM,La République en marche,18464,"  58,33","  20,16",oui,09503,58.33,20.16
+9,LANASPRE,Nicole,Mme,LR,Les Républicains,13193,"  41,67","  14,41",non,09503,41.67,14.41
+11,MOUTCHOU,Naïma,Mme,REM,La République en marche,16081,"  59,37","  21,14",oui,09504,59.37,21.14
+12,BODIN,Claude,M.,LR,Les Républicains,11007,"  40,63","  14,47",non,09504,40.63,14.47
+6,LAZAAR,Fiona,Mme,REM,La République en marche,12523,"  59,72","  18,29",oui,09505,59.72,18.29
+13,DOUCET,Philippe,M.,SOC,Parti socialiste,8447,"  40,28","  12,33",non,09505,40.28,12.33
+1,ELIMAS,Nathalie,Mme,MDM,Modem,15177,"  57,11","  19,86",oui,09506,57.11,19.86
+15,STREHAIANO,Luc,M.,LR,Les Républicains,11396,"  42,89","  14,91",non,09506,42.89,14.91
+4,CHARTIER,Jérôme,M.,LR,Les Républicains,10958,"  46,12","  15,75",non,09507,46.12,15.75
+5,DA SILVA,Dominique,M.,REM,La République en marche,12801,"  53,88","  18,40",oui,09507,53.88,18.4
+1,PUPPONI,François,M.,SOC,Parti socialiste,10252,"  65,80","  18,79",oui,09508,65.8,18.79
+12,DEBAH,Samy,M.,DIV,Divers,5328,"  34,20","   9,77",non,09508,34.2,9.77
+12,ARCIERO,Anthony,M.,LR,Les Républicains,9158,"  48,33","  13,09",non,09509,48.33,13.09
+17,PARK,Zivka,Mme,REM,La République en marche,9791,"  51,67","  13,99",oui,09509,51.67,13.99
+4,NOIN LEDANOIS,Katia,Mme,FI,La France insoumise,9221,"  40,99","  13,86",non,09510,40.99,13.86
+13,TACHE,Aurelien,M.,REM,La République en marche,13275,"  59,01","  19,95",oui,09510,59.01,19.95
+7,RAUZDUEL,Rosan,M.,DVG,Divers gauche,9078,"  38,26","  11,91",non,97101,38.26,11.91
+13,SERVA,Olivier,M.,REM,La République en marche,14648,"  61,74","  19,21",oui,97101,61.74,19.21
+1,PERRAN,Diana,Mme,REM,La République en marche,7998,"  35,74","   9,20",non,97102,35.74,9.2
+14,BENIN,Justine,Mme,DVG,Divers gauche,14379,"  64,26","  16,53",oui,97102,64.26,16.53
+8,LUCE,Nestor,M.,DVG,Divers gauche,6764,"  34,85","   8,08",non,97103,34.85,8.08
+12,MATHIASIN,Max,M.,DVG,Divers gauche,12645,"  65,15","  15,11",oui,97103,65.15,15.11
+7,VAINQUEUR-CHRISTOPHE,Hélène,Mme,SOC,Parti socialiste,13403,"  61,61","  19,36",oui,97104,61.61,19.36
+8,ARBAU,Aramis,M.,DVD,Divers droite,8350,"  38,39","  12,06",non,97104,38.39,12.06
+6,MANIN,Josette,Mme,DVG,Divers gauche,11986,"  54,89","  15,09",oui,97201,54.89,15.09
+7,EDMOND-MARIETTE,Philippe,M.,DIV,Divers,9851,"  45,11","  12,40",non,97201,45.11,12.4
+5,PAMPHILE,Justin,M.,DVG,Divers gauche,11185,"  44,22","  13,70",non,97202,44.22,13.7
+7,AZEROT,Bruno Nestor,M.,DVG,Divers gauche,14110,"  55,78","  17,28",oui,97202,55.78,17.28
+2,CAROLE,Françis,M.,REG,Régionaliste,5326,"  26,06","   8,14",non,97203,26.06,8.14
+5,LETCHIMY,Serge,M.,DVG,Divers gauche,15114,"  73,94","  23,11",oui,97203,73.94,23.11
+9,SAITHSOOTHANE,Sylvia,Mme,LR,Les Républicains,6954,"  31,98","   8,30",non,97204,31.98,8.3
+11,NILOR,Jean-Philippe,M.,REG,Régionaliste,14794,"  68,02","  17,67",oui,97204,68.02,17.67
+4,SERVILLE,Gabriel,M.,DVG,Divers gauche,7546,"  51,33","  14,06",oui,97301,51.33,14.06
+10,PREVOT-MADERE,Joëlle,Mme,REM,La République en marche,7156,"  48,67","  13,34",non,97301,48.67,13.34
+7,RIMANE,Davy,M.,REG,Régionaliste,6614,"  49,79","  16,78",non,97302,49.79,16.78
+8,ADAM,Lénaïck,M.,REM,La République en marche,6670,"  50,21","  16,92",oui,97302,50.21,16.92
+8,BAREIGTS,Ericka,Mme,SOC,Parti socialiste,18950,"  65,86","  23,54",oui,97401,65.86,23.54
+16,MOREL,Jean-Jacques,M.,LR,Les Républicains,9824,"  34,14","  12,20",non,97401,34.14,12.2
+4,BELLO,Huguette,Mme,DVG,Divers gauche,24559,"  73,59","  26,49",oui,97402,73.59,26.49
+9,MELCHIOR,Cyrille,M.,LR,Les Républicains,8815,"  26,41","   9,51",non,97402,26.41,9.51
+4,BASSIRE,Nathalie,Mme,LR,Les Républicains,19652,"  56,44","  21,19",oui,97403,56.44,21.19
+9,HOARAU,Jacquet,M.,DVD,Divers droite,15167,"  43,56","  16,35",non,97403,43.56,16.35
+7,GOBALOU,Virginie,Mme,DVG,Divers gauche,19738,"  45,61","  18,80",non,97404,45.61,18.8
+8,LORION,David,M.,LR,Les Républicains,23540,"  54,39","  22,43",oui,97404,54.39,22.43
+4,RATENON,Jean Hugues,M.,DVG,Divers gauche,14056,"  52,88","  16,90",oui,97405,52.88,16.9
+9,GONTHIER,Daniel,M.,LR,Les Républicains,12527,"  47,12","  15,06",non,97405,47.12,15.06
+11,RAMASSAMY,Nadia,Mme,LR,Les Républicains,12415,"  52,61","  16,37",oui,97406,52.61,16.37
+16,ORPHE,Monique,Mme,REM,La République en marche,11181,"  47,39","  14,74",non,97406,47.39,14.74
+7,ROBERT,Thierry,M.,MDM,Modem,22305,"  60,78","  20,21",oui,97407,60.78,20.21
+8,MAROUVIN VIRAMALE,Fabrice,M.,DVD,Divers droite,14390,"  39,22","  13,04",non,97407,39.22,13.04
+1,LENORMAND,Stéphane,M.,DIV,Divers,1750,"  48,13","  35,18",non,97501,48.13,35.18
+4,GIRARDIN,Annick,Mme,RDG,Parti radical de gauche,1886,"  51,87","  37,92",oui,97501,51.87,37.92
+8,CHAKRINA,Elad,M.,LR,Les Républicains,7938,"  49,83","  20,91",non,97601,49.83,20.91
+9,ALI,Ramlati,Mme,SOC,Parti socialiste,7992,"  50,17","  21,06",oui,97601,50.17,21.06
+1,BOINAHERY,Ibrahim,M.,MDM,Modem,7066,"  35,39","  15,76",non,97602,35.39,15.76
+3,KAMARDINE,Mansour,M.,LR,Les Républicains,12901,"  64,61","  28,77",oui,97602,64.61,28.77
+3,JAVOIS,Claire,Mme,LR,Les Républicains,3462,"  54,73","  13,62",oui,97701,54.73,13.62
+6,BOUCHAUT-CHOISY,Ines,Mme,REM,La République en marche,2864,"  45,27","  11,27",non,97701,45.27,11.27
+1,GREIG,Moana,M.,DVD,Divers droite,10147,"  31,64","  13,98",non,98701,31.64,13.98
+3,SAGE,Maina,Mme,UDI,Union des Démocrates et Indépendants,21928,"  68,36","  30,21",oui,98701,68.36,30.21
+1,IRITI,Teura,Mme,DVD,Divers droite,10204,"  35,82","  15,30",non,98702,35.82,15.3
+3,SANQUER,Nicole,Mme,DVD,Divers droite,18282,"  64,18","  27,41",oui,98702,64.18,27.41
+1,HOWELL,Patrick,M.,DVD,Divers droite,15020,"  47,50","  23,31",non,98703,47.5,23.31
+5,BROTHERSON,"Moetai, Charles",M.,REG,Régionaliste,16603,"  52,50","  25,77",oui,98703,52.5,25.77
+2,BACKES,Sonia,Mme,DVD,Divers droite,12256,"  40,85","  14,39",non,98801,40.85,14.39
+3,DUNOYER,Philippe,M.,DVD,Divers droite,17744,"  59,15","  20,84",oui,98801,59.15,20.84
+3,GOMES,Philippe,M.,UDI,Union des Démocrates et Indépendants,28557,"  54,95","  27,29",oui,98802,54.95,27.29
+5,MAPOU,Louis,M.,REG,Régionaliste,23413,"  45,05","  22,38",non,98802,45.05,22.38
+1,LESCURE,Roland,M.,REM,La République en marche,19650,"  79,73","   9,82",oui,09901,79.73,9.82
+5,LEFEBVRE,Frédéric,M.,LR,Les Républicains,4995,"  20,27","   2,50",non,09901,20.27,2.5
+12,CORONADO,Sergio,M.,ECO,Ecologiste,3525,"  39,08","   4,70",non,09902,39.08,4.7
+14,FORTEZA,Paula,Mme,REM,La République en marche,5494,"  60,92","   7,32",oui,09902,60.92,7.32
+2,LEMAIRE,Axelle,Mme,SOC,Parti socialiste,6163,"  29,89","   5,11",non,09903,29.89,5.11
+5,HOLROYD,Alexandre,M.,REM,La République en marche,14453,"  70,11","  11,98",oui,09903,70.11,11.98
+8,ANGLADE,Pieyre-Alexandre,M.,REM,La République en marche,18138,"  73,73","  14,78",oui,09904,73.73,14.78
+9,RAUSZER,Sophie,Mme,FI,La France insoumise,6464,"  26,27","   5,27",non,09904,26.27,5.27
+1,RALLE-ANDREOLI,François,M.,FI,La France insoumise,3995,"  33,79","   4,38",non,09905,33.79,4.38
+10,CAZEBONNE,Samantha,Mme,REM,La République en marche,7828,"  66,21","   8,57",oui,09905,66.21,8.57
+6,SCHMID,Claudine,Mme,LR,Les Républicains,5838,"  25,06","   4,58",non,09906,25.06,4.58
+11,SON-FORGET,Joachim,M.,REM,La République en marche,17460,"  74,94","  13,70",oui,09906,74.94,13.7
+8,LE BORGN',Pierre-Yves,M.,SOC,Parti socialiste,8310,"  37,06","   7,84",non,09907,37.06,7.84
+9,PETIT,Frédéric,M.,MDM,Modem,14115,"  62,94","  13,32",oui,09907,62.94,13.32
+12,HABIB,Meyer,M.,UDI,Union des Démocrates et Indépendants,7998,"  57,86","   6,59",oui,09908,57.86,6.59
+13,DRORY,Florence,Mme,REM,La République en marche,5825,"  42,14","   4,80",non,09908,42.14,4.8
+17,EL GUERRAB,M'Jid,M.,DIV,Divers,6642,"  59,66","   6,16",oui,09909,59.66,6.16
+25,AÏCHI,Leila,Mme,DVD,Divers droite,4491,"  40,34","   4,17",non,09909,40.34,4.17
+6,LAKRAFI,Amal Amélia,Mme,REM,La République en marche,12397,"  71,25","  12,40",oui,09910,71.25,12.4
+9,MARSAUD,Alain,M.,LR,Les Républicains,5002,"  28,75","   5,00",non,09910,28.75,5.0
+9,MARIANI,Thierry,M.,LR,Les Républicains,5676,"  28,28","   6,12",non,09911,28.28,6.12
+14,GENETET,Anne,Mme,REM,La République en marche,14397,"  71,72","  15,52",oui,09911,71.72,15.52
